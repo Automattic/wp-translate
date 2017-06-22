@@ -2,7 +2,7 @@
 from __future__ import print_function
 import numpy as np
 from six.moves import range
-import rnn256_util as util
+import wp_translate_util as util
 import sys
 import seq2seq
 from seq2seq.models import SimpleSeq2Seq

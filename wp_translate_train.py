@@ -16,15 +16,21 @@ po_file=sys.argv[1]
 in_charmap_file=sys.argv[2]
 out_charmap_file=sys.argv[3]
 
-# Parameters for the model and dataset
-TRAINING_SIZE = 50000
-DIGITS = 3
-INVERT = True
+################################3
+# Current limitations
+# - 500 char max length
+# - 
 
+
+# Parameters for the model
 HIDDEN_SIZE = 1024
-BATCH_SIZE = 128
 LAYERS = 2
 MAXLENGTH = 500  #max length of input text
+
+# Training
+BATCH_SIZE = 128
+ITERATINOS=60
+EPOCHS=100
 
 intable = util.EncodedCharacterTable(in_charmap_file, MAXLENGTH)
 outtable = util.EncodedCharacterTable(out_charmap_file, MAXLENGTH)
@@ -54,9 +60,9 @@ model = SimpleSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_d
 
 model.compile(loss='mse', optimizer='rmsprop')
 
-for iteration in range(1, 60):
+for iteration in range(1, ITERATIONS):
     print()
     print('-' * 50)
     print('Iteration', iteration)
-    model.fit(x, y, batch_size=128, epochs=100, validation_split=.05, callbacks=[ModelCheckpoint('/output/weights_{epoch}_{val_loss}.h5')])
+    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, callbacks=[ModelCheckpoint('/output/weights_{epoch}_{val_loss}.h5')])
 

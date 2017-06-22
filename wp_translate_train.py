@@ -32,6 +32,7 @@ BATCH_SIZE = 128
 ITERATINOS=60
 EPOCHS=100
 
+print('Load Charmaps...')
 intable = util.EncodedCharacterTable(in_charmap_file, MAXLENGTH)
 outtable = util.EncodedCharacterTable(out_charmap_file, MAXLENGTH)
 

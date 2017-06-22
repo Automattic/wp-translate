@@ -30,9 +30,9 @@ po_data = util.load_translated_po_data( po_file )
 
 print('Load model...')
 
-f = open("lstm_model.yaml")
+f = open(model_file)
 model = model_from_yaml(f.read())
-model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
+model.compile(loss='mse', optimizer='rmsprop')
 
 print('Vectorization...')
 x = np.zeros((len(po_data), MAXLENGTH, intable.maxval), dtype=np.bool)
@@ -56,6 +56,11 @@ print('Compare...')
 
 total = count(y)
 correct = 0
+
+#TODO for generating diffs of strings, looks like github.com/samg/diffy will do the trick
+# or otherwise look at import difflib
+
+
 for i in range(1, total):
     if ( y_exp[i] == y_act[i] ):
         print colors.ok + u"2714" + colors.close + " " + y_act[i] + "\n"

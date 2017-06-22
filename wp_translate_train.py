@@ -5,13 +5,16 @@ from six.moves import range
 import wp_translate_util as util
 import sys
 import seq2seq
+from keras.callbacks import ModelCheckpoint
 from seq2seq.models import SimpleSeq2Seq
 from seq2seq.models import AttentionSeq2Seq
 
-if ( len(sys.argv) < 1 ):
-    sys.exit( 'need to specify .po file' )
+if ( len(sys.argv) < 3 ):
+    sys.exit( 'need to specify .po file, in charmap, out charmap' )
 
 po_file=sys.argv[1]
+in_charmap_file=sys.argv[2]
+out_charmap_file=sys.argv[3]
 
 # Parameters for the model and dataset
 TRAINING_SIZE = 50000
@@ -21,20 +24,20 @@ INVERT = True
 HIDDEN_SIZE = 1024
 BATCH_SIZE = 128
 LAYERS = 2
-MAXCHAR = 0x30C5 #ugh so much to cover
 MAXLENGTH = 500  #max length of input text
 
-ctable = util.UTF8CharacterTable(MAXCHAR,MAXLENGTH)
+intable = util.EncodedCharacterTable(in_charmap_file, MAXLENGTH)
+outtable = util.EncodedCharacterTable(out_charmap_file, MAXLENGTH)
 
 print('Load Data...')
 po_data = util.load_translated_po_data( po_file )
 
 print('Vectorization...')
-x = np.zeros((len(po_data), MAXLENGTH, MAXCHAR), dtype=np.bool)
-y = np.zeros((len(po_data), MAXLENGTH, MAXCHAR), dtype=np.bool)
+x = np.zeros((len(po_data), MAXLENGTH, intable.maxval), dtype=np.bool)
+y = np.zeros((len(po_data), MAXLENGTH, outtable.maxval), dtype=np.bool)
 for i, t in enumerate(po_data):
-    x[i] = ctable.encode(t.msgid)
-    y[i] = ctable.encode(t.msgstr)
+    x[i] = intable.encode(t.msgid)
+    y[i] = outtable.encode(t.msgstr)
 
 x = np.array( x, dtype=np.bool )
 y = np.array( y, dtype=np.bool )
@@ -44,10 +47,10 @@ print(y.shape)
 
 print('Build model...')
 
-model = SimpleSeq2Seq(input_dim=MAXCHAR, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=MAXCHAR, depth=LAYERS)
+model = SimpleSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=outtable.maxval, depth=LAYERS)
 
 #much more intricate model
-#model = AttentionSeq2Seq(input_dim=MAXCHAR, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=MAXCHAR, depth=LAYERS)
+#model = AttentionSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=outtable.maxval, depth=LAYERS)
 
 model.compile(loss='mse', optimizer='rmsprop')
 

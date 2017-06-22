@@ -47,8 +47,7 @@ class EncodedCharacterTable:
     + Decode a vector of probabilities to their character output
     '''
 
-    def __init__(self, charmap_file, maxval, maxlength):
-        self.maxval = maxval
+    def __init__(self, charmap_file, maxlength):
         self.maxlength = maxlength
 	print('Loading Char Map...')
 	charmap_fh = open(charmap_file, 'r')
@@ -59,8 +58,10 @@ class EncodedCharacterTable:
 	self.decode_map = {}
 	for x in content:
             i,c = x.split("\t")
-            self.encode_map[unichr(c)] = int(i)
-            self.decode_map[int(i)] = unichr(c)
+            c = unichr(int(c))
+            self.encode_map[c] = int(i)
+            self.decode_map[int(i)] = c
+        self.maxval = len( self.encode_map )
         print(self.encode_map)
 
     def encode(self, string):

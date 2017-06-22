@@ -5,7 +5,7 @@ import numpy as np
 import polib
 
 
-class CharacterTable(object):
+class CharacterTable:
     '''
     Given a set of characters:
     + Encode them to a one hot integer representation up to a max utf-8 val
@@ -14,11 +14,13 @@ class CharacterTable(object):
     + Decode a vector of probabilities to their character output
     '''
 
-    def __init__(self, maxval):
+    def __init__(self, maxval, maxlength):
         self.maxval = maxval
+        self.maxlength = maxlength
 
     def encode(self, string):
-        X = np.zeros((len(string), self.maxval), dtype=np.bool)
+        X = np.zeros((self.maxlength, self.maxval), dtype=np.bool)
+        last = 0
         for i, c in enumerate(string):
             v = ord(c)
             if ( v >= self.maxval ):
@@ -26,6 +28,9 @@ class CharacterTable(object):
                 print( string )
             	v = 0
             X[i, v] = 1
+            last = i
+        for i in xrange( last, self.maxlength ):
+            X[i, 0] = 0 #use null char as end of string for padding
         return X
 
     def decode(self, X, calc_argmax=True):
@@ -71,6 +76,8 @@ def load_translated_po_data( f ):
           continue
       	#TODO: we should split long text into sentences or some other blocks somehow
         if ( len(entry.msgid) > 500 ):
+          continue
+        if ( len(entry.msgstr) > 500 ):
           continue
       	data.append(entry)
     return data

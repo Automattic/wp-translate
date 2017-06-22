@@ -26,7 +26,7 @@ class UTF8CharacterTable:
             if ( v >= self.maxval ):
                 print( 'Unsupported char [' + c + '] ' + str(v) )
                 print( string )
-            	v = 0
+                v = 0
             X[i, v] = 1
             last = i
         for i in xrange( last, self.maxlength ):
@@ -49,14 +49,14 @@ class EncodedCharacterTable:
 
     def __init__(self, charmap_file, maxlength):
         self.maxlength = maxlength
-	print('Loading Char Map...')
-	charmap_fh = open(charmap_file, 'r')
-	with open(charmap_file, 'r') as f:
-	    content = f.readlines()
-	# you may also want to remove whitespace characters like `\n` at the end of each line
-	self.encode_map = {}
-	self.decode_map = {}
-	for x in content:
+        print('Loading Char Map...')
+        charmap_fh = open(charmap_file, 'r')
+        with open(charmap_file, 'r') as f:
+            content = f.readlines()
+        # you may also want to remove whitespace characters like `\n` at the end of each line
+        self.encode_map = {}
+        self.decode_map = {}
+        for x in content:
             i,c = x.split("\t")
             c = unichr(int(c))
             self.encode_map[c] = int(i)
@@ -68,7 +68,7 @@ class EncodedCharacterTable:
         X = np.zeros((self.maxlength, self.maxval), dtype=np.bool)
         last = 0
         for i, c in enumerate(string):
-	    v = self.encode_map[c]
+            v = self.encode_map[c]
             if ( v >= self.maxval ):
                 print( 'Unsupported char [' + c + '] ' + str(v) )
                 print( string )
@@ -87,8 +87,8 @@ class EncodedCharacterTable:
 
 def build_encoded_char_map( po_file, str_type, char_file ):
     '''
-	Convert all chars in the given string type (msgid, msgstr) into an encoded character mapping
-	and store them as their unicode points
+        Convert all chars in the given string type (msgid, msgstr) into an encoded character mapping
+        and store them as their unicode points
     '''
     po = polib.pofile(po_file)
     charmap = { 0: 0 } #null char is first char
@@ -113,7 +113,7 @@ def build_encoded_char_map( po_file, str_type, char_file ):
     print( inv_map )
     with open(char_file, "w") as fh:
         for i in xrange(0,idx-1):
-	    fh.write( str(i) + "\t" + str(inv_map[i]) + "\n" )
+            fh.write( str(i) + "\t" + str(inv_map[i]) + "\n" )
 
 class colors:
     ok = '\033[92m'
@@ -125,7 +125,7 @@ def save_model( f, model ):
     # serialize model to JSON
     model_json = model.to_json()
     with open(f + ".json", "w") as json_file:
-    	json_file.write(model_json)
+        json_file.write(model_json)
     # serialize weights to HDF5
     model.save_weights(f + ".h5")
     print("Saved model to " + f )
@@ -143,18 +143,18 @@ def load_model( f ):
 
 def load_translated_po_data( f ):
     '''
-	Load only translated data and just get msgid and msgstr
+        Load only translated data and just get msgid and msgstr
     '''
     po = polib.pofile(f)
     data = []
     for entry in po:
         if ( '' == entry.msgstr ):
           continue
-      	#TODO: we should split long text into sentences or some other blocks somehow
+        #TODO: we should split long text into sentences or some other blocks somehow
         if ( len(entry.msgid) > 500 ):
           continue
         if ( len(entry.msgstr) > 500 ):
           continue
-      	data.append(entry)
+        data.append(entry)
     return data
 

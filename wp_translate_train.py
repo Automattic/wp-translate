@@ -24,7 +24,7 @@ LAYERS = 2
 MAXCHAR = 0x30C5 #ugh so much to cover
 MAXLENGTH = 500  #max length of input text
 
-ctable = util.CharacterTable(MAXCHAR,MAXLENGTH)
+ctable = util.UTF8CharacterTable(MAXCHAR,MAXLENGTH)
 
 print('Load Data...')
 po_data = util.load_translated_po_data( po_file )

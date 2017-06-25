@@ -29,7 +29,7 @@ MAXLENGTH = 500  #max length of input text
 
 # Training
 BATCH_SIZE = 128
-ITERATINOS=60
+ITERATIONS=60
 EPOCHS=100
 
 print('Load Charmaps...')
@@ -65,5 +65,5 @@ for iteration in range(1, ITERATIONS):
     print()
     print('-' * 50)
     print('Iteration', iteration)
-    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, callbacks=[ModelCheckpoint('/output/weights_{epoch}_{val_loss}.h5')])
+    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, verbose=1, callbacks=[ModelCheckpoint('/output/weights_{epoch}_{val_loss}.h5')])
 

@@ -41,7 +41,7 @@ print('Load model...')
 model = util.create_model( intable.maxval, outtable.maxval )
 
 model.load_weights(weights_file)
-model.compile(loss='mse', optimizer='rmsprop')
+model.compile(loss='catagorical_crossentropy', optimizer='adam')
 
 print('Vectorization...')
 x = np.zeros((len(po_data), MAXLENGTH, intable.maxval), dtype=np.bool)

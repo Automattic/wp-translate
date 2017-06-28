@@ -6,7 +6,9 @@ import polib as polib
 from seq2seq.models import SimpleSeq2Seq
 from seq2seq.models import Seq2Seq
 from seq2seq.models import AttentionSeq2Seq
-
+from keras.layers.wrappers import TimeDistributed
+from keras.layers.core import Dense, Activation
+from keras.models import Model
 
 class UTF8CharacterTable:
     '''
@@ -152,6 +154,12 @@ def create_model( in_dim, out_dim ):
 
     # ok model
     model = Seq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS, peek=True)
+
+    #add an extra layer to avoid NaN when calculating the loss function
+    # seq2seq uses tanh on output which can result in NaN
+    # hacky based on https://github.com/farizrahman4u/seq2seq/issues/189#issuecomment-308312812
+    model.add(TimeDistributed(Dense(out_dim)))
+    model.add(Activation('softmax'))
 
     #much more intricate model - runs out of memory (only on GPU?)
     #model = AttentionSeq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS)

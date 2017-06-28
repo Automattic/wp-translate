@@ -34,3 +34,10 @@ Create a Spanish character mapping (encoding):
 ```
 python wp_translate_charmap.py wp-data/all-es.po msgstr charmaps/es.tsv
 ```
+
+
+## Basic AWS Setup
+
+Training on an AWS GPU (p2.xlarge) looks like it is at least 150x faster than running on my circa 2015 Macbook Pro.
+
+For setting up AWS I used the instructions and config setup from the Fast AI class: http://wiki.fast.ai/index.php/AWS_install

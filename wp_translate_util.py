@@ -2,7 +2,7 @@
 
 from __future__ import print_function
 import numpy as np
-import polib
+import polib as polib
 
 
 class UTF8CharacterTable:
@@ -147,7 +147,7 @@ def load_translated_po_data( f ):
     '''
     po = polib.pofile(f)
     data = []
-    for entry in po:
+    for entry in po.translated_entries():
         if ( '' == entry.msgstr ):
           continue
         #TODO: we should split long text into sentences or some other blocks somehow

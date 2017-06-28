@@ -9,12 +9,13 @@ from keras.callbacks import ModelCheckpoint
 from seq2seq.models import SimpleSeq2Seq
 from seq2seq.models import AttentionSeq2Seq
 
-if ( len(sys.argv) < 3 ):
+if ( len(sys.argv) < 4 ):
     sys.exit( 'need to specify .po file, in charmap, out charmap' )
 
 po_file=sys.argv[1]
 in_charmap_file=sys.argv[2]
 out_charmap_file=sys.argv[3]
+model_prefix=sys.argv[4]
 
 ################################3
 # Current limitations
@@ -29,7 +30,7 @@ MAXLENGTH = 500  #max length of input text
 
 # Training
 BATCH_SIZE = 128
-ITERATIONS=60
+ITERATIONS=1
 EPOCHS=100
 
 print('Load Charmaps...')
@@ -65,5 +66,5 @@ for iteration in range(1, ITERATIONS):
     print()
     print('-' * 50)
     print('Iteration', iteration)
-    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, verbose=1, callbacks=[ModelCheckpoint('/output/weights_{epoch}_{val_loss}.h5')])
+    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, verbose=1, callbacks=[ModelCheckpoint('output/' + model_prefix + '_{epoch}_{val_loss}.h5')])
 

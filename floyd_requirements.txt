@@ -14,17 +14,17 @@ numpy==1.13.0
 olefile==0.44
 pathlib2==2.3.0
 Pillow==4.1.1
-polib==1.0.8
+polib
 pytz==2017.2
 PyYAML==3.12
-recurrentshop==1.0.0
 requests==2.18.1
 requests-toolbelt==0.8.0
 scandir==1.5
 scipy==0.19.0
-seq2seq==1.0.0
 shortuuid==0.5.0
 six==1.10.0
 tabulate==0.7.7
 Theano==0.9.0
 urllib3==1.21.1
+-e git://github.com/farizrahman4u/seq2seq.git#egg=seq2seq
+-e git://github.com/datalogai/recurrentshop.git#egg=recurrentshop

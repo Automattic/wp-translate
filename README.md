@@ -1,6 +1,8 @@
 # WP Translate
 
-Atteempting to translate WP strings with a character based sequence to sequence neural network.
+Attempting to translate WP strings with a character based sequence to sequence neural network.
+
+Mostly built on https://github.com/farizrahman4u/seq2seq with the main idea coming from http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 Experimental
 

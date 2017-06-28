@@ -6,8 +6,6 @@ import wp_translate_util as util
 import sys
 import seq2seq
 from keras.callbacks import ModelCheckpoint
-from seq2seq.models import SimpleSeq2Seq
-from seq2seq.models import AttentionSeq2Seq
 
 if ( len(sys.argv) < 4 ):
     sys.exit( 'need to specify .po file, in charmap, out charmap' )
@@ -55,10 +53,7 @@ print(y.shape)
 
 print('Build model...')
 
-model = SimpleSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=outtable.maxval, depth=LAYERS)
-
-#much more intricate model
-#model = AttentionSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=outtable.maxval, depth=LAYERS)
+model = util.create_model( intable.maxval, outtable.maxval )
 
 model.compile(loss='mse', optimizer='rmsprop')
 

@@ -14,13 +14,13 @@ Still changing rapidly, but this is what I am playing with
 Train a Spanish model on Jetpack 3.5 translation data:
 
 ```
-python wp_translate_train.py wp-data/2015/jetpack-3.5-es.po charmaps/en.tsv charmaps/es.tsv en2es
+python wp_translate_train.py wp-data/2015/jetpack-3.5-es.po charmaps/en.tsv charmaps/es.tsv models/en2es/en2es
 ```
 
-Test a model (untested code):
+Evaluate a model:
 
 ```
-python wp_translate_predict.py ???
+python wp_translate_eval.py models/en2es/en2es.yml models/en2es/en2es_99_0.000715292000677.h5 charmaps/en.tsv charmaps/es.tsv wp-data/2015/wpcom-es.po
 ```
 
 Create an English character mapping (encoding):

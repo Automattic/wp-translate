@@ -3,6 +3,8 @@
 from __future__ import print_function
 import numpy as np
 import polib as polib
+from seq2seq.models import SimpleSeq2Seq
+from seq2seq.models import AttentionSeq2Seq
 
 
 class UTF8CharacterTable:
@@ -140,6 +142,18 @@ def load_model( f ):
     loaded_model.load_weights(f + ".h5")
     print("Loaded model from " + f )
     return loaded_model
+
+def create_model( in_dim, out_dim ):
+    # Parameters for the model
+    HIDDEN_SIZE = 1024
+    LAYERS = 2
+    MAXLENGTH = 500  #max length of input text
+
+    model = SimpleSeq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS)
+
+    #much more intricate model
+    #model = AttentionSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=outtable.maxval, depth=LAYERS)
+    return model
 
 def load_translated_po_data( f ):
     '''

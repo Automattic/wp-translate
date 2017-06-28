@@ -30,7 +30,7 @@ MAXLENGTH = 500  #max length of input text
 
 # Training
 BATCH_SIZE = 128
-ITERATIONS=1
+ITERATIONS=2
 EPOCHS=100
 
 print('Load Charmaps...')
@@ -62,9 +62,13 @@ model = SimpleSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_d
 
 model.compile(loss='mse', optimizer='rmsprop')
 
+model_yml = model.to_yaml()
+with open( model_prefix + ".yml", "w") as yml_file:
+    yml_file.write(model_yml)
+
 for iteration in range(1, ITERATIONS):
     print()
     print('-' * 50)
     print('Iteration', iteration)
-    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, verbose=1, callbacks=[ModelCheckpoint('output/' + model_prefix + '_{epoch}_{val_loss}.h5')])
+    model.fit(x, y, batch_size=BATCH_SIZE, epochs=EPOCHS, validation_split=.05, verbose=1, callbacks=[ModelCheckpoint(model_prefix + '_{epoch}_{val_loss}.h5')])
 

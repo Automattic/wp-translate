@@ -4,6 +4,7 @@ from __future__ import print_function
 import numpy as np
 import polib as polib
 from seq2seq.models import SimpleSeq2Seq
+from seq2seq.models import Seq2Seq
 from seq2seq.models import AttentionSeq2Seq
 
 
@@ -77,8 +78,8 @@ class EncodedCharacterTable:
                 v = 0
             X[i, v] = 1
             last = i
-        for i in xrange( last, self.maxlength ):
-            X[i, 0] = 0 #use null char as end of string for padding
+        for i in xrange( last+1, self.maxlength ):
+            X[i, 0] = 1 #use null char as end of string for padding
         return X
 
     def decode(self, X, calc_argmax=True):
@@ -145,14 +146,15 @@ def load_model( f ):
 
 def create_model( in_dim, out_dim ):
     # Parameters for the model
-    HIDDEN_SIZE = 1024
+    HIDDEN_SIZE = 512
     LAYERS = 2
     MAXLENGTH = 500  #max length of input text
 
-    model = SimpleSeq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS)
+    # ok model
+    model = Seq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS, peek=True)
 
-    #much more intricate model
-    #model = AttentionSeq2Seq(input_dim=intable.maxval, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=outtable.maxval, depth=LAYERS)
+    #much more intricate model - runs out of memory (only on GPU?)
+    #model = AttentionSeq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS)
     return model
 
 def load_translated_po_data( f ):

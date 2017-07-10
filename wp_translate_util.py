@@ -80,13 +80,16 @@ class EncodedCharacterTable:
                 v = 0
             X[i, v] = 1
             last = i
-        for i in xrange( last+1, self.maxlength ):
-            X[i, 0] = 1 #use null char as end of string for padding
+        #use null char as end of string, leave zeros for padding
+        # using end char as padding makes that char too common
+        X[last+1, 0] = 1
         return X
 
     def decode(self, X, calc_argmax=True):
+	print(np.amax(X,axis=-1))
         if calc_argmax:
-            X = X.argmax(axis=-1)
+            X = np.argmax(X, axis=-1)
+        print(X)
         return ''.join(self.decode_map[x] for x in X)
 
 
@@ -153,16 +156,16 @@ def create_model( in_dim, out_dim ):
     MAXLENGTH = 500  #max length of input text
 
     # ok model
-    model = Seq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS, peek=True)
+    model = Seq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS, peek=True, readout_activation='softmax')
 
     #add an extra layer to avoid NaN when calculating the loss function
     # seq2seq uses tanh on output which can result in NaN
     # hacky based on https://github.com/farizrahman4u/seq2seq/issues/189#issuecomment-308312812
-    model.add(TimeDistributed(Dense(out_dim)))
-    model.add(Activation('softmax'))
+    #model.add(TimeDistributed(Dense(out_dim)))
+    #model.add(Activation('softmax'))
 
     #much more intricate model - runs out of memory (only on GPU?)
-    #model = AttentionSeq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS)
+    #model = AttentionSeq2Seq(input_dim=in_dim, input_length=MAXLENGTH, hidden_dim=HIDDEN_SIZE, output_length=MAXLENGTH, output_dim=out_dim, depth=LAYERS, readout_activation='softmax')
     return model
 
 def load_translated_po_data( f ):

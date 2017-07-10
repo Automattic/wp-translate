@@ -57,12 +57,14 @@ print(x.shape)
 
 print('Run model...')
 
+np.set_printoptions(threshold='nan')
 y = model.predict(x, verbose=1)
 for i,s in enumerate(y):
-    print(s)
+    #print(s[0:20])
+    #print(x[i][0:20])
+    print(np.amax(s,axis=-1))
     y_act[i] = outtable.decode( s )
 
-sys.exit()
 print('Compare...')
 
 total = len(y)

@@ -70,7 +70,7 @@ print('Build model...')
 
 model = util.create_model( intable.maxval, outtable.maxval )
 
-model.compile(loss='categorical_crossentropy', optimizer='adam')
+model.compile(loss='categorical_crossentropy', optimizer='sgd')
 
 model_yml = model.to_yaml()
 with open( model_prefix + ".yml", "w") as yml_file:

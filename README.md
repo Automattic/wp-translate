@@ -7,6 +7,16 @@ Mostly built on https://github.com/farizrahman4u/seq2seq with the main idea comi
 Experimental
 
 
+## New running
+
+Set up the data:
+
+```
+ > python wp_translate_po2ptf.py wp-data/2015/wpcom-es.po charmaps/en.tsv charmaps/es.tsv wp-data/processed/wpcom-es-source.txt wp-data/processed/wpcom-es-target.txt
+ > python wp_translate_ptf_decode.py charmaps/en.tsv wp-data/processed/wpcom-es-source.txt tmp.txt
+ ```
+
+
 ## Basic Running
 
 Still changing rapidly, but this is what I am playing with

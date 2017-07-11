@@ -8,11 +8,11 @@ TRAIN_STEPS=1000
 
 MODEL_DIR=models/test
 
-python -m bin.train \
+python bin/train.py \
   --config_paths="
       ./wp-translate-model.yml,
       ./train_seq2seq.yml,
-      ./text_metrics_bpe.yml" \
+      ./text_metrics.yml" \
   --model_params "
       vocab_source: $VOCAB_SOURCE
       vocab_target: $VOCAB_TARGET" \

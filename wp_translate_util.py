@@ -3,12 +3,12 @@
 from __future__ import print_function
 import numpy as np
 import polib as polib
-from seq2seq.models import SimpleSeq2Seq
-from seq2seq.models import Seq2Seq
-from seq2seq.models import AttentionSeq2Seq
-from keras.layers.wrappers import TimeDistributed
-from keras.layers.core import Dense, Activation
-from keras.models import Model
+#from seq2seq.models import SimpleSeq2Seq
+#from seq2seq.models import Seq2Seq
+#from seq2seq.models import AttentionSeq2Seq
+#from keras.layers.wrappers import TimeDistributed
+#from keras.layers.core import Dense, Activation
+#from keras.models import Model
 
 class UTF8CharacterTable:
     '''
@@ -42,7 +42,6 @@ class UTF8CharacterTable:
         if calc_argmax:
             X = X.argmax(axis=-1)
         return ''.join(char(x) for x in X)
-
 
 class EncodedCharacterTable:
     '''
@@ -92,6 +91,24 @@ class EncodedCharacterTable:
         print(X)
         return ''.join(self.decode_map[x] for x in X)
 
+    def encode_to_string(self, text):
+        s = ''
+        for i, c in enumerate(text):
+            v = self.encode_map[c]
+            if ( v >= self.maxval ):
+                print( 'Unsupported char [' + c + '] ' + str(v) )
+                print( string )
+                v = 0
+            s += ' ' + str(v)
+        return s
+
+    def decode_from_string(self, s):
+        chars = s.split()
+        text = ''
+        for i, c in enumerate(chars):
+            v = self.decode_map[int(c)].encode('utf-8')
+            text += v
+        return text
 
 def build_encoded_char_map( po_file, str_type, char_file ):
     '''

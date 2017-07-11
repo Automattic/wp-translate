@@ -4,7 +4,7 @@ VOCAB_SOURCE=charmaps/en.tsv
 VOCAB_TARGET=charmaps/es.tsv
 TRAIN_SOURCES=wp-data/processed/wpcom-es-source.txt
 TRAIN_TARGETS=wp-data/processed/wpcom-es-target.txt
-TRAIN_STEPS=1000
+TRAIN_STEPS=1000000
 
 MODEL_DIR=models/en2es
 
@@ -32,4 +32,4 @@ python bin/train.py \
         - $DEV_TARGETS" \
   --batch_size 32 \
   --train_steps $TRAIN_STEPS \
-  --output_dir $MODEL_DIR
+  --output_dir $MODEL_DIR 2>&1 | tee training.log

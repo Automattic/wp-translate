@@ -98,7 +98,17 @@ nvidia-smi
 
 ### Infer results
 
-TBD
+Predict results:
+
+```
+./wp-translate-pred.sh
+```
+
+Decode the results from the output
+
+```
+python wp_translate_ptf_decode.py charmaps/es.tsv models/en2es/pred/predictions.txt tmp.txt
+```
 
 ### Evaluate results
 

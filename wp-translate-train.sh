@@ -6,7 +6,7 @@ TRAIN_SOURCES=wp-data/processed/wpcom-es-source.txt
 TRAIN_TARGETS=wp-data/processed/wpcom-es-target.txt
 TRAIN_STEPS=1000
 
-MODEL_DIR=models/test
+MODEL_DIR=models/en2es
 
 python bin/train.py \
   --config_paths="

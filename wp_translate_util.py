@@ -91,6 +91,7 @@ class EncodedCharacterTable:
         print(X)
         return ''.join(self.decode_map[x] for x in X)
 
+    #these could probably just be encoded as unicode rather than this stupid encoding scheme
     def encode_to_string(self, text):
         s = ''
         for i, c in enumerate(text):

@@ -30,6 +30,7 @@ python bin/train.py \
         - $DEV_SOURCES
        target_files:
         - $DEV_TARGETS" \
-  --batch_size 32 \
+  --batch_size 20 \
   --train_steps $TRAIN_STEPS \
+  --eval_every_n_steps $TRAIN_STEPS \
   --output_dir $MODEL_DIR 2>&1 | tee training.log

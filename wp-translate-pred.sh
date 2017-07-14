@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEV_SOURCES=wp-data/processed/jetpack-es-source.txt
+DEV_SOURCES=wp-data/wponly-processed/jetpack-es-source.txt
 
 MODEL_DIR=models/en2es
 PRED_DIR=${MODEL_DIR}/pred

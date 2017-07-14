@@ -129,11 +129,35 @@ def build_encoded_char_map( po_file, str_type, char_file ):
             raise Exception('Incorrect str_type in getting data from po file')
         if ( '' == s ):
           continue
-        for i, c in enumerate(s):
+        for i, c in enumerate(s.decode('utf-8')):
             c = ord(c)
             if c not in charmap:
                 charmap[c] = idx
                 idx+=1
+
+    inv_map = {v: k for k, v in charmap.iteritems()}
+    print( inv_map )
+    with open(char_file, "w") as fh:
+        for i in xrange(0,idx-1):
+            fh.write( str(i) + "\t" + str(inv_map[i]) + "\n" )
+
+def build_text_char_map( in_file, char_file ):
+    '''
+        Convert all chars into an encoded character mapping
+        and store them as their unicode points
+    '''
+    charmap = { 0: 0 } #null char is first char
+    idx = 1
+
+    with open(in_file,'r') as fh:
+        for s in fh:
+	    if ( '' == s ):
+          	continue
+	    for i, c in enumerate(s.decode('utf-8')):
+            	c = ord(c)
+            	if c not in charmap:
+                    charmap[c] = idx
+                    idx+=1
 
     inv_map = {v: k for k, v in charmap.iteritems()}
     print( inv_map )

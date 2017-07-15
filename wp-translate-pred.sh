@@ -8,8 +8,13 @@ mkdir -p ${PRED_DIR}
 
 python bin/infer.py \
   --tasks "
-    - class: DecodeText" \
+    - class: DecodeText
+    - class: DumpBeams
+      params:
+        file: ${PRED_DIR}/beams.npz" \
   --model_dir $MODEL_DIR \
+  --model_params "
+    inference.beam_search.beam_width: 8" \
   --input_pipeline "
     class: ParallelTextInputPipeline
     params:

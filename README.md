@@ -102,6 +102,27 @@ python wp_translate_ptf_encode.py charmaps/en.tsv nmt-data/wmt16/commoncrawl.es-
 python wp_translate_ptf_encode.py charmaps/es.tsv nmt-data/wmt16/commoncrawl.es-en.es wp-data/wp-nmt-processed/commoncrawl.es-en.es.txt
 ```
 
+We want training sets that are balanced 50-50 between the wp data and a subset of the generic data. This way we can generalize better and make up for lack of vocab in the wp data. Putting them in the same file means that we will have mini-batches that contain both sets of data.
+
+Take the generic NMT training data and randomize it, split it up, and then append the wp data onto it:
+
+```
+wc -l xxx  #get the number of lines total
+seq 1 NUMLINES  | shuf > seq.num
+paste seq.num xxx | sort | sed "s/^[0-9]*\s//" | head -n 260000 > xxx.rnd
+paste seq.num yyy | sort | sed "s/^[0-9]*\s//" | head -n 260000 > yyy.rnd
+split -l 13000 xxx xxx.segment
+split -l 13000 yyy yyy.segment
+cat wp-xxx >> xxx.segment00
+cat wp-yyy >> yyy.segment00
+...
+...
+cat wp-xxx >> xxx.segment19
+cat wp-yyy >> yyy.segment19
+```
+
+That should generate 20 segments of training data that can be cycled through during training.
+
 Create the parallel text formatted files that contain the encoded data.
 
 Encode the common crawl generic data.

@@ -107,18 +107,17 @@ We want training sets that are balanced 50-50 between the wp data and a subset o
 Take the generic NMT training data and randomize it, split it up, and then append the wp data onto it:
 
 ```
-wc -l xxx  #get the number of lines total
-seq 1 NUMLINES  | shuf > seq.num
-paste seq.num xxx | sort | sed "s/^[0-9]*\s//" | head -n 260000 > xxx.rnd
-paste seq.num yyy | sort | sed "s/^[0-9]*\s//" | head -n 260000 > yyy.rnd
-split -l 13000 xxx xxx.segment
-split -l 13000 yyy yyy.segment
-cat wp-xxx >> xxx.segment00
-cat wp-yyy >> yyy.segment00
-...
-...
-cat wp-xxx >> xxx.segment19
-cat wp-yyy >> yyy.segment19
+wc -l nmt-data/wmt16/commoncrawl.es-en.en  #get the number of lines total
+seq 1 316368 | shuf > seq.num
+paste seq.num nmt-data/wmt16/commoncrawl.es-en.en | sort | sed "s/^[0-9]*\s//" | head -n 260000 > wp-data/mixed-nmt-wp/en2es.en.rnd
+paste seq.num nmt-data/wmt16/commoncrawl.es-en.es | sort | sed "s/^[0-9]*\s//" | head -n 260000 > wp-data/mixed-nmt-wp/en2es.es.rnd
+
+python wp_translate_ptf_encode.py charmaps/en.tsv wp-data/mixed-nmt-wp/en2es.en.rnd wp-data/mixed-nmt-wp/en2es.en.rnd.txt
+python wp_translate_ptf_encode.py charmaps/es.tsv wp-data/mixed-nmt-wp/en2es.es.rnd wp-data/mixed-nmt-wp/en2es.es.rnd.txt
+
+split -l 13000 -d wp-data/mixed-nmt-wp/en2es.en.rnd.txt wp-data/mixed-nmt-wp/en2es.en.rnd.txt.segment
+split -l 13000 -d wp-data/mixed-nmt-wp/en2es.es.rnd.txt wp-data/mixed-nmt-wp/en2es.es.rnd.txt.segment
+./append-data-segs.sh
 ```
 
 That should generate 20 segments of training data that can be cycled through during training.

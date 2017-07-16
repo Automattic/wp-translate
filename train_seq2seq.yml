@@ -1,4 +1,4 @@
-buckets: 20,100,250,500
+buckets: 50,100,150,200
 hooks:
   - class: PrintModelAnalysisHook
   - class: MetadataCaptureHook

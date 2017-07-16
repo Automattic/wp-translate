@@ -11,9 +11,9 @@ DEV_TARGETS=wp-data/wponly-processed/jetpack-es-target.txt
 
 TRAIN_STEPS=5000
 EVAL_STEPS=2000
-BATCH_SIZE=128
+BATCH_SIZE=32
 
-MODEL_DIR=models/en2es-big
+MODEL_DIR=models/en2es-goldilocks
 
 while true
 do

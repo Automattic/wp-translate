@@ -10,7 +10,7 @@ DEV_SOURCES=wp-data/wponly-processed/jetpack-es-source.txt
 DEV_TARGETS=wp-data/wponly-processed/jetpack-es-target.txt
 
 TRAIN_STEPS=5000
-EVAL_STEPS=2000
+EVAL_STEPS=200000
 BATCH_SIZE=32
 
 MODEL_DIR=models/en2es-goldilocks

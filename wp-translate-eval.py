@@ -48,4 +48,4 @@ for pred_s in pred_lines, exp_s in exp_lines:
 
 fh.close()
 
-print('Done.')
+print('Accuracy: ' + str(correct/total) + '% (' + str(correct) + '/' + str(total) + ')' )

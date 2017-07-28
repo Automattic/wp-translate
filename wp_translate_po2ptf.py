@@ -33,8 +33,11 @@ ofh = open( out_file, 'w' )
 
 print('Generating...')
 for i, t in enumerate(po_data):
-    ifh.write( intable.encode_to_string(t.msgid) + "\n" )
-    ofh.write( outtable.encode_to_string(t.msgstr) + "\n" )
+    s_in = intable.encode_to_string(t.msgid)
+    s_out = outtable.encode_to_string(t.msgstr)
+    if ( ( s_in != None ) & ( s_out != None ) ):
+    	ifh.write( s_in + "\n" )
+    	ofh.write( s_out + "\n" )
 
 ifh.close()
 ofh.close()

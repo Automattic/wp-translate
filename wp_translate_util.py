@@ -95,6 +95,9 @@ class EncodedCharacterTable:
     def encode_to_string(self, text):
         s = ''
         for i, c in enumerate(text):
+            if c not in self.encode_map.keys():
+                print( 'Unsupported char [' + c + '] Skipping line ' )
+                return None
             v = self.encode_map[c]
             if ( v >= self.maxval ):
                 print( 'Unsupported char [' + c + '] ' + str(v) )

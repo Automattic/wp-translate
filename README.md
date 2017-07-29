@@ -224,3 +224,32 @@ We ran predictions for the following data:
 All predictions were run using beam search with a width of 5.
 
 We evaluated the results based on what percentage of the strings were 100% translated correctly character for character.
+
+| Project        | Exact Matches | Off by < 4 chars |
+| -------------- |:-------------:| ----------------:|
+| jetpack 2015   | 54.32% (899)  | 5.08%            |
+| jetpack 2017   | 36.36% (924)  | 3.00%            |
+| yoast plugin   | 06.59% (72)   | 2.66%            |
+| vantage theme  | 12.04% (69)   | 7.85%            |
+| wpcom 2017     | 49.75% (8893) | 2.90%            |
+
+
+The percent off by less than 4 chars is determined using:
+
+```
+grep "^?" predictions/jetpack-2015-output.diff | tr -d '? ' | awk 'length($1) < 4 { print $1 }' | wc -l
+```
+
+
+## Ideas for Improvements
+
+- Switch from one char per byte pair encoding and handle unknown words
+ - https://google.github.io/seq2seq/nmt/#data-format and https://arxiv.org/abs/1508.07909
+ - https://google.github.io/seq2seq/inference/#unk-token-replacement-using-a-copy-mechanism
+- train on all the data that exists for all themes, plugins, projects
+ - this gives us more data to train on, but will make it harder to evaluate
+- calculate some sort of confidence score (maybe based on beam search data)
+ - this can then be a cutoff where we only accept translations that we are pretty certain about
+- use a more complex model
+ - Google translate uses a much larger network: https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
+ - this probably requires getting the model to train across multiple gpus: https://github.com/google/seq2seq/issues/44

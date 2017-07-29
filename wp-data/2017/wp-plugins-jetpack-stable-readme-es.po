@@ -1,0 +1,1532 @@
+# Translation of Plugins - Jetpack by WordPress.com - Stable Readme (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Jetpack by WordPress.com - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-06 19:29:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Jetpack by WordPress.com - Stable Readme (latest release)\n"
+
+#. Short description.
+msgid "The one plugin you need for stats, related posts, search engine optimization, social sharing, protection, backups, speed, and email list management."
+msgstr "El único plugin que necesitas para tener estadísticas, entradas relacionadas, optimización en motores de búsqueda, compartir en redes sociales, protección, copias de seguridad, velocidad y gestión de listas de correo electrónico."
+
+#. Found in description paragraph.
+msgid "We have an entire team of Happiness Engineers ready to help you. Ask your questions in the support forum, or <a href=\"https://jetpack.com/contact-support\">contact us directly</a>."
+msgstr "Tenemos un equipo completo de ingenieros de felicidad dispuestos a ayudarte. Haz tus preguntas en el foro de ayuda o <a href=\"https://jetpack.com/contact-support\">ponte en contacto con nosotros directamente</a>."
+
+#. Plugin name.
+msgid "Jetpack by WordPress.com"
+msgstr "Jetpack by WordPress.com"
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-4Rl"
+msgstr "Publicar la entrada: http://wp.me/p1moTy-4Rl"
+
+#. Found in faq header.
+msgid "Installation Instructions"
+msgstr "Instrucciones para la instalación"
+
+#. Found in faq paragraph.
+msgid "Once you've installed Jetpack your stats will be available on <a href=\"https://wordpress.com/stats\">WordPress.com/Stats</a>, on the official <a href=\"https://apps.wordpress.com/mobile/\">WordPress mobile apps</a>, and on your Jetpack dashboard."
+msgstr "Una vez instales Jetpack tus estadísticas estarán disponibles en <a href=\"https://wordpress.com/stats\">WordPress.com/Stats</a>, en las <a href=\"https://apps.wordpress.com/mobile/\">aplicaciones móviles WordPress</a> oficiales y en tu escritorio de Jetpack."
+
+#. Found in faq paragraph.
+msgid "A WordPress.com account is different from the account you use to log into your self-hosted WordPress. If you can log into <a href=\"https://wordpress.com\">WordPress.com</a>, then you already have a WordPress.com account. If you can't, you can easily create one <a href=\"https://jetpack.com/install?from=wporg\">during installation</a>."
+msgstr "La cuenta de WordPress.com es distinta de la que usas para acceder a tu WordPress alojado por tu cuenta. Si puedes acceder a <a href=\"https://wordpress.com\">WordPress.com</a> entonces ya tienese una cuenta de WordPress.com. Si no puedes, crea una fácilmente <a href=\"https://jetpack.com/install?from=wporg\">durante la instalación</a>."
+
+#. Found in faq paragraph.
+msgid "Since Jetpack and its services are provided and hosted by WordPress.com, a WordPress.com account is required for Jetpack to function."
+msgstr "Como Jetpack y sus servicios los ofrece y están alojados en WordPress.com, se requiere una cuenta de WordPress.com para que funcione Jetpack."
+
+#. Found in faq paragraph.
+msgid "If you're interested in learning more about the extra layers of protection and advanced tools available, learn more about our <a href=\"https://jetpack.com/pricing?from=wporg\">paid plans</a>."
+msgstr "Si tienes interés en aprender más acerca de las capas extra de protección y herramientas avanzadas disponibles, aprende más sobre nuestros <a href=\"https://jetpack.com/pricing?from=wporg\">planes de pago</a>."
+
+#. Found in faq paragraph.
+msgid "Jetpack's paid services include automated backups, security scanning, spam filtering, video hosting, site monetization, SEO tools, and priority support."
+msgstr "Los servicios de pago de Jetpack incluyen copias de seguridad automatizadas, escaneo de seguridad, filtrado de spam, alojamiento de vídeo, monetización de tu sitio, herramientas SEO y soporte prioritario."
+
+#. Found in faq paragraph.
+msgid "These include: <a href=\"https://jetpack.com/features/traffic/site-stats\">site stats</a>, a <a href=\"https://jetpack.com/features/writing/content-delivery-network/\">high-speed CDN</a> for images, <a href=\"https://jetpack.com/features/traffic/related-posts\">related posts</a>, <a href=\"https://jetpack.com/features/security/downtime-monitoring\">downtime monitoring</a>, brute force <a href=\"https://jetpack.com/features/security/brute-force-attack-protection\">attack protection</a>, <a href=\"https://jetpack.com/features/traffic/automatic-publishing/\">automated sharing</a> to social networks, <a href=\"https://jetpack.com/features/writing/sidebar-customization/\">sidebar customization</a>, and many more."
+msgstr "Incluye: <a href=\"https://jetpack.com/features/traffic/site-stats\">estadísticas del sitio</a>, una <a href=\"https://jetpack.com/features/writing/content-delivery-network/\">CDN de alta velocidad</a> para las imágenes, <a href=\"https://jetpack.com/features/traffic/related-posts\">entradas relacionadas</a>, <a href=\"https://jetpack.com/features/security/downtime-monitoring\">monitoreo de tiempo de actividad</a>, <a href=\"https://jetpack.com/features/security/brute-force-attack-protection\">protección ante ataques de fuerza bruta</a>, <a href=\"https://jetpack.com/features/traffic/automatic-publishing/\">compartir automático</a> en las redes sociales, <a href=\"https://jetpack.com/features/writing/sidebar-customization/\">personalización de la barra lateral</a> y mucho más."
+
+#. Found in faq paragraph.
+msgid "Yes! Jetpack's core features are and always will be free."
+msgstr "¡Sí! Las características base de Jetpack son y siempre serán gratis."
+
+#. Found in faq header.
+msgid "Should I purchase a paid plan?"
+msgstr "¿Debería comprar un plan de pago?"
+
+#. Found in installation paragraph, faq paragraph.
+msgid "Alternatively, install Jetpack via the plugin directory, or upload the files manually to your server and follow the on-screen instructions. If you need additional help <a href=\"http://jetpack.com/support/installing-jetpack/\">read our detailed instructions</a>."
+msgstr "Alternativamente, instala Jetpack a través del directorio de plugins, o sube manualmente los archivos a tu servidor y sigue las instrucciones en pantalla. Si necesitas ayuda adicional <a href=\"http://jetpack.com/support/installing-jetpack/\">lee nuestras instrucciones detalladas</a>."
+
+#. Found in installation paragraph, faq paragraph.
+msgid "Installation is free, quick, and easy. <a href=\"https://jetpack.com/install?from=wporg\">Install Jetpack from our site</a> in minutes."
+msgstr "La instalación es gratis, rápida y sencilla. <a href=\"https://jetpack.com/install?from=wporg\">Instala Jetpack desde tu sitio</a> en minutos."
+
+#. Found in installation header, faq header.
+msgid "Manual Alternatives"
+msgstr "Alternativas manuales"
+
+#. Found in installation header, faq header.
+msgid "Automated Installation"
+msgstr "Instalación automática"
+
+#. Found in description paragraph.
+msgid "Installation is free, quick, and easy. Set up <a href=\"https://jetpack.com/install?from=wporg\">the free plan</a> in minutes."
+msgstr "La instalación es gratis,rápida y sencilla. Configura <a href=\"https://jetpack.com/install?from=wporg\">el plan gratuito</a> en minutos."
+
+#. Found in description paragraph.
+msgid "Most of Jetpack's features and services are free. Jetpack also provides advanced security and backup services, video hosting, site monetization, priority support, and more SEO tools in three <a href=\"https://jetpack.com/pricing?from=wporg\">simple and affordable plans</a>."
+msgstr "La mayoría de los servicios y características de Jetpack son gratis. Jetpack también ofrece servicios avanzados de seguridad, copia de seguridad, alojamiento de vídeo, monetización del sitio, soporte prioritario y más herramientas SEO en los tres <a href=\"https://jetpack.com/pricing?from=wporg\">sencillos y asequibles planes</a>."
+
+#. Found in description paragraph.
+msgid "Create a connection with your readers and keep them coming back to your site with:"
+msgstr "Crea una conexión con tus lectores y haz que vuelvan a tu sitio con:"
+
+#. Found in description paragraph.
+msgid "Add rich, beautifully-presented media -- no graphic design expertise necessary:"
+msgstr "Añade medios enriquecidos y hermosamente presentados - no hace falta experiencia gráfica:"
+
+#. Found in description paragraph.
+msgid "Stop worrying about data loss, downtime, and hacking. Jetpack provides:"
+msgstr "Deja de preocuparte por la pérdida de datos, caídas del servicio y hackeo. Jetpack ofrece:"
+
+#. Found in description paragraph.
+msgid "Traffic is the lifeblood of any website. Jetpack includes:"
+msgstr "El tráfico es el alma de cualquier web. Jetpack incluye:"
+
+#. Found in description paragraph.
+msgid "Keep any WordPress site secure, increase traffic, and engage your readers."
+msgstr "Mantén seguro cualquier sitio WordPress, incrementa el tráfico e involucra a tus lectores."
+
+#. Found in description list item.
+msgid "[free] Infinite scroll for your posts"
+msgstr "[gratis] Scroll infinito de tus entradas"
+
+#. Found in description list item.
+msgid "[free] Fully-customizable contact forms"
+msgstr "[gratis] Formularios de contacto totalmenten personalizables"
+
+#. Found in description list item.
+msgid "[free] Comment login with Facebook, Twitter, and Google"
+msgstr "[gratis] Acceso a comentarios con Facebook, Twitter y Google"
+
+#. Found in description list item.
+msgid "[free] Email subscriptions"
+msgstr "[gratis] Suscripciones por correo electrónico"
+
+#. Found in description list item.
+msgid "[paid] High-speed, ad-free, and high-definition video hosting"
+msgstr "[de pago] Alojamiento de vídeo de alta velocidad, si anuncios y en alta definición"
+
+#. Found in description list item.
+msgid "[free] Extra sidebar widgets including blog stats, calendar, and author widgets"
+msgstr "[gratis] Widgets adicionales para barras laterales, incluidos de estadísticas del sitio, calendario y widgets de autor"
+
+#. Found in description list item.
+msgid "[free] Sidebar customization including Facebook, Twitter, and RSS feeds"
+msgstr "[gratis] Personalización de barras laterales, incluyendo Facebook, Twitter y feeds RSS"
+
+#. Found in description list item.
+msgid "[free] Simple embeds from YouTube, Google Documents, Spotify and more"
+msgstr "[gratis] Incrustaciones sencillas desde YouTube, documentos de Google, Spotify y más"
+
+#. Found in description list item.
+msgid "[free] Carousels, slideshows, and tiled galleries"
+msgstr "[gratis] Galerías en carrusel, pase de diapositivas y rejilla"
+
+#. Found in description list item.
+msgid "[free] A high-speed CDN for your images"
+msgstr "[gratis] Una CDN de alta velocidad para tus imágenes"
+
+#. Found in description list item.
+msgid "[paid] Site backups, restores, and migrations"
+msgstr "[de pago] Copias de seguridad de tu sitio, restauraciones y migraciones"
+
+#. Found in description list item.
+msgid "[paid] Malware scanning, code scanning, and threat resolution"
+msgstr "[de pago] Escaneo de malware, código y solución frente a amenazas"
+
+#. Found in description list item.
+msgid "[free] Secured logins and two-factor authentication"
+msgstr "[gratis] Accesos seguros e identificación en dos pasos"
+
+#. Found in description list item.
+msgid "[free] Downtime and uptime monitoring"
+msgstr "[gratis] Monitoreo de caídas del servidor y tiempo de actividad"
+
+#. Found in description list item.
+msgid "[free] Brute force attack protection"
+msgstr "[gratis] Protección contra ataques de fuerza bruta"
+
+#. Found in description list item.
+msgid "[paid] Advertising program that includes the best of AdSense, Facebook Ads, AOL, Amazon, Google AdX, and Yahoo"
+msgstr "[de pago] Programa de anuncios que incluye lo mejor de AdSense, Facebook Ads, AOL, amazon, Google AdX y Yahoo"
+
+#. Found in description list item.
+msgid "[paid] Search engine optimization tools for Google, Bing, Twitter, Facebook, and WordPress.com"
+msgstr "[de pago] Herramientas de optimización de motores de búsqueda para Google, Bing, Twitter, Facebook y WordPress.com"
+
+#. Found in description list item.
+msgid "[free] Related posts"
+msgstr "[gratis] Entradas relacionadas"
+
+#. Found in description list item.
+msgid "[free] Automatic sharing on Facebook, Twitter, LinkedIn, Tumblr, Reddit, and WhatsApp"
+msgstr "[gratis] Compartir automáticamente en Facebook, Twitter, LinkedIn, Tumblr, Reddit y WhatsApp"
+
+#. Found in description list item.
+msgid "[free] Site stats and analytics"
+msgstr "[gratis] Estadísticas y análisis del sitio"
+
+#. Found in description header.
+msgid "Get Started"
+msgstr "Para empezar"
+
+#. Found in description header.
+msgid "Paid Services"
+msgstr "Servicios de pago"
+
+#. Found in description header.
+msgid "Expert Support"
+msgstr "Soporte experto"
+
+#. Found in description header.
+msgid "Discussion and Community"
+msgstr "Debate y comunidad"
+
+#. Found in description header.
+msgid "Content Creation"
+msgstr "Creación de contenido"
+
+#. Found in description header.
+msgid "Security and Backup Services"
+msgstr "Servicios de seguridad y copia de seguridad"
+
+#. Found in description header.
+msgid "Traffic and SEO Tools"
+msgstr "Herramientas de tráfico y SEO"
+
+#. Screenshot description.
+msgid "Traffic: SEO Tools for Google, Twitter, Facebook and more."
+msgstr "Tráfico: Herramientas SEO para Google, Twitter, Facebook y más."
+
+#. Screenshot description.
+msgid "Analytics: Actionable site stats and traffic insights."
+msgstr "Analítica: Estadísticas del sitio activas e informes de tráfico. "
+
+#. Screenshot description.
+msgid "Engagement: Social sharing, likes, and related posts."
+msgstr "Implicación: Compartir en redes sociales, me gusta y entradas relacionadas."
+
+#. Screenshot description.
+msgid "Safety: Protect your site and data with powerful security services."
+msgstr "Seguridad: Protege tu sitio y datos con potentes servicios de seguridad."
+
+#. Screenshot description.
+msgid "Dashboard: Bird’s eye view of your site stats, status, and health."
+msgstr "Escritorio: Vista de pájaro de tus estadísticas, estado y salud."
+
+#. Found in faq paragraph.
+msgid "There are opportunities for developers at all levels to contribute. <a href=\"https://jetpack.com/contribute\">Learn more about contributing to Jetpack</a> or consider <a href=\"https://jetpack.com/beta\">joining our beta program</a>."
+msgstr "Hay oportunidades para contribuir para desarrolladores a todos los niveles.  <a href=\"https://jetpack.me/contribute\">Aprende cómo contribuir a Jetpack</a> o considera <a href=\"https://jetpack.me/beta\">unirte a nuestro programa beta</a>."
+
+#. Found in faq header.
+msgid "Why do I need a WordPress.com account?"
+msgstr "¿Por qué necesito una cuenta de WordPress.com?"
+
+#. Found in faq header.
+msgid "Is Jetpack Free?"
+msgstr "¿Es Jetpack gratis?"
+
+#. Found in faq header.
+msgid "How do I contribute to Jetpack?"
+msgstr "¿Cómo puedo contribuir a Jetpack?"
+
+#. Found in faq header.
+msgid "How do I view my stats?"
+msgstr "¿Cómo ver mis estadísticas?"
+
+#. Found in faq header.
+msgid "I already have a WordPress account, but Jetpack isn't working. What's going on?"
+msgstr "Ya tengo una cuenta de WordPress, pero no funciona. ¿Qué está pasando?"
+
+#. Found in changelog list item.
+msgid "Avoid errors when the Jetpack plugin is deleted."
+msgstr "Se evitan errores al eliminar el plugin de Jetpack."
+
+#. Found in changelog list item.
+msgid "Avoid PHP warnings and errors in the Stats dashboard on Multisite."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Make sure images are not distorted when Tiled Galleries uses Photon."
+msgstr "Las imágenes no se distorsionan cuando Galerías de mosaicos usa Photon."
+
+#. Found in changelog list item.
+msgid "Allow the removal of all custom title settings in the SEO feature."
+msgstr "Se pueden eliminar todas las configuraciones de título personalizado en la función de SEO."
+
+#. Found in changelog list item.
+msgid "Avoid fatal errors when the exclusion parameter in Related Posts is not a string."
+msgstr "Se evitan errores graves cuando el parámetro de exclusión de Entradas relacionadas no es una cadena."
+
+#. Found in changelog list item.
+msgid "Featured Image is always used in tweets posted via Publicize."
+msgstr "La imagen destacada se utiliza siempre en tuiteos publicados a través de Difundir."
+
+#. Found in changelog list item.
+msgid "Display all sites available in a network, even on large multisite installations."
+msgstr "Se muestran todos los sitios disponibles de una red, incluso en grandes instalaciones multisitio."
+
+#. Found in changelog list item.
+msgid "Ads not displayed in the portfolio projects custom content type."
+msgstr "Los anuncios no se muestran en el tipo de contenido personalizado de proyectos de portfolio."
+
+#. Found in changelog list item.
+msgid "Contact Form message content type is now set properly to restore compatibility with email plugins."
+msgstr "El tipo de contenido de los mensajes del formulario de contacto se ha configurado correctamente para restaurar la compatibilidad con los plugins de correo electrónico."
+
+#. Found in changelog list item.
+msgid "Dashboard avoids API requests being cached on some hosts and avoids errors when Spellchecker is inactive."
+msgstr "Escritorio evita que las solicitudes de API se almacenen en la memoria caché en algunos proveedores de hosting y evita errores cuando el corrector ortográfico está inactivo."
+
+#. Found in changelog list item.
+msgid "Protect supports IPv6 addresses properly."
+msgstr "Protección es compatible con direcciones IPv6."
+
+#. Found in changelog list item.
+msgid "VideoPress now included in search results for \"video\" and fixed positioning of search icon on mobile screens."
+msgstr "Ahora el contenido de VideoPress se muestra en las búsquedas de \"vídeo\" y se ha solucionado el problema de ubicación del icono de búsqueda en las pantallas de dispositivos móviles."
+
+#. Found in changelog list item.
+msgid "Properly display VaultPress notices in the Jetpack dashboard."
+msgstr "Los avisos de VaultPress se muestran correctamente en el escritorio de Jetpack."
+
+#. Found in changelog list item.
+msgid "Fixed a notice in the subscription widget in PHP 7.1"
+msgstr "Se ha solucionado el problema con el aviso del widget de suscripción en PHP 7.1"
+
+#. Found in changelog list item.
+msgid "Fixed wording in Post By Email button when no email address has been generated."
+msgstr "Se ha modificado el texto del botón Publicar por Correo Electrónico que se muestra cuando no hay ninguna dirección de correo electrónico generada."
+
+#. Found in changelog list item.
+msgid "WordPess.com REST API now allows <code>HTTP PUT</code> requests."
+msgstr "Ahora la API de REST de WordPess.com es compatible con solicitudes <code>HTTP PUT</code>."
+
+#. Found in changelog list item.
+msgid "Contact Form not auto-activated when Ninja Forms is active."
+msgstr "El formulario de contacto no se activa automáticamente cuando los formularios Ninja están activos."
+
+#. Found in changelog list item.
+msgid "Protect avoid conflicts with other plugins hooking into the log in form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sync plugin and theme names when a related event is triggered including theme updates."
+msgstr "Se sincronizan los nombres de plugins y temas cuando se activa un evento relacionado, como las actualizaciones de temas."
+
+#. Found in changelog list item.
+msgid "We now distinguish between a new and an updated attachment."
+msgstr "Ahora se distingue entre un archivo adjunto nuevo y uno actualizado."
+
+#. Found in changelog list item.
+msgid "Sync post deletions, changes to sidebar, user events (addition, removal, and update) and theme installation."
+msgstr "Se sincroniza la eliminación de entradas, los cambios en la barra lateral, los eventos de usuario (de añadir, eliminar y actualizar) y la instalación de temas."
+
+#. Found in changelog list item.
+msgid "Record comment content modifications and moderation events to make sure comments are always up to date on WordPress.com."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin auto-updates only triggered from WordPress.com and now trigger WordPress' maintenance mode."
+msgstr "Las actualizaciones automáticas de plugins solo se activan desde WordPress.com; ahora también activan el modo de mantenimiento de WordPress."
+
+#. Found in changelog list item.
+msgid "Updated the list of locales available in Jetpack."
+msgstr "Se ha actualizado la lista de configuraciones regionales de Jetpack."
+
+#. Found in changelog list item.
+msgid "Development mode now also shows module list."
+msgstr "Ahora el modo de desarrollo también muestra la lista de módulos."
+
+#. Found in changelog list item.
+msgid "Added an updated multiple unit tests increasing code coverage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Contact Form now adds display names to email addresses in the <code>To</code> header."
+msgstr "Ahora el formulario de contacto añade nombres para mostrar a las direcciones de correo electrónico en el encabezado <code>Para</code>."
+
+#. Found in changelog list item.
+msgid "Removed unused code from \"My Jetpack\" interface and deprecated an XML-RPC method."
+msgstr "Se ha eliminado el código de la interfaz \"Mi Jetpack\" porque no se usaba y un método XML-RPC ahora está obsoleto."
+
+#. Found in changelog list item.
+msgid "Success notices are automatically dismissed after a short period."
+msgstr "Los avisos acciones realizadas correctamente se descartan tras un breve período de tiempo."
+
+#. Found in changelog list item.
+msgid "New \"EU Cookie Law Banner\", Flickr, and \"Internet Defense League\" widgets."
+msgstr "Nuevos widgets de \"Banner de EU Cookie Law\", de Flickr y de la \"Liga para la defensa de Internet\"."
+
+#. Found in changelog list item.
+msgid "Fixed a bug that was causing a blank Jetpack admin area."
+msgstr "Se arregló un error que estaba causando un vacío en el área admin de Jetpack."
+
+#. Found in changelog list item.
+msgid "Removed an unused function that was also incompatible with PHP versions below 5.4."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that prevented activating/deactivating of some features in PHP versions below 5.4."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-4P0"
+msgstr "Entrada de versión: http://wp.me/p1moTy-4P0"
+
+#. Found in changelog list item.
+msgid "General: The Anti-spam card will always display the correct status in the Jetpack dashboard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "General: Clicking on the info icon in the settings area will no longer jump to the top of the page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sitemaps: Some plugins were relying on a function that was removed in the last release, which has been fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "An incompatibility with PHP versions lower than 5.4 was introduced in the last release, causing a fatal error and we've immediately fixed this."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-4N5"
+msgstr "Entrada de versión: http://wp.me/p1moTy-4N5"
+
+#. Found in changelog paragraph.
+msgid "<strong>Compatibility Improvements</strong>"
+msgstr "<strong>Mejoras en la compatibilidad</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Security Improvements</strong>"
+msgstr "<strong>Mejoras en la seguridad</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Accessibility Improvements</strong>"
+msgstr "<strong>Mejores en la accesibilidad</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Slightly Less Exciting Enhancements</strong>"
+msgstr "<strong>Mejoras ligeramente menos elegantes</strong>"
+
+#. Found in changelog list item.
+msgid "Widget Visibility now avoids memory issues on sites with a lot of registered users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All values entered in Facebook Page Plugin widget settings are now escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Instagram base URL now uses <code>www</code> in the Social Media Icons widget."
+msgstr "La URL de Instagram ahora utiliza <code>www</code> en los íconos de redes sociales del widget."
+
+#. Found in changelog list item.
+msgid "VideoPress now avoids PHP Notices when fetching video information."
+msgstr "VideoPress evita ahora PHP Notices cuando está recogiendo información del video."
+
+#. Found in changelog list item.
+msgid "Remove deprecated <code>jetpack_publicize_post</code> action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When using the Email sharing button, we now avoid syntax errors due to unexpected characters in the from name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When the email is already subscribed we now show the correct notification in the subscription form."
+msgstr "Cuando el correo electrónico ya está en la lista de suscripción, lo señalamos en el formulario de suscripción."
+
+#. Found in changelog list item.
+msgid "Filters ensure that more than 1,024 posts can be excluded from Related Posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Protect removes port number when server returns a port alongside a stored IP address."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Site Icons are always used as fallback Open Graph Image tags."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added proper support for Formal/Informal translation versions for languages that support them."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Administrator area translations fixed for several languages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Content Options now correctly displays single characters word count on sites with multibyte languages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Contact Form avoids PHP notices when using the form in a Text widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Submenu items always use relative links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Gravatar is always displayed in Settings."
+msgstr "Gravatar está siempre visualizado en los Ajustes."
+
+#. Found in changelog list item.
+msgid "Sync settings can now be edited from the WordPress.com REST API to better troubleshoot sync issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We no longer sync post types from the WordPress Automatic Plugin and RSS AutoPilot to avoid synchronization issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We now also sync the <code>sync_via_cron</code> setting, the user's chosen language, and WP Super Cache's globals and constants."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better support for WooCommerce data sync and backup."
+msgstr "Mejor soporte en la sincronización y respaldo de los datos de WooCommerce."
+
+#. Found in changelog list item.
+msgid "Open Graph Meta Tags are now enabled when you use the \"Head, Footer and Post Injections\" plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Publicize now works with third-party plugins like WP Recipe Maker."
+msgstr "Publicitar ahora funciona con complementos de terceros como WP Recipe Maker."
+
+#. Found in changelog list item.
+msgid "Removed deprecated functions <code>get_theme</code> and <code>get_current_theme</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We now avoid path disclosure via cookies in PHP error messages."
+msgstr "Ahora evitamos revelar la ruta en los mensajes de error PHP via cookies."
+
+#. Found in changelog list item.
+msgid "Updated custom language packs for multiple languages."
+msgstr "Actualizados los paquetes de idiomas personalizados para diversos idiomas"
+
+#. Found in changelog list item.
+msgid "Improved post details clipping for better screen reader support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slovakian language files now rely on WordPress.org's language packs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Jetpack plan data now uses the WordPress.com REST API."
+msgstr "El plan de datos Jetpack ahora utiliza REST API de Wordpress.com."
+
+#. Found in changelog list item.
+msgid "Disk storage is reduced on large multisite networks by storing the <code>jetpack_file_data</code> option in the <code>wp_sitemeta</code> table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Database load is reduced during updates on large sites with multiple servers by retaining hashes for current and current-1 versions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Extracted the timezone offset method from the Upcoming Events widget so it can be used by other features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "VideoPress videos can be used as headers in themes that support it, like Twenty Seventeen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Milestone widget now allows custom links to open in a new window."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now use full URLs in the Social Media Icons widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Open Graph now uses transients to save image IDs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed Infinite Scroll button text on taxonomy page and added a new filter to short-circuit the <code>is_last_batch()</code> method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now embed Apple Keynotes straight from icloud.com in your posts and pages."
+msgstr "Ahora puede incrustar Apple Keynotes desde icloud.com en sus entradas y páginas."
+
+#. Found in changelog list item.
+msgid "Improved previously confusing wording in Stats dashboard, and Featured Content options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Photon can now be used within the dashboard, and supports bbPress topics and replies."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Debug form includes extra information to better prioritize your support requests."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Contact Form now has a plain-text alternative and better avoids spam filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sitemaps are faster and now support sites with a very large amount of posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New MailChimp Subscribe Popup widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New WordPress.com Toolbar provides quick access to site management, stats, and other services."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Easier to navigate Jetpack's feature settings in your dashboard and WordPress.com."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-4gA"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widget Visibility: add missing CSS for widget visibility settings on sites using an RTL language."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widget Visibility: migrate widget visibility settings to the new major Page rule for Custom Post Types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widget Visibility: restore the option to make widgets appear on archive pages of different Custom Post Types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widget Visibility: avoid empty widget visibility rules after updating to Jetpack 4.7."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widgets: improve rendering of the Image Widget via Photon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "VideoPress: add in the ability to get video thumbnails from the WordPress.com REST API."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SSO: Avoid token or nonce errors when trying to log in to your site via the Secure Sign On option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sharing: make sure that sharing buttons open in a small pop-up instead of a separate window."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Markdown: always enable Markdown for posts whenever the module is active."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Carousel: avoid javascript errors that may cause issues with Slideshows or Tiled Galleries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-48Y"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Accessibility</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The WordPress.com REST API received a couple of fixes to remove PHP errors when editing via the WordPress.com interface, authentication errors when using third-party apps, and permission errors when trying to preview edited posts in the WordPress.com editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Widget Visibility wasn't playing nice on taxonomy pages, this is no longer the case."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We're now trimming spaces in URLs for Image and Display Posts Widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Synchronization scheduling issues have been resolved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've improved Sharing to render custom sharing services correctly, include Open Graph Meta Tags, and avoid JavaScript errors when jQuery is enqueued in the footer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Related Posts are now displaying correctly for everyone, and we brought back the <code>jetpack_sharing_headline_html</code> filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Twitter character counter in Publicize got a fix to display info correctly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We're now skipping Photon for .ashx files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Infinite Scroll is no longer buggy when displaying the last page, and is more compatible with certain themes that were returning posts when there were none left to show."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Found and fixed a PHP error when uninstalling Jetpack."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Our Debug Tool is now reporting the correct URL when WordPress lives in a subdirectory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a problem where CSS was being stripped when migrating from Jetpack's Custom CSS to Core's CSS editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We removed double slashes from file paths in the Contact Form to avoid errors in specific server environments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Carousel is now working well when loaded from infinite scroll."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Carousel <code>jp_carousel_load_for_images_linked_to_file</code> filter wasn't working well with Photon, this has been fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We had some Shortcode conflicts with WordPress Post embeds, but that's been fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed deprecated compatibility code for older versions of WordPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We're now avoiding conflicts with plugins adding the core Video upload library to the post editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We no longer sync specific post meta data added by Postman or WP RSS Mutli Importer to avoid performance issues during the sync process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We added Product visibility to post meta whitelist, for better control of products displayed in Related Posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We switched to use Core functions to retrieve the list of sites in a multisite network for more accurate results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translate new terms easier with an improvement to the translator comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Infinite Scroll now works beautifully with the Twenty Seventeen Theme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some W3C validation errors in Comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the Video GUID to the media API endpoint."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Top Posts widget now supports non-square image sizes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added a sync filter to allow customizing timeout."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Unit Tests were added to make sure Publicize doesn't break when making changes to the Publicize process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've updated the support link appearing when you're locked out of your site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The HTML classes <code>infinite-scroll</code> and <code>neverending</code> are now applied using JS instead of PHP."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved Infinite Scroll settings to reduce confusion."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've removed the Holiday Snow settings until you need them."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A notice displayed to WooCommerce store owners now detects when WooCommerce Services is installed, but not active."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Jetpack registration function got an update and cleanup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Development Mode notice got an update to include all possible options to activate Development mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added a filter to allow you to remove the Comment Form title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've replaced Widget Visibility text labels with icons to improve usability on smaller devices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased padding to sharing buttons on mobile to avoid usability issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've enabled keyboard focus styling in the new admin interface."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a missing label to one of the fields in the Email sharing dialog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've improved the highlight of the stats range for a better visual experience and to make it consistent with other areas of the dashboard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've removed sync options that weren't needed to save memory during the sync process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We rewrote the way major/minor rules lists are generated to save bandwidth, and memory for sites using Widget Visibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve development mode performance by only calling <code>site_url()</code> once."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Top Posts widget now utilizes an endpoint from the WP.com REST API improving performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We made some improvements to avoid slow queries on sites with thousands of images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Experience better performance with single page load caching of the media summary."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We cleaned up the Google+ Shortcode JS library and added a way to filter the SlideShare shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The WordPress.com REST API got several updates including using <code>register_rest_route()</code> consistently for registering, new date and time format settings, a filter for theme info results, new links and endpoints, and more."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Image and the Text widgets now use Photon if it is enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added a new email field to the Contact Info Widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Customize the content of the Display Posts Widget with a new filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Social Menus now come with the option to use SVG icons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Twitch.tv shortcode now uses Twitch's new embedded player."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Customize the speed and display of your slideshows with new Slideshow shortcode filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've updated the library powering the Print link in the Recipe shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "It is now possible to use the Sharing filter to customize the emails sent from the Email Sharing button."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If you have images on WordPress.com we're going to skip using Photon when the images include resize parameters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've highlighted the ability to export Contact Form feedback as it was being overlooked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Display custom copyright EXIF information in the Carousel with this new filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New HTML5 versions of our house ads are out."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added more information to our debug tools to improve your support experience."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Quickly jump to post specific stats on WordPress.com with a new link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-46L"
+msgstr "Entrada de versión: http://wp.me/p1moTy-46L"
+
+#. Found in changelog paragraph.
+msgid "<strong>Improved Compatibility</strong>"
+msgstr "<strong>Compatibilidad mejorada</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Performance Improvements</strong>"
+msgstr "<strong>Mejoras en la performance</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>New Features and Improvements</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We fixed some notices and warnings when updating data from the WordPress.com central interface."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "There was a Top Posts Widget image size issue when using list layouts, but is no longer causing issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've eliminated some PHP notices that were showing with some Shortcodes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SSO may not have been displaying the login form when using JSON API authorization.  Sorry about that, we've fixed it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Publicize was having trouble working with scheduled posts, this should be fixed now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If a Publicize connection is not shared with all users on the site, do not trigger Publicize for the other users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We're now forcing only Photon URLs to HTTPS as your custom CDN URLs may use a different protocol."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've brought back the Twitter Widget \"noscrollbar\" option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Likes feature was showing a PHP notice when there was no $post object, this has been fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The connection banner's \"dismiss\" icon was giving us a little trouble, but we got it fixed right up."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We fixed a few PHP notices and warnings related to the Custom CSS feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The new Jetpack Ads feature will auto disable itself if your Jetpack plan doesn't support the feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "There were some PHP notices popping up when a site has no posts so we got rid of them."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IE11 was giving our admin layout a bit of a problem but we rectified that."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some sites were using illegal multibyte characters and failing to sync posts, this has been fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added some shortcode CSS and widget class names prefixes to avoid conflicts with other plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When the sharing options appear to be incorrect due to site configuration issues we force it to retrieve the right options avoiding potential fatal errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Photon now avoids PHP notices when your site is using plugins that do srcset CDN replacement."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've eliminated some notices and warnings when using Jetpack on a server running PHP 7.1 or on servers where <code>print_r()</code> is disabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We're now retrieving all feature settings in the readable <code>/settings</code> endpoint."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added new API endpoints allowing us to enable translation auto-updates and pull post rows and metadata for backups."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "In an effort to help us better understand features that are being used, Twitter's timeline widget and Twitter's shortcodes now pass Jetpack's partner ID."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Twitter Widget timeline now displays the tweet limit count as 20, prior to this it appeared to have no limit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've added an error message if Publicize isn't functioning as it should be."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Keep an eye out for a note from WooCommerce on how your e-commerce store may benefit from our new USPS and CanadaPost shipping functionality."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Photon now leverages a new WordPress core function to improve performance a bit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've updated all outbound links to use HTTPS to improve performance and security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enable Google Analytics without touching a line of code with this new Jetpack feature."
+msgstr "Habilite Google Analytics sin tocar una línea de código con esta nueva función de Jetpack."
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-40g"
+msgstr "Entrada de emisión: http://wp.me/p1moTy-40g"
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-3Kc"
+msgstr "Entrada de la versión: http://wp.me/p1moTy-3Kc"
+
+#. Found in changelog paragraph.
+msgid "<strong>Slightly Less Exciting Enhancements:</strong>"
+msgstr "<strong>Mejoras ligeramente menos emocionantes:</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Performance and Security Improvements:</strong>"
+msgstr "<strong>Mejoras de seguridad y rendimiento:</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Exciting New Features and Improvements:</strong>"
+msgstr "<strong>Nuevas y emocionantes funcionalidades y mejoras:</strong>"
+
+#. Found in changelog paragraph.
+msgid "This release introduces a brand-new module, Jetpack Ads, a brand-new VideoPress feature, and a lot of new shortcodes and widgets."
+msgstr "Esta versión incorpora un módulo completamente nuevo, Jetpack Ads, la novedosa funcionalidad VideoPress y un montón de nuevos shortcodes y widgets."
+
+#. Found in changelog list item.
+msgid "The Top Posts Widget now avoids layout issues when using the Grid layout while displaying a post without an image."
+msgstr "El widget de Posts Más Vistos ahora evita problemas de maquetación cuando se usa el diseño en cuadrícula y se muestra un post sin imagen."
+
+#. Found in changelog list item.
+msgid "Added a Translate Widget default title in case you haven't defined one."
+msgstr "Añadido título por defecto para el widget de traducción si no se ha definido ninguno."
+
+#. Found in changelog list item.
+msgid "Fixed various little bugs when working with multiple widgets in the Customizer and in the Widgets admin screen."
+msgstr "Arreglados varios errores que ocurrían al trabajar con múltiples widgets en el personalizador y en la pantalla de administración de widgets."
+
+#. Found in changelog list item.
+msgid "Fixed an issue where empty categories weren't showing with the Widget Visibility feature dropdown."
+msgstr "Arreglado un problema por el cual las categorías vacías no se mostraban con el desplegable de la opción Visibilidad de Widget"
+
+#. Found in changelog list item.
+msgid "Synchronized supported shortcodes on a site."
+msgstr "Sincronizados los shortcodes soportados en un sitio."
+
+#. Found in changelog list item.
+msgid "Set a default time limit of 30 seconds when sending sync requests via Cron."
+msgstr "Define un límite de tiempo por defecto de 30 segundos al enviar peticiones de sincronización desde el Cron."
+
+#. Found in changelog list item.
+msgid "Site Icons now display on the WordPress.com site management interface."
+msgstr "Los iconos del sitio ahora se muestran en la interfaz de gestión del sitio en WordPress.com"
+
+#. Found in changelog list item.
+msgid "Confirmed Instagram embeds actually load when using Infinite Scroll."
+msgstr "Confirmado que los incrustados de Instagram realmente se cargan al usar el scroll infinito."
+
+#. Found in changelog list item.
+msgid "Fixed a ReCaptcha error on the Email sharing button."
+msgstr "Solucionado un error de ReCaptcha en el botón de compartir por correo electrónico."
+
+#. Found in changelog list item.
+msgid "Rogue colons were showing up in the related posts area on sites with the Twenty Fourteen and Twenty Sixteen themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Before now you weren't able to create a child category from WordPress.com. Now you can!"
+msgstr "Antes no podías crear una categoría hija desde WordPress.com. ¡Ya puedes!"
+
+#. Found in changelog list item.
+msgid "Long titles in Jetpack widgets weren't looking so great, so we cleaned them up."
+msgstr "Los títulos largos en los widgets de Jetpack no se veían muy buen, los hemos retocado."
+
+#. Found in changelog list item.
+msgid "Removed a deprecated function to prevent notices when using Infinite Scroll in the Customizer."
+msgstr "Eliminada una función obsoleta para prevenir notificaciones cuando se utiliza el Scroll infinito en el personalizador."
+
+#. Found in changelog list item.
+msgid "Fixed a bug that displayed the wrong connected user for up to 24 hours after they disconnected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "PHP warnings in the Restaurant Menu Post type have seen their last day with us."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Eliminated a PHP Notice when running the CLI <code>wp jetpack</code> command."
+msgstr "Eliminada una notificación de PHP al ejecutar el comando de CLI de <code>wp jetpack</code>."
+
+#. Found in changelog list item.
+msgid "Missing attachments in the Carousel were causing an infinite loop, but we've corrected that."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Accessibility is important to us so we've made some improvements there."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You'll notice numerous design improvements to the Jetpack UI."
+msgstr "Notará numerosos mejoras de diseño en el UI de Jetpack."
+
+#. Found in changelog list item.
+msgid "Some selected WooCommerce data (order items and order item meta) are now syncing to WordPress.com."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We've improved compatibility with tools like Cavalcade to avoid stuck Cron jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The WPML compatibility file wasn't loading at the right time, but we've fixed that."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If your server is misconfigured and we can't get an IP address we're going to deactivate Protect and send you a notice so you're in the loop."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added and improved a few shortcodes."
+msgstr "Añadidos y mejorados algunos shortcodes."
+
+#. Found in changelog list item.
+msgid "Improved the Facebook Widget to avoid confusion when editing width and height settings."
+msgstr "Mejoramos el Facebook Widget para evitar confusión cuando se está modificando la altura y ancho del mismo."
+
+#. Found in changelog list item.
+msgid "We've added a few new Content Options to the Customizer for supported themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved Image and Display Posts Widget settings to provide more explanation and better error messages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "RIP blip.tv — we've removed your shortcode."
+msgstr "QDEP blip.tv — hemos retirado su shortcode."
+
+#. Found in changelog list item.
+msgid "Custom sharing buttons got some new variables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated some verbiage around IP Whitelisting on the Protect settings screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now set the value for options directly in the Contact Form shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use <code>sync</code> commands in Jetpack's WP CLI."
+msgstr "Use comando <code>sync</code> en Jetpack's WP CLI."
+
+#. Found in changelog list item.
+msgid "We've added a token-based authentication mechanism to the REST API in order for the site to be able to receive authenticated requests from WordPress.com."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Public Custom Post Types are now automatically available via the WordPress.com REST API."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The JSON API now allows updating translations and alternative theme installation methods."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The jQuery Cycle script used by slideshow galleries is now minified, resulting in faster loading times."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We have improved Jetpack's synchronization process to support more plugins and use less resources."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Holiday Snow files now load in the footer, but rest assured the snow still falls from above."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Your Stats queries are now always being made over HTTPS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Your Custom CSS will now be served in a separate stylesheet when it is more than 2,000 characters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Customize the output of the Related Posts headline using a new filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Turn on and update Related Posts right from the Customizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use the beautiful Jetpack carousel feature to display single images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Link your visitors to your Tumblr or Twitch pages using the new icons in the Social Media Icons Widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Embed your amazing 360° photos with the VR shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Spice up your sidebar with new widgets that display blog stats, author info, \"Follow my blog\" buttons, and even an event countdown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Today we are proud to release a fully redesigned VideoPress interface for easy uploading, management, and add-free playback of your fantastic videos now fully integrated with your Jetpack Premium or Professional plans."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Generate revenue from your site with an all-new WordAds feature, which when enabled displays high-quality ads for your visitors."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>Compatibility changes</strong>"
+msgstr "<strong>Cambios de compatibilidad</strong>"
+
+#. Found in changelog paragraph.
+msgid "This release improves Jetpack compatibility with WordPress 4.7."
+msgstr "Esta versión mejora la compatibilidad de Jetpack con WordPress 4.7."
+
+#. Found in changelog list item.
+msgid "Sync: cleared out unneeded scheduled jobs."
+msgstr "Sincronización: limpieza de tareas programadas innecesarias."
+
+#. Found in changelog list item.
+msgid "Sync: now making sure that needed classes are loaded, preventing errors."
+msgstr "Sincronización: ahora se asegura que se carguen las clases necesarias, evitando errores."
+
+#. Found in changelog list item.
+msgid "Admin: made At a Glance page work nicely when there is no backup data yet."
+msgstr "Administración: se ha hecho que la página De un vistazo funcione correctamente cuando aún no hay datos de copia de seguridad."
+
+#. Found in changelog list item.
+msgid "Admin: made sure help tabs are not being hidden."
+msgstr "Administración: se ha asegurado que las pestañas de ayuda no estén ocultas."
+
+#. Found in changelog list item.
+msgid "Featured Content: made sure there is no infinite loop when removing the featured tag from the tag list."
+msgstr "Contenido destacado: se ha asegurado que no haya un bucle infinito al quitar la etiqueta destacada de la lista de etiquetas."
+
+#. Found in changelog list item.
+msgid "Sync: improved compatibility with the wp-missed-schedule plugin."
+msgstr "Sincronización: mejorada la compatibilidad con el plugin wp-missed-schedule."
+
+#. Found in changelog list item.
+msgid "Custom CSS: Made the Custom CSS feature of Jetpack compatible with the CSS Customizer editor in WordPress 4.7."
+msgstr "CSs personalizados: Se ha hecho que la característica CSS personalizado de Jetpack sea compatible con el editor de CSS del personalizador en WordPress 4.7. "
+
+#. Found in changelog paragraph.
+msgid "<strong>Bug Fixes</strong>"
+msgstr "<strong>Corrección de errores</strong>"
+
+#. Found in changelog list item.
+msgid "Fixed an issue where users on a Jetpack Professional plan who were paying monthly (as opposed to annually) wouldn’t be able to enable SEO Tools."
+msgstr "Solucionado un problema en el que los usuarios de un plan de Jetpack Professional que pagaban mensualmente (en lugar de hacerlo anualmente) no podían habilitar las herramientas de SEO."
+
+#. Found in changelog list item.
+msgid "Fixed an issue where some users with slower servers would get an error on the Jetpack dashboard when <code>WP_DEBUG</code> was enabled."
+msgstr "Solucionado un problema en el que algunos usuarios con servidores más lentos obtendrían un error en el panel de Jetpack cuando se habilita <code>WP_DEBUG</code>."
+
+#. Found in changelog list item.
+msgid "Various minor performance/compatibility fixes."
+msgstr "Varias correcciones menores de rendimiento / compatibilidad."
+
+#. Found in changelog list item.
+msgid "Move email notification settings back with the other email settings in the Discussion Settings."
+msgstr "Cambiada la configuración de notificación por correo electrónico por otra en la configuración de discusión."
+
+#. Found in changelog list item.
+msgid "Improved compatibility between Infinite Scroll and WPML."
+msgstr "Compatibilidad mejorada entre Infinite Scroll y WPML."
+
+#. Found in changelog list item.
+msgid "Fixed link to Akismet settings."
+msgstr "Se ha corregido el enlace a los ajustes de Akismet."
+
+#. Found in changelog list item.
+msgid "We've made numerous improvements to the data sync process."
+msgstr "Hemos realizado numerosas mejoras en el proceso de sincronización de datos."
+
+#. Found in changelog list item.
+msgid "We've added a new feature: SEO Tools, available to Jetpack Professional subscribers. You can read more about our plans here: https://jetpack.com/features/"
+msgstr "Hemos añadido una nueva característica: herramientas de SEO, disponibles para los suscriptores de Jetpack Professional. Puedes leer más sobre nuestros planes aquí: https://jetpack.com/features/"
+
+#. Found in changelog list item.
+msgid "We now allow you to embed pins, boards and profiles from Pinterest."
+msgstr "Ahora te permitimos incrustar pins, tableros y perfiles de Pinterest."
+
+#. Found in changelog list item.
+msgid "There are now helpful hints throughout the admin interface to make Jetpack easier to use."
+msgstr "Ahora hay sugerencias útiles en toda la interfaz de administración para que Jetpack sea más fácil de usar."
+
+#. Found in changelog list item.
+msgid "Photon now uses HTTPS by default. Secure all the things!"
+msgstr "Photon ahora usa HTTPS por defecto. ¡Seguridad ante todo!"
+
+#. Found in changelog list item.
+msgid "One of the biggest issues facing Jetpack users for years now has been difficulties in moving sites from one domain name to another. This update makes strides towards improving that process."
+msgstr "Uno de los mayores problemas que enfrentan los usuarios de Jetpack desde hace años ha sido la dificultad de mover sitios de un nombre de dominio a otro. Esta actualización hace progresos para mejorar ese proceso."
+
+#. Found in changelog list item.
+msgid "New widget: \"My Community\" where you can see who recently interacted with your site."
+msgstr "Nuevo widget: \"Mi comunidad\" donde puedes ver quién ha interactuado recientemente con tu sitio."
+
+#. Found in changelog list item.
+msgid "New widget: \"Google Translate\" to allow users to translate your site into their own language."
+msgstr "Nuevo widget: \"Google Translate\" para permitir a los usuarios traducir tu sitio a su propio idioma."
+
+#. Found in changelog list item.
+msgid "Twelve new filters to make Jetpack more extensible!  See: http://wp.me/p1moTy-3FE."
+msgstr "¡Doce nuevos filtros para hacer Jetpack más extensible! Vea: http://wp.me/p1moTy-3FE."
+
+#. Found in changelog list item.
+msgid "New endpoints have been added to allow the installation of plugin and theme zip files via the API."
+msgstr "Se han añadido nuevos endpoints para permitir la instalación de archivos zip de plugins y temas a través de la API."
+
+#. Found in changelog list item.
+msgid "Many of the screenshots throughout the plugin have been replaced by SVGs in order to make Jetpack smaller."
+msgstr "Muchas de las capturas de pantalla del plugin han sido reemplazadas por SVGs para hacer Jetpack más pequeño."
+
+#. Found in changelog list item.
+msgid "Custom post types have been added to the WP REST API output."
+msgstr "Se han añadido tipos de publicaciones personalizadas en la salida de la API WP REST."
+
+#. Found in changelog list item.
+msgid "Additional unit tests have been added to improve Jetpack's development process and stability."
+msgstr "Se han añadido tests unitarios adicionales para mejorar el proceso de desarrollo y la estabilidad de Jetpack."
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-3JR"
+msgstr "Entrada de lanzamiento: http://wp.me/p1moTy-3JR"
+
+#. Found in changelog paragraph.
+msgid "<strong>Enhancements</strong>"
+msgstr "<strong>Mejoras</strong>"
+
+#. Found in changelog list item.
+msgid "With shortcodes we now return early from processing them if no string is passed, as they are required."
+msgstr "Con shortcodes volvemos ahora al principio de su procesamiento si no se pasa una cadena, ya que son necesarios."
+
+#. Found in changelog list item.
+msgid "We removed the form legend for default Tiled Gallery settings as it doesn't relate."
+msgstr "Hemos eliminado la leyenda del formulario de la configuración predeterminada de la galería de mosaico."
+
+#. Found in changelog list item.
+msgid "We weren't building CPT links correctly resulting in bad navigation, which is now fixed."
+msgstr "No estábamos construyendo enlaces de CPT correctamente, lo que generaba una mala navegación. Ahora está arreglado."
+
+#. Found in changelog list item.
+msgid "The Top Posts widget now includes the ability to list attachment (media) pages."
+msgstr "Ahora el widget de las mejores entradas incluye la capacidad de listar las páginas de archivos (media)."
+
+#. Found in changelog list item.
+msgid "There was a JavaScript enqueuing error with our Sharing feature that has been repaired."
+msgstr "Había un error de encolado JavaScript con nuestra función de uso compartido que se ha reparado."
+
+#. Found in changelog list item.
+msgid "We're now sending full and incremental queues separately so that a failure in one doesn't block the other."
+msgstr "Estamos enviando colas completas e incrementales por separado de modo que un fallo en una no bloquea la otra."
+
+#. Found in changelog list item.
+msgid "Sync was running into issues so we've limited dequeue time to 1/3 of PHP's max execution time, which has unclogged the problem."
+msgstr "La sincronización se ejecuta por partes, así que hemos limitado el tiempo ejecución de la cola  PHP a 1/3 de tiempo de ejecución máximo, lo que ha desatascado el problema."
+
+#. Found in changelog list item.
+msgid "We've added Moroccan Arabic translations, and switched to language packs for Croatian, Spanish (Chile) and Greek."
+msgstr "Hemos añadido traducciones del árabe marroquí y cambiamos los paquetes de idioma para los idiomas croata, español (Chile) y griego."
+
+#. Found in changelog list item.
+msgid "We removed some warnings that were occurring when translations didn't exist by adding a fallback."
+msgstr "Hemos eliminado algunas advertencias que aparecían cuando no existían traducciones por una vuelta a atrás."
+
+#. Found in changelog list item.
+msgid "Some plugins were adding content on outbound http requests causing an infinite loop we fixed this right up."
+msgstr "Algunos plugins que estaban añaden contenido en las solicitudes HTTP salientes causan un bucle infinito. Lo hemos arreglado."
+
+#. Found in changelog list item.
+msgid "The permissions check for plugin information retrieval was fixed as well."
+msgstr "La comprobación de permisos para el plugin de recuperación de información se ha arreglado también."
+
+#. Found in changelog list item.
+msgid "The correct support link is now being used to make it easier for you to connect with the Jetpack team if you need us."
+msgstr "Hemos un enlace correcto a soporte para hacer más fácil que puedas conectar con el equipo de Jetpack si nos necesitas."
+
+#. Found in changelog list item.
+msgid "We found an unused option in Gravatar Hovercard settings and removed it."
+msgstr "Encontramos una opción sin utilizar en la configuración de la tarjeta flotante de Gravatar y la quitamos."
+
+#. Found in changelog list item.
+msgid "We removed PHP warnings by checking to make sure json language files like jetpack-en_US.json are readable before we load them."
+msgstr "Hemos eliminado las advertencias PHP que comprueban que los archivos de idioma JSON como el jetpack-en_US.json son seguros y legibles antes de cargarlos."
+
+#. Found in changelog list item.
+msgid "Several fixes have been made to sync to repair issues with Publicize, Notifications, and Subscriptions."
+msgstr "Se han hecho varias correcciones en sincronizar para reparar problemas con difundir, notificaciones y suscripciones."
+
+#. Found in changelog list item.
+msgid "We've improved compatibility with Kinsta by automatically turning on Staging Mode for Jetpack when in a staging environment."
+msgstr "Hemos mejorado la compatibilidad con Kinsta pasando automáticamente al modo de preproducción en Jetpack cuando se está en un entorno de preproducción."
+
+#. Found in changelog list item.
+msgid "Markdown now has a CSS class on footnotes."
+msgstr "Markdown tiene ahora una clase CSS en las notas al pie."
+
+#. Found in changelog list item.
+msgid "There were several improvements and repairs made to sync including additional endpoints, performance enhancements, whitelisted data, better decision making around when to sync information, and more."
+msgstr "Hubo varias mejoras y reparaciones hechas para sincronizar incluidos puntos terminales adicionales, mejoras de rendimiento, datos de la lista blanca, mejor toma de decisiones cuando se sincroniza información y más."
+
+#. Found in changelog list item.
+msgid "Stats are now responding faster."
+msgstr "Las estadísticas ahora responden más rápido."
+
+#. Found in changelog list item.
+msgid "We've stopped counting carousel views in stats by default, you can use the <code>jetpack_enable_carousel_stats</code> filter to enable counting them again."
+msgstr "Hemos dejado de contar las vistas del carrusel en las estadísticas por defecto, puedes utilizar el filtro <code>jetpack_enable_carousel_stats</code> para permitir a contarlas de nuevo."
+
+#. Found in changelog list item.
+msgid "Unsaved changes were getting lost when users were navigating away from settings so we put in a confirmation message to prevent this from happening."
+msgstr "Los cambios no guardados se perdían cuando los usuarios navegaban fuera de los ajustes así que hemos puesto un mensaje de confirmación para evitar que esto suceda."
+
+#. Found in changelog paragraph.
+msgid "<strong>Major Enhancements</strong>"
+msgstr "<strong>Mejoras principales</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Bug Fixes:</strong>"
+msgstr "<strong>Corrección de errores:</strong>"
+
+#. Found in changelog paragraph.
+msgid "<strong>Improved Compatibility:</strong>"
+msgstr "<strong>Mejora de la compatibilidad:</strong>"
+
+#. Found in changelog list item.
+msgid "Release post: http://wp.me/p1moTy-3FE"
+msgstr "Noticia del lanzamiento: http://wp.me/p1moTy-3FE"
+
+#. Found in changelog list item.
+msgid "Release date: November 22, 2016"
+msgstr "Fecha de lanzamiento: 22 de noviembre de 2016"
+
+#. Found in changelog list item.
+msgid "Release date: December 6, 2016"
+msgstr "Fecha de la versión: 6 de diciembre de 2016"
+
+#. Found in changelog list item.
+msgid "Release date: October 13, 2016"
+msgstr "Fecha de lanzamiento: 13 de octubre de 2016"
+
+#. Found in changelog list item.
+msgid "Release date: November 21, 2016"
+msgstr "Fecha de lanzamiento: 21 de noviembre de 2016"
+
+#. Found in changelog list item.
+msgid "Release date: January 17, 2017"
+msgstr "Fecha de la versión: 17 de enero de 2017"
+
+#. Found in changelog list item.
+msgid "Release date: February 7, 2017"
+msgstr "Fecha de la versión: 7 de febrero de 2017"
+
+#. Found in changelog list item.
+msgid "Release date: April 5th, 2017"
+msgstr "Fecha de la versión: 17 de febrero de 2017"
+
+#. Found in changelog list item.
+msgid "Release date: April 7th, 2017"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release date: May 2nd, 2017"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Release date: March 14th, 2017"
+msgstr "Fecha de la versión: 14 de marzo de 2017"
+
+#. Found in changelog list item.
+msgid "Release date: March 7th, 2017"
+msgstr "Fecha de lanzamiento: 7 de marzo de 2017"
+
+#. Found in changelog list item.
+msgid "Release date: April 4th, 2017"
+msgstr "Fecha de lanzamiento: 20 de abril de 2016"

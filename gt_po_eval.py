@@ -8,6 +8,11 @@ from google.cloud import translate
 import difflib
 from copy import deepcopy
 
+# we want to send batches to the translate api
+def batch_gen(data, batch_size):
+    for i in range(0, len(data), batch_size):
+            yield data[i:i+batch_size]
+
 ################
 #
 # Take a .po translation file, run it through google translate api, and then
@@ -29,6 +34,7 @@ total = 0
 correct = 0
 untranslated = 0
 
+
 #Prep output files
 out_po = polib.POFile()
 out_po.metadata = po.metadata
@@ -43,27 +49,32 @@ po.append(entry)
 
 print('Translating...')
 
-for entry in po:
-    translation = translate_client.translate(
-        entry.msgid,
-        source_language='en',
-        target_language=lang,
-        model='nmt'
+for entries in batch_gen(po, 20):
+    data = []
+    for entry in entries:
+    	data.append(entry.msgid)
+
+    translations = translate_client.translate(
+    	data,
+    	source_language='en',
+    	target_language=lang,
+    	model='nmt'
     )
 
-    out_entry = deepcopy(entry)
-    out_entry.msgstr=translation['translatedText']
-    out_po.append(out_entry)
+    for entry,t in zip(entries, translations):
+        out_entry = deepcopy(entry)
+	out_entry.msgstr=t['translatedText']
+	out_po.append(out_entry)
 
-    if ( entry.msgstr == '' ):
-    	untranslated = untranslated + 1
-    else:
-        total = total + 1
-    	if ( translation['translatedText'] == entry.msgstr ):
-            correct = correct + 1
-    	else:
-            diff = difflib.ndiff([entry.msgstr], [translation['translatedText']])
-            dfh.write( u"\n".join(diff).encode('utf-8') + "\n\n" )
+	if ( entry.msgstr == '' ):
+	    untranslated = untranslated + 1
+	else:
+	    total = total + 1
+	    if ( t['translatedText'] == entry.msgstr ):
+	        correct = correct + 1
+	    else:
+	        diff = difflib.ndiff([entry.msgstr], [t['translatedText']])
+	        dfh.write( u"\n".join(diff).encode('utf-8') + "\n\n" )
 
 po.save(out_file)
 

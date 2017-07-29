@@ -7,6 +7,7 @@ import sys
 from google.cloud import translate
 import difflib
 from copy import deepcopy
+import time
 
 # we want to send batches to the translate api
 def batch_gen(data, batch_size):
@@ -33,7 +34,7 @@ translate_client = translate.Client()
 total = 0
 correct = 0
 untranslated = 0
-
+cnt = 0
 
 #Prep output files
 out_po = polib.POFile()
@@ -50,18 +51,31 @@ po.append(entry)
 print('Translating...')
 
 for entries in batch_gen(po, 20):
+    if ( cnt % 100 == 0 ):
+        print( total )
     data = []
     for entry in entries:
     	data.append(entry.msgid)
 
-    translations = translate_client.translate(
-    	data,
-    	source_language='en',
-    	target_language=lang,
-    	model='nmt'
-    )
+    try:
+    	translations = translate_client.translate(
+    	    data,
+    	    source_language='en',
+    	    target_language=lang,
+    	    model='nmt'
+    	)
+    except:
+        print('hit max usage. pausing')
+        time.sleep(105)
+        translations = translate_client.translate(
+    	    data,
+    	    source_language='en',
+    	    target_language=lang,
+    	    model='nmt'
+    	)
 
     for entry,t in zip(entries, translations):
+        cnt = cnt + 1
         out_entry = deepcopy(entry)
 	out_entry.msgstr=t['translatedText']
 	out_po.append(out_entry)

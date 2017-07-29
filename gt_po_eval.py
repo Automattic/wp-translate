@@ -2,64 +2,74 @@
 from __future__ import print_function
 import numpy as np
 from six.moves import range
-import wp_translate_util as util
+import polib as polib
 import sys
+from google.cloud import translate
+import difflib
+from copy import deepcopy
 
 ################
 #
-# Take a .po translation file and encode it and convert it to parallel text format
-# because we are encoding all chars, we need to output individual numbers
+# Take a .po translation file, run it through google translate api, and then
+# evaluate the translations that we know about and create a completely translated .po file
 
+if ( len(sys.argv) < 5 ):
+    sys.exit( 'need to specify .po file, lang, out po file, diff file' )
 
-# Imports the Google Cloud client library
-from google.cloud import translate
+po_file=sys.argv[1]
+lang=sys.argv[2]
+out_file=sys.argv[3]
+diff_file=sys.argv[4]
 
-# Instantiates a client
+print('Load Data...')
+po = polib.pofile(po_file)
+
 translate_client = translate.Client()
+total = 0
+correct = 0
+untranslated = 0
 
-# The text to translate
-text = u'Hello, world!'
-# The target language
-target = 'ru'
+#Prep output files
+out_po = polib.POFile()
+out_po.metadata = po.metadata
 
-# Translates some text into Russian
-translation = translate_client.translate(
-    text,
-    target_language=target)
+dfh = open( diff_file, 'w' )
 
-print(u'Text: {}'.format(text))
-print(u'Translation: {}'.format(translation['translatedText']))
+entry = polib.POEntry(
+    msgid=u'Welcome',
+    msgstr=u'Bienvenue',
+)
+po.append(entry)
 
-#if ( len(sys.argv) < 5 ):
-#    sys.exit( 'need to specify .po file, in charmap, out charmap, in file, out file' )
-#
-#po_file=sys.argv[1]
-#in_charmap_file=sys.argv[2]
-#out_charmap_file=sys.argv[3]
-#in_file=sys.argv[4]
-#out_file=sys.argv[5]
-#
-#MAXLENGTH = 500  #max length of input text
-#
-#print('Load Charmaps...')
-#intable = util.EncodedCharacterTable(in_charmap_file, MAXLENGTH)
-#outtable = util.EncodedCharacterTable(out_charmap_file, MAXLENGTH)
-#
-#print('Load Data...')
-#po_data = util.load_translated_po_data( po_file )
-#
-#ifh = open( in_file, 'w' )
-#ofh = open( out_file, 'w' )
-#
-#print('Generating...')
-#for i, t in enumerate(po_data):
-#    s_in = intable.encode_to_string(t.msgid)
-#    s_out = outtable.encode_to_string(t.msgstr)
-#    if ( ( s_in != None ) & ( s_out != None ) ):
-#    	ifh.write( s_in + "\n" )
-#    	ofh.write( s_out + "\n" )
-#
-#ifh.close()
-#ofh.close()
-#
-#print('Done.')
+print('Translating...')
+
+for entry in po:
+    translation = translate_client.translate(
+        entry.msgid,
+        source_language='en',
+        target_language=lang,
+        model='nmt'
+    )
+
+    out_entry = deepcopy(entry)
+    out_entry.msgstr=translation['translatedText']
+    out_po.append(out_entry)
+
+    if ( entry.msgstr == '' ):
+    	untranslated = untranslated + 1
+    else:
+        total = total + 1
+    	if ( translation['translatedText'] == entry.msgstr ):
+            correct = correct + 1
+    	else:
+            diff = difflib.ndiff([entry.msgstr], [translation['translatedText']])
+            dfh.write( u"\n".join(diff).encode('utf-8') + "\n\n" )
+
+po.save(out_file)
+
+dfh.close()
+
+perc = float(correct)/float(total) * 100
+print('Accuracy: ' + '%.2f' % perc + '% (' + str(correct) + '/' + str(total) + ')' )
+print('Newly Translated Strings: ' + str(untranslated) )
+

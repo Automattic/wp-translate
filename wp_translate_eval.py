@@ -16,7 +16,7 @@ if ( len(sys.argv) < 3 ):
 charmap_file=sys.argv[1]
 enc_file=sys.argv[2]
 exp_file=sys.argv[3]
-err_file=sys.argv[3]
+err_file=sys.argv[4]
 
 MAXLENGTH = 500  #max length of input text
 
@@ -36,12 +36,12 @@ total = 0
 correct = 0
 
 print('Comparing...')
-for pred_s in pred_lines, exp_s in exp_lines:
+for pred_s, exp_s in zip( pred_lines, exp_lines ):
     pred_text = table.decode_from_string(pred_s)
     exp_text = table.decode_from_string(exp_s)
-    total += 1
+    total = total + 1
     if ( pred_text == exp_text ):
-        correct += 1
+        correct = correct + 1
     else:
         diff = difflib.ndiff(exp_text, pred_text)
         fh.write( ''.join(diff) + "\n\n" )

@@ -1,0 +1,2113 @@
+- Vantage es un tema multi-propósito flexible. Su fuerza radica en su estrecha integración con algunos potentes plugins como Page Builder para diseños de página adaptables, Meta Slider para carruseles grandes y vistosos y WooCommerce para ayudarte a vender online. Vantage es completamente adaptable y compatible con retina. Utilízalo para crear un sitio de negocios un portfolio o una tienda online. Ofrecemos soporte gratuito y de pago en nuestros <a href="http://siteorigin.com/thread/">foros de soporte</a> (http://siteorigin.com/thread/).
++ Vantage es un tema multifuncional flexible. Su fuerza reside en su estrecha integración con algunos plugins de gran alcance como Page Builder para los diseños de página de respuesta, Meta Slider para grandes deslizadores hermosos y WooCommerce para ayudarle a vender en línea. Vantage es totalmente sensible y listo para la retina. Úselo para iniciar un sitio de negocios, una cartera o una tienda en línea. Ofrecemos soporte gratuito y premium en nuestros <a href="http://siteorigin.com/thread/">foros de</a> soporte (http://siteorigin.com/thread/).
+
+- Vantage
++ Ventaja
+
+- Icono de cerrar el menú móvil
++ Menú móvil Cerrar Icono
+
+- Títulos de los widgets del encabezado
++ Títulos del widget de masthead
+
+- El número de columnas que se mostrarán cuando se establezca el diseño de archivo en cuadrícula.
+?                                                                                   -
+
++ El número de columnas que se mostrarán cuando se establezca el diseño del archivo de cuadrícula.
+?                                                                         +         +
+
+
+- Número de columnas de los archivos en cuadrícula
+? ^^^ -                - --        ^^ -
+
++ Conteo de columnas del archivo de cuadrícula
+? ^^^^                          ^^
+
+
+- El número de columnas que se mostrarán cuando se establezca el diseño de archivo de iconos circulares.
+?                                                                                             ^    ^^^^
+
++ El número de columnas que se mostrarán cuando se establezca el diseño del archivo de iconos de círculo.
+?                                                                         +                   +++ ^    ^
+
+
+- Número de columnas de los archivos con iconos redondos
++ Círculo Icono Archivo Columna Cuenta
+
+- El enlace se muestra cuando se divide el contenido del artículo utilizando la etiqueta rápida "más" o cuando se activa el botón leer más.
+?                                                       - ^^^ ^^^        ---                    ^   ^^                            ^
+
++ El enlace que se muestra cuando se divide el contenido de la publicación se utiliza la etiqueta rápida &quot;más&quot; o cuando se activa el botón Leer más.
+?           ++++                                           +  ^^^^^^ ^^^^^^^^                            ^^^^^^   ^^^ ++++                           ^
+
+
+- Mostrar el botón leer más cuando Extracto del Artículo esté seleccionado.
++ Mostrar el botón más leído cuando se elige el extracto postal.
+
+- Botón de Leer Más
++ Leer más
+
+- Si no se agrega un extracto de artículo, se generará uno. ¿Cuántas palabras deberían ser? Sólo aplicable si se ha seleccionado Extracto de artículos en los ajustes del Contenido de artículos.
+?           ^^ --             ^^^ ^^^^  -                                            -                                                        --- ^^^^     --       -----           ^^^^^^^^^^
+
++ Si no se añade un extracto manual, se generará uno. ¿Cuántas palabras debería ser? Sólo aplicable si se ha seleccionado Extracto de publicación en el ajuste Contenido posterior.
+?           ^^^              ^ ^ +                                                                                                    ++++++  ^^^    +                   ^  ++++++
+
+
+- Color del borde del botón de finalizar compra
++ Botón de Checkout Color del borde
+
+- Color del botón de finalizar compra
++ Color del botón Checkout
+
+- Color de fondo del botón de finalizar compra
+?                             ^^^ ^^^^^^^ ----
+
++ Color de fondo del botón de pago
+?                             ^ ^
+
+
+- Sombra del texto del botón
++ Texto del botón Sombra
+
+- Color del botón
+?              ^
+
++ Color del boton
+?              ^
+
+
+- Color de fondo del botón
++ Color del fondo del botón
+?         +
+
+
+- Reemplaza el logotipo y la cabecera en el área del widget
++ Reemplaza el logotipo y el área del widget de encabezado.
+
+- Encabezado
++ Tope
+
+- Se muestra a la derecha del logo.
++ Se muestra a la derecha del logotipo.
+?                                 ++++
+
+
+- Se muestra en páginas de WooCommerce.
+? ^ ^^^ ----
+
++ Aparece en las páginas de WooCommerce.
+? ^^^^ ^    ++++
+
+
+- Se muestra a la derecha o a la izquierda del área de contenido.
+?                          -
+
++ Se muestra a la derecha oa la izquierda del área de contenido.
+
+- Sólo se aplica si se ha establecido una imagen de logotipo.
+?     ---
+
++ Sólo aplicable si se ha establecido una imagen de logotipo.
+?            +++
+
+
+- Actualmente estás ejecutando la versión gratuita de %s, pero tienes un número de pedido Premium ingresado. %sDescarga%s la versión Premium y %slee las instrucciones%s sobre como actualizar. %sDescartar%s este aviso.
++ Actualmente está ejecutando la versión gratuita de% s, pero tiene un número de pedido premium ingresado. % SDownload% s la versión premium y% sread instrucciones% s sobre cómo actualizar. % SDismiss% s esta notificación.
+
+- Encuentra más
++ Más información
+
+- SiteOrigin Premium añade características de gran alcance a %s. Te ahorrará tiempo y hará que tu sitio sea más profesional.
+?                                          ^ ^^^ ------------
+
++ SiteOrigin Premium añade características potentes a% s. Te ahorrará tiempo y hará que tu sitio sea más profesional.
+?                                          ^^^ ^^^^^  +
+
+
+- Agrega o elimina un vínculo a SiteOrigin en el pie de página.
+?      ^         ^                            ^^
+
++ Agregue o elimine un vínculo a SiteOrigin en su pie de página.
+?      ^^         ^                            ^^
+
+
+- SiteOrigin Atribución
++ Atribución de SiteOrigin
+
+- Texto que aparece a la derecha de su logotipo. Se oculta si se colocan widgets en el encabezado de la página.
+?                                                                        --------                -------------
+
++ Texto que aparece a la derecha de su logotipo. Se oculta si los widgets se colocan en el encabezado.
+?                                                             ++++++++++++
+
+
+- Escribe una crítica
+?             - ^^^^
+
++ Escribe una reseña
+?              ^^^^
+
+
+- Tamaño de cabecera 6
++ Contenido Título 6 Tamaño
+
+- Tamaño de cabecera 5
++ Contenido Título 5 Tamaño
+
+- Tamaño de cabecera 4
++ Contenido Título 4 Tamaño
+
+- Tamaño de cabecera 3
++ Contenido Título 3 Tamaño
+
+- Tamaño de cabecera 2
++ Contenido Título 2 Tamaño
+
+- Tamaño de cabecera 1
++ Contenido Título 1 Tamaño
+
+- Correo electrónico
++ Email
+
+- StumbleUpon
++ Tropezar con
+
+- Mixcloud
++ Mezcla
+
+- Codepen
++ Código
+
+- YouTube
+?    ^
+
++ Youtube
+?    ^
+
+
+- 500px
++ 500 px
+?    +
+
+
+- Color Título
+?       ^
+
++ Color del título
+?       ^^^^^
+
+
+- Vantage es un tema multifuncional flexible. Su fuerza reside en su estrecha integración con algunos plugins de gran alcance como Page Builder para diseños de página responsive, Meta Slider para deslizadores de gran belleza y WooCommerce para ayudarte a vender en línea. Vantage es totalmente responsive y está preparado para las pantallas Retina. Úsalo para iniciar un sitio de negocios, un portafolios o una tienda en línea.
++ Vantage es un tema multifuncional flexible. Su fuerza reside en su estrecha integración con algunos plugins de gran alcance como Page Builder para los diseños de página de respuesta, Meta Slider para grandes deslizadores hermosos y WooCommerce para ayudarle a vender en línea. Vantage es totalmente sensible y listo para la retina. Úselo para iniciar un sitio de negocios, una cartera o una tienda en línea.
+
+- Para utilizar esta configuración de página, utiliza la <strong>Plantilla Predeterminada </strong> seleccionándola en <strong> Atributos de página </strong>
+?       ^^^^^                                      ^^            ^^^^^^^^^^^             -                   ^^ --             -                   -
+
++ Para usar esta configuración de página, utilice la plantilla <strong>predeterminada</strong> seleccionada en <strong>Atributos de página</strong>
+?       ^                                      ^^   ++++++++++         ^                                ^
+
+
+- Ocultar los widgets del pie de página en esta página.
+?                       -
+
++ Ocultar los widgets de pie de página en esta página.
+
+- Ocultar Widgets Pie de Página
+?                        ^
+
++ Ocultar Widgets de Pie de página
+?                 +++       ^
+
+
+- Ocultar cabecera principal en esta página.
++ Ocultar el encabezado en esta página.
+
+- Ocultar
++ esconder
+
+- Ocultar cabecera Principal
+?                 ----------
+
++ Ocultar cabecera
+
+- Incluir  margen sobre su pie de página.
+?      ^^^
+
++ Incluya el margen sobre su pie de página.
+?      ^^^^^
+
+
+- Margen Superior Pie de Página
+?        ^        ^      ^
+
++ Margen superior de pie de página
+?        ^        ^^^^      ^
+
+
+- Incluir un margen debajo de la cabecera principal (zona superior) del sitio web.
++ Incluya el margen debajo del masthead (área superior) de su sitio.
+
+- Habilitar
+? ^
+
++ habilitar
+? ^
+
+
+- Margen Inferior Cabecera Principal
++ Margen inferior del masthead
+
+- Mostrar el título en esta página
++ Muestra el título de la página en esta página.
+
+- Título de Página
+?           ^
+
++ Título de la página
+?           ^^^^
+
+
+- Mostrar la imagen destacada en esta página.
++ Mostrar la página de la imagen destacada en esta página.
+?           +++++++++++++
+
+
+- Mostrar
++ monitor
+
+- Imagen Página Destacada
++ Página Imagen destacada
+
+- Ancho Completo, Barra lateral
++ Ancho total, con barra lateral
+
+- Sin Barra Lateral
+?     ^     ^
+
++ Sin barra lateral
+?     ^     ^
+
+
+- Diseño Página
+?        ^
+
++ Diseño de página
+?        ^^^^
+
+
+- Actualizar a Vantage Premium
++ Actualización Premium de Vantage
+
+- Ajustes para tu tema
++ Configuración del tema
+
+- Texto que se muestra como una etiqueta al lado de los comentarios del autor del artículo.
+?                                         ---------                              - ^^^ ^^^
+
++ Texto que se muestra como una etiqueta junto a los comentarios del autor de la publicación.
+?                                        ++++++                              +  ^^^^^^ ^^^^^
+
+
+- Comentarios del Autor del Artículo
++ Post Comentarios del autor
+
+- Mostrar el seguimiento de rutas si tienes Yoast SEO o NavXT instalado.
+?         --------  ^^^^    ^^^ ^         -
+
++ Mostrar migas de pan si tiene Yoast SEO o Breadcrumb NavXT instalado.
+?           ^^^    ^ ^                     +++++++++++
+
+
+- Seguimiento de Rutas
++ Migas de pan
+
+- Búsqueda Menú Móvil
++ Búsqueda de Menú Móvil
+?          +++
+
+
+- Texto Menú Móvil
+?       ^    ^
+
++ Texto del menú móvil
+?       ^^^^^    ^
+
+
+- La resolución cuando el menú se contrae en un menú de navegación móvil. El valor es en píxeles.
++ La resolución cuando el menú se contrae en un menú de navegación móvil. El valor está en píxeles.
+?                                                                                    ++
+
+
+- Contracción Menú Móvil
++ Menú Móvil Reducir
+
+- Cambiar la configuración para su tema
+?      ^^                  ^^^^
+
++ Cambie la configuración de su tema.
+?      ^                  ^^        +
+
+
+- No Se Encuentra Disponible
++ Extraviado
+
+- Archivos de Autor
+?        -
+
++ Archivo del Autor
+?           +
+
+
+- Archivos por Fecha
++ Archivos de la fecha
+
+- Resultados Búsqueda
+?            ^
+
++ Resultados de la búsqueda
+?            ^^^^^^^
+
+
+- Cambiar diseños de varias páginas en el sitio web.
+?      ^^                            ^^^^      ----
+
++ Cambie los diseños de varias páginas de su sitio.
+?      ^^^^^                           + ^^^
+
+
+- Configuración Plantilla Página
+?               ^         ^
+
++ Configuración de la plantilla de página
+?               ^^^^^^^         ^^^^
+
+
+- Ajustes de página
++ Configuración de página
+
+- Editar Widget
+?        ^
+
++ Editar widget
+?        ^
+
+
+- <a href="%s">Instalar</a> ahora el Paquete de Widgets..
+?                    ^^     ------   ^          ^       -
+
++ <a href="%s">Instale</a> el paquete de widgets ahora.
+?                    ^        ^          ^      ++++++
+
+
+- Este campo requiere el plugin Widget Bundle
+?                          ^^^
+
++ Este campo requiere el complemento Widgets Bundle.
+?                        +++  ^^^ ++       +       +
+
+
+- Creado orgullosamente por 
+?                -------- --
+
++ Creado orgulloso
+
+- Si te gusta %s, Por Favor, ¡Compártelo!
++ Si te gusta% s, ¡comparte!
+
+- Visualiza el vídeo
++ Ver el vídeo
+
+- Actualizar a Premium
++ Mejorado a Premium
+
+- Date una vuelta
++ Hacer un tour
+
+- Tema gratuito para #WordPress por @SiteOrigin
+?      ^   - ^^^^^^^            ^^^
+
++ Tema Gratis #WordPress de @SiteOrigin
+?      ^    ^            ^^
+
+
+- Acerca de %s
+?          -
+
++ Acerca de% s
+?           +
+
+
+- Aprender acerca de %s
++ Conozca acerca de% s
+
+- Puedes aprender más %saquí%s, o dirigirte directamente a la %spersonalización%s para empezar a realizar ajustes..
++ Puede obtener más información sobre ello% shere% s, o diríjase directamente al% scustomizer% s para comenzar a configurarlo.
+
+- Gracias por escoger %s
++ Gracias por elegir% s!
+
+- Este tema admite Page Builder para crear contenido basado en bellas columnas proporcionadas.
+?                  ^^  ^^^^^  ^                               -------                      ^^
+
++ Este tema admite el generador de páginas para crear contenido basado en columnas bellamente proporcionado.
+?                  ^^^  ^^^^^^^^  ^^^^^^^^                                        +++++++++++             ^
+
+
+- Desconectado
++ Apagado
+
+- Conectado
++ En
+
+- Volver
++ Espalda
+
+- Navega hasta <strong> Apariencia> Personalizar> Ajustes del Tema </strong> para acceder a la configuración del tema.
+?      ^               -          ^             ^^^^ ^^^^     ^   -
+
++ Navegue hasta <strong>Apariencia&gt; Personalizar&gt; Configuración del tema</strong> para acceder a la configuración del tema.
+?      ^^                         ^^^^             ^^^^^^^^^^^ ^^^^^^     ^
+
+
+- Nuestro configurador del tema ahora aprovecha el personalizador de WordPress.
+?       ^          ^^^   -
+
++ Nuestra configuración de temas ahora aprovechar el personalizador de WordPress.
+?       ^          ^^^^        +                +
+
+
+- Los ajustes de Vantage han cambiado de ubicación
++ Se han movido los ajustes de Vantage
+
+- Fondo del botón de desplazar arriba
++ Desplazarse hasta el fondo superior
+
+- Color del botón de desplazar arriba
++ Color de desplazamiento
+
+- Enlace de información del sitio
++ Enlace del sitio
+
+- Texto de información del sitio
++ Texto del sitio
+
+- Color de enlace al pasar por encima
++ Colores de Enlace
+
+- Color del enlace
+?         -
+
++ Color de enlace
+
+- Títulos Widget
+?         ^
+
++ Títulos de widgets
+?         ^^^^     +
+
+
+- Diseño Imagen Fondo Pie De Página
++ Diseño de la imagen de fondo de pie de página
+
+- Imagen de fondo del pie de página
+?                   -
+
++ Imagen de fondo de pie de página
+
+- Fondo del pie de página
+?         -
+
++ Fondo de pie de página
+
+- Sombra y redondeo de las imágenes
++ Sombra de imagen y redondeo
+
+- Disposición de la imagen de fondo de página.
+?    ^ ------                                -
+
++ Diseño de la imagen de fondo de la página
+?    ^^                          +++
+
+
+- Cubierto
++ Cubrir
+
+- Mosaico
++ Azulejo
+
+- Por defecto
++ Defecto
+
+- Disposición de la imagen de fondo del encabezado
++ Diseño de imagen de fondo de masthead
+
+- Imagen de fondo del encabezado
+?                      ------  -
+
++ Imagen de fondo del masthead
+?                     +++++
+
+
+- Fondo del encabezado
++ Fondo de masthead
+
+- Icono del widget de icono redondo
++ Icono del círculo Icono del widget
+
+- Fondo del widget de icono redondo
++ Icono del círculo
+
+- Borde del menú
++ Frontera del menú
+
+- Fondo del Menú
+?         ^^^
+
++ Fondo de menú
+?         ^^
+
+
+- Fondo de la búsqueda
++ Búsqueda de fondo
+
+- Fondo del título
++ Título de fondo
+
+- Color del borde del widget de menú de la cabecera
++ Encabezado Widget Menú Color del borde
+
+- Tamaño de fuente del Menú
+?                      ^
+
++ Tamaño de fuente del menú
+?                      ^
+
+
+- Pading horizontal (px) de los elementos del menú
++ Elemento de menú Horizontal Padding (px)
+
+- Pading vertical (px) de los elementos del menú
++ Elemento de menú Vertical Padding (px)
+
+- Texto de la caja de búsqueda
++ Buscar texto de entrada
+
+- Fondo de la caja de búsqueda
++ Buscar fondo de entrada
+
+- Color al pasar por encima del icono de buscar
++ Icono de búsqueda Hover Color
+
+- Color del icono de buscar
++ Icono del icono de búsqueda
+
+- Fondo del icono de buscar
+? ^  -                 ^^ -
+
++ Icono del icono de búsqueda
+? ^^                  +++ ^^
+
+
+- Color al pasar por encima del icono
++ Icono Colorear el color
+
+- Color del icono
++ Icono de color
+
+- Texto del segundo nivel al pasar por encima
++ Texto de salto de segundo nivel
+
+- Segundo nivel al pasar por encima
++ Pasar el segundo nivel
+
+- Texto al pasar por encima
++ Texto de desplazamiento
+
+- Fondo al pasar por encima
++ Hover de fondo
+
+- Texto del segundo nivel
+?         -
+
++ Texto de segundo nivel
+
+- Fondo del segundo nivel
++ Segundo nivel de fondo
+
+- Color del texto
+?         -
+
++ Color de texto
+
+- Centro
+?      ^
+
++ Centrar
+?      ^^
+
+
+- Alineamiento del menú
+?       ^ ^ --
+
++ Alineación del menú
+?       ^ ^
+
+
+- Añadir subrayado al enlace al pasar por encima
++ Añadir subrayado de vínculo en Hover
+
+- Color de los enlaces del contenido al pasar por encima
++ Color de enlace de enlace de contenido
+
+- Quitar el subrayado del enlace
+? ^^ ^
+
++ Eliminar el subrayado del enlace
+? ^^ ^^^
+
+
+- Color de los enlaces del contenido
+?         - --       -   -
+
++ Color del enlace de contenido
+
+- Centrar Logoripo
++ Logotipo del Centro
+
+- Padding de la cabecera
++ Encabezado de relleno
+
+- Color del contenido de cabecera
++ Color del título del contenido
+
+- Color del título de página
++ Título de la web Color
+
+- Tamaño del título de página
++ Tamaño de la página Tamaño
+
+- Color del texto de cabecera
+?                   ^    ^^^
+
++ Color del texto del encabezado
+?                   ^^^^    ^ ++
+
+
+- Tamaño del texto de cabecera
+?                    ^    ^^^
+
++ Tamaño del texto del encabezado
+?                    ^^^^    ^ ++
+
+
+- Color del título del sitio
++ Título del sitio Color
+
+- Tamaño del título del sitio
++ Título del sitio Tamaño
+
+- Fuente de la cabecera
++ Heading Fuente
+
+- Fuente del cuerpo
++ Body Fuente
+
+- Restablecer personalización
+?                          ^
+
++ Restablecer personalizaciones
+?                          ^ ++
+
+
+- ¿Estás seguro de que quieres volver a los valores por defecto de personalización del tema?
++ ¿Estás seguro de que quieres restablecer las personalizaciones de tus temas?
+
+- Personalización Específica Del Tema %s.
+?              ^ ^^         ^^   ^
+
++ Personalizaciones específicas del tema para% s.
+?              ^ ^^^^         ^^^   ^    ++++ +
+
+
+- Diseño del Tema
+?            ^
+
++ Diseño del tema
+?            ^
+
+
+- Instalando plugin %1$s (%2$d/%3$d)
++ Instalación del complemento% 1 $ s (% 2 $ d /% 3 $ d)
+
+- Todas las instalaciones han terminado.
+?                              -----  ^
+
++ Todas las instalaciones han sido completadas.
+?                             +++++++++++   ^^
+
+
+- %1$s instalado correctamente.
++ % 1 $ s instalado correctamente.
+?  + + +
+
+
+- Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor.
++ Se inicia el proceso de instalación. Este proceso puede tomar un tiempo en algunos hosts, así que por favor tenga paciencia.
+
+- Instalando y activando plugin %1$s (%2$d/%3$d)
++ Instalación y activación del complemento% 1 $ s (% 2 $ d /% 3 $ d)
+
+- Han terminado todas las instalaciones y activaciones.
++ Todas las instalaciones y activaciones han sido completadas.
+
+- Ver Detalles
++ Mostrar detalles
+
+- %1$s instalado y activado correctamente.
++ % 1 $ s instalado y activado correctamente.
+?  + + +
+
+
+- Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor.
+? ^^^ - ^                                                                ---      --              ^^^^  ^^^              ----------
+
++ Se inicia el proceso de instalación y activación. Este proceso puede tomar un tiempo en algunos hosts, así que por favor tenga paciencia.
+? ^^^  ^^^                                                              ++      ++++              ++ ++++++++++ ^^  ^^^^^^    ++
+
+
+- La instalación de %1$s ha fallado.
++ Error en la instalación de% 1 $ s.
+
+- Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>.
+? ^    ---             --- ---- -        ^^^^^^^^
+
++ Se ha producido un error al instalar% 1 $ s: <strong>% 2 $ s</strong> .
+? ^^^^  ++ ++                        ^ + + +            + + +          +
+
+
+- Actualizando plugin %1$s (%2$d/%3$d)
++ Actualización del complemento% 1 $ s (% 2 $ d /% 3 $ d)
+
+- Fallo en la activación de plugin.
++ Error de activación del complemento.
+
+- No hay plugins disponibles para activar en este momento.
++ No hay plugins disponibles para activarse en este momento.
+?                                        ++
+
+
+- No se han seleccionado plugins para activar. No se realizará ninguna acción.
++ No se seleccionaron complementos para activarlos. Ninguna acción tomada.
+
+- No hay plugins disponibles para actualizar en este momento.
+?          ^^^
+
++ No hay complementos disponibles para actualizarse en este momento.
+?        +++  ^^^ ++                             ++
+
+
+- No hay plugins disponibles para instalar en este momento.
+?                                        ^
+
++ No hay plugins disponibles para ser instalados en este momento.
+?                                ++++        ^^^
+
+
+- No se han seleccionado plugins para actualizar. No se realizará ninguna acción.
++ No se seleccionaron complementos para actualizarse. Ninguna acción tomada.
+
+- No se han seleccionado plugins para instalar. No se realizará ninguna acción.
++ No se ha seleccionado ningún complemento para su instalación. Ninguna acción tomada.
+
+- Mensaje de actualización del autor del plugin:
+?                                          ^^^
+
++ Mensaje de actualización del autor del complemento:
+?                                        +++  ^^^ ++
+
+
+- Activar %2$s
+?        -
+
++ Activar% 2 $ s
+?         + + +
+
+
+- Actualizar %2$s
+?           -
+
++ Actualizar% 2 $ s
+?            + + +
+
+
+- Instalar %2$s
++ Instale% 2 $ s
+
+- Origen
++ Fuente
+
+- Plugin
++ Enchufar
+
+- No hay plugins que instalar, actualizar o activar.
+?          ^^^   ^^^
+
++ No hay complementos para instalar, actualizar o activar.
+?        +++  ^^^ ++  ^^^^
+
+
+- desconocida
+?           ^
+
++ desconocido
+?           ^
+
+
+- %1$s, %2$s
++ % 1 $ s,% 2 $ s
+
+- Actualización recomendada
+?            ^
+
++ Actualizacion recomendada
+?            ^
+
+
+- Debe actualizarse
++ Requiere actualización
+
+- Actualización necesaria no disponible
+? ^
+
++ La actualización necesaria no está disponible
+? ^^^^                         +++++
+
+
+- Instalado pero inactivo
+?                -
+
++ Instalado pero no activado
+?                 ++     ++
+
+
+- Pre-empaquetado
++ Preenvasado
+
+- TGMPA v%s
++ TGMPA v% s
+?         +
+
+
+- El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta.
++ El paquete de complemento remoto consta de más de un archivo, pero los archivos no están empaquetados en una carpeta.
+
+- Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress.
++ Póngase en contacto con el proveedor de complementos y pídales que empaqueten su complemento de acuerdo con las directrices de WordPress.
+
+- El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre.
++ El paquete de complemento remoto no contiene una carpeta con el slug deseado y el cambio de nombre no funcionó.
+
+- Debe actualizarse
++ Actualización Requerida
+
+- Este plugin debe actualizarse para que sea compatible con tu tema.
++ Este complemento necesita ser actualizado para ser compatible con su tema.
+
+- Por favor, pídele ayuda al administrador de este sitio.
++ Póngase en contacto con el administrador de este sitio para obtener ayuda.
+
+- Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar.
+?               ^^^                              ^^^^^^^^^^^^
+
++ Hay uno o más complementos necesarios o recomendados para instalar, actualizar o activar.
+?         ++    +++  ^^^ ++                             ^^^
+
+
+- Todos los plugin instalados y activados correctamente. %1$s
+?             ^^^
+
++ Todos los complementos instalados y activados correctamente. % 1 $ s
+?           +++  ^^^ +++                                        + + +
+
+
+- El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin.
++ El complemento no está activado. Se necesita una versión superior de% s para este tema. Actualice el complemento.
+
+- No se realizó ninguna acción. El plugin %1$s ya estaba activo.
++ Ninguna acción tomada. El complemento% 1 $ s ya estaba activo.
+
+- El siguiente plugin se activó con éxito:
++ El siguiente complemento se ha activado correctamente:
+
+- Volver al escritorio
++ Regreso al panel de control
+
+- Volver al instalador de plugins necesarios
++ Volver al instalador de complementos requerido
+
+- Algo salió mal con API del plugin.
+?                              ^^^
+
++ Algo salió mal con la API del complemento.
+?                    +++        +++  ^^^ ++
+
+
+- Actualizando Plugin: %s
++ Actualización del complemento:% s
+
+- Instalando plugin: %s
++ Instalación del complemento:% s
+
+- Instalar plugins
++ Instalar complementos
+
+- Instalar los plugins necesarios
++ Instalar complementos necesarios
+
+- SiteOrigin Widgets Bundle
++ Paquete de Widgets SiteOrigin
+
+- Iconos de transporte
+?        ^  ^
+
++ Iconos De Transporte
+?        ^  ^
+
+
+- Iconos de manos
+?               -
+
++ Iconos de la mano
+?          +++
+
+
+- También puedes leer la %sdocumentación de Vantage%s para conocerlo aún más rápido.
+?              -         --             ^^^^                       ^
+
++ También puede leer la documentación% sVantage% s para conocerla aún más rápido.
+?                                    ^^^        +               ^
+
+
+- Como usuario de Vantage, obtendrás un soporte rápido y amigable en nuestro %sforo de soporte%s.
+?                                  -                                        -- ^^  ^^^^ ^    ^
+
++ Como usuario de Vantage, obtendrá un soporte rápido y amigable en nuestros propios% ssupport forums% s.
+?                                                                           ^^  ^^^ ^^^^^^    ^^^^^^^ +
+
+
+- Soporte rápido, a la velocidad de un rayo.
++ Compatibilidad Fast Lightning
+
+- Este poderoso plugin nos ofrece capacidades completas de arrastrar y soltar dentro de Vantage.
+?                 ^^^ ^^ ^
+
++ Este poderoso complemento le ofrece capacidades completas de arrastrar y soltar dentro de Vantage.
+?               +++  ^^^ ^ ^^^
+
+
+- Vantage se integra maravillosamente con nuestro plugin gratuito %sPage Builder%s.
+?                     ^^^^ ------  --                   ^^ ^^^^^^^^^
+
++ Vantage se integra muy bien con nuestro plugin% sfree Page Builder% s.
+?                     ^^^^                      ^^^^ ^^^             +
+
+
+- Funciona mejor con Page Builder
++ Mejorado por Page Builder
+
+- Vantage, a partir de ahora, sólo puede mejorar.
++ Vantage sólo está mejorando desde aquí.
+
+- Lo seguiremos evolucionando a lo largo de los años.
+? ^^^^
+
++ Seguiremos evolucionando a lo largo de los años.
+? ^
+
+
+- Vantage ya lleva un tiempo funcionando, y en todo este tiempo lo hemos mejorado hasta convertirlo en un sólido tema de WordPress.
++ Vantage ha estado alrededor por un tiempo ahora, y en ese tiempo hemos sido capaces de refinarlo en un tema sólido de WordPress de WordPress.
+
+- Puedes ver como es su desarrollo en todo momento y realizar contribuciones al mismo si lo deseas.
++ Usted puede ver lo que está sucediendo con su desarrollo e incluso hacer contribuciones a ti mismo.
+
+- Vantage es activamente %sdesarrollado en Github%s.
++ Vantage está activo% sdeveloped en Github% s.
+
+- Vantage es un tema WordPress completamente gratuito.
+?                   ----------
+
++ Vantage es un tema completamente gratuito de WordPress.
+?                                          +++++++++++++
+
+
+- Gratis para siempre
++ Siempre libre
+
+- <span class="byline"> por %s</span>
+?                      ^^  -
+
++ <span class="byline">Por% s</span>
+?                      ^   +
+
+
+- Publicado el %s
+?            ^^
+
++ Publicado en% s
+?            ^ +
+
+
+- Leer más
++ sigue leyendo
+
+- Texto Leer Más
++ Leer más texto
+
+- Muestra las etiquetas de artículos debajo del contenido del artículo.
++ Muestra las etiquetas de publicación debajo de la publicación individual.
+
+- Etiquetas de las entradas
++ Publicar etiquetas
+
+- Muestra las categorías de artículos debajo del contenido del artículo.
++ Muestra las categorías de publicación debajo de la publicación individual.
+
+- Categorías de entradas
++ Publicar categorías
+
+- Muestra el número de comentarios debajo del título de cada entrada
+?                                  - ^^^^^^               ^^^^ ^^^^^
+
++ Muestra el número de comentarios en el título de la publicación.
+?                                   ^^             ++++++++  ^^^ ^
+
+
+- Recuento de comentarios de la entrada
++ Comparta un comentario
+
+- Mostrar el autor del artículo debajo del título del artículo.
++ Muestra al autor de la publicación bajo el título de la publicación.
+
+- Mostrar la fecha del artículo debajo del título del artículo.
++ Muestra la fecha de publicación bajo el título de la publicación.
+
+- Mostrar los metadatos del artículo debajo del título del artículo.
++ Muestra los metadatos del post en el título de la publicación.
+
+- Tamaño de la imagen destacada en el archivo de los artículos del blog cuando se usa el diseño del blog por defecto.
+?                                  -             ^  --- ------   -                 ^              -       - ^  ^ ^^
+
++ Tamaño de la imagen destacada en los archivos de post de blog cuando se utiliza el diseño de blog predeterminado.
+?                                   ++        +    ^                       ^^^^^                      ^  ^ ^^^^^^
+
+
+- Elige el diseño a usar en páginas de blog y de archivo.
+?    ^^           ^                          ---
+
++ Elija el diseño que se usará en las páginas de blog y archivo.
+?    ^^           ^^^^^^     +   ++++
+
+
+- Habilitar búsqueda en el menú móvil.
++ Habilitar la búsqueda en el menú móvil.
+?           +++
+
+
+- Forzar estilos de filas de ancho completo de Page Builder. Sólo es necesario por razones de herencia.
++ Force Page Builder filas con estilos de ancho completo. Sólo es necesario por razones de legado.
+
+- Forzar los estilos de Page Builder a Pantalla completa
++ Forzar estilos de constructor de página de ancho completo
+
+- Tienda
+? ^
+
++ tienda
+? ^
+
+
+- Página de ancho completo
++ todo el ancho de página
+
+- Inicio de Page Builder
++ Página Builder Inicio
+
+- Más sobre Vantage Premium
++ Más información sobre Vantage Premium
+?    ++++++++++++
+
+
+- Es posible que hayas notado que algunos ajustes y características sólo están disponibles en Vantage Premium. Esta es una actualización de bajo coste que te da acceso a un montón de características adicionales. Echa un vistazo para que puedas ver lo útil que puedes llegar a encontrarlo.
++ Es posible que haya notado que algunos ajustes y características sólo están disponibles en Vantage Premium. Se trata de una actualización rentable que le da acceso a un montón de características de bonificación. Echa un vistazo para ver si esto es algo que puede ser útil.
+
+- Hay muchos ajustes adicionales que no hemos tratado en este breve tour. Navega hasta Aspecto> Configuración del tema en cualquier momento para echar un vistazo. Te sorprenderá lo que se puede lograr con unos pocos clics.
++ Hay muchos ajustes adicionales que no hemos cubierto en esta breve gira. Navegue hasta Aspecto&gt; Configuración del tema en cualquier momento para echar un vistazo. Usted se sorprenderá de lo que puede lograr con unos pocos clics.
+
+- Esta configuración realiza cambios en el cuadro de Redes Sociales que aparece debajo de los artículos de tu blog. Este cuadro permite a sus usuarios compartir rápidamente contenido en Facebook, Twitter y Google Plus.
++ Esta opción cambia un cuadro de compartición social que aparece debajo de las publicaciones de tu blog. Este cuadro permite a tus usuarios compartir rápidamente tu contenido en Facebook, Twitter y Google Plus.
+
+- Habilitar compartir entradas
+?           ^         ^^ -----
+
++ Habilitar Compartir Post
+?           ^         ^^^
+
+
+- Page Builder es la forma más sencilla de crear un sitio que te haga sentir orgulloso. Dirígete a Apariencia > Página de Inicio en tu escritorio de WordPress para instalarlo. Una vez que lo hayas instalado podrás crear páginas divididas en columnas usando tus widgets.
++ Page Builder es la forma más fácil de crear un sitio que te hace sentir orgulloso. Vaya a Apariencia&gt; Página de inicio en su administrador de WordPress para instalarlo. Una vez que lo haya instalado, podrá crear columnas con sus widgets.
+
+- El slider de la página principal es un gran lugar para mostrar tus imágenes o mensajes de marca. Deberás instalar Meta Slider para crear nuevos sliders. Una vez hecho esto, los sliders aparecerán en la lista desplegable. Por ahora, puedes desactivar el slider por defecto hasta que crees el tuyo propio.
++ El deslizador de la página principal es un gran lugar para mostrar tus imágenes o mensaje de marca. Deberá instalar Meta Slider para crear nuevos deslizadores. Una vez hecho esto, los controles deslizantes aparecerán en esta lista desplegable. Por ahora, puedes desactivar el control deslizante predeterminado hasta que crees el tuyo propio.
+
+- Cambiar el carrusel
++ Cambiar el deslizador
+
+- El texto del encabezado, que por defecto dice "¿Llámame, ¿Quieres?" Es un gran lugar para agregar su lema del sitio o los detalles de contacto. También puedes sobrescribir este área totalmente añadiendo widgets al área del widget de encabezado.
++ El texto del encabezado, que por defecto dice &quot;Call Me, Maybe?&quot; Es un gran lugar para agregar su lema del sitio o los detalles de contacto. También puede sobrescribir esta área totalmente agregando widgets al área del widget de encabezado.
+
+- Vantage soporta dos diseños diferentes: encajonado y  ancho completo. Ancho completo es el valor predeterminado, pero es posible darle el aspecto que prefieras con el formato encajonado. Además, el formato encajonado te da acceso a la función de fondo personalizado.
++ Vantage soporta dos diseños diferentes: en caja y de ancho completo. De ancho completo es el valor predeterminado, pero es posible que en la caja le dará un aspecto que prefiera. Boxed también le da acceso a la función de fondo personalizado.
+
+- Elige un diseño
+?    ^^
+
++ Elija un diseño
+?    ^^
+
+
+- Un logotipo retina es una versión de doble tamaño de su logotipo estándar. Vantage muestra esta versión de su logotipo a usuarios con pantallas de alta densidad de píxeles. En la actualidad, estos son los más comunes en los dispositivos móviles, pero están empezando a infiltrarse también en dispositivos de escritorio.
+?             ^^^^^^^^^^^^^                                                                                                                                                                                                                                                             ^^        ------------------------------
+
++ Un logotipo de retina es una versión de doble tamaño de su logotipo estándar. Vantage muestra esta versión de su logotipo a usuarios con pantallas de alta densidad de píxeles. En la actualidad, estos son los más comunes en los dispositivos móviles, pero están empezando a infiltrar dispositivos de escritorio también.
+?             ^^^^^^^^^^^^^^^^                                                                                                                                                                                                                                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+- Sube tu logo retina
++ Cargue su logotipo de Retina
+
+- El primer paso para hacer que tu sitio sea únicamente tuyo es cargar un logotipo personalizado. Elige una imagen de logotipo a continuación, que reemplazará al texto del título del sitio. Cualquier tamaño funcionará, pero recomendamos que utilice una versión pequeña de su logotipo.
++ El primer paso para hacer que su sitio sea únicamente suyo es cargar su logotipo personalizado. Elija una imagen de logotipo a continuación, y reemplazará el título del sitio de texto sin formato. Cualquier tamaño funcionará, pero recomendamos que utilice una versión más pequeña de su logotipo.
+
+- Sube tu logo
+?         ^
+
++ Sube tu Logo
+?         ^
+
+
+- Vantage es un tema poderoso y multifuncional. Este tour rápido te guiará a través de algunos de los ajustes básicos y características.
+?              -----                 ^^^^  ^ -                   ^
+
++ Vantage es un poderoso y multipropósito tema. Este tour rápido le guiará a través de algunos de los ajustes básicos y características.
+?                               ^^^^^^ + ^^^^                    ^
+
+
+- Diapositiva de ejemplo
++ Diapositiva de demostración
+
+- Búsqueda
++ Buscar
+
+- Resultados de Búsqueda para: %s
+?               ^             -
+
++ Resultados de búsqueda para:% s
+?               ^              +
+
+
+- Un Tema de <a href="%s">SiteOrigin</a>
+?    ^
+
++ Un tema de <a href="%s">SiteOrigin</a>
+?    ^
+
+
+- Parece que no podemos encontrar lo que buscas. Tal vez la búsqueda te puede ayudar.
+?                                                                    ---
+
++ Parece que no podemos encontrar lo que buscas. Tal vez la búsqueda puede ayudar.
+
+- Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, Inténtalo de nuevo usando otros términos diferentes.
+?                                     ^                         -----------      ^               ^^^^^^ ^  ^^^^^^^^
+
++ Lo sentimos, pero nada coincide con sus términos de búsqueda. Inténtelo de nuevo con algunas palabras clave diferentes.
+?                                     ^                               ^            +++++++ ++ ++ ^^^ ^  ^^^^^
+
+
+- ¿Preparado para publicar tu primer artículo? <a href="%1$s">Puedes comenzar desde aquí</a>.
++ Listo para publicar su primer post? <a href="%1$s">Empiece aquí</a> .
+
+- No se encuentra ningún resultado
++ Nada Encontrado
+
+- Artículo
++ Enviar
+
+- Artículo
++ Enviar
+
+- Abrir en una Nueva Ventana
+?         ----       ^
+
++ Abrir en Nueva ventana
+?                ^
+
+
+- Google Plus
+?        ^^^
+
++ Google Mas
+?        ^^
+
+
+- Twitter
++ Gorjeo
+
+- Añadir pequeños iconos agradables que vinculan a tus perfiles en redes sociales.
+?                                       ^^ --      ^             -
+
++ Añadir pequeños iconos agradables que enlazan a sus perfiles de redes sociales.
+?                                       ^   ++    ^            +
+
+
+- Vantage Redes Sociales
++ Vantage Social Media
+
+- Subencabezamiento
++ Sub título
+
+- Encabezamiento
++ Titular
+
+- Un título grande y encantador.
+?     ^   ^
+
++ Un titular grande y encantador.
+?     ^   ^^
+
+
+- Encabezamiento Vantage
++ Título Vantage
+
+- Mostrar Contenedor Encajonado
+?         ^          ^^   -- --
+
++ Mostrar contenedor de caja
+?         ^          ^^^
+
+
+- Enlazar Título e icono a "Enlace Más"
++ Título del vínculo y el icono a &quot;Más URL&quot;
+
+-  Enlace Más
++ Más URL
+
+- Más Texto
+?     ^
+
++ Más texto
+?     ^
+
+
+- Mediano
+?     --
+
++ Medio
+
+- Pequeño
+?       ^
+
++ Pequeña
+?       ^
+
+
+- Tamaño Icono
+?        ^
+
++ Tamaño de ícono
+?        ^^^^
+
+
+- Inferior
++ Fondo
+
+- Superior
++ Parte superior
+
+- Posición del icono
++ Icono Posición
+
+- URL de la imagen con círculo de fondo
++ URL de la imagen de fondo del círculo
+
+- Color fondo icono
++ Icono de color de fondo
+
+- Iconos
+?      -
+
++ Icono
+
+- Icono circular
++ Icono de círculo
+
+- Publicado en %1$s.
+?             -
+
++ Publicado en% 1 $ s.
+?              + + +
+
+
+- Publicado en %1$s y etiquetado %2$s.
+?             -                 -
+
++ Publicado en% 1 $ s y etiquetado% 2 $ s.
+?              + + +               + + +
+
+
+- <strong>Etiquetado</strong> %2$s.
++ <strong>Etiquetado</strong> % 2 $ s.
+?                              + + +
+
+
+- , 
++ ,
+
+- Archivos
+?        -
+
++ Archivo
+
+- %s: %s
++ Ss
+
+- Archivo por años: %s
++ Archivos anuales:% s
+
+- Archivo por meses: %s
++ Archivos mensuales:% s
+
+- Archivo por días: %s
++ Archivos diarios:% s
+
+- Archivo del Autor: %s
+?             ^     -
+
++ Archivos del autor:% s
+?        +     ^      +
+
+
+- Archivo de la etiqueta: %s
+?                        -
+
++ Archivos de la etiqueta:% s
+?        +                 +
+
+
+- Archivo por Categoría: %s
++ Archivos de la categoría:% s
+
+- %s logo
++ Logotipo de% s
+
+- Ver todos los artículos de %s
++ Ver todas las publicaciones por% s
+
+- Tu comentario está a la espera de moderación.
+?                   -----       ^         ^^^^
+
++ Tu comentario está esperando ser moderado.
+?                          ^ +++ +       ^^
+
+
+- %1$s at %2$s
++ % 1 $ s en% 2 $ s
+
+- &rarr;
++ →
+
+- &larr;
++ ←
+
+- Navegador de artículos
++ Mensaje de navegación
+
+- ¡Llámame! ¿Quizás?
++ ¡Llámame! ¿Tal vez?
+
+- Inyectar JavaScript en el Pie de Página, si es posible.
+? ^ ^ ^^                    ^      ^
+
++ Enqueue los archivos JavaScript en el pie de página, si es posible.
+? ^ ^^ ^^^^^^^  ++++++                  ^      ^
+
+
+- Inyectar JavaScript en el Pie de Página
+? ^ ^ ^^^^                  ^      ^
+
++ Enqueue JavaScript en el pie de página
+? ^ ^^ ^^                  ^      ^
+
+
+- Texto que se mostrará en el pie de página. {Site-title}, {copyright} y {year} pueden reemplazar el título de su sitio web, el símbolo de copyright y el año actual.
+?               ^    --                                                         ^^ ^^                                        ^^
+
++ Texto que se muestra en el pie de página. {Site-title}, {copyright} y {year} serán reemplazados por el título de su sitio web, un símbolo de copyright y el año actual.
+?               ^^                                                             ^ ^^           ++++++                             ^^
+
+
+- Texto de información de sitio
++ Texto del sitio
+
+- Comentarios ajax
++ Ajax Comentarios
+
+- Muestra una caja de autor debajo de cada artículo
++ Muestra un cuadro de autor debajo de cada entrada del blog.
+
+- Caja del Autor
+?        ^^^
+
++ Caja de autor
+?        ^^
+
+
+- Tipo de Imagen Destacada
+?         ^      ^
+
++ Tipo de imagen destacada
+?         ^      ^
+
+
+- Mostrar la imagen destacada en la página del artículo.
+?  ^    -                                 -------------
+
++ Muestra la imagen destacada en una sola página.
+?  ^^                            ++++++
+
+
+- Imagen Destacada
++ Foto principal
+
+- Fecha Artículo
++ Fecha de publicación
+
+- Autor Artículo
++ Post Autor
+
+- Mostrar
++ Monitor
+
+- Metadatos Artículo
++ Publicar metadatos
+
+- Elige cómo mostrar los artículos en el archivo de artículos cuando se utiliza el diseño de blog predeterminado.
++ Elija cómo mostrar las publicaciones en el archivo de publicación al utilizar el diseño de blog predeterminado.
+
+- Extracto del Artículo
+?              ^^ ----
+
++ Extracto del Puesto
+?              ^^^^
+
+
+- Artículo Completo
++ Puesto completo
+
+- Contenido del artículo
++ Publicar Contenido
+
+- Diseño Archivo de Blog
++ Diseño del blog
+
+- Estirar el slider de la página de inicio al ancho de la pantalla si usas un diseño de ancho completo.
+?      ^^         ----           ^^^  -  ^^                            ^ ^^^^
+
++ Estire el deslizador de la página principal hasta el ancho de la pantalla si utiliza el diseño de ancho completo.
+?      ^    ++   ++++++             ^^    ^  +++++++++                          ^^^^^ ^^^
+
+
+- Estirar
++ Tramo
+
+- Estirar Slider Página de Inicio
++ Deslice deslizante
+
+- Este tema soporta <a href="%s" target="_blank">Meta Slider</a>. <a href="%s">Instálalo</a> gratis para crear maravillosos sliders responsivos - <a href="%s" target="_blank">Más información</a>
++ Este tema es compatible con <a href="%s" target="_blank">Meta Slider</a> . <a href="%s">Instalar de forma</a> gratuita para crear deslizadores sensibles hermosa - <a href="%s" target="_blank">Más información</a>
+
+- Slider Página de Inicio
++ Deslizador de la página principal
+
+- Habilita el menú pegajoso y subir arriba para dispositivos móviles.
++ Activa el menú pegajoso y el desplazamiento a la parte superior para dispositivos móviles.
+
+- Navegación Móvil
+?            ^
+
++ Navegación móvil
+?            ^
+
+
+- Muestra el icono de una casa para los enlaces de la página de inicio.
+?  ^^                 ^ ^^ ^^^                               ^^^  -  ^
+
++ Mostrar el icono de inicio para los enlaces del menú de la página principal.
+?  ^    +             ^ ^ ^^                    +++++++++           ^^    ^^^
+
+
+- Icono Página de Inicio
++ Icono de la página principal
+
+- Muestra siguiente/anterior navegación artículos.
++ Visualización de la navegación siguiente / anterior.
+
+- Navegación Artículos
++ Mensaje de navegación
+
+- Muestra un botón subir arriba cuando un usuario se desplaza hacia abajo.
++ Muestra un botón de desplazamiento hacia arriba cuando un usuario se desplaza hacia abajo.
+
+- Mostrar Subir Arriba
++ Mostrar Desplazamiento hacia arriba
+
+- Muestra la búsqueda en el menú principal.
+?  ^^    ^^
+
++ Mostrar una búsqueda en el menú principal.
+?  ^    ^^^^
+
+
+- Búsqueda en Menú
++ Buscar en el menú
+
+- Pega el menú en la parte superior de la pantalla cuando un usuario se desplaza hacia abajo.
+? ^^^
+
++ Coloca el menú en la parte superior de la pantalla cuando un usuario se desplaza hacia abajo.
+? ^^^^^
+
+
+- Menú Pegajoso
+?      ^
+
++ Menú pegajoso
+?      ^
+
+
+- Usar un menú móvil especial para dispositivos de pantalla pequeña.
+?  ^^^
+
++ Utilice un menú móvil especial para dispositivos de pantalla pequeña.
+?  ^^^^^^
+
+
+- Cambiar el diseño del pie de página que estás utilizando.
+?                     ^                       -
+
++ Cambiar el diseño de área de pie de página que está utilizando.
+?                     ^^^^^^^^
+
+
+- Diseño del Pie de Página
+?            ^      ^
+
++ Diseño del pie de página
+?            ^      ^
+
+
+- Elija cómo se mostrará el menú del encabezado
+?                                     ------  ^
+
++ Elija cómo se mostrará el menú del masthead.
+?                                    +++++   ^
+
+
+- Menu de encabezado
++ Menú de Masthead
+
+- Cambia qué diseño de área de encabezado estás usando
+?      ^^^^^                                  -  ^
+
++ Cambie el diseño del área de encabezado que está utilizando.
+?      ^^^^          +                    ++++      ^^^^^    +
+
+
+- Diseño del encabezado
++ Diseño de masthead
+
+- Cambia el ancho de los límites de la caja.
++ Cambie el ancho del cuadro delimitador.
+
+- Ancho Completo
++ Ancho total
+
+- Encajonado
++ En caja
+
+- Límites del Diseño
++ Diseño encuadernado
+
+- Incluye FitVids.js para el diseño de inserciones de vídeo fluido.
++ Incluya FitVids.js diseños de video incorporados a fluidos.
+
+- Activar FitVids.js
++ Habilitar FitVids.js
+
+- Escala tu diseño para dispositivos de pantalla pequeña.
+?      ^^^
+
++ Escale su diseño para dispositivos de pantalla pequeña.
+?      ^^^
+
+
+- Diseño apaptable
++ Disposición Responsive
+
+- Si está activado, los widgets del encabezado de la página no se superpondrán a la imagen del logotipo principal.
+?                                 -            -------------
+
++ Si está activado, los widgets de encabezado no se superpondrán a la imagen del logotipo principal.
+
+- Sin Widgets Superpuestos
++ Sin superposición de widgets
+
+- Texto Cabecera
+?       ^
+
++ Texto de cabecera
+?       ^^^^
+
+
+- Una versión del doble de tamaño de su logotipo para las pantallas Retina. Debe utilizarse además del logotipo estándar.
+?               -      ---                              ^^^^^^^^^^^^^
+
++ Una versión de doble tamaño de su logotipo para la retina muestra. Debe utilizarse además del logotipo estándar.
+?                                                   ^^     ++++++++
+
+
+- Logo Retina
++ Retina Logo
+
+- Cuando uses en el diseño de la cabecera el "logo dentro del menú", restringe el tamaño del logo para ajustarlo a la altura del menú
+?         ^ ----              ^ ^^ ^^^^^^^   -    ^^  ^^^^^       -         ^^
+
++ Cuando utilice el diseño de &quot;masthead&quot; del logotipo en el menú, restrinja el tamaño del logotipo para ajustarlo a la altura del menú.
+?         ^^^^^               ^^^^^^^ ^^^^ ^^^^^^^^^       ^^^^^  ^                ^^                   ++++                                    +
+
+
+- Si
++ Sí
+
+- Restringir La Altura Del Logo
+?            ^  ^      ^   ^
+
++ Restringir la altura del logotipo
+?            ^  ^      ^   ^   ++++
+
+
+- Tu propio logo personalizado.
+? ^
+
++ Su propio logotipo personalizado.
+? ^             ++++
+
+
+- Establecer Logo
++ Set Logo
+
+- Elegir Imagen
+?        ^
+
++ Elegir imagen
+?        ^
+
+
+- Imagen de Logo
++ Logotipo
+
+- Página de Inicio
++ Casa
+
+- Widgets de Vantage
+?         ---
+
++ Widgets Vantage
+
+- Sin Margen Inferior
+?     ^      ^
+
++ Sin margen inferior
+?     ^      ^
+
+
+- Repetir Imagen de Fondo
+?         ^         ^
+
++ Repetir imagen de fondo
+?         ^         ^
+
+
+- Enlace Imagen de Fondo
++ URL de la imagen de fondo
+
+- Color De Fondo
+?       ^  ^
+
++ Color de fondo
+?       ^  ^
+
+
+- Color Borde Inferior
+?       ^     ^
+
++ Color del borde inferior
+?       ^^^^^     ^
+
+
+- Color Borde Superior
+?       ^     ^
+
++ Color del borde superior
+?       ^^^^^     ^
+
+
+- Gris Ancho
+?      ^
+
++ Gris ancho
+?      ^
+
+
+- Hay muchos widgets incluidos con Page Builder. Puedes utilizarlos para darle vida a tus páginas.
+?                                                ^    -                  ^  ^^^^^^^^^^^
+
++ Hay muchos widgets incluidos con Page Builder. Usted puede utilizarlos para traer sus páginas a la vida.
+?                                                ^^^^^^^                      ^^ + ^^          ++++++++++
+
+
+- Últimos Posts
++ últimas publicaciones
+
+- Éste Es Un Widget De Encabezamiento
++ Este es un widget de título
+
+- Botón Test
++ Botón de prueba
+
+- Construir tus páginas usando la función cortar y pegar de Page Builder es una gran experiencia que te ahorra tiempo. El tiempo es valioso. No lo malgastes.
++ Construir tus páginas usando un constructor de páginas de arrastrar y soltar es una gran experiencia que te ahorrará tiempo. El tiempo es valioso. No la desperdicies.
+
+- Ahorra Tiempo
+? ^      ^
+
++ Te ahorra tiempo
+? ^^^^      ^
+
+
+- Botón de Ejemplo
+?          ^
+
++ Botón de ejemplo
+?          ^
+
+
+- Este widget utiliza FontAwesome - ofreciéndole cientos de iconos. O puedes inhabilitar el icono y utilizar su propia imagen. Ideal para los testimonios.
+?                                   ----------                        -   ^^                                                   ^  --                   ^
+
++ Este widget utiliza FontAwesome - le da cientos de iconos. O usted podría inhabilitar el icono y utilizar su propia imagen de la imagen. Grande para los testimonials.
+?                                     +++                       ++  ^^^^^^^                                          +++++++++++++         ^^^^                     ^^
+
+
+- Montón de Iconos
++ Cargas de iconos
+
+- Empezar a editar
+? ^ -
+
++ Comenzar a editar
+? ^^  +
+
+
+- Puede editar esta página principal utilizando gratuitamente Page Builder, arrastrando y soltando, o simplemente deshabilitarlo para volver a una edición estándar del blog. Es una poderosa experiencia en la construcción de páginas.
++ Puede editar esta página principal con nuestro generador de páginas gratuito, arrastrar y soltar o simplemente deshabilitarlo para volver a un blog estándar. Es una poderosa experiencia de construcción de páginas.
+
+- Página de Inicio Editable
+?           ^      ^
+
++ Página de inicio editable
+?           ^      ^
+
+
+- Inicio por Defecto
++ Inicio predeterminado
+
+- SiteOrigin Page Builder
++ Creador de páginas SiteOrigin
+
+- Instalar Page Builder
++ Instalar el generador de página
+
+- La página principal
+? ^^^^      ^
+
++ Página Principal
+? ^      ^
+
+
+- Constructor personalizado de la página de Inicio
+?                                           ^
+
++ Constructor personalizado de la página de inicio
+?                                           ^
+
+
+- Page Builder
++ Constructor de páginas
+
+- Instalar el Plugin Page Builder
++ Instalar el complemento del generador de páginas
+
+- Estirar Slider en la Página
++ Diapositiva de meta de página de estiramiento
+
+- Mostrar Meta Slider en la Página
++ Mostrar página Meta Slider
+
+- Meta Slider para Páginas
++ Página Meta Slider
+
+- Icono Menú
+?       ^
+
++ Icono de menú
+?       ^^^^
+
+
+- Slider
++ Deslizador
+
+- Página %s
+?       -
+
++ Página% s
+?        +
+
+
+- Siguiente &rarr;
++ Siguiente →
+
+- &larr; Anterior
++ ← Anterior
+
+- Volver Arriba
+?        ^
+
++ Volver arriba
+?        ^
+
+
+- Cabecera
++ Encabezamiento
+
+- Pie de Página
+?        ^
+
++ Pie de página
+?        ^
+
+
+- Menú Principal
++ Menú Primaria
+
+- Iconos Médicos
+?        ^
+
++ Iconos médicos
+?        ^
+
+
+- Iconos de Marcas
+?           ^    -
+
++ Iconos de la marca
+?           ^^^^
+
+
+- Iconos Reproductor Vídeo
+?        ^           ^^
+
++ Iconos del reproductor de video
+?        ^^^^^           ^^^^^
+
+
+- Iconos de Dirección
+?         ---      ^
+
++ Iconos direccionales
+?               ^ ++++
+
+
+- Iconos Editor de Texto
+?        ^         ^
+
++ Iconos del editor de texto
+?        ^^^^^         ^
+
+
+- Iconos de Monedas
+?           ^     -
+
++ Iconos de moneda
+?           ^
+
+
+- Iconos de Gráficos
+?           ^
+
++ Iconos de gráficos
+?           ^
+
+
+- Iconos Medios de Pago
++ Iconos de pago
+
+- Iconos de Controles de Formulario
+?           ^      --    ^
+
++ Iconos de control de formularios
+?           ^          ^         +
+
+
+- Iconos Giratorios
++ Iconos de Spinner
+
+- Iconos de Tipos de Archivo
+?           ^   -    ^
+
++ Iconos de tipo de archivo
+?           ^       ^
+
+
+- Iconos Aplicación Web
++ Iconos de aplicaciones web
+
+- Ajustes Del Tema
+?         ^ ^^^
+
++ Ajustes de tema
+?         ^ ^^
+
+
+- Cerrar
++ Cerca
+
+- Instalando %s
++ Instalación de% s
+
+- Instalar Plugin del Tema
++ Instalar el complemento de temas
+
+- Slider: 
++ Control deslizante:
+
+- Slider de ejemplo
++ Control deslizante de demostración
+
+- Ninguno
+?       ^
+
++ Ninguna
+?       ^
+
+
+- Gran Titular
+?      ^
+
++ Gran titular
+?      ^
+
+
+- Derecha Básico
+?       ^^^
+
++ Derecho básico
+?       ^^^
+
+
+- Éste es el segundo
+? ^
+
++ Este es el segundo
+? ^
+
+
+- Izquierda Básico
+?                ^
+
++ Izquierda Básica
+?                ^
+
+
+- Enlace permanente a %s
+?                    -
+
++ Enlace permanente a% s
+?                     +
+
+
+- Continúa leyendo <span class="meta-nav">&rarr;</span>
+? ^^^^ ^^^                                ^^^^^^
+
++ Seguir leyendo <span class="meta-nav">→</span>
+? ^^^^ ^                                ^
+
+
+- Siguientes comentarios &rarr;
++ Comentarios más recientes →
+
+- &larr; Comentarios Anteriores
+? ^^^^^^^^           ^
+
++ comentarios anteriores
+? ^           ^
+
+
+- Navegador de comentarios
++ Comentario de navegación
+
+- Intenta buscar en los archivos mensuales.
+? ^^  ^^^
+
++ Trate de buscar en los archivos mensuales.
+? ^^^  ^^^
+
+
+- Categorías favoritas
++ Las Categorías más usadas
+
+- Parece que no se encuentra nada en esta dirección. Puedes intentar realizar una búsqueda o usar alguno de los enlaces que se encuentran más abajo.
++ Parece que no se encontró nada en este lugar. Tal vez pruebe uno de los siguientes enlaces o una búsqueda?
+
+- Esta página no existe.
++ No se puede encontrar esa página.
+
+- https://siteorigin.com/
+? ^
+
++ Https://siteorigin.com/
+? ^
+
+
+- https://siteorigin.com/theme/vantage/
+? ^
+
++ Https://siteorigin.com/theme/vantage/
+? ^
+
+
+- Bienvenue
++ Bienvenido
+

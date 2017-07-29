@@ -1,0 +1,4362 @@
+- Importar desde Jetpack SEO
+?        ^   ---
+
++ Importación de Jetpack SEO
+?        ^^^^
+
+
+- Avisos silenciados:
++ Notificaciones silenciadas:
+
+- ¿Quieres previsualizar lo que verá la gente si comparte estar entrada en %1$s? Puedes, con %2$s.
++ ¿Quieres ver cómo se verá si las personas comparten esta publicación en% 1 $ s? Usted puede, con% 2 $ s.
+
+- Descubre por qué deberías actualizar a %s &raquo;
+?                      ---              -   ^^^^^^^
+
++ Descubre por qué debes actualizar a% s »
+?                                     +  ^
+
+
+- ¡Ve al premium!
++ ¡Hazte Premium!
+
+- Descartar la incitación a actualizar %s
++ Disminuir la motivación de actualización de% s
+
+- Esta funcionalidad te ayuda a mejorar la estructura de enlaces internos de tu sitio. Si quieres saber más sobre el porqué y el cómo del enlazado interno revisa nuestro %1$sartículo sobre enlazado interno en Yoast.com%2$s.
++ Esta función le ayuda a mejorar la estructura de enlaces internos de su sitio. Si desea saber más sobre el por qué y el cómo de la vinculación interna, echa un vistazo al% 1 $ sarticle sobre enlaces internos en Yoast.com% 2 $ s.
+
+- La utilidad de <strong>contador de enlaces a textos</strong> (introducida en %1$s %2$s) está en este momento desactivada. Para que funcione esta utilidad %1$s tiene que crear una tabla en tu base de datos. No hemos podido crear esta tabla automáticamente.
+					Por favor, lee el siguiente %3$sartículo de la base de conocimiento%4$s para aprender a resolver este problema.
++ La función de <strong>contador de enlaces de texto</strong> (introducida en% 1 $ s% 2 $ s) está deshabilitada actualmente. Para que esta función funcione% 1 $ s necesita crear una tabla en su base de datos. No hemos podido crear esta tabla automáticamente. Por favor, lea el siguiente artículo% 3 $ sknowledge base% 4 $ s para averiguar cómo resolver este problema.
+
+- ¡Buen trabajo! Todos los enlaces en tus textos se han contabilizado.
+?                                   -            ---         ------
+
++ ¡Buen trabajo! Todos los enlaces de tus textos han sido contados.
+?                                  +                +++++        +
+
+
+- Cálculo en progreso…
++ Cálculo en curso ...
+
+- Parar el conteo
++ Deje de contar
+
+- Contando enlaces en tus textos
+?                     ^
+
++ Contando enlaces en sus textos
+?                     ^
+
+
+- Texto %1$s de %2$s procesado.
+?      -       -
+
++ Texto% 1 $ s de% 2 $ s procesado.
+?       + + +     + + +
+
+
+- Se han contado todos tus textos, no hay necesidad de contarlos de nuevo.
++ Todos sus textos ya están contados, no hay necesidad de contarlos de nuevo.
+
+- Cuenta los enlaces en tus textos
+?       ----
+
++ Cuenta enlaces en tus textos
+
+- Es necesario contabilizar todos los enlaces de tus textos públicos. Esto ofrecerá ideas de qué textos necesitan más enlaces. Si quieres saber más sobre por qué y cómo enlazar internamente echa un vistazo a %1$seste artículo sobre enlaces internos en %2$s%3$s.
++ Los enlaces en todos sus textos públicos deben ser contados. Esto proporcionará información sobre los textos que necesitan más vínculos con ellos. Si desea saber más sobre el por qué y el cómo de la vinculación interna, echa un vistazo a% 1 $ sthe el artículo sobre la vinculación interna en% 2 $ s% 3 $ s.
+
+- Contador de enlaces en textos
+?                      -      -
+
++ Contador de enlaces de texto
+?                     +
+
+
+- Para asegurar que se cuenten todos los enlaces en tus textos tenemos que analizar todos tus textos.
+					Lo único que tienes que hacer es pulsar el siguiente botón y revisaremos todos tus textos por ti.
+					
+					%3$sContar enlaces%4$s
+					
+					La utilidad de enlaces a textos ofrece pistas sobre cuantos enlaces hay en tu texto y cuantos enlaces apuntan a tu texto. Esto es muy útil cuando estás mejorando tus %1$senlazado interno%2$s.
++ Para asegurar que todos los enlaces de tus textos sean contados, debemos analizar todos tus textos. Todo lo que tienes que hacer es pulsar el siguiente botón y pasaremos por todos tus textos para ti. % 3 $ sCount links% 4 $ s La función Contador de enlaces de texto proporciona información sobre cuántos vínculos se encuentran en el texto y cuántos vínculos se refieren a su texto. Esto es muy útil cuando mejora su% 1 $ sinternal enlazando% 2 $ s.
+
+- La utilidad <strong>contador de enlaces a textos</strong>  (introducida en %1$s %2$s) está en este momento desactivada. Para que funcione esta utilidad %1$s requiere al menos la versión de PHP %3$s. Hemos detectado la versión de PHP %4$s en esta web.
+					Por favor, lee el siguiente %5$sartículo de la base de conocimiento%6$s para aprender a resolver este problema.
++ La función de <strong>contador de enlaces de texto</strong> (introducida en% 1 $ s% 2 $ s) está deshabilitada actualmente. Para que esta función funcione% 1 $ s requiere al menos la versión de PHP% 3 $ s. Hemos detectado la versión de PHP% 4 $ s en este sitio web. Por favor, lea el siguiente% 5 $ sknowledge base article% 6 $ s para averiguar cómo resolver este problema.
+
+- # enlaces internos a
+?   ^
+
++ # Enlaces internos a
+?   ^
+
+
+- Número de enlaces internos que enlazan a esta entrada. Revisa el texto en las "Columnas Yoast" de la pestaña de ayuda para más información.
+?           ^  ^^^                               --- ----------          ^^^^  ^^      - ^^ -- ^^^
+
++ Número de vínculos internos que enlazan a esta publicación. Vea el texto &quot;Yoast Columns&quot; en la pestaña de ayuda para más información.
+?           ^^ ++ ^                              ++++++++++++++            ^^^^^^^^  ^^       ^^^  ^^ +
+
+
+- # enlaces en la entrada
++ # Enlaces en la publicación
+
+- Número de enlaces internos en esta entrada. Revisa el texto en las "Columnas Yoast" de la pestaña de ayuda para más información. 
+?                                     --- ----------          ^^^^  ^^      - ^^ -- ^^^                                           -
+
++ Número de enlaces internos en esta publicación. Vea el texto &quot;Yoast Columns&quot; en la pestaña de ayuda para más información.
+?                                    ++++++++++++++            ^^^^^^^^  ^^       ^^^  ^^ +
+
+
+- %1$s añade varias columnas a esta página. Hemos escrito un artículo sobre %2$scómo usar la puntuación SEO y de legibilidad%3$s. Las columnas de enlaces muestran el número de artículos de este sitio enlazando %5$sa%6$s este artículo y el número de URLs enlazadas %5$sdesde%6$s este artículo. Aprende más sobre %4$scómo usar estas utilidades para mejorar tu enlazado interno%3$s, lo que mejora enormemente tu SEO.
++ % 1 $ s agrega varias columnas a esta página. Hemos escrito un artículo sobre% 2 $ show para usar la puntuación SEO y la puntuación de lectura% 3 $ s. Las columnas de enlaces muestran el número de artículos en este sitio que enlazan% 5 $ sto% 6 $ s este artículo y el número de URL vinculadas% 5 $ sfrom% 6 $ s este artículo. Obtenga más información sobre% 4 $ show para utilizar estas funciones para mejorar su vinculación interna% 3 $ s, lo que mejora en gran medida su SEO.
+
+- Columnas %s
++ % S Columnas
+
+- Puntuación de legibilidad
+?     - ^^^^
+
++ Puntaje de legibilidad
+?      ^^
+
+
+- ¡Haz el curso online de entrenamiento en datos estructurados y aprende cómo crear snippets enriquecidos!
++ ¡Tome el curso en línea de formación de datos estructurados y aprender a crear fragmentos enriquecidos!
+
+- La palabra clave objetivo aparece solo en %2$d (de %1$d) subtítulos de tu escrito. Trata de usarla en al menos un subtítulo más.
+?                   ^^ ----          ^     -        -                 - ^^  -- ^ ^^      ^         ^
+
++ La palabra clave de enfoque aparece sólo en% 2 $ d (de% 1 $ d) subtítulos en su copia. Trate de usarlo en al menos un subtítulo más.
+?                  ++++++ ^^           ^      + + +      + + +               ^^^   ^^ ^      ^         ^
+
+
+- No hay ningún enlace interno en esta página, plantéate añadir alguno relevante.
++ No aparecen enlaces internos en esta página, considere la posibilidad de agregar algunos como sea apropiado.
+
+- Esta página tiene %1$s enlace(s) interno(s).
+?                  -
+
++ Esta página tiene% 1 $ s enlace (s) interno (s).
+?                   + + +        +           +
+
+
+- Esta página tiene %1$s enlace(s) interno(s) nofollow y %2$s enlace(s) interno(s) normal(es).
+?                  -     ^  ^^^^ -        - -           -
+
++ Esta página tiene% 1 $ s vínculos internos nofollowed y% 2 $ s enlace (s) interno (s) normal (es).
+?                   + + +  ^^ ++ ^                   ++   + + +        +           +          +
+
+
+- Esta página tiene %1$s enlace(s) interno(s), todos nofollow.
+?                  -
+
++ Esta página tiene% 1 $ s enlace (s) interno (s), todos nofollowed.
+?                   + + +        +           +                   ++
+
+
+- Otros beneficios de %s para ti:
+?                    -         ^
+
++ Otros beneficios de% s para usted:
+?                     +       ++ ^^
+
+
+- Déjanos configurar %s para ti
++ Configuremos% s para usted
+
+- Configura %s en unos pocos pasos
+?          ^
+
++ Configurar% s en unos pocos pasos
+?          ^ +
+
+
+- %1$sVista previa de medios sociales%2$s: Facebook y Twitter
++ % 1 $ sSocial media preview% 2 $ s: Facebook y Twitter
+
+- Navega para ver la vista previa del contenido.
++ Desplácese para ver el contenido de la vista previa.
+
+- Introduce aquí el código de autorización…
++ Ingrese el código de autorización aquí ...
+
+- La funcionalidad de contenido esencial te permite marcar y filtrar contenido fundamental en tu web. %1$sLee más sobre cómo el contenido esencial puede ayudarte a mejorar la estructura de tu sitio.%2$s
++ La funcionalidad de contenido de Cornerstone le permite marcar y filtrar el contenido de la piedra angular en su sitio web. % 1 $ sLeer más acerca de cómo el contenido de la piedra angular puede ayudarlo a mejorar la estructura de su sitio.% 2 $ s
+
+- Contenido esencial
++ Contenido de piedra angular
+
+- %1$s ahora se ocupará de toda la optimización técnica necesaria para tu sitio. Para mejorar de verdad el rendimiento de tu sitio en los resultados de búsqueda es importante empezar a crear contenido que puntúe bien por las palabras que te interesen. Revisa este vídeo en el que explicamos como usar la caja meta %1$s cuando editas entradas y páginas.
++ % 1 $ s se ocupará ahora de toda la optimización técnica necesaria de su sitio. Para mejorar realmente el rendimiento de su sitio en los resultados de búsqueda, es importante comenzar a crear contenido que se clasifique bien para las palabras clave que le interesan. Echa un vistazo a este video en el que explicamos cómo usar la metabox de% 1 $ s cuando editas publicaciones o páginas.
+
+- Tu plugin %1$s está configurado. El SEO, sin embargo, está sujeto a cambios constantes. Suscríbete a nuestro boletín si quieres estar al día sobre %1$s, otros plugins de Yoast y noticias importantes del mundo del SEO.
++ Su complemento% 1 $ s ya está configurado. SEO, sin embargo, está sujeto a cambios constantes. Regístrese para recibir nuestro boletín informativo si desea mantenerse al día con respecto a% 1 $ s, otros plugins de Yoast e importantes noticias en el mundo del SEO.
+
+- Mantente al día
++ Estar al día
+
+- ¡Si quieres ganar a tu competencia en una región o ciudad específica echa un vistazo a nuestro plugin %1$s! Podrás insertar fácilmente mapas de Google, horarios de apertura, información de contacto y localizadores de tienda. Además de todo esto %1$s te ayuda a mejorar la usabilidad de tu página de contacto. 
++ Si quieres superar la competencia en una ciudad o región específica, echa un vistazo a nuestro% 1 $ s plugin! Podrá insertar fácilmente mapas de Google, horarios de apertura, información de contacto y un localizador de tiendas. Además de que% 1 $ s le ayuda a mejorar la usabilidad de su página de contacto.
+
+- Atrae más clientes cerca de ti
+?     ^                        ^
+
++ Atraiga a más clientes cerca de usted
+?     ^^^^^                       ++ ^^
+
+
+- ¿Quieres conocer todos los secretos del plugin %1$s? ¿Quieres aprender todo sobre nuestros ajustes avanzados? ¿Quieres ser realmente capaz de sacar el máximo partido del plugin %1$s? ¡Echa un vistazo a nuestro entrenamiento del plugin %1$s y empieza a ganar a tu competencia!
++ ¿Quieres conocer todos los detalles del plugin% 1 $ s? ¿Quieres aprender todo sobre nuestra configuración avanzada? ¿Quieres ser capaz de sacar el máximo provecho del plugin% 1 $ s? ¡Echa un vistazo a nuestro entrenamiento de plugins de% 1 $ s y comienza a superar a la competencia!
+
+- Saca el máximo partido de %1$s con el %2$s
++ Aproveche al máximo los% 1 $ s con los% 2 $ s
+
+- ¿Quieres aprender cómo escribir contenido que genere tráfico? Echa un vistazo a nuestro %1$s. Te ayudaremos a escribir contenido sorprendente que posicionará en los motores de búsqueda. El %1$s cubre todos los pasos principales de la escritura SEO: desde la investigación de palabras clave hasta la publicación.
++ ¿Quieres aprender a escribir contenido que genere tráfico? Echa un vistazo a nuestro% 1 $ s. Le ayudaremos a escribir la copia impresionante que clasificará en los motores de búsqueda. El% 1 $ s cubre todos los pasos principales en SEO redacción: de la investigación de palabras clave a la publicación.
+
+- Aprende como escribir contenido que posicione
++ Aprenda a escribir una copia que clasifique
+
+- Actualizar a premium
++ Mejorado a Premium
+
+- ¿Quieres ganar a tu competencia? %1$s te ofrece fantásticas características adicionales que te ayudarán a configurar tu estrategia SEO como un profesional. Utiliza la funcionalidad de múltiples palabras clave objetivo, el gestor de redirecciones y nuestra herramienta de enlaces internos. %1$s también te dará acceso a soporte premium.
++ ¿Quieres superar tu competencia? % 1 $ s le ofrece impresionantes funciones adicionales que le ayudarán a configurar su estrategia de SEO como un profesional. Utilice la funcionalidad de palabras clave de enfoque múltiple, el administrador de redireccionamiento y nuestra herramienta de vinculación interna. % 1 $ s también le dará acceso a soporte premium.
+
+- Gana a tu competencia con %s
++ Supera la competencia con% s
+
+- Aunque tratamos de hace que configurar %1$s sea lo más fácil posible entendemos que puede ser en ocasiones intimidante. Si prefieres que configuremos %1$s por ti (y consguir una copia de %2$s en el proceso) contrata un servicio de configuración de %1$s y siéntate mientras configuramos tu sitio.
++ Mientras nos esforzamos por hacer la configuración de% 1 $ s tan fácil como sea posible, entendemos que todavía puede ser desalentador. Si prefiere que configure% 1 $ s para usted (y obtenga una copia de% 2 $ s en el proceso), solicite un servicio de configuración de% 1 $ s y siéntese mientras configuramos su sitio.
+
+- Configura %s
+?          ^
+
++ Configurar% s
+?          ^ +
+
+
+- Bienvenido al asistente de configuración de %1$s. ¡En unos pocos pasos te ayudaremos a configurar tus ajustes SEO para que se ajusten a las necesidades de tu web! %1$s se ocupará de todas las optimizaciones técnicas que tu sitio necesita.
++ Bienvenido al asistente de configuración de% 1 $ s. ¡En pocos pasos le ayudaremos a configurar su configuración de SEO para que coincida con las necesidades de su sitio web! % 1 $ s se encargará de todas las optimizaciones técnicas que su sitio necesita.
+
+- Por favor, elige la configuración %s que te guste:
++ Por favor, elija la configuración% s de su agrado:
+
+- Boletín
++ Hoja informativa
+
+- Hemos detectado que no has completado aún este asistente, así que te recomendamos que %2$sinicies el asistente de configuración para configurar %1$s%3$s.
+?                          ^^^^ ^^^^   ----                 ^^^     ^                  -    ------                                -----        ^^^
+
++ Hemos detectado que todavía no ha terminado este asistente, por lo que le recomendamos que% 2 $ sstart el asistente de configuración configure% 1 $ s% 3 $ s.
+?                     ++++++++     ^^^^ ^^                    ^^^^^^     ^                   + + +  ++++                                       ^ + + +  + + +
+
+
+- El asistente de configuración te ayudar a configurar con facilidad tu sitio para conseguir los ajustes SEO óptimos.
++ El asistente de configuración le ayuda a configurar fácilmente su sitio para que tenga la configuración óptima de SEO.
+
+- Artículos esenciales
++ Artículos de Cornerstone
+
+- Este artículo es %1$s contenido esencial%2$s
++ Este artículo es% 1 $ scornerstone content% 2 $ s
+
+- Si no puedes actualizar tu versión de PHP puedes enviar un correo electrónico a tu alojamiento. Tenemos algunos %1$sejemplos aquí%2$s. Si no quieren actualizar tu versión de PHP te sugerimos que cambies de alojamiento. Echa un vistazo a uno de nuestros %3$ssocios de alojamiento de WordPress%4$s, todos han sido aprobados por nuestro equipo técnico en Yoast y ofrecen todas las características que un proveedor de alojamiento moderno debe ofrecer.
++ Si no puede actualizar su versión de PHP usted mismo, puede enviar un correo electrónico a su anfitrión. Tenemos% 1 $ sexamples aquí% 2 $ s. Si no quieren actualizar su versión de PHP, sugerimos que cambie de host. Eche un vistazo a uno de nuestros socios de hosting% 3 $ sWordPress recomendados, todos ellos han sido examinados por nuestro equipo de soporte de Yoast y proporcionan todas las características que un host moderno debe proporcionar.
+
+- Si no puedes actualizar tu versión de PHP puedes enviar un correo electrónico a tu alojamiento. Tenemos algunos %1$sejemplos aquí%2$s. Si no quieren actualizar tu versión de PHP te sugerimos que cambies de alojamiento. Echa un vistazo a uno de nuestros %3$ssocios de alojamiento de WordPress%4$s.
++ Si no puede actualizar su versión de PHP usted mismo, puede enviar un correo electrónico a su anfitrión. Tenemos% 1 $ sexamples aquí% 2 $ s. Si no quieren actualizar su versión de PHP, sugerimos que cambie de host. Echa un vistazo a uno de los socios de hosting% 3 $ sWordPress recomendados% 4 $ s.
+
+- ¿No puedes actualizar? ¡Pregunta a tu proveedor de alojamiento!
++ ¿No se puede actualizar? ¡Pregunte a su anfitrión!
+
+- Deberías actualizar tu versión de PHP a la 5.6, la 7.0 o la 7.1. En un sitio con WordPress normal, cambiar a PHP 5.6 no debería dar problemas. Sin embargo, la realidad es que te recomendamos que cambies a PHP7. No obstante, hay algunos plugins que no están preparados para PHP7, así que haz algunas pruebas antes. Tenemos un artículo acerca de cómo probar si es una opción para ti %1$saquí%2$s. PHP7 es mucho más rápido que PHP 5.6. Además, es la única versión de PHP que sigue en desarrollo activo y, por tanto, es la mejor opción para tu sitio a largo plazo.
++ Debe actualizar su versión de PHP a 5.6 oa 7.0 o 7.1. En un sitio normal de WordPress, cambiar a PHP 5.6 nunca debe causar problemas. Sin embargo recomendamos que cambie a PHP7. Hay algunos complementos que no están listos para PHP7, así que hacer algunas pruebas primero. Tenemos un artículo sobre cómo probar si esa es una opción para ti% 1 $ shere% 2 $ s. PHP7 es mucho más rápido que PHP 5.6. También es la única versión de PHP todavía en desarrollo activo y por lo tanto la mejor opción para su sitio en el largo plazo.
+
+- A qué versión debería actualizar?
+?                  ^^^^
+
++ ¿A qué versión debo actualizar?
+? +                 ^
+
+
+- Los proveedores de alojamiento tienen la capacidad de actualizar tu versión de PHP, pero a veces no se atreven por miedo romper a tu sitio.
+?     ^  ^^^^^^  ---------------                                   ^                                                           --- ^^
+
++ Los anfitriones tienen la capacidad de actualizar su versión de PHP, pero a veces no se atreven a hacerlo porque tienen miedo de que rompan su sitio.
+?     ^^^^^ + ^                                     ^                                             ++++++++++   ++++++++++       +++++++     ^^^
+
+
+- Hey, nos hemos dado cuenta de que estás utilizando una versión antigua de PHP. PHP es el lenguaje de programación con el que se ha programado WordPress y Yoast SEO. La versión que estás utilizando en tu sitio ya no es compatible. Las nuevas versiones de PHP son más rápidas y seguras. De hecho, tu versión de PHP ya no recibe actualizaciones de seguridad, que es por lo que estamos enviando este aviso.
++ Hey, hemos notado que estás ejecutando una versión obsoleta de PHP. PHP es el lenguaje de programación en el que se construyen WordPress y Yoast SEO. La versión que se utiliza actualmente para su sitio ya no es compatible. Las versiones más nuevas de PHP son más rápidas y más seguras. De hecho, su versión de PHP ya no recibe actualizaciones de seguridad, por lo que le estamos enviando a este aviso.
+
+- Tu sitio podría ser más rápido y seguro con una versión de PHP más reciente.
+? ^                                                             -------------
+
++ Su sitio podría ser más rápido y más seguro con una nueva versión de PHP.
+? ^                               ++++               ++++++
+
+
+- Un mensaje de %1$s
+?              -
+
++ Un mensaje de% 1 $ s
+?               + + +
+
+
+- Consigue %s ahora &raquo;
++ Obtener% s ahora »
+
+- Hazte Premium y nuestros expertos responderán cualquier pregunta que puedas tener acerca de la configuración y el uso del plugin.
+? ^^^^^                                      ^^                             -       ^^ ------                                 ^^^
+
++ Go Premium y nuestros expertos estarán a su disposición para responder a cualquier pregunta que pueda tener sobre la configuración y el uso del complemento.
+? ^^                            ++++++++++++++++++++++++++++++          ^^                                    ^^^^                                +++  ^^^ ++
+
+
+- soporte 24/7
+? ^
+
++ Soporte 24/7
+? ^
+
+
+- Sugerencias super rápidas sobre enlaces internos
++ Sugerencias de vinculación interna de Superfast
+
+- ¡Grandes noticias: puedes hacerlo, con %1$s!
+? -    ---        -        --------     -
+
++ Gran noticia: ¡puedes, con% 1 $ s!
+?               +            + + +
+
+
+- ¡Incluye 1 año de actualizaciones gratuitas!
++ 1 año actualizaciones gratuitas y actualizaciones incluidas!
+
+- El plugin %2$s cambia el código de tu sitio haciendo diferencias entre los motores de búsqueda y los usuarios normales, un proceso llamado cloaking. Recomendamos encarecidamente que lo desactives.
++ El plugin% 2 $ s cambia la salida de tu sitio y al hacer eso diferencia entre los motores de búsqueda y los usuarios normales, un proceso que se llama disimulación. Le recomendamos que lo deshabilite.
+
+- Sugerencias super rápidas de enlaces internos
++ Sugerencias de enlaces internos de Superfast
+
+- %1$sNo más enlaces muertos%2$s: fácil gestor de redirecciones
+?                                      ----------        ^^^  ^
+
++ % 1 $ sNo más enlaces muertos% 2 $ s: fácil redirect manager
+?  + + +                        + + +                ^^^^ ++ ^
+
+
+- Otros beneficios de %1$s para ti:
+?                    -           ^
+
++ Otros beneficios de% 1 $ s para usted:
+?                     + + +       ++ ^^
+
+
+- ¡Hazte Premium y nuestros expertos responderán cualquier pregunta que puedas tener acerca de la configuración y el uso del plugin!  
+? ^^^^^^                                      --                             -       ^^ ------                                      --
+
++ Go Premium y nuestros expertos estarán a su disposición para responder cualquier pregunta que pueda tener sobre la configuración y el uso del plug-in!
+? ^^                            ++++++++++++++++++++++++++++++                                              ^^^^                                    +
+
+
+- Precios desde 69,- para un solo sitio
++ Los precios comienzan tan bajo como 69, - para un sitio
+
+- Facebook y Twitter
+?          --
+
++ Facebook Twitter
+
+- Vista previa en redes sociales
+?               -
+
++ Vista previa de redes sociales
+?              +
+
+
+- Encuentra entradas relacionadas super rápido
++ Buscar publicaciones relacionadas
+
+- Sugerencias de enlaces internos
++ Sugerencias internas de vinculación
+
+- Fácil gestor de redirecciones
++ Administrador de redireccionamiento fácil
+
+- Aumenta tu alcance SEO
+?       ^^^
+
++ Aumente su alcance de SEO
+?       ^^^          +++
+
+
+- Consigue %1$s
++ Obtenga% 1 $ s
+
+- Si quieres más ayuda para crear contenido impactante revisa nuestro %2$scurso de escritura SEO%3$s. ¿Quieres conocer todas las características del plugin?, ¡plantéate hacer  nuestro %1$s!
++ Si desea más ayuda para crear contenido impresionante, consulte nuestro% 2 $ sSEO copywriting course% 3 $ s. ¿Quieres saber todo sobre las características del plugin, considere hacer nuestro% 1 $ s!
+
+- Navega para ver el contenido de la tabla.
+? ^^^ ^^
+
++ Desplácese para ver el contenido de la tabla.
+? ^ ^^^^^^^^
+
+
+- ¡Haz nuestro curso online de entrenamiento técnico SEO y aprende los conceptos técnicos SEO esenciales!
++ ¡Tome el curso técnico en línea de la formación de SEO y aprenda los conceptos SEO técnicos esenciales!
+
+- La densidad de la palabra clave es de %1$s, lo que está muy por encima del máximo recomendable de %3$s; la palabra clave objetivo se encontró %2$d veces.
++ La densidad de palabras clave es% 1 $ s, que es mucho más que el máximo aconsejado% 3 $ s; La palabra clave de enfoque se encontró% 2 $ d veces.
+
+- Ocurrió un error en la evaluación '%1$s'
++ Se ha producido un error en la evaluación &#39;% 1 $ s&#39;
+
+- %1$s de las palabras contienen %2$smás %3$s sílabas%4$s, , que es más que el máximo recomendado de %5$s.
+?                               -    ^^ -----             --                                        -
+
++ % 1 $ s de las palabras contienen% 2 $ sover% 3 $ s sílabas% 4 $ s, que es más que el máximo recomendado de% 5 $ s.
+?  + + +                            + + + ^^^^^^^^^^          + + +                                           + + +
+
+
+- %1$s de las palabras contienen %2$smás %3$s sílabas%4$s, que es menor o igual que el máximo recomendado de %5$s.
+?                               -    ^^ -----                                   ^^^^^                       -
+
++ % 1 $ s de las palabras contienen% 2 $ sover% 3 $ s sílabas% 4 $ s, que es menor o igual al máximo recomendado de% 5 $ s.
+?  + + +                            + + + ^^^^^^^^^^          + + +                        ^                        + + +
+
+
+- %1$s de las frases contienen una frase o %2$spalabra de transición%3$s, lo cual es genial.
+?             ^  ^                 ------------                 ^ ^  ^ -
+
++ % 1 $ s de las oraciones contienen una palabra% 3 $ s o frase de stransition% 2 $, lo cual es genial.
+?  + + +         ^  ^^^^                        +++++++++++++++    +      ^ ^  ^^^
+
+
+- %1$s de las frases contienen una frase o %2$spalabra de transición%3$s, que es inferior al mínimo recomendado de %4$s.
++ % 1 $ s de las oraciones contienen una palabra% 3 $ s o frase de stransition% 2 $, que es menor que el mínimo recomendado de% 4 $ s.
+
+- La palabra clave objetivo '%1$s' no aparece en el título SEO.
+?                   ^^ ^^^^^^    ^
+
++ La palabra clave de enfoque &#39;% 1 $ s&#39; no aparece en el título SEO.
+?                  ++++++ ^^ ^^^^^^ + + + ^^^^^
+
+
+- La cantidad de palabras que siguen a cada uno de sus subtítulos no supera el máximo recomendado de %1$d palabras, lo cual es genial.
+?                                    --       ^     --     ^^^^^     --- ^^                         -                            ----
+
++ La cantidad de palabras que siguen cada una de las subpartidas no excede el máximo recomendado de% 1 $ d palabras, lo cual es grande.
+?                                           ^    ++     +++ ^^^      ^^^^^                          + + +                        ++++
+
+
+- %1$s de las frases contiene %2$smás de %3$s palabras%4$s, que es más que el máximo recomendado de %5$s. Trata de acortar tus frases.
+?             ^  ^           ^     ^ --------                                                      -          ^            ^^
+
++ % 1 $ s de las oraciones contienen% 2 $ smore que% 3 $ s palabras% 4 $ s, que es más que el máximo recomendado de% 5 $ s. Trate de acortar las frases.
+?  + + +         ^  ^^^^           ^ + + +  ^^^^^^^^^^^^^           + + +                                           + + +       ^            ^^
+
+
+- %1$s de las frases contiene %2$smás de %3$s palabras%4$s, que es menor o igual que el máximo recomendado de %5$s.
+?             ^  ^           ^     ^ --------                                    ^^^^^                       -
+
++ % 1 $ s de las oraciones contienen% 2 $ smore que% 3 $ s palabras% 4 $ s, que es menor o igual al máximo recomendado de% 5 $ s.
+?  + + +         ^  ^^^^           ^ + + +  ^^^^^^^^^^^^^           + + +                        ^                        + + +
+
+
+- La meta description no contiene frases %1$sde más de %2$s palabras%3$s.
++ La descripción de meta no contiene oraciones% 1 $ sover% 2 $ s palabras% 3 $ s.
+
+- %1$s de las frases contiene una %2$svoz pasiva%3$s, que es más el máximo recomendado de %4$s. Trata de usar su contrapartida activa.
+?             ^  ^           -- --    ----     ^                                         -          ^                      ^^^
+
++ % 1 $ s de las oraciones contienen% 2 $ spassive voice% 3 $ s, que es más que el máximo recomendado de% 4 $ s. Trate de usar sus contrapartes activas.
+?  + + +         ^  ^^^^             + + +    +  ^^^^^^^ + + +              ++++                         + + +       ^           +           ^^       +
+
+
+- %1$s de las frases contiene una %2$svoz pasiva%3$s, que es menor o igual que el máximo recomendado de %4$s.
+?             ^  ^           -- --   ^                                     ^^^^^                       -
+
++ % 1 $ s de las oraciones contienen% 2 $ voz espasiva% 3 $ s, que es menor o igual al máximo recomendado de% 4 $ s.
+?  + + +         ^  ^^^^             + + ^    ++       + + +                        ^                        + + +
+
+
+- La meta description especificada tiene más de %1$d caracteres. Reducir ese número asegurará que sea visible la descripción completa.
++ La meta descripción es sobre% 1 $ d caracteres. Reducir la longitud garantizará que toda la descripción será visible.
+
+- La densidad de la palabra clave es de %1$s, lo que es un poco bajo; la palabra clave objetivo se encontró %2$d veces.
+?               ---                 ----     ---        ^^^^ --    ^  ^                 ^^ ----            -
+
++ La densidad de palabras clave es% 1 $ s, que es demasiado baja; La palabra clave de enfoque se encontró% 2 $ d veces.
+?                       +          + + +          ^^^^^^^^     ^  ^                ++++++ ^^              + + +
+
+
+- Paso %1$d: %2$s
+?     -     -
+
++ Paso% 1 $ d:% 2 $ s
+?      + + +   + + +
+
+
+- ¿Necesitas ayuda para determinar tus ajustes? Configura %1$s paso a paso.
+?          -                       ^ ^^ ^^^^^^          ^^
+
++ ¿Necesita ayuda para determinar su configuración? Configure% 1 $ s paso a paso.
+?                                 ^ ^^^^^^^^^ ^^^^          ^ + + +
+
+
+- No hay nuevos avisos.
++ No hay notificaciones nuevas.
+
+- Por favor, si necesitas ayuda, revisa %1$snuestro artículo sobre cómo conectar tu web a Google Search Console%2$s.
++ Refiérase a% 1 $ sour artículo sobre cómo conectar su sitio web a Google Search Console% 2 $ s si necesita ayuda.
+
+- Guardar todo
++ Salvar a todos
+
+- Guardar
++ Salvar
+
+- %1$s, autor en %2$s
+?       ^       -
+
++ % 1 $ s, Autor en% 2 $ s
+?  + + +   ^        + + +
+
+
+- Datos de wpSEO importados con éxito. ¿Te gustaría %1$sdesactivar el plugin wpSEO%2$s?
++ Los datos de wpSEO se importaron correctamente. ¿Quieres que% 1 $ sdisable el plugin wpSEO% 2 $ s?
+
+- Datos de All in One SEO importados con éxito. ¿Te gustaría %1$sdesactivar el plugin All in One SEO%2$s?
++ Todos en uno los datos de SEO importados con éxito. ¿Le gustaría a% 1 $ sdisable el plugin de SEO de All in One% 2 $ s?
+
+- Datos de All in One SEO importados con éxito. ¿Te gustaría %1$sdesactivar el plugin All in One SEO%3$s? Tienes activado Google Analytics en All in One SEO, ¿te gustaría instalar nuestro %2$splugin de Google Analytics%3$s?
++ Todos en uno los datos de SEO importados con éxito. ¿Le gustaría a% 1 $ sdisable el todo en uno plugin de SEO% 3 $ s? Ha activado Google Analytics en All in One SEO, ¿le gustaría instalar nuestro% 2 $ sGoogle Analytics plugin% 3 $ s?
+
+- Vista previa escritorio
++ Vista previa del escritorio
+?             ++++
+
+
+- Usar peticiones en su lugar
++ Utilice consultas en su lugar
+
+- Usar javascript en su lugar.
+?  ^^^
+
++ Utilice javascript en su lugar.
+?  ^^^^^^
+
+
+- Elige redirección
++ Seleccionar redireccionamiento
+
+- ¡Toma el curso online de entrenamiento de estructura de sitio y aprende a estructurar tu web!
++ ¡Tome el curso de formación de estructura de sitio en línea y aprenda cómo estructurar su sitio web!
+
+- <strong>no</strong> estás recibiendo actualizaciones.
+?                         -
+
++ <strong>no</strong> está recibiendo actualizaciones.
+
+- estás recibiendo actualizaciones.
+? ^   -
+
++ Está recibiendo actualizaciones.
+? ^
+
+
+- <b>¡Atención!</b> ¡Tu licencia de %s está inactiva, lo que significa que te estás perdiendo actualizaciones y soporte! <a href="%s">Activa tu licencia</a> o <a href="%s" target="_blank">consigue una licencia aquí</a>.
++ <b>¡Advertencia!</b> Su licencia% s está inactiva, lo que significa que está perdiendo actualizaciones y soporte. <a href="%s">Active su licencia</a> o <a href="%s" target="_blank">obtenga una licencia aquí</a> .
+
+- <b>¡Advertencia!</b> ¡No has configurado aún tu clave de licencia de %s, lo que significa que te estás perdiendo actualizaciones y soporte! <a href="%s">Introduce tu clave de licencia</a> o <a href="%s" target="_blank">consigue una licencia aquí</a>.
++ <b>¡Advertencia!</b> Todavía no has establecido tu clave de licencia de% s, lo que significa que estás perdiendo actualizaciones y soporte. <a href="%s">Introduzca su clave de licencia</a> o <a href="%s" target="_blank">obtenga una licencia aquí</a> .
+
+- Por favor introduce un título SEO editando el snippet de abajo.
++ Proporcione un título SEO editando el siguiente fragmento.
+
+- Vista previa de la meta description:
++ Vista previa de la descripción del meta:
+
+- Vista previa del slug:
+?                ^^^
+
++ Vista previa de Slug:
+?                ^^
+
+
+- Vista previa del titulo SEO:
+?                   ^
+
++ Vista previa del título SEO:
+?                   ^
+
+
+- Cerrar el editor de snippet
++ Cerrar el editor de fragmentos
+
+- Slug
++ Babosa
+
+- Quitar marcas del texto
+? ^^ ^          ^
+
++ Eliminar marcas en el texto
+? ^^ ^^^          ^^^
+
+
+- Marca este resultado en el texto
++ Marcar este resultado en el texto
+?      +
+
+
+- Las marcas están desactivadas en la vista actual
+?                      ^ --
+
++ Las marcas están deshabilitadas en la vista actual
+?                     + ^^^^
+
+
+- Optimización de contenido. Buena puntuación SEO
+?                          ^
+
++ Optimización del contenido: Buena puntuación de SEO
+?                +          ^                  +++
+
+
+- Calificación SEO buena
++ Buena puntuación de SEO
+
+- Optimización de contenido. Puntuación SEO válida
++ Optimización del contenido: OK SEO score
+
+- Puntuación SEO aceptable
++ Puntuación de OK SEO
+
+- Optimización de contenido: Mala puntuación SEO
+?                            -----
+
++ Optimización de contenido: puntuación de mala SEO
+?                                       ++++++++
+
+
+- Calificación SEO mala
++ Puntuación mala de SEO
+
+- Optimización de contenido: Hay recomendaciones
+?                            ^^^   ^    ^   ^ --
+
++ Optimización del contenido: Tiene retroalimentación
+?                +            ^^^^^   ^^ +++   ^   ^
+
+
+- Feedback
++ Realimentación
+
+- https://es.wikipedia.org/wiki/Palabra_vac%C3%ADa
++ Http://en.wikipedia.org/wiki/Stop_words
+
+- La palabra clave objetivo aparece en la URL de esta página.
+?                   ^^ ----
+
++ La palabra clave de enfoque aparece en la URL de esta página.
+?                  ++++++ ^^
+
+
+- Tienes demasiado poco contenido, por favor, añade algo de contenido para permitir un buen análisis.
+?                                           -  ^ --    ^^^^
+
++ Tienes demasiado poco contenido, por favor agrega algún contenido para permitir un buen análisis.
+?                                             ^^^^     ^^
+
+
+- Las imágenes de esta página contienen etiquetas alt.
+?                                       ^  ^ - ^
+
++ Las imágenes de esta página contienen atributos alt.
+?                                       ^ + ^  ^
+
+
+- Las imágenes en esta página no tienen atributos alt que contengan tu palabra clave objetivo.
+?               -                                                   ^^                ^^ ----
+
++ Las imágenes de esta página no tienen atributos alt que contengan la palabra clave de enfoque.
+?              +                                                    ^^               ++++++ ^^
+
+
+- Las imágenes de esta página tienen atributos alt que contienen la palabra clave objetivo.
+?                                                  ----   ------                   ^^ ----
+
++ Las imágenes de esta página contienen atributos alt con la palabra clave de enfoque.
+?                             +++                                          ++++++ ^^
+
+
+- El texto no contiene ningún subtítulo. Añade al menos uno.
+?                          ^      ^^^^^      ^            ^
+
++ El texto no contiene ninguna subpartida. Añadir al menos una subpartida.
+?                          ^ +    +++ ^^^      ^^            ^^^^^^^^^^^^
+
+
+- Ninguno de tus párrafos es demasiado largo, lo cual es genial.
+?            ^^           -
+
++ Ninguno de los párrafos son demasiado largos, lo cual es genial.
+?            ^^            ++                +
+
+
+- El título SEO de la página es mayor que el límite visible.
+?               -------------     ^ -
+
++ El título SEO es más amplio que el límite visible.
+?                   +++ ^^^^
+
+
+- El título SEO de la página tiene una longitud adecuada.
+?              -------------                     ^^^^
+
++ El título de SEO tiene una longitud agradable.
+?           +++                        ^^   +++
+
+
+- El título SEO de la página es demasiado corto. Utiliza el espacio para añadir variaciones de la palabra clave o escribe una llamada a la acción irresistible.
+?               -------------                         ^^                  ^ --                ---                 --  --                         -------------
+
++ El título de SEO es demasiado corto. Utilice el espacio para agregar variaciones de palabras clave o crear una convincente copia de llamada a la acción.
+?           +++                             ^^                  ^^^^                         +            ++    +++++++++++++++++++++
+
+
+- La longitud de la meta description es insuficiente.
+?                               ^ ^     --
+
++ La longitud de la meta descripción es suficiente.
+?                               ^ ^
+
+
+- La meta description contiene la palabra clave objetivo.
+?                ^ ^                             ^^ ----
+
++ La meta descripción contiene la palabra clave de enfoque.
+?                ^ ^                            ++++++ ^^
+
+
+- Tu frase clave tiene más de 10 palabras, una frase clave debe ser más corta.
+? ^^             -- ^^                                                      ^
+
++ La frase clave es más de 10 palabras, una frase clave debe ser más corto.
+? ^^              ^                                                      ^
+
+
+- ok
++ De acuerdo
+
+- Elige una imagen
+?    ^^
+
++ Elija una imagen
+?    ^^
+
+
+- Quita la imagen
++ Eliminar la imagen
+
+- vista previa de la imagen de logotipo de la empresa
++ Logotipo de la empresa
+
+- Elige la imagen
++ Elegir imagen
+
+- El registro en Mailchimp ha fallado:
++ Error al registrarse en MailChimp:
+
+- Ocurrió un error en la petición.
++ Hay un error con la solicitud.
+
+- Elige perfil
++ Seleccionar un perfil
+
+- Elige un perfil
+?    ^^
+
++ Elija un perfil
+?    ^^
+
+
+- Volver a identificar con Google
++ Reautenticarse con Google
+
+- Para permitir que %s obtenga tu información de la consola de búsqueda de Google, por favor, introduce tu código de autorización de Google. Al hacer clic en el botón de abajo se abrirá una nueva ventana. 
+?                  -           ^^                   ^                              -----------  ^ ----                                                                                                      -
+
++ Para permitir que% s obtenga la información de la Consola de búsqueda de Google, ingresa tu código de autorización de Google. Al hacer clic en el botón de abajo se abrirá una nueva ventana.
+?                   +          ^^                   ^                                ^  ++
+
+
+- Vista previa del resultado de búsqueda
++ Resultados de la búsqueda
+
+- Vista previa de la URL:
+?                ---
+
++ Vista previa de URL:
+
+- Por favor introduce una meta description editando el snippet de abajo.
++ Proporcione una descripción de meta editando el siguiente fragmento.
+
+- Editar snippet
++ Editar fragmento
+
+- Formulario de resultado de búsqueda
+?               ^            ^
+
++ Formulario de Resultados de Búsqueda
+?               ^        +    ^
+
+
+- Puedes hacer clic en cualquier elemento de la vista previa para ir al editor del snippet.
+?      -                - ^^^^^^                                  ^^^  ^^        ^^ ------
+
++ Puede hacer clic en cada elemento de la vista previa para saltar al Editor de fragmentos.
+?                       ^^                                  ^  ^^^^^^^^        ^^^^^^^^^^
+
+
+- Este es un título de ejemplo - edítalo haciendo clic aquí
+?                                  ^ ^^^
+
++ Este es un título de ejemplo - edite haciendo clic aquí
+?                                  ^ ^
+
+
+- Vista previa del slug:
+?                ^^^
+
++ Vista previa de Slug:
+?                ^^
+
+
+- Vista previa de la meta description:
++ Vista previa de la descripción del meta:
+
+- Por favor, facilita una meta description editándola aquí.
++ Proporcione una descripción meta editándola aquí.
+
+- Cerrar formulario de resultado de búsqueda
++ Cerrar formulario de resultados de búsqueda
+?                               +
+
+
+- Ocurrió un problema al guardar este paso, {{link}}por favor, envía un informe de fallos{{/link}} describiendo en qué paso estás y qué cambios querías hacer (si los hubiera).
+? ^ --- ^                         ^^^                        ^^ ----                    ^  -                                                        ^ ^^^ --           -----
+
++ Se ha producido un problema al guardar el paso actual, {{link}} por favor archive un informe de fallo {{link}} describiendo en qué paso estás y qué cambios quieres realizar (si los hay).
+? ^^^^^^^^^^^  ^^                         ^     +++++++          +         ^^^^^^^                     ^                                                        +  ^^^^^ ^^^             +
+
+
+- Cerrar el asistente
+?     ^^
+
++ Cierre el asistente
+?  +   ^
+
+
+- Paso previo
++ Paso anterior
+
+- Paso siguiente
++ Próximo paso
+
+- Exportar configuraciones
++ Configuración de exportación
+
+- ¡Obtener %s ahora!
+? -     ^^^
+
++ Obtenga% s ahora!
+?      ^^ +
+
+
+- No estás obteniendo aún los beneficios de %1$s. Si tuvieses %1$s podrías usar estas fantásticas características:
++ No obtendrás los beneficios de% 1 $ s todavía. Si tenías% 1 $ s, podrías usar sus características impresionantes:
+
+- %1$s video tutorial
++ % 1 $ s video tutorial
+?  + + +
+
+
+- Volver al escritorio de %s
++ Vuelva al panel de control de% s.
+
+- %1$sPor favor, no me muestres más este aviso%2$s
++ % 1 $ sPlease no me muestre más esta notificación% 2 $ s
+
+- Si estás experimentando problemas %1$spor favor, envía un informe de fallos%2$s y haremos todo lo posible para ayudarte.
++ Si tiene problemas,% 1 $ splease presenta un informe de error% 2 $ s y haremos todo lo posible para ayudarle.
+
+- Hemos detectado que estás hace ya tiempo que usas %1$s; ¡esperamos que te encante! ¡Nos emocionaría si nos %2$sdas una valoración de 5 estrellas en WordPress.org%3$s!
++ Hemos notado que has estado usando% 1 $ s desde hace algún tiempo; ¡Esperamos que te guste! Estaríamos encantados si pudiera% 2 $ sgive nosotros una calificación de 5 estrellas en WordPress.org% 3 $ s!
+
+- ¡Haz el curso %1$s y conviértete en un experto certificado en %2$s!
+?  ^^^                          --                            --
+
++ ¡Tome el curso de% 1 $ s y conviértase en un experto certificado de% 2 $ s!
+?  ^^^^          ++ + + +            ++                            +  + + +
+
+
+- ¿Quieres tener el control de tu propia estrategia de SEO? Aprende todo lo que necesitas en uno de %1$snuestros cursos%2$s.
++ ¿Quieres conseguir un control sobre tu propia estrategia de SEO? Aprenda todo sobre él en uno de los cursos% 1 $ sour% 2 $ s.
+
+- %s &rsaquo; Asistente de configuración
+?  ^^ ^^^^^^
+
++ % S&gt; Asistente de configuración
+?  ^^ ^^
+
+
+- ¡Compra el plugin %1$s y optimiza hoy tu tienda para mejorar la promoción de tus productos!
+?       ^          -             ^^^^^^^^                      ^^             ----
+
++ ¡Compre el plugin% 1 $ s ahora y optimice su tienda hoy para mejorar su promoción de productos!
+?       ^           + + +  ++++++        ^^^^         ++++             ^^
+
+
+- Lleva tu SEO al próximo nivel y supera a tu competencia con nuestros %1$splugins SEO%2$s.
+?                 ^^^^ ^^                --                           -           ----
+
++ Lleva tu SEO al siguiente nivel y supera tu competencia con nuestros% 1 $ sSEO plugins% 2 $ s.
+?                 ^ ^^^^^^^                                            + + + ++++        + + +
+
+
+- ¡Deja que nuestros expertos configuren tu plugin %1$s!
+?     ^                                  ^        -
+
++ ¡Deje que nuestros expertos configuren su plugin% 1 $ s!
+?     ^                                  ^         + + +
+
+
+- ¿Quieres saber cómo mejorar tus posiciones en los buscadores? %1$s¡Deja que el equipo de %2$s te ayude!%3$s
++ ¿Quieres saber cómo mejorar tu ranking? % 1 $ sLet equipo% 2 $ s ayudarle!% 3 $ s
+
+- ¡Asiste al curso de entrenamiento online de búsqueda de palabras clave y aprende a posicionar con tus palabras clave!
++ ¡Tome el curso de formación en línea sobre investigación de palabras clave y aprenda a clasificar con sus palabras clave!
+
+- Ajustes de archivos por fecha
++ Configuración de archivos de fecha
+
+- Ajustes de archivos de autor
++ Configuración de archivos de autor
+
+- Quitar palabra clave
+? ^^ ^
+
++ Eliminar palabra clave
+? ^^ ^^^
+
+
+- %1$s por %2$s
+?         -
+
++ % 1 $ s por% 2 $ s
+?  + + +      + + +
+
+
+- Aviso: la variable %s no puede usarse en esta plantilla. Revisa el centro de ayuda para más información.
+?    ^^             -             ^  --                    ^ ----
+
++ Advertencia: la variable% s no se puede utilizar en esta plantilla. Consulte el centro de ayuda para obtener más información.
+?  + ++++++ ^              +    +++        ^^^^^                      ^^^^^^^                          ++++++++
+
+
+- Abre el asistente de configuración
+?    ^
+
++ Abra el asistente de configuración
+?    ^
+
+
+- Introduce las meta keywords
++ Introduzca las meta palabras clave
+
+- Introduce una palabra clave objetivo
+?         ^                    ^^ ----
+
++ Introduzca una palabra clave de enfoque
+?        + ^                   ++++++ ^^
+
+
+- Dicho sea de paso ¿sabías que también tenemos un %1$s plugin Premium%2$s? Ofrece funcionalidades avanzadas, como un gestor de redirecciones, y compatibilidad con múltiples palabras clave. También incluye soporte personal 24/7.
++ Por cierto, ¿sabía que también tenemos un% 1 $ sPremium plugin% 2 $ s? Ofrece funciones avanzadas, como un administrador de redireccionamiento y soporte para múltiples palabras clave. También viene con el apoyo personal 24/7.
+
+- (sin título)
+?  ^
+
++ (Sin título)
+?  ^
+
+
+- %1$s viene con un montón de características. Puedes activar / desactivar algunas a continuación.
+?                                                   ^^ ^ --         ^ --         ---
+
++ % 1 $ s viene con un montón de características. Puede habilitar / deshabilitar algunos de ellos a continuación.
+?  + + +                                               ^^ ^^^^         + ^^^^         ++++++++++++
+
+
+- El menú de la barra de administración de %1$s contiene enlaces útiles de herramientas de terceros con las que analizar páginas y facilitarte ver si tienes nuevos avisos.
+?           ---                           -                             ^^                          ^^^^^ ^^^^^                            ---             -      ^^ ^ -
+
++ El menú de barra de administración de% 1 $ s contiene enlaces útiles a herramientas de terceros para analizar las páginas y facilita ver si tiene nuevas notificaciones.
+?                                       + + +                          ^                          ^ ^^          ++++                                    ++++ ^^^^^ ^  ++
+
+
+- La integración de %1$s comprueba a diario si tu sitio aún está indexado en los motores de búsqueda, y te avisa cuando no sea así.
++ La integración de% 1 $ s comprueba diariamente si su sitio sigue siendo indexable por los motores de búsqueda y le notifica cuando este no es el caso.
+
+- Los ajustes avanzados incluyen ajustes globales para tus títulos y meta descriptions, metadatos sociales, mapas del sitio y mucho más.
+?                                        ---------                               ^                             -  ----------
+
++ Los ajustes avanzados incluyen ajustes para todo el sitio para sus títulos y meta descripciones, metadatos sociales, sitemaps y mucho más.
+?                                              +++++++++++++++++++                         ^   +                       ++++
+
+
+- Páginas de ajustes avanzados
++ Páginas de configuración avanzada
+
+- Características
+?         ^
+
++ Caracteristicas
+?         ^
+
+
+- Consigue acceso a nuestro equipo de soporte 24/7.
++ Obtenga acceso a nuestro equipo de soporte las 24 horas del día, los 7 días de la semana.
+
+- Comprueba como se verá tu publicación en Facebook o Twitter.
++ Compruebe lo que su Facebook o Twitter post se verá como.
+
+- Vistas previas sociales
++ Previews sociales
+
+- Optimiza una entrada en hasta 5 palabras clave
++ Optimice una sola publicación para un máximo de 5 palabras clave.
+
+- Crea y gestiona redirecciones desde tu instalación de WordPress.
+?        ^^  ^^^                  ^   ^
+
++ Crear y administrar redirecciones dentro de su instalación de WordPress.
+?     +   ^^^^^^  ^ +                 ^^^^^   ^
+
+
+- Aunque hemos tratado que configurar %1$s sea lo más fácil posible, entendemos que puede ser intimidante. Si prefieres que configuremos %1$s por ti (y de paso tener una copia de %2$s) ¡contrata nuestro %3$s%1$sservicio de configuración de %4$s aquí!
++ Mientras nos esforzamos por hacer la configuración de% 1 $ s lo más fácil posible, entendemos que puede ser desalentador. Si prefiere que establezcamos% 1 $ s para usted (y obtenga una copia de% 2 $ s en el proceso), pida nuestro% 3 $ s% 1 $ s servicio de configuración% 4 $ s aquí!
+
+- Bienvenido al asistente de instalación de  %1$s. ¡En unos pocos pasos te ayudaremos a configurar tus ajustes SEO para que se ajusten a las necesidades de tu web!
+?                             ^^^^^        --         -----             ^                          ^ ^^ ^^^^ -              ^^^ ^^^^^ --                     ^
+
++ Bienvenido al asistente de configuración de% 1 $ s. ¡En pocos pasos le ayudaremos a configurar su configuración de SEO para que coincida con las necesidades de su sitio web!
+?                            ++++ ^^^         + + +                   ^                          ^ ^^^^^^^^^ ^^^^^^               ^^^^^^^ ^^^                     +++++ ^^
+
+
+- Por favor, añade todos tus perfiles sociales relevantes. Utilizamos esto para que los motores de búsqueda sepan que existen, y para mejorar tus metadatos sociales: 
+? ^^ ------------        ^                                 ^^^^^^     -----                                       ^^   ^^ ----                ^                      -
+
++ Agregue todos sus perfiles sociales relevantes. Los usamos para que los motores de búsqueda sepan de ellos y para mejorar sus metadatos sociales:
+? ^^  +++       ^                                 ^^^^^^                                            ^   ^^^                 ^
+
+
+- Sitio de pequeño negocio
++ Sitio de la pequeña empresa
+
+- Tienda online
++ Tienda web
+
+- ¿Qué tipo de sitio es %1$s?
+?                      -
+
++ ¿Qué tipo de sitio es% 1 $ s?
+?                       + + +
+
+
+- Google muestra el nombre de tu web en los resultados de búsqueda, y si quieres cambiarlo, puedes hacerlo aquí.
+?                              ^                                    --   ^^^^^                   -
+
++ Google muestra el nombre de su sitio web en los resultados de búsqueda, si desea cambiarlo, puede hacerlo aquí.
+?                             +++++ ^^                                       ^  ++
+
+
+- Símbolo mayor que
++ Mayor que signo
+
+- Símbolo de menor que
++ Menos que signo
+
+- Comilla inclinada a la derecha
++ Ángulo recto
+
+- Comilla inclinada a la izquierda
++ Ángulo a la izquierda
+
+- Tilde pequeña
+?             ^
+
++ Tilde pequeño
+?             ^
+
+
+- Viñeta
++ Bala
+
+- Guión corto
++ En el tablero
+
+- Elige qué símbolo utilizar como separador de título. Se mostrará, por ejemplo, entre el título de tu publicación y el nombre del sitio. Los símbolos se muestran en el tamaño en el que aparecerán en los resultados de búsqueda.
+?    ^^   ^^^^^^^^^                                    ^^                                           ^^                                                                          ------
+
++ Elija el símbolo que desea utilizar como separador de título. Esto mostrará, por ejemplo, entre el título de su publicación y el nombre del sitio. Los símbolos se muestran en el tamaño que aparecerán en los resultados de búsqueda.
+?    ^^^^^^^^^^^^^   ^^^^^^^                                    ^^^^                                           ^^
+
+
+- Por favor, especifica cuáles de los siguientes tipos de contenido públicos quieres que vea Google.
+?                    ^^     --                             ^ ------       ^^^^^^^^      ----
+
++ Por favor, especifique cuál de los siguientes tipos de publicación pública desea que Google vea.
+?                    ^^^                                 +++++ ^^^^        ^^^  ++           ++++
+
+
+- ¿Tiene o tendrá tu sitio varios autores?
+?                 ^        ^^^ ^
+
++ ¿Tiene o tendrá su sitio múltiples autores?
+?                 ^        ^^^^ ^^^
+
+
+- Desarrollo (este sitio se está ejecutando localmente para propósitos de desarrollo)
+?                                                      ^^^^^^^ ^^ ----
+
++ Desarrollo (este sitio se está ejecutando localmente con fines de desarrollo)
+?                                                      ^ ^^^^^^
+
+
+- Staging (esta es una copia de un sitio activo utilizada solo para pruebas)
++ Estadificación (esta es una copia de un sitio en vivo que se usa para propósitos de prueba solamente)
+
+- Producción (este es un sitio activo, con tráfico real)
+?                              ^^^   -
+
++ Producción (este es un sitio en vivo con tráfico real)
+?                              ^^^^
+
+
+- Por favor, especifica el entorno en el que se está ejecutando este sitio - %1$s
+? ^^^^^^^^^^^^       ^^                                                     -
+
++ Especifique el entorno en el que se está ejecutando este sitio -% 1 $ s -.
+? ^       ^^^                                                      + + + +++
+
+
+- Facilita una imagen del logo de la empresa
+? ^^  ^^^
+
++ Proporcionar una imagen del logotipo de la empresa
+? ^^^^^^  ^^ +                    ++++
+
+
+- El tipo de contenido "%1$s" debería ser
++ El tipo de correo &quot;% 1 $ s&quot; debe ser
+
+- WordPress genera automáticamente una URL para cada elemento multimedia existente en la biblioteca. Activando esto permitirá a Google indexar la URL generada.
+?                                                                         -----------                ^^ -- ^^^                  ^
+
++ WordPress genera automáticamente una URL para cada elemento multimedia de la biblioteca. Habilitar esto permitirá a google indexar la URL generada.
+?                                                                        +                 ^^^^^^  ^                  ^
+
+
+- ¡Lo lograste!
++ ¡Éxito!
+
+- Ajustes de título
++ Configuración del título
+
+- Google Search Console
++ Consola de búsqueda de Google
+
+- Visibilidad de tipos de contenido
++ Visibilidad de tipo post
+
+- Entorno
++ Ambiente
+
+- El ajuste %1$s de Yoast no está disponible.
++ La opción Yoast% 1 $ s no se encuentra.
+
+- Publicaciones que están en &#8220;%s&#8221;
++ Puestos que están configurados en &quot;% s&quot;
+
+- Escaneo del sitio en Microsoft Edge
++ Microsoft Edge Site Scan
+
+- Test de datos estructurados de Google
+? ^ ^^
+
++ Prueba de datos estructurados de Google
+? ^^^ ^^
+
+
+- Lista de entradas
++ Lista de publicaciones
+
+- Navegación por la lista de entradas
++ Navegación de la lista de publicaciones
+
+- Filtrar la lista de entradas
++ Filtrar lista de publicaciones
+
+- Observa que los enlaces a los archivos aún podrían verse en tu tema y que puede que tengas que quitarlos por tu cuenta.
++ Tenga en cuenta que los vínculos a los archivos pueden seguir siendo producidos por su tema y necesitará eliminarlos por separado.
+
+- Conoce a las personas que han creado %1$s.
++ Echa un vistazo a las personas que crean% 1 $ s.
+
+- Por defecto en este tipo de taxonomía, actualmente: %s
+?             ^^                                     -
+
++ Por defecto para este tipo de taxonomía, actualmente:% s
+?             ^^^^                                      +
+
+
+- %1$s para optimizar tu sitio aún más
++ % 1 $ s para optimizar aún más su sitio
+
+- Extensiones de %1$s
++ % 1 $ s extensiones
+
+- Con nuestra garantía de devolución del dinero de 30 días sin preguntas
++ Viene con nuestros 30 días sin preguntas.
+
+- Más información %1$ssobre %3$s%2$s
++ Más información% 1 $ sabout% 3 $ s% 2 $ s
+
+- Compra %1$s
+?       ^
+
++ Comprar% 1 $ s
+?       ^ + + +
+
+
+- obtén acceso a nuestro equipo de soporte 24/7.
++ Tener acceso a nuestro equipo de soporte las 24 horas del día, los 7 días de la semana.
+
+- Soporte premium
+?         ^
+
++ Soporte Premium
+?         ^
+
+
+- comprueba cómo se verá tu publicación en Facebook o Twitter.
++ Comprobar lo que su Facebook o Twitter post se verá como.
+
+- Vistas previas sociales
++ Previsiones sociales
+
+- optimiza una entrada en hasta 5 palabras clave.
++ Optimizar una sola publicación de hasta 5 palabras clave.
+
+- Varias palabras clave objetivo
++ Palabras clave de enfoque múltiple
+
+- crea y administra redirecciones desde dentro de tu instalación de WordPress.
+? ^                                     ^^^^^^^^^^^
+
++ Crear y administrar redirecciones desde su instalación de WordPress.
+? ^   +             +                     ^
+
+
+- Gestor de redirecciones
++ Administrador de redireccionamiento
+
+- ¡%1$s, lleva tu optimización al siguiente nivel!
+? -
+
++ % 1 $ s, lleva tu optimización al siguiente nivel!
+?  + + +
+
+
+- Integración sin fisuras entre %1$s y %2$s
++ Una integración perfecta entre% 1 $ s y% 2 $ s
+
+- Utiliza las migas de pan de %1$s en vez de las de %2$s
++ Utilice% 1 $ s breadcrumbs en lugar de% 2 $ s ones
+
+- Mejoras al compartir en Pinterest
+?       ^^^
+
++ Mejorar el compartir en Pinterest
+?       ^^^
+
+
+- Mejoras en la usabilidad de tu página de contacto
+?       ^^^^                  ^
+
++ Mejorar la usabilidad de su página de contacto
+?       ^                  ^
+
+
+- Inserción sencilla de Google Maps, un localizador de tiendas, horas de apertura y más
+?      ^^^^^^ ^   ^^^^
+
++ Inserte fácilmente Google Maps, un localizador de tiendas, horarios de apertura y más
+?      ^ ^^^   ^ +++                                             +++
+
+
+- Consigue que te encuentren tus clientes potenciales
++ Buscar clientes potenciales
+
+- Crea mapas del sitio XML de noticias
++ Crea Sitemaps XML de Noticias
+
+- Envía pings an Google inmediatamente, cada vez que se publique una nueva entrada
++ Inmediatamente pings Google en la publicación de un nuevo post
+
+- Optimiza tu sitio para Google News
+?       ^^^^                     ^^
+
++ Optimice su sitio para Google Noticias
+?       ^^^^                     ^^^^^^
+
+
+- Haz que los vídeos sean adaptables activando fitvids.js
+?   ^          ^      ^  -----------
+
++ Hacer que los videos respondan activando fitvids.js
+?   ^^^          ^     ++ ^^^^
+
+
+- Mejora la experiencia compartiendo entradas con vídeos
++ Mejorar la experiencia de compartir publicaciones con videos
+
+- Muestra tus vídeos en Google Videos
+?  ^^
+
++ Mostrar tus vídeos en Google Videos
+?  ^    +
+
+
+- Navegación por la lista de problemas de rastreo
+?            ^^^^^^
+
++ Navegación de lista de problemas de rastreo
+?            ^^
+
+
+- Número de resultados de búsqueda: %d
+?                                  -
+
++ Número de resultados de búsqueda:% d
+?                                   +
+
+
+- Modificar &#8220;%s&#8221;
++ Editar &quot;% s&quot;
+
+- Filtrar por tipo de contenido
++ Filtrar por tipo de publicación
+
+- Mostrar todos los tipos de contenido
+?                              ^^ ---
+
++ Mostrar todos los tipos de correos
+?                              ^^  +
+
+
+- Premium
++ Prima
+
+- Ir al premium
++ Hazte Premium
+
+- Archivos borrados con éxito.
++ Archivos eliminados correctamente.
+
+- No se ha podido borrar el directorio %s. Por favor, bórralo por FTP.
++ No se pudo eliminar el directorio% s. Elimínelo por FTP.
+
+- Google Trends
++ Tendencias de Google
+
+- Avisos
++ Notificaciones
+
+- Quita la pestaña de palabra clave de la caja meta y desactiva todas las sugerencias relacionadas con el SEO.
+? ^^ ^                                   -----            ^ --                                        ---
+
++ Elimina la pestaña de palabras clave de la metabox y deshabilita todas las sugerencias relacionadas con SEO.
+? ^^ ^^^                       +                 +++      + ^^^^
+
+
+- Desactivar análisis SEO
++ Desactivar análisis de SEO
+?                     +++
+
+
+- Ajustes de Twitter
++ Configuración de Twitter
+
+- Ajustes de Pinterest
++ Configuración de Pinterest
+
+- Ajustes de Google+
++ Configuración de Google+
+
+- Ajustes de Facebook
++ Configuración de Facebook
+
+- Para permitir que los motores de búsqueda sepan qué perfiles sociales están asociados a este sitio introdúcelos a continuación:
+?      ---------                            ^^^   ^^^                  ------                                ^
+
++ Para que los motores de búsqueda conozcan los perfiles sociales asociados a este sitio, introdúzcalos a continuación:
+?                                  ^^^^^^   ^^^                                         +        + ^
+
+
+- Ajustes de mapa del sitio para el usuario
++ Configuración del sitio web de usuario
+
+- Ajustes de mapa del sitio para taxonomías
++ Configuración de mapas de taxonomías
+
+- Ajustes de mapa del sitio para tipos de contenido
++ Tipos de publicación del sitio
+
+- Entradas por cada página del mapa del sitio
+?             -----
+
++ Entradas por página del mapa del sitio
+
+- Tu mapa del sitio XML
+? ^         -
+
++ Su mapa de sitio XML
+? ^
+
+
+- Ajustes de publicación excluidos
++ Configuración de entradas excluidas
+
+- ¡Como estás redirigiendo las URLs de los adjuntos a las URLs de las publicaciones estos ajustes solo tendrán efecto en los elementos sin adjuntos! Así que recuerda: si cambias el %1$sajuste de redirección de adjuntos%2$s en el futuro los ajustes siguientes tendrán efectto en *todos* los elementos multimedia.
++ A medida que redireccione las URL de los adjuntos a las URL de las publicaciones de los padres, estas opciones solo tendrán un efecto en los elementos de medios no conectados. Recuerde: Si cambia la configuración% 1 $ sattachment redirection% 2 $ s en el futuro, la configuración siguiente tendrá efecto para * todos * los elementos multimedia.
+
+- Quita la pestaña de palabra clave de la caja meta y desactiva todas las sugerencia relacionadas con la palabra clave.
+? ^^ ^                                   -----            ^ --
+
++ Elimina la pestaña de palabras clave de la metabox y deshabilita todas las sugerencias relacionadas con las palabras clave.
+? ^^ ^^^                       +                 +++      + ^^^^                       +                    +        +
+
+
+- Análisis de palabra clave
++ Análisis de palabras clave
+?                    +
+
+
+- Símbolo separador del título
+?               ^^^   -
+
++ Símbolo de separación de títulos
+?         +++      ^^^^          +
+
+
+- Ajuste de seguridad
++ Configuración de seguridad
+
+- Restablecer los ajustes por defecto
++ Restaurar la configuración predeterminada
+
+- Ajustes del feed RSS
++ Configuración de RSS feed
+
+- Palabras vacías en los slugs.
++ Detener palabras en babosas.
+
+- Ajustes de migas de pan
++ Configuración de Breadcrumbs
+
+- Hacer principal
+?          ^^ - -
+
++ Hacer primaria
+?          ^^^
+
+
+- Optimización de contenido
++ Optimización del contenido
+?                +
+
+
+- Introduce tu código de autorización de Google y pulsa el botón Autorizar.
+?   ^ ^^ -----                                     ^^ ^             ^^ ^
+
++ Ingrese su código de autorización de Google y presione el botón Autenticar.
+?   ^ ^^^^^                                      ^^ ^^^^             ^^^ ^
+
+
+- Para permitir que %1$s recupere tu información de %2$s, por favor, introduce tu código de autorización de Google. Al hacer clic en el botón siguiente se abrirá  una nueva ventana.
+?                  -     ^ ^^^^^^^^^               -      -----------  ^ ^^ -----                                                             ^^^^^ ^^^           -
+
++ Para permitir que% 1 $ s obtenga la información de% 2 $ s, ingrese su código de autorización de Google. Al hacer clic en el botón de abajo se abrirá una nueva ventana.
+?                   + + +  ^^^ ^^^^^^                + + +     ^ ^^^^^                                                              ^ ^^^^^^
+
+
+- Artículo de la base de conocimiento
+?            ---
+
++ Artículo de base de conocimiento
+
+- Abre el artículo de la base de conocimiento en una nueva ventana o léelo en el marco de abajo
++ Abra el artículo de la base de conocimientos en una ventana nueva o léalo en el iframe a continuación
+
+- Volver a los resultados de búsqueda
+? ^^^^  ^
+
++ Regresar a los resultados de búsqueda
+? ^ + ^^ +++
+
+
+- Resultados de búsqueda
++ Resultados de la búsqueda
+?              +++
+
+
+- Tutorial en vídeo de Yoast SEO
++ Yoast SEO video tutorial
+
+- Desactivar el análisis de legibilidad
+?     ^ --
+
++ Deshabilitar el análisis de legibilidad
+?    + ^^^^
+
+
+- Quita la pestaña de legibilidad de la caja meta y desactiva todas las sugerencias relacionadas con la legibilidad.
+? ^^ ^                                 -----            ^ --
+
++ Elimina la pestaña de legibilidad de la metabox y deshabilita todas las sugerencias relacionadas con la legibilidad.
+? ^^ ^^^                                      +++      + ^^^^
+
+
+- Necesita mejoras
+?                ^
+
++ Necesita mejorar
+?                ^
+
+
+- Estás tratando de cargar archivos sin minimizar, y solo están disponibles en nuestro paquete de desarrollo. Revisa %1$s para ver todos los archivos originales.
+?     ^^ ^^     ---                 --      ^ ^ ^  ^^                                                         ^^    ^                                     ^ ----
+
++ Está intentando cargar archivos no minificados, estos sólo están disponibles en nuestro paquete de desarrollo. Echa un vistazo a% 1 $ s para ver todos los archivos de origen.
+?     ^^^ ^^                       +     ^ ^ ^^^  ^ + ++++                                                       ^^^^^^^^   + ^^^^ + + +                              +++    ^
+
+
+- ¡Tienes un nuevo problema relacionado con tu SEO!
+? ^^    -                         ^ ---     ^
+
++ Usted tiene un nuevo problema en relación con su SEO!
+? ^^^^^^^                       +++      ^      ^
+
+
+- El "Número máximo de entradas por página del mapa del sitio" debería ser inferior a %1$s para cumplir con los requisitos de Google, y %2$s no lo cumple.
++ &quot;Max entradas por página del mapa del sitio&quot; debe estar por debajo de% 1 $ s para cumplir con los requisitos de Google, que% 2 $ s no lo es.
+
+- %1$s Escritorio
++ % 1 $ s Dashboard
+
+- ¡Buen trabajo! No hemos podido detectar ningún problema grave de SEO.
+?                   ^^   -------          -------        ^^ ^^^
+
++ ¡Buen trabajo! No pudimos detectar problemas serios de SEO.
+?                   ^^^^                     ^^^^ ^^^
+
+
+- Hemos detectado los siguientes problemas que afectan al SEO de tu sitio.
+?                                                                ^
+
++ Hemos detectado los siguientes problemas que afectan al SEO de su sitio.
+?                                                                ^
+
+
+- Siempre estamos agradecidos de las mejoras que aportan los colaboradores espontáneos, in %1$s %2$s, hay aportaciones de las siguientes personas en:
++ Siempre estamos agradecidos por los parches de contribuidores no regulares, en% 1 $ s% 2 $ s, los parches de las siguientes personas lo hicieron en:
+
+- Auditor
++ Ensayador
+
+- Comprobación y seguro de calidad
++ Aseguramiento de la Calidad y Pruebas
+
+- Líderes del desarrollo
+?           ^^^
+
++ Líderes de Desarrollo
+?           ^^
+
+
+- Cabecera R&D
++ Jefe de I + D
+
+- Este es el análisis de contenido, una colección de revisiones de contenido que analizan el contenido de tu página. %1$sAprende más sobre la herramienta de análisis de contenido%2$s.
+?                                                     ^^^^                              -                 ^              ^^^^^^^^^
+
++ Este es el análisis de contenido, una colección de comprobaciones de contenido que analiza el contenido de su página. % 1 $ sMás información sobre la herramienta de análisis de contenido% 2 $ s.
+?                                                    ++++ ^^^^                                               ^           + + + ^  ++++++++++++                                               + + +
+
+
+- Escoge la palabra clave principal o frase clave sobre la que trata esta entrada/página. %1$sAprende más sobre la palabra clave objetivo%2$s.
++ Elija la palabra clave principal o la frase clave de la que trata esta publicación. % 1 $ sMás información sobre el Focus Palabra clave% 2 $ s.
+
+- Ésta es una representación de cómo podría verse esta publicación en los resultados de búsqueda de Google. %1$sAprende más acerca de la vista previa del snippet%2$s.
+? ^                             ^^^         ^  --                                                               ^^ ----                                 ^^ ------
+
++ Esta es una representación de lo que podría parecer esta publicación en los resultados de búsqueda de Google. % 1 $ sSaber más acerca de la vista previa de fragmentos% 2 $ s.
+? ^                             ^ ++++        ^^^^^                                                              + + + ^^^^                                  ^^^^^^^^^^  + + +
+
+
+- Introduce tu palabra clave objetivo
++ Introduzca su palabra clave de enfoque
+
+- ¡Compra el plugin %1$s para empezar a optimizar tu sitio y hacer que tu web destaque en Google News!
++ ¡Compre el complemento de% 1 $ s ahora y comience a optimizarlo para que su sitio aparezca en Google Noticias!
+
+- ¡Compra el plugin %1$s para mejorar el SEO local de tu sitio y mejorar los resultados en Google Maps!
++ ¡Compre el complemento de% 1 $ s ahora para mejorar el SEO local y el ranking de su sitio en Google Maps!
+
+- ¡Compra el plugin %1$s y optimiza tus videos para los resultados de búsqueda de vídeo y los medios sociales!
+?       ^          -             ^^^^              ----                            ^     ----
+
++ ¡Compre el plugin% 1 $ s ahora y optimice sus videos para resultados de búsqueda de video y medios sociales!
+?       ^           + + +  ++++++        ^^^^                                          ^
+
+
+- ¡Asiste al curso online de formación básica de SEO y aprende los fundamentos del SEO!
++ Tome el curso básico de SEO de formación en línea y aprender los fundamentos de SEO!
+
+- ¡Asiste al curso de entrenamiento de escritura SEO y aprende cómo escribir fantásticos textos que posicionen!
++ Tome el curso en línea SEO Redacción de formación y aprender a escribir una copia impresionante que clasifica!
+
+- No se ha definido la meta description.
++ Meta descripción no establecida.
+
+- Videotutorial
++ Tutorial de vídeo
+
+- Soporte por correo electrónico
+?         ^^^
+
++ Soporte de correo electrónico
+?         ^^
+
+
+- El soporte por correo electrónico es una característica %s
++ El soporte de correo electrónico es una función% s
+
+- Base de conocimientos
+?                     -
+
++ Base de conocimiento
+
+- Abrir
++ Abierto
+
+- Volver
++ Espalda
+
+- Algo salió mal. Por favor, inténtalo de nuevo más tarde.
+?                                  ^
+
++ Algo salió mal. Por favor, inténtelo de nuevo más tarde.
+?                                  ^
+
+
+- Buscar en la base de conocimientos de Yoast .
+?                                  -         --
+
++ Buscar en la base de conocimiento de Yoast
+
+- Escritorio
++ Tablero
+
+- Puedes solucionar este problema en la %1$spágina de ajustes de enlaces permanentes%2$s.
++ Puede solucionar esto en la página de configuración% 1 $ sPermalink% 2 $ s.
+
+- Simplemente desmarca la casilla antes de "Separar comentarios en páginas…" de la %1$spágina de ajustes de comentarios%2$s.
++ Simplemente desmarque la casilla antes de &quot;Rotar comentarios en las páginas ...&quot; en la página de configuración de% 1 $ sComment% 2 $ s.
+
+- La paginación de comentarios está activada, esto no es necesario en 999 de 1000 casos, te recomendamos desactivarla.
+?  ^^^^^^^^^^^^^^^                 ^ ^ --  ^                                             ^           ---            ^
+
++ Los comentarios de paginación están habilitados, esto no es necesario en 999 de cada 1000 casos, se recomienda desactivarlo.
+?  ^^             ++++++++++++++    ^^^ ^^^^   ^^                                +++++             ^       +                ^
+
+
+- Reemplazado con la categoría principal de la entrada/página
+?                                              ^ ^^^^^
+
++ Reemplazado con la categoría principal de la publicación / página
+?                                              ^^^^^^^^^^ ^ +
+
+
+- Si ya has confirmado tu web en Pinterest puedes saltarte este paso.
++ Si ya ha confirmado su sitio web con Pinterest, puede omitir el paso siguiente.
+
+- Puedes elegir no incluir a los usuarios que no tengan entradas.
++ Puede elegir no incluir usuarios sin publicaciones.
+
+- Usuarios sin entradas
++ Usuarios sin publicaciones
+
+- El mapa del sitio de usuario contiene las URLs del archivo de autor de cada usuario de tu sitio.
+?       -   ----------                         -   -                  ^^                 ^
+
++ El sitemap de usuario contiene las URL de archivo de autor para cada usuario de su sitio.
+?    ++++                                                    ^^^^                 ^
+
+
+- Archivos de formatos
+?                    -
+
++ Archivos basados ​​en formato
+?          ++++ +++++ +
+
+
+- Verificación en las herramientas para webmasters
+?               -----
+
++ Verificación de herramientas para webmasters
+?              +
+
+
+- Apúntate a la formación %s &raquo;
++ Inscríbete en el entrenamiento de% s »
+
+- ¡Sigue nuestra %1$s formación para WordPress y conviértete en un experto %1$s certificado!
++ Siga nuestro% 1 $ s para el entrenamiento de WordPress y conviértase en un experto certificado de% 1 $ s!
+
+- ¿Quieres ser un experto en %s?
+?                        ------
+
++ ¿Quieres ser un% s experto?
+?                +++
+
+
+- ¿Necesitas más ayuda?
+?         ^^^^^^
+
++ ¿Necesito ayuda?
+?         ^
+
+
+- Muestra información sobre la palabra clave objetivo
+?  ^^                                         ^^ ----
+
++ Mostrar información sobre la palabra clave de enfoque
+?  ^    +                                    ++++++ ^^
+
+
+- Muestra información sobre el editor del snippet
+?  ^^                                   ^^ ------
+
++ Mostrar información sobre el editor de fragmentos
+?  ^    +                               ^^^^^^^^^^
+
+
+- Comprar %s
+?        -
+
++ Comprar% s
+?         +
+
+
+- Mostrar información de errores de la categoría 'Soft 404'
+?                     ^          -               ^        ^
+
++ Mostrar información sobre errores en la categoría &#39;Soft 404&#39;
+?                     ^^^^           +              ^^^^^        ^^^^^
+
+
+- Mostrar información de errores de la categoría 'Servidor'
+?                     ^          -               ^        ^
+
++ Mostrar información sobre errores en la categoría &#39;Servidor&#39;
+?                     ^^^^           +              ^^^^^        ^^^^^
+
+
+- Mostrar información de errores de la categoría 'Bloqueado'
+?                     ^          -               ^         ^
+
++ Mostrar información sobre errores en la categoría &#39;Bloqueado&#39;
+?                     ^^^^           +              ^^^^^         ^^^^^
+
+
+- Mostrar información de errores de la categoría 'Otros'
+?                     ^          -               ^     ^
+
++ Mostrar información sobre errores en la categoría &#39;Otros&#39;
+?                     ^^^^           +              ^^^^^     ^^^^^
+
+
+- Mostrar información sobre errores de la categoría 'No encontrado'
+?                                   -               ^             ^
+
++ Mostrar información sobre errores en la categoría &#39;No encontrado&#39;
+?                                    +              ^^^^^             ^^^^^
+
+
+- Mostrar información sobre errores de la categoría 'Acceso denegado'
+?                                   -               ^               ^
+
++ Mostrar información sobre errores en la categoría &#39;Acceso denegado&#39;
+?                                    +              ^^^^^               ^^^^^
+
+
+- Nuevo título de %1$s
++ Nuevo% 1 $ s Título
+
+- Título %1$s existente
+?       -
+
++ Título% 1 $ s existente
+?        + + +
+
+
+- Se esperaba un número entero.
++ Se esperaba un entero como entrada.
+
+- Se ha intentado crear la clave de cache del mapa del sitio pero la combinación de sufijo y prefijo deja demasiado abiertas las opciones. Es posible que quieras mostrar una página que no esté en el rango deseado.
++ Intentando crear la clave de caché de sitemap, pero la combinación de prefijo y prefijo deja muy poco espacio para hacerlo. Probablemente esté solicitando una página que esté fuera del rango esperado.
+
+- Nota: Esta funcionalidad ha sido abandonada ya que su valor en SEO es cercano a 0 actualmente. Si la desactivas no podrás volver a instalarla después.
++ Nota: esta característica ha sido obsoleta, ya que el valor de SEO está cerca de 0 en estos días. Si lo desactiva, no podrá volver a activarlo.
+
+- Redirección
+?          ^
+
++ Redireccionar
+?          ^ ++
+
+
+- Sin redirección
+?              ^
+
++ Sin redireccionamiento
+?              ^ +++++++
+
+
+- Quitar
++ retirar
+
+- Conservar 
++ Guardar
+
+- Última página en negrita
++ Negrita la última página
+
+- Normal
++ Regular
+
+- Mostrar la página del blog
+?                     ^^^
+
++ Mostrar la página de Blog
+?                     ^^
+
+
+- Principal %s
++ Primaria% s
+
+- Principal
++ Primario
+
+- Hacer %1$s primario %2$s
++ Hacer% 1 $ s principal% 2 $ s
+
+- El término se ha etiquetado como noindex
++ El término se establece en noindex.
+
+- Filtrar por niveles de usuario específicos
+?         ^ ------
+
++ Filtrar roles de usuario específicos
+?         ^
+
+
+- No está en el mapa del sitio
+?    -----
+
++ No en el mapa del sitio
+
+- Mapa del sitio de autor / usuario
++ Sitio web del autor / usuario
+
+- Funcionalidad de mapa del sitio XML
+?                         -
+
++ Funcionalidad de mapa de sitio XML
+
+- Archivos de autor
+?        -   ^^
+
++ Archivo del Autor
+?           ^^^
+
+
+- Mostrar
++ Espectáculo
+
+- La sección avanzada de la meta box %1$s permite no indexar entradas o cambiar la relación canonical. Son cuestiones que puede que no quieras si no confías en tus autores así que por defecto solo los administradores pueden hacerlo. Activando la caja avanzada se permite a todos los usuarios cambiar estos ajustes.
++ La sección avanzada de la caja de meta de% 1 $ s permite a un usuario publicar posts de noindex o cambiar el canónico. Estas son cosas que tal vez no quieras si no confías en tus autores, así que por defecto, sólo los administradores pueden hacer esto. Habilitar el cuadro avanzado permite a todos los usuarios cambiar esta configuración.
+
+- Sección avanzada de la caja meta %1$s
++ Parte avanzada de la metabase% 1 $ s
+
+- Activado
++ Habilitado
+
+- Desactivado
++ Discapacitado
+
+- %s no ha obtenido aún el estado de indexación de tu sitio desde OnPage.org
+?  ^                ----                   ^ ^^    ^          ^^^
+
++ % S no ha obtenido el estado de indexabilidad de su sitio todavía en OnPage.org
+?  ^^                                   ^ ^^^^^    ^        ++ +++++ ^
+
+
+- El separador definido en la etiqueta %s de tu tema.
+?                                     -      ^
+
++ El separador definido en la etiqueta% s de su tema.
+?                                      +     ^
+
+
+- No indexar
++ Sin índice
+
+- Quitar las variables %s.
++ Elimine las variables% s.
+
+- Quitar la categoría base (normalmente %s) de la URL de categoría.
+? ^^ ^^^             --- -             -
+
++ Elimine la base de categorías (normalmente% s) de la URL de la categoría.
+? ^^ ^^^^   ++++++++                         +               +++
+
+
+- Analizar el sitio completo
++ Analizar todo el sitio
+
+- Ver el estado actual.
+? ^                   -
+
++ Obtener el estado actual
+? ^^^^^
+
+
+- %1$s%2$s no ha sido capaz de obtener el estado de indexación de tu sitio%3$s desde OnPage.org
+?                ^   ---------                            ^ ^^    ^              ---
+
++ % 1 $ s% 2 $ s no ha podido obtener el estado de indexabilidad de su sitio% 3 $ s de OnPage.org
+?  + + +  + + +        ^^^                               ^ ^^^^^    ^        + + +
+
+
+- Tu página de inicio puede ser indexada por los motores de búsqueda.
+? ^
+
++ Su página de inicio puede ser indexada por los motores de búsqueda.
+? ^
+
+
+- Comprobación de indexación de %1$s
++ Comprobación de la indexabilidad por% 1 $ s
+
+- Si quieres utilizar una imagen para compartir en %1$s puedes subir/elegir una imagen o añadir aquí la URL de la imagen.
+?    ^^^^^                                        -          -                            ^ -- -----
+
++ Si desea utilizar una imagen para compartir en% 1 $ s, puede subir / elegir una imagen o agregar la URL de la imagen aquí.
+?    ^  ++                                       + + + +            + +                     ^^^^                      +++++
+
+
+- Si quieres utilizar otro texto diferente a la meta description para compartir en %1$s escríbelo aquí.
++ Si no desea usar la descripción meta para compartir en% 1 $ s, pero desea otra descripción allí, escríbala aquí.
+
+- Si quieres utilizar otro texto diferente al title para compartir en %1$s escríbelo aquí.
++ Si no desea utilizar el título para compartir en% 1 $ s, sino que desea otro título, escríbalo aquí.
+
+- %1$sTu página principal no puede ser indexada por los motores de búsqueda%2$s. Esto es muy perjudicial para el SEO y debe ser solucionado.
+?     ^^                                                                                     ^^^^^^^^^        ---               ^^ -----
+
++ % 1 $ sLa página principal no puede ser indexada por los motores de búsqueda% 2 $ s. Esto es muy malo para SEO y debe ser arreglado.
+?  + + + ^^                                                                    + + +               ^  +                     ^^^^^
+
+
+- Una vez por semana
+?         ^^^
+
++ Una vez a la semana
+?         ^^^^
+
+
+- Extras
++ Complementos
+
+- Puntuación SEO
++ Puntuación de SEO
+?            +++
+
+
+- Editor del snippet
++ Editor de fragmentos
+
+- wpSEO ha sido desactivado
+? ^
+
++ WpSEO ha sido desactivado
+? ^
+
+
+- Se ha detectado el plugin wpSEO. ¿Quieres %1$simportar sus configuraciones%2$s?
+?                      ^^^          ^^^^^  ^          --   -            ^ --
+
++ Se ha detectado el complemento wpSEO. ¿Desea% 1 $ simport su configuración% 2 $ s?
+?                    +++  ^^^ ++         ^  ^^ + + +                      ^  + + +
+
+
+- Metadatos de Facebook/Open Graph
++ Metadatos de Facebook / Open Graph
+?                      + +
+
+
+- Recalculando la puntuación SEO para todo el contenido con palabra clave objetivo
++ Volver a calcular los puntajes de SEO para todas las piezas de contenido con una palabra clave de enfoque.
+
+- %1$s de %2$s hecho.
+?        -
+
++ % 1 $ s de% 2 $ s hecho.
+?  + + +     + + +
+
+
+- %s filtro/acción
+?  ^
+
++ % S filtro / acción
+?  ^^       + +
+
+
+- Hemos actualizado nuestro algoritmo de puntuación SEO. %1$sRecalcula las puntuaciones SEO%2$s de todas las entradas y páginas.
+?                                            - ^^^^                     ^      - ^^^^           ^^    ^   ^    ^^ ^^
+
++ Hemos actualizado nuestro algoritmo de puntaje SEO. % 1 $ sRecalcula los puntajes de SEO% 2 $ s para todos los mensajes y páginas.
+?                                             ^^       + + +            ^       ^  +++     + + +  ^^^^    ^   ^  +  ^ ^^
+
+
+- https://yoast.com/
+? ^
+
++ Https://yoast.com/
+? ^
+
+
+- La primera verdadera solución SEO todo en uno para WordPress, incluyendo análisis de contenido de páginas, mapas del sitio en XML y mucho más.
+?                               ----                                                            ^^         ^^   - -------------
+
++ La primera verdadera solución todo en uno SEO para WordPress, incluyendo análisis de contenidos en la página, sitemaps XML y mucho más.
+?                                          ++++                                                 ^^ ++++       ++ ^^^
+
+
+- https://yoast.com/wordpress/plugins/seo/#utm_source=wpadmin&utm_medium=plugin&utm_campaign=wpseoplugin
+? ^
+
++ Https://yoast.com/wordpress/plugins/seo/#utm_source=wpadmin&amp;utm_medium=plugin&amp;utm_campaign=wpseoplugin
+? ^                                                           ++++                  ++++
+
+
+- Ha fallado la activación:
++ Activación fallida:
+
+- La extensión filtro parece no estar disponible. Por favor, pide a tu proveedor de alojamiento web que la habilite.
+?                                                             ^     ^                                    ^
+
++ La extensión del filtro parece no estar disponible. Por favor, pídale a su proveedor de alojamiento web que lo habilite.
+?              ++++                                               ^ ++    ^                                    ^
+
+
+- La instalación del plugin %1$s no se ha completado. Por favor, consulta las %2$sinstrucciones de instalación%3$s.
++ La instalación del complemento% 1 $ s está incompleta. Consulte las instrucciones% 2 $ sinstallation% 3 $ s.
+
+- La extensión de librería estándar PHP (SPL) parece no estar disponible. Por favor, pide a tu proveedor de hosting que la active. 
+?                   ^^ ^^                                                             ^     ^               ^ ^ ^^^       ^^^ --  -
+
++ La extensión de la biblioteca estándar de PHP (SPL) parece no estar disponible. Por favor, pídale a su proveedor de alojamiento web que lo habilite.
+?                 ++++++  ^^ ^           +++                                                  ^ ++    ^               ^^ ^^^^^^ ^^^^^      +++ ^^^^
+
+
+- %sRenueva tu licencia ahora%s.
+?  ^   ^^  ^^
+
++ % SR Renovar su licencia ahora% s.
+?  ^^^^   ^  ^^^                 +
+
+
+- Tu licencia %s expirará el %s.
+? ^          -             ^^
+
++ Su licencia% s expirará en% s.
+? ^           +            ^ +
+
+
+- Has definido su clave de licencia usando la constante PHP %s.
+?   -                                ^
+
++ Ha definido su clave de licencia utilizando la constante PHP de% s.
+?                                   ^^^^^                      ++ +
+
+
+- Pega tu clave de licencia de %s aquí…
+?    ---                      -       ^
+
++ Pegue su clave de licencia de% s aquí ...
+?     ++++                      +      ^^^^
+
+
+- Por favor, introduce primero una clave de licencia en el campo de abajo.
+? ^^ ----------------                                              --
+
++ Ingrese primero una clave de licencia en el campo debajo.
+? ^^^  ++
+
+
+- Activar licencia
+?         ^
+
++ Activar Licencia
+?         ^
+
+
+- (desactiva tu licencia para poder activarla en otro sitio WordPress)
+?  ^       ^^^
+
++ (Desactive su licencia para poder activarla en otro sitio de WordPress)
+?  ^       ^^^                                             +++
+
+
+- Desactivar licencia
+?            ^
+
++ Desactivar Licencia
+?            ^
+
+
+- Alternar estado de la licencia.
+? ^^^^^^                        -
+
++ Cambiar el estado de la licencia
+? ^^^^^  +++
+
+
+- Estatus de la licencia
+?     ^^^
+
++ Estado de la licencia
+?     ^^
+
+
+- Tu servidor tiene una versión sin actualizar del módulo de PHP cURL (versión: %s). Por favor, solicita a tu empresa de hosting para actualizarla a una versión reciente de cURL. Puedes leer más sobre eso en nuestra %sbase de conocimiento%s.
++ Su servidor tiene una versión desactualizada del módulo PHP cURL (Versión:% s). Por favor, pídale a su empresa de hosting que actualice esto a una versión reciente de cURL. Puede leer más sobre eso en nuestra% sKnowledge base% s.
+
+- No pudimos crear una conexión a nuestra API para verificar tu(s) clave(s) de licencia. Por favor, solicita a tu empresa de hosting que permita conexiones salientes desde su servidor hacia %s.
+?    ^^^^                       ^                            ^^                          ^^^^^^^^^^^^        ^^^             ^ ^ ^^^                                                    - ----
+
++ No hemos podido crear una conexión con nuestra API para verificar la (s) clave (s) de licencia. Solicite a su empresa de alojamiento que permita conexiones salientes desde su servidor a% s.
+?    ^^   +++++++                    ^^^                            ^^^         +                 ^      ++  ^             ^^ ^^^^^^ ^                                                      +
+
+
+- Este sitio no se ha activado correctamente en yoast.com y por lo tanto no se puede comprobar si hay actualizaciones futuras. Por favor, activa tu sitio con una clave de licencia válida.
+?                                                                          ---                  -----                --------                  ^^^
+
++ Este sitio no se ha activado correctamente en yoast.com y, por lo tanto, no puede comprobar futuras actualizaciones. Por favor, active su sitio con una clave de licencia válida.
+?                                                          +             +                    ++++++                                   ^^^
+
+
+- %s no hemos podido comprobar si hay actualizaciones debido al siguiente error: <em>%s</em>
+?  ^     ^^^^                 -------
+
++ % S no ha podido comprobar actualizaciones debido al siguiente error: <em>% s</em>
+?  ^^     ^                                                                  +
+
+
+- %s está activa en la red, por favor contacta con el administrador del sitio para gestionar la licencia.
+?  ^                         ^^^^ ^^^        ^                                     ^^  ^^^
+
++ % S está activado en la red, póngase en contacto con el administrador del sitio para administrar la licencia.
+?  ^^            ++             ^^^ ^^^^^        ^                                     ^^^^^^  ^
+
+
+- %s está activa en la red, puedes configurar tu licencia en la <a href="%s">página de licencia del administrador de la red</a>
+?  ^   ^^       ^^^^^ ----        ^^^^^^^^    ^                                                   -           ^^^   ---
+
++ % S es red activada, puede administrar su licencia en la <a href="%s">página de licencia de administración de red</a> .
+?  ^^   ^^^^       ^        +++++++ ^    ^                                                              ^^^^           ++
+
+
+- %s: Ajustes de licencia
++ % S: Configuración de licencia
+
+- Error en la petición: "%s" (%savisos comunes de licencia%s)
++ Error de solicitud: &quot;% s&quot; (% scommon aviso de licencia% s)
+
+- Ha fallado el proceso para desactivar tu licencia %s.
++ Error al desactivar su licencia de% s.
+
+- Tu licencia %s ha sido desactivada. 
+? ^          -     -----           ^ -
+
++ Su licencia% s se ha desactivado.
+? ^           + +++              ^
+
+
+- Falló el proceso de activación de la licencia, tu clave de licencia no parece válida.
++ Error al activar su licencia, su clave de licencia parece no ser válida.
+
+- Tu licencia ha caducado. Debes <a href="%s">renovar tu licencia</a> para poder utilizarlo de nuevo.
+? ^              ^^^^^         -              ^  ^^^  ^                           ^^^^^   ^^^^     ^
+
++ Su licencia ha expirado. Debe <a href="%s">extender su licencia</a> para poder usarla nuevamente.
+? ^              ^^^^^                       ^^^  ^^  ^                           ^   ^     ^^^^^^
+
+
+- Has llegado al límite de activación. Debes <a href="%s">actualizar tu licencia</a> para usarla en este sitio.
+?   ^^ ^^^    ^                            -                         ^
+
++ Ha alcanzado el límite de activación. Debe <a href="%s">actualizar su licencia</a> para usarla en este sitio.
+?   ^^ ^^^^    ^                                                     ^
+
+
+- <a href="%s">¿Sabes que puedes actualizar tu licencia?</a>
+?                  ^
+
++ <a href="%s">¿Sabías que puedes actualizar tu licencia?</a>
+?                  ^^
+
+
+- Su licencia de %s se ha activado.
+?            ----
+
++ Su licencia% s se ha activado.
+?             +
+
+
+- <b>¡Aviso!</b> Estas bloqueando peticiones externa,s lo que significa que no podrás obtener actualizaciones de %s. Por favor, agrega %s a %s.
+?        ^^         ^             ^^^   ^^           -                                                          -    ^^^^^^^^^^^^     - ^^^^^
+
++ <b>¡Advertencia!</b> Estás bloqueando las solicitudes externas, lo que significa que no podrás obtener las actualizaciones de% s. Agregue% s a% s.
+?      + ++++++ ^         ^             ^^^^^^^   ^^^          +                                        ++++                    +   ^    ++++++  ^
+
+
+- Regístrate ahora &raquo;
+?                   --
+
++ Regístrate ahora &quot;
+?                      +
+
+
+- Traducción de %s
+?              -
+
++ Traducción de% s
+?               +
+
+
+- Esta usando WordPress en un idioma que aún no está disponible. Nos encantaría tener %2$s traducido a este idioma también pero, desafortunadamente, aún no lo tenemos. ¡Tú puedes cambiar esto!. ¡Regístrate en %4$s para ayudarnos a traducirlo!.
++ Estás usando WordPress en un idioma que aún no apoyamos. Nos encantaría que% 2 $ s sea traducido en ese idioma también, pero desafortunadamente, no es ahora. Usted puede cambiar eso! ¡Regístrese en% 4 $ s para ayudarlo a traducirlo!
+
+- Está usando WordPress en  %1$s. Mientras que %2$s ha sido traducido al %1$s un %3$d%%, aún no ha sido añadido al plugin. ¡Puedes ayudar!. Regístrate en %4$s para ayudar a completar la traducción al %1$s!
++ Estás usando WordPress en% 1 $ s. Mientras% 2 $ s se ha traducido a% 1 $ s para% 3 $ d %%, no se ha enviado con el complemento todavía. ¡Puedes ayudar! Regístrese en% 4 $ s para completar la traducción a% 1 $ s!
+
+- Como puedes ver, hay una traducción de este plugin en %1$s. Esta traducción está actualmente completa al %3$d%% . Necesitamos su ayuda para completarla y corregir cualquier error. Por favor, regístrate en %4$s para ayudar a completar la traducción de %1$s!
++ Como puede ver, hay una traducción de este complemento en% 1 $ s. Esta traducción es actualmente% 3 $ d %% completa. Necesitamos su ayuda para completarlo y corregir cualquier error. Por favor regístrese en% 4 $ s para completar la traducción a% 1 $ s!
+
+- All-in-One-SEO desactivado
+?     ^
+
++ All-In-One-SEO ha sido desactivado
+?     ^         ++++++++
+
+
+- Plugin All-In-One-SEO detectado. ¿Quieres %1$simportar sus ajustes%2$s?
++ Se ha detectado el complemento All-In-One-SEO. ¿Desea% 1 $ simport su configuración% 2 $ s?
+
+- Ajustes SEO
++ Configuración de SEO
+
+- Prueba de compatibilidad para móviles
+?                           ^^^
+
++ Prueba de compatibilidad con dispositivos móviles
+?                          +++++++ ^^^^^^^^
+
+
+- Google Page Speed Test
++ Prueba de velocidad de página de Google
+
+- Validador de CSS
+?       ^  ---
+
++ Validator CSS
+?       ^
+
+
+- Validador de Pinterest Rich Pins
++ Pinterest Rich Pins Validator
+
+- Depurador de Facebook
+?   ^  ----
+
++ Debugger de Facebook
+?   ^ +++
+
+
+- Comprobar cabeceras
++ Compruebe encabezados
+
+- Comprobar la caché de Google 
+?                             -
+
++ Comprobar la caché de Google
+
+- Comprobar la densidad de palabras clave
+?      ^ ^^
+
++ Compruebe la densidad de palabras clave
+?      ^^ ^
+
+
+- Comprobar enlaces entrantes (OSE)
++ Comprobar Inlinks (OSE)
+
+- SEO Book
++ Libro de SEO
+
+- AdWords Externo
++ Externo de AdWords
+
+- Análisis de palabras clave
++ Búsqueda de palabras clave
+
+- %s no parece ser una url válida. Por favor corrigelo.
+?  ^                                              ^^^^
+
++ % S no parece ser una url válida. Por favor corrija.
+?  ^^                                              ^^
+
+
+- %1$s no parece que sea una cadena válida de verificación de %2$s. Por favor corrígelo.
++ % 1 $ s no parece ser una cadena de verificación% 2 $ s válida. Por favor corrija.
+
+- "Número máximo de entradas por página de mapa del sitio" debería ser un número positivo, %s no lo es. Por favor, corrígelo.
+? ^^^^^^ ^^^ ------                                      ^     ---                                               -     ^^^^^
+
++ &quot;Max entradas por página del mapa del sitio&quot; debe ser un número positivo, que% s no lo es. Por favor corrija.
+? ^^^ ^^^^                        +               ^^^^^^                              +++ +                          ^^^
+
+
+- %s archivo
++ % S Archivo
+
+- Has buscado %s
+?            -
+
++ Has buscado% s
+?             +
+
+
+- %s no parece ser un user-id válido de Twitter. Por favor, corrígelo.
+?  ^                    ^ - -------                       -     ^^^^^
+
++ % S no parece ser un usuario de Twitter válido. Por favor corrija.
+?  ^^                    ^^              +++++++                ^^^
+
+
+- La entrada %1$s se publicó primero en %2$s.
++ La publicación% 1 $ s apareció primero en% 2 $ s.
+
+- Ningún valor numérico recibido.
++ No se recibió ningún valor numérico.
+
+- Debe ser un blog existente. El blog %s no existe o ha sido marcado como eliminado.
+? ^                                  -
+
++ Este debe ser un blog existente. El blog% s no existe o ha sido marcado como eliminado.
+? ^^^^^^                                   +
+
+
+- La configuración predeterminada del blog debe ser el ID numérico del blog que quires utilizar como predeterminado.
+?                                                   -            ^              ^^^^    ^^^^^                     ^
+
++ La configuración predeterminada del blog debe ser la ID numérica del blog que desea usar como predeterminada.
+?                                                    +           ^              ^  ++  ^                     ^
+
+
+- %1$s no es una elección válida para quien debería tener acceso a los ajustes de %2$s. El valor se ha devuelto al predeterminado.
++ % 1 $ s no es una opción válida para quién debe permitir el acceso a la configuración de% 2 $ s. Valor restablecido al valor predeterminado.
+
+- Por favor elige un tipo de contenido válido para la taxonomía "%s"
++ Seleccione un tipo de publicación válido para la taxonomía &quot;% s&quot;
+
+- Por favor, elige una taxonomía válida para el tipo de contenido "%s"
++ Seleccione una taxonomía válida para el tipo de mensaje &quot;% s&quot;
+
+- Has buscado por
++ Buscabas
+
+- Portada
++ Casa
+
+- Archivo de
++ Archivos para
+
+- Error 404: Página no encontrada
+?          ^
+
++ Error 404 - Página no encontrada
+?          ^^
+
+
+- Reemplazado con una descripción personalizada de taxonomías 
++ Reemplazada por una descripción de taxonomías personalizadas
+
+- Reemplazado con taxonomías personalizadas de entradas, separados por comas.
+?                                          ------------         ^
+
++ Reemplazado con una post taxonomías personalizadas, separadas por comas.
+?                +++++++++                                   ^
+
+
+- Reemplazado con un valor del campo personalizado de las entradas
+?                            -                           ---------
+
++ Reemplazado con un valor de campo personalizado de publicaciones
+?                                                    +++ ++ +++++
+
+
+- Reemplazado por el slug que causó el 404
+?             ^ ^^^ ^^ ^^
+
++ Reemplazado con la bala que causó el 404
+?             ^ ^^ ^^^^ ^
+
+
+- Reemplazado con la palabra clave objetivo de las publicaciones
++ Se reemplazó con la palabra clave de enfoque de publicaciones
+
+- Pié de foto del adjunto
++ Subtítulo adjunto
+
+- Reemplazado por el número de página actual
+?             ^ ^
+
++ Reemplazado con el número de página actual
+?             ^ ^
+
+
+- Reemplazado por el total de la página actual.
+?             ^ ^                             -
+
++ Reemplazado con el total de la página actual
+?             ^ ^
+
+
+- Reemplazado por el número actual de página en el contexto (por ejemplo, página 2 de 4)
++ Reemplazado con el número de página actual con el contexto (es decir, la página 2 de 4)
+
+- Reemplazado con el año en curso
++ Sustituido por el año en curso
+
+- Reemplazado con el día de hoy.
+?                        ^^^^^^^
+
++ Reemplazado con el día actual
+?                        ^^^^^^
+
+
+- Reemplazado con la fecha actual
++ Sustituido por la fecha actual
+
+- Reemplazado con lela ID de usuario del autor de la entrada/página
+?           ^     --   ^^                            ^ ^^^^^
+
++ Reemplazada con la cuenta de usuario del autor de la publicación / página
+?           ^        ^^^^^^                            ^^^^^^^^^^ ^ +
+
+
+- Reemplazado por la "Información biográfica" del autor de  la entrada/página
++ Reemplazada con la &quot;Información Biográfica&quot; del autor /
+
+- Reemplazado con el nombre "bonito" del autor de la entrada/página.
++ Reemplazado con el nombre del autor de la publicación / página &#39;nicename&#39;
+
+- Reemplazado con la ID de entrada/página
+?           ^              ^ ^^^^^
+
++ Reemplazada con la ID de publicación / página
+?           ^              ^^^^^^^^^^ ^ +
+
+
+- Reemplazado con la fecha de modificación de la entrada/página
++ Reemplazado con el tiempo de publicación / página modificada
+
+- Reemplazado con la etiqueta de la entrada en plural
+?                             -------- ^^^^^^^
+
++ Reemplazado con la etiqueta tipo plural
+?                              ^^^
+
+
+- Reemplazado con la etiqueta de la entrada en singular
++ Reemplazada con la etiqueta individual de tipo poste
+
+- Reemplazado con la frase de búsqueda actual
++ Sustituido por la frase de búsqueda actual
+
+- Reemplazado con la descripción del término
++ Sustituido por el término descripción
+
+- Reemplazado con la descripción de la etiqueta
++ Sustituido por la descripción de la etiqueta
+
+- Reemplazado con la descripción de la categoría
++ Sustituido por la descripción de categoría
+
+- Reemplazar con las categorías de la entrada (separadas con coma)
++ Sustituido por las categorías de correos (separados por comas)
+
+- Reemplazado con la(s) etiqueta(s) actuales 
++ Sustituido por la etiqueta / etiquetas actual
+
+- Reemplazado con el extracto de la entrada/página (sin autogeneración)
+?                                -----------            ----
+
++ Reemplazado con el extracto de página / página (sin generación automática)
+?                                       +++++++++               +++++++++++
+
+
+- Reemplazado con el extracto de la entrada/página (o la autogenerada si no existe)
++ Reemplazado con el extracto de página / página (o generado automáticamente si no existe)
+
+- La descripción/tag line del sitio
+?               ---------
+
++ Línea / descripción del sitio
+?  +++ ++
+
+
+- Reemplazado con el titulo de la página superior de la página actual
+?            ^^^^     ^                  -- -  ^^
+
++ Reemplazada por el título de la página principal de la página actual
+?           +++ ^     ^                     ^^^^^^
+
+
+- Reemplazado con el título de la entrada/página
+?             ^ ^                 ^ ^^^^^
+
++ Reemplazado por el título de la publicación / página
+?             ^ ^                 ^^^^^^^^^^ ^ +
+
+
+- Reemplazado con los datos de la entrada/página
++ Reemplazado con la fecha de la publicación / página
+
+- Página %1$d de %2$d
+?       -       -
+
++ Página% 1 $ d de% 2 $ d
+?        + + +     + + +
+
+
+- No puedes sustituir una variable de reemplazo estándar de WPSEO registrando una variable con el mismo nombre. Usa el filtro "wpseo_replacements" en vez de ajustar el valor de reemplazo.
++ No puede anular una sustitución de la variable estándar WPSEO registrando una variable con el mismo nombre. En su lugar, utilice el filtro &quot;wpseo_replacements&quot; para ajustar el valor de reemplazo.
+
+- Una variable de reemplazo con el mismo nombre ya ha sido registrada. Trata de hacer que el nombre de variable sea diferente y único.
++ Ya se ha registrado una variable de reemplazo con el mismo nombre. Trate de hacer su nombre de variable único.
+
+- Una variable de reemplazo no puede comenzar por "%%cf_" or "%%ct_" debido a que estas están reservadas para variables estándar de WPSEO para campos y taxonomías personalizadas. Intenta elegir nombres de variables únicos.
++ Una variable de reemplazo no puede comenzar con &quot;%% cf_&quot; o &quot;%% ct_&quot;, ya que están reservadas para las variables de variable estándar WPSEO para campos personalizados y taxonomías personalizadas. Trate de hacer su nombre de variable único.
+
+- Una variable de reemplazo solamente puede contener caracteres alfanuméricos, guión bajo, o guión normal. Intenta renombrar tu variable.
+?                             -------                                                    -        -------                 ^^
+
++ Una variable de reemplazo sólo puede contener caracteres alfanuméricos, un guión bajo o un guión. Intenta cambiar el nombre de tu variable.
+?                            ++                                           +++            +++                ++++++ + ++     ^^^^
+
+
+- Aviso solo para el Administrador: esta página no muestra una meta description porque no la tiene. Haz una de estas dos cosas: escribe una específicamente para esta página o ve al menú SEO -> Títulos y configura una plantilla.
+?       ^^^^^^ -------                                                     ^ ^                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^     ^  ^^^                                     - ^             ^
+
++ Aviso de administrador: esta página no muestra una meta descripción porque no la tiene, escríbela específicamente para esta página o entra en el menú SEO -&gt; Títulos y configura una plantilla.
+?       ^^^                                                      ^ ^                    ^     ^  ^                                      ^^^ +++++            ^^^^
+
+
+- %s archivos
++ Archivos de% s
+
+- Buscar por "%s"
++ Buscar &quot;% s&quot;
+
+- Excluir usuario del mapa del sitio de autores
+?                   ^^              -----------
+
++ Excluir usuario de Autor-mapa del sitio
+?                   ^^^^^^^
+
+
+- Meta keywords a usar en la página de autor
+?      ^ ^^^ ---
+
++ Meta palabras clave para usar en la página de autor
+?      ^^^^^^^^^^^^^ ^^^
+
+
+- Meta description a usar en la página de autor
+?               ^^^^^^^   ^^
+
++ Meta descripción a utilizar para la página de autor
+?             ++++++++  ^^^   ^^^^
+
+
+- Título a usar en la página de autor
+?               ^^
+
++ Título a usar para la página de autor
+?               ^^^^
+
+
+- Ajustes %1$s
++ % 1 $ s configuración
+
+- ¿Borrar los viejos datos después de la importación? (recomendado)
+?  ^^^^      -------
+
++ ¿Eliminar los datos antiguos después de la importación? (recomendado)
+?  ^^^^^^            +++++++++
+
+
+- Importar desde WooThemes SEO framework
+?        ^
+
++ Importación desde WooThemes SEO framework
+?        ^^^^
+
+
+- Importar desde All-in-One SEO
+?        ^   ---
+
++ Importación de All-in-One SEO
+?        ^^^^
+
+
+- Importar desde HeadSpace2
+?        ^
+
++ Importación desde HeadSpace2
+?        ^^^^
+
+
+- Si has estado utilizando hasta ahora otro plugin de SEO prueba el %1$splugin transportador de datos SEO%2$s para mover tus datos a este plugin, ¡funciona!
++ Si ha utilizado otro plugin de SEO, pruebe el plugin de% 1 $ sSEO Data Transporter% 2 $ s para mover sus datos a este plugin, ¡lo hace!
+
+- No hay duda de que has usado un plugin SEO antes si este sitio no es nuevo. Vamos a ponértelo fácil, puedes importar los datos que están abajo. Si quieres, puedes importar primero, revisar si se ha importado correctamente y después importar y borrar. No se importarán datos duplicados.
++ Sin duda has utilizado un plugin de SEO antes si este sitio no es nuevo. Vamos a hacerlo más fácil en usted, puede importar los datos a continuación. Si lo desea, puede importar primero, comprobar si se importó correctamente y, a continuación, importar y eliminar. No se importarán datos duplicados.
+
+- Exportar tus ajustes de %1$s
++ Exportar la configuración de% 1 $ s
+
+- Incluir los metadatos de taxonomía.
+?         ^^^^^            ^        -
+
++ Incluir Metadatos de Taxonomía
+?         ^            ^
+
+
+- Exporta tus ajustes de %1$s, estos datos los puedes usar para importarlos en otro momento o bien importarlos desde otra web.
++ Exporte los ajustes de% 1 $ s aquí, para importar de nuevo más tarde o para importarlos en otro sitio.
+
+- Ajustes de importación
++ Importar ajustes
+
+- Importa los ajustes localizando el archivo <em>settings.zip</em> y haciendo clic en "Importar ajustes"
+?       ^                        -----------                                          ^          ^ ^ ^^^
+
++ Importe los ajustes localizando <em>settings.zip</em> y haciendo clic en &quot;Importar configuración&quot;
+?       ^                                                                  ^^^^^^         ++++++++ ^^^^^^ ^ ^
+
+
+- Importar de otros plugins SEO
++ Importar desde otros plugins de SEO
+?            +++               +++
+
+
+- Los datos antiguos del plugin importado se han borrado con éxito.
++ Los datos antiguos del complemento importado se eliminaron correctamente.
+
+- Si tuvieses un archivo .htaccess y fuese editable podrías editarlo desde aquí.
+?     ---  --                        -- ^^
+
++ Si tenías un archivo .htaccess y era editable, podrías editarlo desde aquí.
+?      +++                          ^^         +
+
+
+- Guardar los cambios en el .htaccess
+?         ----          ---
+
++ Guardar cambios en .htaccess
+
+- Editar el contenido del archivo .htaccess
+?     ^^                ^^^^^^^^^
+
++ Edite el contenido de su .htaccess:
+?     ^                ^^^          +
+
+
+- Si tu archivo .htaccess tuviese permisos de escritura podrías editarlo desde aquí.
++ Si tu .htaccess era escribible, podrías editarlo desde aquí.
+
+- Guardar cambios en el robots.txt
+?                    ^^^^
+
++ Guardar cambios en Robots.txt
+?                    ^
+
+
+- si tu archivo robots.txt fuese editable podrías editarlo desde aquí.
+?  ---                     ^^   ^^^^^^^^^       -
+
++ Si su archivo robots.txt podía escribirse, podría editarlo desde aquí.
+? +++                      ^^^^^^  +++++++ ^
+
+
+- Si tuvieses un archivo robots.txt y fuese editable podrías editarlo desde aquí.
+?     ---  --                         -- ^^
+
++ Si tenías un archivo robots.txt y era editable, podrías editarlo desde aquí.
+?      +++                           ^^         +
+
+
+- Crea un archivo robots.txt
+?     ^^^
+
++ Crear archivo robots.txt
+?     ^
+
+
+- No tienes un archivo robots.txt, crea uno aqui:
+?         -                           ^        ^
+
++ No tiene un archivo robots.txt, cree uno aquí:
+?                                    ^        ^
+
+
+- No puedes editar el archivo .htaccess.
+?         -
+
++ No puede editar el archivo .htaccess.
+
+- No puedes editar el archivo robots.txt.
+?         -
+
++ No puede editar el archivo robots.txt.
+
+- No puedes crear un archivo robots.txt.
+?         -
+
++ No puede crear un archivo robots.txt.
+
+- Un enlace a tu sitio, con el nombre del sitio y la descripción como texto de anclaje.
+?             ^                       ----------
+
++ Un enlace a su sitio, con el nombre y la descripción de su sitio como texto de anclaje.
+?             ^                                        ++++++++++++
+
+
+- Un enlace a su sitio, con el nombre del sitio como texto de anclaje.
+?                                       ^
+
++ Un enlace a su sitio, con el nombre de su sitio como texto de anclaje.
+?                                       ^^^
+
+
+- Un enlace a la entrada, con el título como texto de anclaje.
+?                ^ -----
+
++ Un enlace a la publicación, con el título como texto de anclaje.
+?                ^^^^^^^^^^
+
+
+- Un enlace al archivo del autor de la entrada, con el nombre del autor como texto de anclaje.
+?                      ^               ^ -----
+
++ Un enlace al archivo para el autor de la publicación, con el nombre de los autores como texto de anclaje.
+?                      ^^^^^               ^^^^^^^^^^                   + ++      ++
+
+
+- Puedes usar la siguientes variables dentro del contenido, estas serán reemplazadas por el valor de la derecha.
+?      -  ^                                                  ----
+
++ Puede utilizar las siguientes variables dentro del contenido, que serán reemplazadas por el valor de la derecha.
+?        ^^^^^     +                                            ++
+
+
+- Contenido que se pondrá después de cada entrada en el feed
++ Contenido para poner después de cada publicación en el feed
+
+- Contenido a publicar en el feed antes de cada entrada
++ Contenido para publicar cada publicación en el feed
+
+- Esta característica se usa para añadir contenido automáticamente a tu RSS, en concreto, se trata de añadir enlaces de vuelta a tu sitio y las entradas de tu sitio, para que los ladrones de contenido tontos añadan automáticamente también esos enlaces, así ayudamos a los motores de búsqueda a identificarte como la fuente original del contenido.
++ Esta característica se utiliza para agregar contenido automáticamente a su RSS, más específicamente, está destinado a agregar enlaces a su blog y sus entradas de blog, por lo que raspadores mudo agregará automáticamente estos enlaces también, ayudando a los motores de búsqueda que identifican como la fuente original de la contenido.
+
+- Otras variables que no hay que borrar.
++ Otras variables no limpiar
+
+- Es posible que tengas variables extra que quieras evitar que se borren, agrégalas aquí, separadas por comas.
+?                     -            ^^^^     ^^^ ^ -        ^^  ^^^^^ ---     ^
+
++ Es posible que tenga variables adicionales que desea evitar de limpiar, agregarlas aquí, separadas por comas.
+?                                +++++++++ ^     ^ ^^         ^  ^^^^^^      ^  +
+
+
+- Impide el borrado de la campaña de Google Analytics y los parámetros de Google AdWords.
+? ^      --------------
+
++ Evite la limpieza de la campaña de Google Analytics y los parámetros de Google AdWords.
+? ^^^^^^^^^^^   ++++
+
+
+- Si usas parámetros de campañas de Google Analytics que empiecen con %s, marca esta casilla. Sin embargo, se recomienda no usarlos. Si lo prefieres puedes usar la versión con un símbolo #.
++ Si utiliza los parámetros de la campaña de Google Analytics que comienzan con% s, marque esta casilla. Sin embargo, le aconsejan no utilizar éstos. En su lugar, utilice la versión con un hash.
+
+- Impedir el borrado de las URLs de Google Site Search.
++ Evite la limpieza de las URL de búsqueda de sitios de Google.
+
+- Las URLs de Google Site Search son bastante sucias y feas, pero si usas Google Site Search lo más seguro es que quieras borrarlas.
++ Las URL de búsqueda de Google Site parecen extrañas y feas, pero si estás usando Google Site Search, probablemente no quieras que se limpien.
+
+- Redireccionar URLs feas para limpiar los enlaces permanentes. (¡en algunos casos no es recomendable hacerlo!)
++ Redirigir URL fea para limpiar los permalinks. (No se recomienda en muchos casos!)
+
+- Algunas veces la gente comete errores cuando te enlazan, o añaden parámetros no deseados al final de tus URLs, esto te permite redireccionarlos todos. Por favor fíjate que aunque esta es una función a la que se le da mantenimiento constantemente, es sabido que provoca mal funcionamiento de diversos plugins, y por esa razón debe ser la primera función que desactives cuando encuentres algún problema después de instalar el plugin.
++ La gente comete errores en sus enlaces hacia usted a veces, o los parámetros no deseados se agregan al final de su URL, esto le permite redirigir todos ellos. Tenga en cuenta que aunque se trata de una función activamente mantenida, se sabe que se rompen varios complementos y, por ello, debe ser la primera característica que deshabilite al encontrar problemas después de instalar este complemento.
+
+- Forzar la barra diagonal final en todas las URLs de categorías y etiquetas
+? ^ ^^ ^^^                                       -
+
++ Imponga una barra diagonal final en todas las URL de categorías y etiquetas
+? ^^^ ^^ ^^^
+
+
+- Si eliges un enlace permanente para tus entradas con  %1$s, o cualquier otra cosa diferente a %2$s al final, esto obligará a WordPress a añadir una barra diagonal a páginas no relacionadas con ninguna entrada.
+?         -                           ^    ------     --                            ^^^ ^ ---- -                                            ^ --                                  ^^ ^ ---    --------------------
+
++ Si elige un enlace permanente para sus publicaciones con% 1 $ s, o cualquier otra cosa que no sea% 2 $ s al final, esto obligará a WordPress a agregar una barra diagonal a páginas no publicadas.
+?                                    ^   +++++++++++       + + +                         ^^ ^^^^^   + + +                                         ^^^^                                   ^^^ ^
+
+
+- Esto impide que los comentarios anidados dejen de funcionar cuando el usuario ha desactivado JavaScript en su navegador, pero en un sitio grande puede implicar una <em>enorme</em> mejora en la eficacia de la indexación por parte de buscadores cuando tienes muchos comentarios.
++ Esto evita que las respuestas de subprocesos funcionen cuando el usuario tiene JavaScript deshabilitado, pero en un sitio grande puede significar una <em>gran</em> mejora en la eficiencia de rastreo para los motores de búsqueda cuando tiene muchos comentarios.
+
+- Esto te ayuda a crear URLs más limpias quitando automáticamente los caracteres de separación de ellas.
+?      ^                   -             ^^ ^                      ^  ^   -----     --  ^^^^^^
+
++ Esto le ayuda a crear URL más limpias eliminando automáticamente las palabras de paso de ellas.
+?      ^                                ^^ ^^^                      ^  ^ +++         ^^
+
+
+- Limpiar enlaces permanentes
++ Limpiar los permalinks
+
+- Redirecciona las URLs de los adjuntos hacia la URL de la entrada a la que pertenecen.
++ Redirigir las URL de adjuntos a la URL de publicación de los padres.
+
+- Los adjuntos a las entradas se almacenan en la base de datos como si fuesen entradas, eso significa que son accesibles con sus propias URLs si no las redireccionas, si activas esto las redireccionará hacia la entrada a la que estén adjuntas.
++ Los archivos adjuntos a los mensajes se almacenan en la base de datos como mensajes, lo que significa que son accesibles con sus propias URL si no los redireccionan, lo que los redireccionará a la publicación a la que estaban vinculados.
+
+- Cambiar URLS:
+?            --
+
++ Cambiar URL
+
+- El uso de esta característica de migas de pan está explicada en %1$s nuestro artículo sobre implementación de migas de pan%2$s.
++ El uso de esta característica de pan rallado se explica en% 1 $ sour artículo de base de conocimiento sobre la implementación de pan rallado% 2 $ s.
+
+- Como insertar las migas de pan en tu tema
+?  ^
+
++ Cómo insertar las migas de pan en tu tema
+?  ^
+
+
+- Archivo de tipo de entrada a mostrar en las migas de pan para las taxonomías
+?                      ^  ----           ----          ^       ----
+
++ Archivo de tipo de mensaje para mostrar en migas de navegación para taxonomías
+?                    +  ^^^^^^^                       ^ +++++++
+
+
+- Taxonomía a mostrar en migas de pan para el tipo "entradas"
++ Taxonomía para mostrar en pan rallado para tipos de post
+
+- Migas de pan para la página 404
++ Breadcrumb para 404 páginas
+
+- Prefijo para la página de búsqueda de las migas de pan
++ Prefijo de la página de búsqueda breadcrumbs
+
+- Prefijo para los archivos de migas de pan
+?             ----       ^^^^^
+
++ Prefijo para archivar migas de pan
+?                    ^^
+
+
+- Prefijo de la ruta de las migas de pan
++ Prefijo de la ruta de acceso
+
+- Texto del enlace para la página de inicio
+?         ^^^   ^
+
++ Texto de anclaje para la página de inicio
+?         ^^ +  ^
+
+
+- Separador de las migas de pan
++ Separador entre pan rallado
+
+- Activar las migas de pan
++ Habilitar Breadcrumbs
+
+- A continuación tienes las puntuaciones SEO de tus entradas publicadas. ¡Ahora es tan buen momento como cualquier otro para empezar a mejorar algunas de sus entradas!
++ A continuación se muestran las calificaciones SEO de sus publicaciones. ¡Ahora es el mejor momento para comenzar a mejorar algunos de sus posts!
+
+- Administrador de traducciones y QA
++ Gerente de QA &amp; Translations
+
+- Líder del proyecto
+?  ^        ^
+
++ Lider del Proyecto
+?  ^        ^
+
+
+- ¿Quieres ayudar a nuestros desarrolladores? ¡Lee nuestras %1$sdirectrices de colaboración%2$s!
++ ¿Quieres ayudarnos a desarrollar? Lea nuestras directrices% 1 $ scontribution% 2 $ s!
+
+- A pesar que la mayoria del equipo de desarrollo se encuentra en Holanda en  %1$sYoast%2$s, %3$s lo crea un equipo a lo ancho del mundo.
++ Mientras que la mayor parte del equipo de desarrollo está en% 1 $ sYoast% 2 $ s en los Países Bajos,% 3 $ s es creado por un equipo mundial.
+
+- ¡Gracias por actualizar %1$s!
+? -                      -
+
++ Gracias por actualizar% 1 $ s!
+?                        + + +
+
+
+- Entradas a excluir
++ Puestos a excluir
+
+- Puedes excluir entradas del mapa del sitio introduciendo una cadena separada por comas con el número ID de entrada. El formato será algo así como: %1$s.
+?      -          ------                                                                     - ^^^^^^^       ^ -----                      ----      -
+
++ Puede excluir publicaciones del mapa del sitio introduciendo una cadena separada por comas con las ID de publicación. El formato se convertirá en algo como:% 1 $ s.
+?               +++++++++++                                                                       ^^       ^^^^^^^^^^                +++++++++  +++            + + +
+
+
+- Máxima cantidad de entradas por mapa del sitio
++ Entradas máximas por mapa del sitio
+
+- Por favor, introduce el número máximo de entradas por página de mapa del sitio (predeterminado %s, igual puede que quieras reducir esto para evitar problemas de memoria en algunas instalaciones)
+? ^^ ----------------                                                    -          ^   ^^^^^ ---     ^^^ --- --     ^^^ --         ^^^^
+
++ Ingrese el número máximo de entradas por página de mapa de sitio (por defecto a% s, es posible que desee reducirlo para evitar problemas de memoria en algunas instalaciones):
+? ^^^  ++                                                            + ^  +++ ^^  +   ++++++ ^       ^  ++        ^                                                            +
+
+
+- Guarda los ajustes para activar tu mapa del sitio XML.
++ Guarde su configuración para activar su Sitemap XML.
+
+- <strong>No</strong> necesitas generar el mapa del sitio en XML, tampoco tomará tiempo generarlo después de publicar una entrada.
+?         ^^                ^^^               --------------    ^              -               --                         ^ -----
+
++ No <strong>es</strong> necesario generar el sitemap XML ni tampoco tomar tiempo para generar después de publicar una publicación.
+? +++        ^^               ++ ^            ++++       ^^^                     +++++                                 ^^^^^^^^^^
+
+
+- Puedes encontrar tu mapa del sitio XML aquí: %1$sMapa del sitio XML%2$s
++ Puede encontrar su Mapa de sitio XML aquí:% 1 $ sXML Sitemap% 2 $ s
+
+- Entradas excluidas
++ Puestos Excluidos
+
+- Mapa del sitio de usuario
++ Mapa del sitio del usuario
+?                  +
+
+
+- &laquo; Volver a página de herramientas
+? ^^^^^^^^                ^^^^
+
++ «Volver a la página Herramientas
+? ^        +++        ^
+
+
+- %1$s incluye algunas herramientas integradas muy potentes:
+?         ^^^^                                       ^ ^^^
+
++ % 1 $ s viene con algunas herramientas integradas muy poderosas:
+?  + + +  + + ++ ^^                                       ^ ^^^^
+
+
+- Esta herramienta te permite modificar rápidamente archivos importantes para tu SEO, como tu robots.txt y, si lo tienes, tu archivo .htaccess.
+?                  ^          ------                                          ^            ^                  ---       ---
+
++ Esta herramienta le permite cambiar rápidamente los archivos importantes para su SEO, como su robots.txt y, si tiene uno, su archivo .htaccess.
+?                  ^            ++++              ++++                          ^            ^                        ++++++
+
+
+- Importa la configuración de otro plugin SEO y exporta su configuración para reutilizarla en otro sitio.
++ Importa configuraciones de otros complementos de SEO y exporta tus configuraciones para volver a usarlas en (otro) blog.
+
+- Esta herramienta te permite modificar rápidamente títulos y descripciones de entradas y páginas sin necesidad de editar cada página.
+?                  ^          ------                                            ------                  ^ ^ ^ ^^^^     ^
+
++ Esta herramienta le permite cambiar rápidamente títulos y descripciones de sus publicaciones y páginas sin tener que ir al editor de cada página.
+?                  ^            ++++                                         +++++++++++++++                 ++  ^^^^ ^ ^^ ^     ^ +++
+
+
+- Pagina de Google Publisher
++ Página del editor de Google
+
+- Si tienes  una página de Google+ para tu negocio, añade aquí la URL y enlázalo en la página "Acerca de" de tu página de Google+.
++ Si tienes una página de Google+ para tu empresa, agrega esa URL aquí y vinculala en la página de Google+ de esta página.
+
+- Para %1$sverificar tu sitio en Pinterest%2$s añade aquí la meta tag:
++ Para% 1 $ sconfirm tu sitio con Pinterest% 2 $ s, agrega la metaetiqueta aquí:
+
+- Pinterest utiliza metadatos Open Graph al igual que Facebook, así que asegúrate de marcar la casilla de Open Graph en la pestaña de Facebook si quieres optimizar tu sitio para Pinterest.
+?                                        ^^^^^^^^^^^^                            ^^ ^^  ^ -                                       ---             ^^^^^             ^
+
++ Pinterest utiliza metadatos Open Graph como Facebook, así que asegúrese de mantener abierta la casilla de verificación Open Graph en la pestaña Facebook si desea optimizar su sitio para Pinterest.
+?                                        ^^^^                         ++++++++ +  ^ ^^ +++ ^               +++++++++++++                                      ^  ++           ^
+
+
+- El tipo de tarjeta predeterminada a utilizar
++ El tipo de tarjeta predeterminada que se va a utilizar
+?                                   ++++++++ ++
+
+
+- Añade meta datos de tarjeta de Twitter
+?     ^     -
+
++ Añadir metadatos de tarjeta de Twitter
+?     ^^
+
+
+- Añadir meta datos de la tarjeta de Twitter a la sección %s de tu web.
+?  ^^^^      -                                           -       ^^^^^
+
++ Agregue los metadatos de la tarjeta de Twitter a la sección% s de su sitio.
+?  ^ ++++++++                                                 +     +++++ ^^
+
+
+- Esta imagen se usa si la entrada/pagina compartida no contiene ninguna imagen.
+?                 ^        ^ ^^^^^  ^            ^^^
+
++ Esta imagen se utiliza si la publicación / página que se comparte no contiene ninguna imagen.
+?                 ^^^^^        ^^^^^^^^^^ ^ + ^    +++++++        ^
+
+
+- Ajustes por defecto
++ Configuración por defecto
+
+- Copiar la meta description de la portada
++ Copiar home meta descripción
+
+- Son el título, descripción e imagen utilizada en las meta tags de Open Graph en la página principal de tu sitio.
++ Estos son el título, la descripción y la imagen que se utilizan en las etiquetas meta de Open Graph en la portada de su sitio.
+
+- Ajustes de página principal
++ Configuración de FrontPage
+
+- Añadir metadatos Open Graph
++ Añadir metadatos de gráfico abierto
+
+- Añade meta datos Open Graph a la sección %s de tu sitio, Facebook y otras redes sociales utilizan estos datos cuando se comparten tus páginas.
+?  ^^^      -                             -      ^                                          ^^^^^                                   ^
+
++ Agregue los metadatos de Open Graph a la sección% s de su sitio, Facebook y otras redes sociales usan estos datos cuando se comparten sus páginas.
+?  ^^ +++++++           +++                        +     ^                                          ^                                   ^
+
+
+- URL de Linkedin
+?              ^
+
++ URL de LinkedIn
+?              ^
+
+
+- Usuario de Twitter
++ Nombre de usuario de Twitter
+
+- URL de la página de Facebook
+?       ---
+
++ URL de página de Facebook
+
+- Restaurar sitio a ajustes por defecto.
++ Restaurar el sitio a los valores predeterminados
+
+- ID de sitio
++ Identificación del sitio
+
+- Usando este formulario puedes devolver un sitio a los ajustes SEO por defecto.
++ Utilizando este formulario puede restablecer un sitio a la configuración predeterminada de SEO.
+
+- Restaurar sitio a los ajustes por defecto
++ Restaurar la configuración predeterminada del sitio
+
+- Guardar los ajustes para multisitio
++ Guardar configuración de MultiSite
+
+- Los datos sensibles a privacidad (administradores de Facebook, por ejemplo), los ajustes específicos del tema (reescritura del título) y algunos ajustes muy específicos no se importarán a nuevos blogs.
++ Privacidad confidencial (administradores de FB y tal), tema específico (reescritura de título) y algunos ajustes muy específicos del sitio no se importará a nuevos blogs.
+
+- Introduce el %1$sID del sitio%2$s del sitio cuyos ajustes quieres usar por defecto para todos los sitios que se añadan a tu red. Déjalo vacío para ninguno (o sea, para que se usen los ajustes por defecto del plugin).
++ Ingrese el% 1 $ sSite ID% 2 $ s para el sitio cuya configuración desea usar como predeterminada para todos los sitios que se agregan a su red. Deje vacío para ninguno (es decir, los valores predeterminados normales de complemento se utilizarán).
+
+- Elige el sitio cuya configuración deseas utilizar de forma predeterminada para todos los sitios que se añadan a la red. Si eliges "Ninguna", se utilizarán los valores predeterminados normales del plugin.
++ Elija el sitio cuya configuración desea utilizar como predeterminada para todos los sitios que se agregan a su red. Si selecciona &#39;Ninguno&#39;, se utilizarán los valores predeterminados normales de complemento.
+
+- Los sitios nuevos de la red heredan los ajustes SEO de este sitio
++ Nuevos sitios en la red heredan sus configuraciones de SEO de este sitio
+
+- Sólo para super administradores
++ Super Admins solamente
+
+- Administradores del sitio (por defecto).
+?                             - ^  ^ ^^  -
+
++ Administradores del sitio (predeterminado)
+?                              ^  ^ ^^^^^^
+
+
+- Quién debería tener acceso a los ajustes de %1$s
++ Quién debe tener acceso a la configuración de% 1 $ s
+
+- spam
++ correo no deseado
+
+- archivado
+? ^
+
++ Archivado
+? ^
+
+
+- Blog %s no encontrado.
++ No se encontró el blog% s.
+
+- %s se ha restaurado a ajustes SEO por defecto.
++ % S restaurado a la configuración predeterminada de SEO.
+
+- Ajustes actualizados.
+?                  ^^^
+
++ Ajustes actualizan.
+?                  ^
+
+
+- ¿Usar la etiqueta meta keywords?
++ ¿Usar la etiqueta de las palabras clave del meta?
+
+- No sé por que ibas a querer usar la meta keywords, pero si la quieres, activa esto.
++ No sé por qué desea utilizar palabras clave meta, pero si lo desea, habilite esta opción.
+
+- Si quieres evitar que /page/2/ y siguientes de cualquier archivo se muestren en los resultados de búsqueda activa esto.
++ Si desea evitar que / page / 2 / y más de cualquier archivo aparezcan en los resultados de búsqueda, defina esto como &quot;noindex&quot;.
+
+- Ajustes meta de toda la web
++ Ajustes meta de todo el sitio
+
+- Páginas 404
++ 404 páginas
+
+- Estas páginas serán %s por defecto, por lo que nunca se mostrarán en los resultados de búsqueda.
+?                    -                                 ^ ^^^^^^^
+
++ Estas páginas serán% s por defecto, por lo que nunca aparecerán en los resultados de búsqueda.
+?                     +                                ^^^^ ^^
+
+
+- Los archivos basados en fecha podrían considerarse en algunos casos como contenido duplicado.
++ En algunos casos, los archivos basados ​​en fechas también pueden verse como contenido duplicado.
+
+- Si este es el caso en tu sitio puedes elegir desactivarlo (lo que hará que se redirija a tu página principal), o añádele %s para que no aparezca en los resultados de búsqueda.
+?                       ^             ^^^^^^^                         ^^^^^ ---       ^    ^^                       ^^^  ----
+
++ Si este es el caso en su sitio, puede optar por desactivarlo (lo que lo hace redireccionar a la página principal), o agregar% s a él para que no aparezca en los resultados de búsqueda.
+?                       ^       +      ^^^^^ ++++                      +++  ^       +++ ^^ +   ^^                       ^^ ++++++++++
+
+
+- Si tienes un sitio de un solo autor el archivo de autor será exactamente igual que tu página principal. Esto es lo que se conoce como %1$sproblema de contenido duplicado%2$s.
++ Si está ejecutando un blog de un autor, el archivo de autor será exactamente el mismo que su página de inicio. Esto es lo que se llama% 1 $ sduplicate content problem% 2 $ s.
+
+- Archivo por fechas
++ Archivos de fecha
+
+- Nota: en vez de plantillas, estos son los títulos y la meta descriptions reales para las páginas de archivo de este tipo de contenido personalizado.
+?          ^^^                                          ^^^^^        ^   ------        ^                        -----          ^ ------             ^
+
++ Nota: en lugar de plantillas, estos son los títulos reales y las descripciones meta para estas páginas de archivo de tipo de publicación personalizada.
+?          ^^^^^                                      +++++++    ^        ^     +++++      ^^^                                 +++++ ^^^^              ^
+
+
+- Archivos de tipos de contenidos personalizados
+?                  --------------
+
++ Archivos de tipos personalizados
+
+- %1$s caja meta
++ % 1 $ s Meta Box
+
+- Ocultar
++ Esconder
+
+- Fecha en la vista previa del snippet
+?                            ^^ ------
+
++ Fecha en la vista previa de fragmentos
+?                            ^^^^^^^^^^
+
+
+- Meta robots
+?      ^
+
++ Meta Robots
+?      ^
+
+
+- Apunta:
++ Tomar nota:
+
+- Puedes determinar el título y la descripción para la página de blog %1$seditando la misma página del blog &raquo;%2$s
+?      -                                       ^^^^                                  ------                 ^^^^^^^
+
++ Puede determinar el título y la descripción de la página del blog por% 1 $ seditando la página del blog en sí »% 2 $ s
+?                                             ^^             +      +++ + + +                             ^^^^^^^ + + +
+
+
+- Puedes determinar el título y la descripción para la página de inicio %1$seditando la propia página de inicio &raquo;%2$s
++ Puede determinar el título y la descripción de la portada por% 1 $ seditando la página principal en sí »% 2 $ s
+
+- Portada &amp; Página de inicio
++ Página de inicio y página principal
+
+- Plantilla de la meta keywords
++ Plantilla de palabras clave de meta
+
+- Plantilla de la meta description
++ Plantilla de descripción del Meta
+
+- Plantilla del title
++ Plantilla de título
+
+- Los símbolos se muestran en el tamaño que van a aparecer en los resultados de búsqueda.
+?                                          ------
+
++ Los símbolos se muestran en el tamaño que aparecerán en los resultados de búsqueda.
+?                                                   ++
+
+
+- Elige el símbolo a utilizar como separador de título. Esto se mostrará, por ejemplo, entre el título de la entrada y el nombre del sitio.
+?    ^^                                                     ---                                             ^^ -----
+
++ Elija el símbolo que desea utilizar como separador de título. Esto mostrará, por ejemplo, entre el título de su publicación y el nombre del sitio.
+?    ^^            ++++++++                                                                                    ++++++ ++ ^^^
+
+
+- Separador de titulo
+?               ^
+
++ Separador de títulos
+?               ^    +
+
+
+- %1$s ha detectado de forma automática si se necesita forzar la reescritura de los títulos de tus páginas. Si ha sido por error y sabes lo que haces puedes cambiar este ajuste aquí.
++ % 1 $ s ha detectado automáticamente si necesita forzar a reescribir los títulos de sus páginas, si cree que está mal y sabe lo que está haciendo, puede cambiar la configuración aquí.
+
+- Forzar la reescritura de los títulos
+?       ---        ^^ --------
+
++ Forzar reescribir títulos
+?               ^^
+
+
+- Tipos de contenido
+?            ^^ ---
+
++ Tipos de correos
+?            ^^  +
+
+
+- Portada
++ Página principal
+
+- Aquí es donde debes introducir la clave de licencia para uno de nuestros plugins premium, deberías activar uno.
+?               ^^^  ^^^^ ^^^^^^                                             ^^^              ------
+
++ Aquí es donde ingresaría las claves de licencia para uno de nuestros complementos premium, en caso de activar uno.
+?               ^^^^  ^ ^^   +      +                                  +++  ^^^ ++           ++++++++
+
+
+- Extensiones de %1$s
+?            ----
+
++ Extensiones% 1 $ s
+?             + + +
+
+
+- ¡Intégralo fácilmente WooCommerce con %1$s y consigue características adicionales!
+? -   ^   --------                     -       -  -- ^^                            ^
+
++ Integre perfectamente WooCommerce con% 1 $ s y obtenga características adicionales.
+?    ^  +++++++++                       + + +     +++  ^                            ^
+
+
+- Mejora tu ranking local y el de Google Maps ¡sin esfuerzo!
++ Clasificar mejor localmente y en Google Maps, sin romper un sudor!
+
+- ¿Estás en Google News? ¡Incrementa tu tráfico desde Google News optimizándolo!
++ ¿Estás en Google Noticias? ¡Aumente su tráfico de Google Noticias optimizando para él!
+
+- ¡Optimiza tus vídeos para verlos en los resultados de búsqueda y conseguir más clics!
+? -      ^^^^               ^^                                     -  - ---           ^
+
++ Optimice sus vídeos para mostrarlos en los resultados de búsqueda y obtener más clics.
+?       ^^^^               ^^^^^^                                      +++             ^
+
+
+- La version premium de %1$s con mas características y soporte.
+?         ^            -          ^   ^^^^^ -- -----
+
++ La versión premium de% 1 $ s con más funciones y soporte.
+?         ^             + + +       ^  +++ ^^^
+
+
+- Yandex Webmaster Tools
++ Herramientas para webmasters de Yandex
+
+- Bing Webmaster Tools
++ Bing Herramientas para webmasters
+
+- Puedes utilizar las casillas de abajo para verificar en las diferentes Herramientas para webmasters, si tu sitio ya está verificado puedes olvidarte de esto. Introduce los valores meta de verificación para:
++ Puede utilizar las casillas siguientes para verificar con las diferentes Herramientas para webmasters de Google, si su sitio ya está verificado, puede olvidarse de estas. Introduzca los valores meta de verificación para:
+
+- Logotipo de la empresa
++ Logo de la compañía
+
+- Nombre de la empresa
+?          ---
+
++ Nombre de empresa
+
+- Elige si eres una empresa o una persona
+?    ^^    --
+
++ Elija si es una empresa o una persona
+?    ^^
+
+
+- Esta información se muestra como metadata en su sitio.  Es a efectos de aparecer en Google's Knowledge Graph. Puedes ser una empresa, o una persona, elige lo que sea:
+?     ^^^^ ^^^^^^^                        ^              -  ^^^ ^^^  ^^^        ^^          --                       -                -                   ^ ^^^^^^ ----
+
++ Estos datos se muestran como metadatos en su sitio. Está previsto que aparezca en Google Knowledge Graph. Puede ser una empresa o una persona, elegir entre:
+?    ++++ ^ ^           +             ^^                ^^^^^ ^^^  ^^^       + ^                                                                   ++ ^^ ^^^
+
+
+- Google muestra el nombre de tu web en los resultados de búsqueda, por defecto le ponemos el nombre de tu sitio pero puedes cambiarlo aquí. También puedes proporcionar un nombre de web alternativo que quieras que considere Google.
++ Google muestra el nombre de tu sitio web en los resultados de la búsqueda; por defecto, utilizaremos el nombre de tu sitio, pero puedes adaptarlo aquí. También puede proporcionar un nombre de sitio web alternativo que desea que Google considere.
+
+- Nombre de la web
++ Nombre del Sitio Web
+
+- ¿Estás seguro de querer borrar tus ajustes SEO?
++ ¿Está seguro de que desea restablecer su configuración de SEO?
+
+- Si quieres restaurar un sitio a los  ajustes %s por defecto pulsa este botón.
++ Si desea restaurar un sitio a la configuración% s predeterminada, pulse este botón.
+
+- Webmaster tools
++ Herramientas para webmasters
+
+- Tu información
+? ^
+
++ Su información
+? ^
+
+
+- Información de la empresa
+?                   ^  ---
+
++ Información de la compañía
+?                   ^^   +++
+
+
+- No hay nombre de entrada en la URL de tus entradas y páginas, es muy recomendable que lo pongas. Plantéate configurar la estructura de tus enlaces permanentes a <strong>/%postname%/</strong>
+?    ^^^             --------                ------                                        ^^^     ^^^ ^^^^             ^^              ------------         -----
+
++ No tienes tu nombre de post en la URL de tus publicaciones y páginas, es muy recomendable que lo hagas. Considere configurar su estructura de permalink en <strong>/% postname% /</strong> .
+?    ^^^^^^^^^           +++++                 +++++++++++                                         ^^     ^^ ^^^ ++            ^^                    ++ ++             +         +          ++
+
+
+- Arréglalo
+?    ^
+
++ Arreglalo
+?    ^
+
+
+- Enlaces permanentes
++ Permalinks
+
+- Volver a autorizar con Google
++ Reautenticarse con Google
+
+- Autorizar
++ Autenticar
+
+- Volver a cargar los problemas de rastreo
+? ^^^^ ----      ----
+
++ Recargar problemas de rastreo
+? ^
+
+
+- Para poder crear una redirección y solucionar este problema, necesitas %1$s. Puedes comprar el plugin, con un año de soporte y actualizaciones incluídos, en %2$s.
+?                                                                      --                          ^^  --  -                                    ----------    -
+
++ Para poder crear una redirección y solucionar este problema, necesita% 1 $ s. Puedes comprar el complemento, incluyendo un año de soporte y actualizaciones, en% 2 $ s.
+?                                                                       + + +                     +++  ^^^^^^^^   ++++++                                          + + +
+
+
+- La creación de redirecciones es una característica de %s
++ La creación de redirecciones es una función% s
+
+- Errores que sólo se produjeron cuando tu sitio fue rastreado por Googlebot para teléfonos móviles sencillos (los errores no aparecieron en la versión de escritorio).
++ Errores que sólo ocurrieron cuando Googlebot rastreó su sitio para los teléfonos de funciones (los errores no aparecieron en el escritorio).
+
+- Los errores que se produjeron sólo cuando tu sitio lo rastreó Googlebot-Mobile (estos errores no aparecieron en la versión de escritorio).
++ Errores que ocurrieron sólo cuando Googlebot-Mobile (Google Desktop) exploró su sitio (los errores no aparecieron en el escritorio).
+
+- Errores que se produjeron cuando Googlebot rastreó tu sitio.
+?         ^ ^^ ------------                          ^
+
++ Errores ocurridos cuando Googlebot rastreó su sitio.
+?         ^^ ^^^^^                           ^
+
+
+- ¡Se han vuelto a cargar los problemas!
++ Los problemas se han recargado con éxito!
+
+- Se han eliminado los datos de la %1$s. Si deseas recuperar los datos de nuevo debes volver a identificarte.
++ Los datos% 1 $ s se han eliminado. Deberá volver a autenticar si desea recuperar los datos de nuevo.
+
+- No te pierdas errores de rastreo: %1$sconecta aqui con la consola de Google Search%2$s.
++ No te pierdas los errores de rastreo:% 1 $ sconnect con Google Search Console aquí% 2 $ s.
+
+- Crear redirección
+?                ^
+
++ Crear redireccionamiento
+?                ^ +++++++
+
+
+- Marcar como solucionado.
++ Marcar como fijo
+
+- Primer detectado
++ Primera detección
+
+- Último rastreo
+?      ^       ^
+
++ Última rastreada
+?      ^       ^^^
+
+
+- %1$s ha detectado que estás usando una versión de %2$s que no es compatible con %1$s. Por favor, actualiza %2$s a la versión más reciente para utilizar esta característica.
++ % 1 $ s detectó que está utilizando una versión de% 2 $ s que no es compatible con% 1 $ s. Actualice% 2 $ s en la última versión para utilizar esta función.
+
+- Los plugins Yoast comparten algo de código entre ellos para hacer tu sitio más rápido. Como resultado de eso necesitamos que todos tus plugins Yoast estén actualizados. Hemos detectado este no es el caso, así que por favor actualiza los plugins Yoast que aún no estén actualizados.
++ Los plugins Yoast comparten algún código entre ellos para hacer que su sitio sea más rápido. Como resultado de eso, necesitamos que todos los plugins de Yoast estén actualizados. Hemos detectado que este no es el caso, por lo que debe actualizar los plugins de Yoast que aún no están actualizados.
+
+- Teléfono sencillo
++ Característica del teléfono
+
+- Smartphone
++ Teléfono inteligente
+
+- La URL de destino no existe, pero tu servidor no devuelve un error 404 (archivo no encontrado).
+?                                   ^                 ^^
+
++ La URL de destino no existe, pero su servidor no está devolviendo un error 404 (archivo no encontrado).
+?                                   ^             +++++    ^  + +++
+
+
+- Tiempo de espera agotado o el sitio está bloqueando a Google.
+? ^  ^^^^^^^^^^^^                                     --
+
++ La solicitud se ha agotado o el sitio está bloqueando Google.
+? ^^^^^^ +++++++ ^^
+
+
+- Error en el servidor
+?       ^^^   ^
+
++ Error del Servidor
+?       ^   ^
+
+
+- Googlebot puede acceder a tu sitio, pero en tu archivo %1$s existen ciertas URLs bloqueadas a Googlebot. Este bloqueo podría ser para todos los Googlebots o incluso específicamente para Googlebot-mobile.
++ Googlebot podría acceder a su sitio, pero ciertas URL están bloqueadas para Googlebot en su archivo% 1 $ s. Este bloque podría ser para todos los Googlebots o incluso específicamente para Googlebot-mobile.
+
+- Bloqueado
++ Obstruido
+
+- Google no fue capaz de rastrear esta URL debido a un problema indeterminado.
+?           ^ -------- ^                                        -
+
++ Google no pudo rastrear esta URL debido a un problema no determinado.
+?           ^  ^                                         ++
+
+
+- La URL apunta a una página inexistente.
+?         ^^^^ --
+
++ La dirección URL señala una página inexistente.
+?   ++++++++++     +++ ^
+
+
+- No encontrado
++ Extraviado
+
+- No seguida
+?          ^
+
++ No seguido
+?          ^
+
+
+- Redirecciones erróneas
++ Redireccionamientos defectuosos
+
+- El servidor requiere identificación o está impidiendo que Googlebot acceda al sitio.
+?                      ^^   --               ^^^^^^
+
++ El servidor requiere autenticación o está bloqueando que Googlebot acceda al sitio.
+?                      ^^^                  ^^^^^ +
+
+
+- Desactivar %s
+?           -
+
++ Desactivar% s
+?            +
+
+
+- El plugin %1$s podría provocar problemas usado conjuntamente con %2$s.
++ El complemento% 1 $ s puede causar problemas cuando se utiliza junto con% 2 $ s.
+
+- Subir imagen
++ Cargar imagen
+
+- Actualizar a %1$s &raquo;
++ Actualizar a% 1 $ s »
+
+- ¿Eliminar estos anuncios?
+? -
+
++ Eliminar estos anuncios?
+
+- Información Depuración
+?             ^
+
++ Información de depuración
+?             ^^^^
+
+
+- Publicaciones sin palabra clave objetivo
++ Mensajes sin palabra clave de enfoque
+
+- Entradas con una puntuación SEO mala
++ Puestos con mala calificación de SEO
+
+- Entradas con una puntuación SEO aceptable
++ Mensajes con la puntuación OK SEO
+
+- Entradas con una puntuación SEO buena
++ Puestos con buena puntuación de SEO
+
+- %s Información General de Entradas
++ % S Publicaciones
+
+- Esta taxonomía sigue las reglas de indexación definidas en Metas y títulos, puedes sobrescribirlas aquí.
+?                                               - ^^^                ^             ^^^^^^^^^^^^^   -
+
++ Esta taxonomía sigue las reglas de indexación establecidas en Metas y Títulos, puede anularla aquí.
+?                                                ^^^^^^^                ^             ^^^^^^
+
+
+- El título de las migas de pan se utiliza en las migas de pan de las taxonomías.
++ El título Breadcrumbs se utiliza en las migas de pan donde aparece esta taxonomía.
+
+- Título de la ruta de las migas de pan
++ Título de las migas
+
+- Meta keywords utilizadas en la página de archivo de este término.
+?      ^ ------                                    ^^
+
++ Meta palabras clave utilizadas en la página de archivo para este término.
+?      ^^^^^^^^^^^^^                                     ^^^^
+
+
+- No incluir nunca
++ Nunca incluya
+
+- Incluir siempre
++ Siempre incluya
+
+- Auto detectar
++ Detección automática
+
+- Limpiar todos los datos de Facebook
+? ^^^^^
+
++ Borrar todos los datos de Facebook
+? ^^^^
+
+
+- ID de la aplicación en Facebook
+?                      -
+
++ ID de la aplicación de Facebook
+?                     +
+
+
+- Administradores de Facebook conectados actualmente:
+?                 ---
+
++ Administradores Facebook conectados actualmente:
+
+- ID de usuario del administrador de Facebook:
++ ID de usuario de Facebook de Admin:
+
+- Si no sabes dónde encontrar el ID necesario, consulta el artículo %1$s en esta base de conocimientos %2$s.
+?           -                  ^^^^         ^         -- ^          ^^^^^ ------                     --
+
++ Si no sabe dónde encontrar la identificación necesaria, consulte% 1 $ este artículo de base de conocimiento% 2 $ s.
+?                            +++++ ^^^^^^^^^^^         ^          ^^^^^^^^^^          ^                       + + +
+
+
+- Para poder acceder a %1$sFacebook Insights%2$s tienes que añadir aquí un usuario. El nombre se usa sólo como referencia, el ID se usa para verificación.
+?                     -                         ^^^ ^ ^^^^ ^ ---- -----                           ^                                  ^
+
++ Para poder acceder a% 1 $ sFacebook Insights% 2 $ s, debe agregar un usuario aquí. El nombre se utiliza sólo como referencia, el ID se utiliza para la verificación.
+?                      + + +                   + + + ^^^ ^ ^^^^ ^             +++++                ^^^^^                                  ^^^^^      +++
+
+
+- Más información %1$sen nuestra base de conocimiento%2$s.
+? ^              -    ^
+
++ Se puede encontrar más información% 1 $ son nuestra base de conocimiento% 2 $ s.
+? ^^^^^^^^^^^^^^^^^^^^               + + + ^                               + + +
+
+
+- Para poder acceder a las %1$sFacebook Insights%2$s de tu sitio, necesitas especificar un administrador de Facebook. Puede ser un usuario. Si tienes una aplicación para tu sitio web, también puedes usar eso.
+?                     -----                        ^^^^^^^        ^^^^^^^^^                                           ^^^^^^^^^^^^                                                ----                     ^^^^
+
++ Para poder acceder a% 1 $ sFacebook Insights% 2 $ s para su sitio, debe especificar un administrador de Facebook. Esto puede ser un usuario. Si tienes una aplicación para tu sitio, también puedes usarla.
+?                      + + +                   + + ^^^^^^^^^^        ^^^^                                           ^^^^^^^^^^^^^^^^^                                                                     ^^
+
+
+- Administradores y Facebook Insights
++ Facebook Insights y Admins
+
+- Borrado exitoso de todos los datos de Facebook
++ Eliminó correctamente todos los datos de Facebook
+
+- Administrador %s removido exitosamente 
++ Se ha eliminado% s del administrador
+
+- Este usuario de Facebook ya se ha añadido como admin.
+?                             ---   ^^^^
+
++ Este usuario de Facebook ya ha sido agregado como administrador.
+?                                ^   +++++++++           ++++++++
+
+
+- Los datos introducidos tienen caracteres incorrectos. Por favor, asegúrate de rellenar correctamente ambos campos.
++ Su entrada contiene caracteres no válidos. Asegúrese de que ambos campos se rellenen correctamente.
+
+- Por favor, asegúrate de completar ambos campos.
++ Asegúrese de llenar los dos campos.
+
+- Archivos
+?        -
+
++ Archivo
+
+- Correo
++ Email
+
+- Cerrar
++ Cerca
+
+- Configurar los ajustes del mapa del sitio XML %1$s
++ Configurar la configuración de Sitemap XML de% 1 $ s
+
+- Tanto %1$s como %2$s pueden crear mapas de sitio XML. Tener dos mapas de sitio XML no es beneficioso para los motores de búsqueda, y de hecho podrían ralentizar tu sitio.
+?      -         -                     - ---------                   - ---------                                                     ^^^ ^^^^^        -            ^
+
++ Tanto% 1 $ s como% 2 $ s pueden crear sitemaps XML. Tener dos sitemaps XML no es beneficioso para los motores de búsqueda, pero podría ralentizar su sitio.
+?       + + +       + + +               ++++                    ++++                                                         ^ ^                    ^
+
+
+- Configurar los ajustes OpenGraph de %1$s
++ Configurar la configuración de OpenGraph de% 1 $ s
+
+- Tanto %1$s como %2$s crean datos OpenGraph, lo que podría hacer que Facebook, Twitter, LinkedIn y otras redes sociales utilicen los textos e imágenes equivocadas cuando se compartan tus páginas.
+?      -         -             ---                                                                                        ^^^^^  ----                    ^^^^ ----                   ^  ^
+
++ Tanto% 1 $ s como% 2 $ s crean una salida OpenGraph, lo que podría hacer que Facebook, Twitter, LinkedIn y otras redes sociales usen textos e imágenes incorrectos cuando se comparten sus páginas.
+?       + + +       + + +        ++++++++                                                                                          ^                     ++++++ ^^                    ^  ^
+
+
+- %s Imagen
+?  ^
+
++ % S Imagen
+?  ^^
+
+
+- Descripción %s
+?            ---
+
++ % S Descripción
+? ++++
+
+
+- %s Título
+?  ^
+
++ % S Título
+?  ^^
+
+
+- Twitter
++ Gorjeo
+
+- El tamaño de imagen recomendado para %1$s es de %2$s pixels.
+?                                     -       ----      ^
+
++ El tamaño de imagen recomendado para% 1 $ s es% 2 $ s píxeles.
+?                                      + + +     + + +   ^   +
+
+
+- Si quieres eliminar la imagen usada en %s para esta publicación, sube/elige una imagen o añade la URL aquí.
+?    ^^^^^  -  ----              ^      -                          ^ -     ^^               ^^^
+
++ Si desea anular la imagen utilizada en% s para esta publicación, cargue / elija una imagen o agregue la URL aquí.
+?    ^   +++++               ^^^^^       +                         ^^^^  + +   ^^               ^^ +++
+
+
+- Si no quieres usar la meta description para compartir la entrada en %s pero sí quieres usar otra descripción, escríbela aquí.
++ Si no desea usar la descripción meta para compartir la publicación en% s, pero desea otra descripción allí, escríbala aquí.
+
+- Si no quieres utilizar el título de la publicación para compartirla en %s pero quieres utilizar otro título, escríbelo aquí.
+?       ^^^^^                                                           -  ^^^^    - ^  ^^^^^^^ -                    ^
+
++ Si no desea utilizar el título de la publicación para compartir la publicación en% s, sino que desea otro título, escríbalo aquí.
+?       ^  ++                                                    +   ++++++++++++   + ^^^^^     ^^  ^                     ^
+
+
+- muy difícil
+?        ^
+
++ muy dificil
+?        ^
+
+
+- Prueba haciendo frases más cortas, utilizando menos palabras difíciles para mejorar la legibilidad.
+? ^ ^ ^^    - ^^ --  ^                ^^^^^    ------
+
++ Trate de hacer oraciones más cortas, usando palabras menos difíciles para mejorar la legibilidad.
+? ^ ^^ ^^^     ^^   ^^^^                ^             ++++++
+
+
+- Prueba haciendo frases más cortas para mejorar la legibilidad. 
+? ^ ^ ^^    - ^^ --  ^                                          -
+
++ Trate de hacer oraciones más cortas para mejorar la legibilidad.
+? ^ ^^ ^^^     ^^   ^^^^
+
+
+- bastante difícil
+? ^
+
++ Bastante difícil
+? ^
+
+
+- OK
++ DE ACUERDO
+
+- extremadamente fácil
++ muy fácil
+
+- La entrada tiene una calificación de %1$s en la prueba de %2$s, lo que se considera como %3$s de leer. %4$s
++ La copia anota% 1 $ s en la prueba% 2 $ s, que se considera% 3 $ s para leer. % 4 $ s
+
+- La palabra clave objetivo aparece en el primer párrafo del escrito.
+?                   ^^ ----                                 ^^^ ^ ^^
+
++ La palabra clave de enfoque aparece en el primer párrafo de la copia.
+?                  ++++++ ^^                                 + ^^ ^^ ^
+
+
+- La palabra clave objetivo no aparece en el primer párrafo del texto. Asegúrate de que el asunto del que habla el texto queda claro lo antes posible.
++ La palabra clave de enfoque no aparece en el primer párrafo de la copia. Asegúrese de que el tema esté claro inmediatamente.
+
+- La densidad de la palabra clave es de %1$s, lo que está genial; la palabra clave objetivo se encontró %2$d veces.
+?               ---                 ----     ---       --   ^^ -----                ^^ ----            -
+
++ La densidad de palabras clave es% 1 $ s, que es grande; La palabra clave de enfoque se encontró% 2 $ d veces.
+?                       +          + + +           ++++ ^^^                ++++++ ^^              + + +
+
+
+- La densidad de la palabra clave es %1$s, que está por encima del máximo aconsejado de %3$s; la palabra clave objetivo se encontró %2$d veces.
+?               ---                 -               ^  - ^^^^^^^                    ----      ^                 ^^ ----            -
+
++ La densidad de palabras clave es% 1 $ s, que está sobre el máximo aconsejado% 3 $ s; La palabra clave de enfoque se encontró% 2 $ d veces.
+?                       +          + + +            ^ +  ^                     + + +   ^                ++++++ ^^              + + +
+
+
+- Se ha especificado una meta description pero no contiene la palabra clave objetivo.
+?                                    ^ ^                                     ^^ ----
+
++ Se ha especificado una meta descripción, pero no contiene la palabra clave de enfoque.
+?                                    ^ ^ +                                   ++++++ ^^
+
+
+- No se ha especificado ninguna meta description, los motores de búsqueda mostrarán una copia de la página en su lugar.
+?                                           ^ ^ ^^^                                                       ------------
+
++ No se ha especificado ninguna meta descripción. Los motores de búsqueda mostrarán una copia de la página.
+?                                           ^ ^ ^^^
+
+
+- La meta description es de menos de %1$d caracteres, sin embargo tienes hasta %2$d caracteres disponibles.
++ La descripción de meta está bajo% 1 $ d caracteres de largo. Sin embargo, hasta% 2 $ d caracteres están disponibles.
+
+- No has utilizado la palabra clave objetivo en ningún subtítulo (como un H2) de tu escrito.
+?      -                            ^^^ ----                                  - ^^  -- ^ ^^
+
++ No ha utilizado la palabra clave de enfoque en ningún subtítulo (como un H2) en su copia.
+?                                  ^    ++++++++                                ^^^   ^^ ^
+
+
+- A las imágenes de está página les faltan los atributos alt.
+? ^^^                  ^        ^ ------- ^^^^
+
++ Las imágenes de esta página no tienen atributos alt.
+? ^                  ^        ^^^^^  ^^
+
+
+- No hay ningún enlace externo en esta página, plantéate añadir alguno dentro del contexto.
++ No aparecen enlaces salientes en esta página, considere la posibilidad de agregar algunos como sea apropiado.
+
+- Esta página tiene %1$s enlace(s) externo(s) nofollow y %2$s enlace(s) externo(s) normales.
++ Esta página tiene% 1 $ s enlace (s) saliente (s) ausente (s) y% 2 $ s enlace (s) saliente (s) normal (es).
+
+- Esta página tiene %1$s enlace(s) externo(s), todos nofollow.
+?                  -                ^  ^^^
+
++ Esta página tiene% 1 $ s enlace (s) saliente (s), todos nofollowed.
+?                   + + +        +    ++++ ^  ^                   ++
+
+
+- Está página tiene %1$s enlaces externos.
++ Esta página tiene% 1 $ s enlace (s) saliente (s).
+
+- Estás enlazando a otra página con la palabra clave objetivo con la que quieres indexar esta página. Plantéate cambiarla si es que realmente deseas que esta página indexe.
++ Estás vinculando a otra página con la palabra clave de enfoque en la que deseas que esta página se clasifique. Considere cambiar eso si realmente desea que esta página se clasifique.
+
+- En esta página no aparece ninguna imagen, plantéate agregar algunas.
++ No hay imágenes que aparezcan en esta página, considere agregar algunas como sea apropiado.
+
+- El título SEO contiene la palabra clave objetivo pero esta no aparece al principio; trata de moverla al principio.
+?                                          ^^ ^^^^      -----                          ^^  ---       ^
+
++ El título de SEO contiene la palabra clave de enfoque, pero no aparece al principio; Intenta moverlo al principio.
+?           +++                              ++++++ ^^ ^                               ++ ^^         ^
+
+
+- El título SEO contiene la palabra clave objetivo al comienzo, lo que se considera que mejora las valoraciones.
++ El título SEO contiene la palabra clave de enfoque, al principio que se considera para mejorar la clasificación.
+
+- Por favor crea un título SEO.
+?              ^
+
++ Por favor, cree un título SEO.
+?          +    ^
+
+
+- El slug para esta página es un poco largo, plantéate reducirlo.
++ La babosa de esta página es un poco larga, considere acortarla.
+
+- La palabra clave objetivo no aparece en la URL de esta página. Si decides renombrar la URL ¡asegúrate de comprobar que la antigua URL redirecciona con un 301 a la nueva!
+?                   ^^ ----                                               ^^       ^^       ^^      --     ---- ^^   ----           ^^^              -----------
+
++ La palabra clave de enfoque no aparece en la URL de esta página. Si decide cambiar el nombre de la URL, asegúrese de revisar la URL antigua 301 redirecciona a la nueva!
+?                  ++++++ ^^                                                ^^^^^^^ + ++     ^^^^       ^^       ++     ^^^^     ++++         ^^^
+
+
+- Ya has utilizado esta palabra clave %1$s%2$d veces antes%3$s, probablemente sería una buena idea leer %4$sesta entrada sobre contenido esencial%5$s y mejorar tu estrategia de palabras clave.
++ Has utilizado esta palabra clave de enfoque% 1 $ s% 2 $ d veces antes de% 3 $ s, probablemente es una buena idea leer% 4 $ sthis post en el contenido de la piedra angular% 5 $ s y mejorar la estrategia de palabras clave.
+
+- Ya has utilizado esta palabra clave objetivo %1$santes%2$s, asegúrate de dejar muy claro que URL de tu web es la más importante para esta palabra clave.
+? ^^^^                                 ^^ ^^^ ^^^^^                        ^ --              ^           ^^^
+
++ Has utilizado esta palabra clave de enfoque% 1 $ sonce antes de% 2 $ s, asegúrate de hacer muy claro qué URL de tu sitio es la más importante para esta palabra clave.
+? ^                                ++++++ ^^ ^^^^^^^ ^^^^     +++ + + +                ^^^               ^           ^^^^^
+
+
+- Nunca has usado esta palabra clave objetivo antes, muy bien.
+?            ^                        ^^ ----
+
++ Nunca has utilizado esta palabra clave de enfoque antes, muy bien.
+?            ^^^^^                       ++++++ ^^
+
+
+- No se ha establecido una palabra clave objetivo para esta pagina. Si no estableces una palabra clave objetivo no se podrá calcular puntuación.
+?           ^^^^^^^                       ^^ ----            ^                     -                    ^^ ^^^^        ^ ^^
+
++ No se ha definido ninguna palabra clave de enfoque para esta página. Si no establece una palabra clave de enfoque, no se puede calcular ninguna puntuación.
+?          + ^^^    ++++                  ++++++ ^^             ^                                        ++++++ ^^ ^        ^^ ^         ++++++++
+
+
+- Palabra clave objetivo no establecida.
++ La palabra clave de enfoque no está establecida.
+
+- Palabra clave objetivo
++ Focus KW
+
+- Todos los resultados SEO
++ Todas las puntuaciones de SEO
+
+- SEO: Entrada no indexada
++ SEO: Post Noindexed
+
+- SEO: Ok
+?       ^
+
++ SEO: OK
+?       ^
+
+
+- SEO: Malo
+?         ^
+
++ SEO: Mala
+?         ^
+
+
+- SEO: sin palabra clave objetivo
++ SEO: Sin foco Palabra clave
+
+- La imagen destacada debe ser de al menos 200 por 200 pixeles para que la use Facebook y otros sitios de redes sociales.
+?                          ^   ---                      ^           --------
+
++ Problema de SEO: La imagen destacada debe tener al menos 200 por 200 píxeles para ser recogido por Facebook y otros sitios de redes sociales.
+? +++++++++++++++++                         ^^^                         ^             ++++++++++++++
+
+
+- (sin superior)
++ (Sin padre)
+
+- No se ha establecido una palabra clave objetivo.
++ No hay conjunto de palabras clave de enfoque.
+
+- Entrada está establecida como noindex.
++ Post se establece en noindex.
+
+- La URL a la que debe redirigir esta página.
++ La URL a la que esta página debe redirigir.
+
+- Redirección 301
++ 301 Redireccionamiento
+
+- La url canónica a la que esta página debería señalar. Déjala vacía para usar por defecto el enlace permanente. También es compatible con %1$smultidominios canonical%2$s.
++ La URL canónica a la que esta página debe apuntar, deja vacía el valor predeterminado para permalink. % 1 $ sCross dominio canónico% 2 $ s soportado también.
+
+- Título a usar para esta página en la cadena de breadcrumbs
++ Título a utilizar para esta página en rutas de navegación
+
+- Título de las migas de pan
++ Breadcrumbs Título
+
+- Sin snippet
++ Sin fragmentos
+
+- Aplicar atributo "No Archive"
++ No hay Archivo
+
+- Ningun Indice de imagen
+? ^  ^^^^^
+
++ Sin índice de imagen
+? ^  ^^
+
+
+- Ninguno
+?       ^
+
++ Ninguna
+?       ^
+
+
+- Predeterminado de todo el sitio: %s
++ Por defecto en todo el sitio:% s
+
+- Ajustes <code>meta</code> avanzados de robots para esta página.
++ Configuración avanzada de <code>meta</code> robots para esta página.
+
+- Meta robots avanzado
++ Meta robots avanzados
+?                     +
+
+
+- Meta robots follow
++ Meta robots siguen
+
+- Index
++ Índice
+
+- Valor por defecto de tipo de contenido, actualmente: %s
++ Predeterminado para este tipo de publicación, actualmente:% s
+
+- ¡Aviso! Aunque puedes establecer aquí el meta robots, toda la web está establecida como noindex en los ajustes de privacidad para toda la web, por lo que estos ajustes no tendrán efecto.
++ Advertencia: aunque se puede establecer la configuración de meta robots aquí, todo el sitio se establece en noindex en la configuración de privacidad del sitio, por lo que estos ajustes no tendrán ningún efecto.
+
+- Si escribes algo arriba anularás la %1$splantilla de meta keywords%2$s.
++ Si escribe algo por encima de él, se anulará su% 1 $ smeta keywords template% 2 $ s.
+
+- Meta keywords
++ Meta palabras clave
+
+- Meta description
+?     -       ^ ^
+
++ Metadescripción
+?            ^ ^
+
+
+- Palabra clave objetivo
++ Palabras clave de enfoque
+
+- Vista previa del snippet
++ Vista previa de fragmentos
+
+- La configuración "%s" ya no se está usando y ha sido desechada.
++ El ajuste &quot;% s&quot; ya no se utiliza y se ha descartado.
+
+- No se encontró configuraciones en el fichero.
++ Ninguna configuración encontrada en el archivo.
+
+- Las configuraciones han sido importadas con éxito.
++ Configuración importada correctamente.
+
+- Descompresión falló - fichero settings.ini no encontrado.
++ Error al descomprimir: no se ha encontrado el archivo settings.ini.
+
+- El proceso de descompresión ha fallado con el error "%s"
++ El descomprimido falló con el error &quot;% s&quot;.
+
+- Error en la subida.
++ Subida fallida.
+
+- Las configuraciones no pueden importarse:
++ No se pudo importar la configuración:
+
+- Configuracion de WooThemes SEO framework &amp; datos importados correctamente.
++ Ajustes del marco de SEO de WooThemes y datos importados con éxito.
+
+- Datos de HeadSpace2 importados correctamente
+? ^                          ^ ^
+
++ Los datos de HeadSpace2 se importaron correctamente
+? ^^^^^                   +++       ^ ^
+
+
+- No se han encontrado metadatos de taxonomías
+?                                            -
+
++ No se han encontrado metadatos de taxonomía
+
+- Este es un archivo de exportación de los ajustes del plugin %1$s de Yoast.com 
++ Este es un archivo de exportación de configuración para el complemento% 1 $ s de Yoast.com
+
+- No se han podido escribir los ajustes en un fichero.
++ No se pudo escribir la configuración en el archivo.
+
+- No se pudo crear el archivo zip con los ajustes.
++ No se pudo guardar la configuración del archivo.
+
+- Error al crear la exportación de %1$s:
+?                                 -
+
++ Error al crear la exportación de% 1 $ s:
+?                                  + + +
+
+
+- Migas de pan para las páginas 404:
++ Breadcrumb para 404 páginas:
+
+- Prefijo para las páginas de resultados de búsqueda:
+?             ----
+
++ Prefijo para páginas de resultados de búsqueda:
+
+- Prefijo para las migas de pan:
+?             ----
+
++ Prefijo para migas de pan:
+
+- Texto de anclaje para la página de inicio:
+?                                 ^^^  -  ^
+
++ Texto de anclaje para la página principal:
+?                                 ^^    ^^^
+
+
+- Separador de las migas de pan:
+?             ----      -------
+
++ Separador de migas:
+
+- Elimina la página del blog de las migas de pan
++ Eliminar la página del blog de breadcrumbs
+
+- %s Migas de pan
++ % S Breadcrumbs
+
+- Usar imagen
++ Usar la imagen
+?     +++
+
+
+- URL/Slug de página
++ URL de la página / Slug
+
+- Estado de publicación
++ Estado del puesto
+
+- Tipo de contenido
++ Tipo de mensaje
+
+- Título de página de WP
+?                 ------
+
++ WP Título de página
+? +++
+
+
+- Ver &#8220;%s&#8221;
++ Puntos de vista&quot;
+
+- Vista previa
++ Avance
+
+- Vista previa &#8220;%s&#8221;
++ Vista previa &quot;% s&quot;
+
+- Filtro
+?      ^
+
++ Filtrar
+?      ^^
+
+
+- No tienes permisos para acceder a ésta página.
+?                  -                ^
+
++ No tienes permiso para acceder a esta página.
+?                                  ^
+
+
+- Nueva meta description de Yoast
++ New Yoast Meta Descripción
+
+- Meta description de Yoast actual
++ Existente Yoast Meta Descripción
+
+- un,sobre,encima,después,de nuevo,contra,todo,soy,un,y,cualquiera,son,como,en,ser,porque,sido,antes, siendo,a continuación,entre,ambos,pero,por,podría,hizo,hacer,hace,haciendo,abajo,durante,cada,pocos,para,de,adicional,tenía,tiene,tener,teniendo,él,él,él,él es,su,aquí,aquí está,sus,ella misma,de él,él mismo,su,cómo,cómo es,yo,yo he,voy a,soy,tengo,si,en,en,es,esto,es,su,el mismo,vamos a,yo,más,el más,mi,yo mismo,ni,de,en,una vez,solamente,o,otro,debe,nuestro,nuestros,nosotros mismos,fuera,sobre,propia,mismo,ella,ella,ella,ella es,debería,por lo que,algunos,como,que,eso,eso es,el,su,sus,ellos,ellos mismos,entonces,allí,hay,éstos,ellos,habían,ellos harán,son,han,esto,esos,a través de,a,también,bajo,hasta,arriba,muy,era,nosotros,habíamos,vamos, somos,hemos,eran,qué,qué es,cuándo,cuándo es,dónde,dónde está,cual,mientras,quién,quién es,a quién,por qué,por qué es,con,haría,tu,deberías,vas a,eres,has,su,sus,tu mismo,vosotros mismos
++ ,,,,,,,,,,,,,,,,,,,,,,,,, Hizo, hace, hace, abajo, durante, cada uno, pocos, para, de, más lejos, tenía, tiene, tenga, teniendo, él, él, él, él, Si, en, en, es, es, su, sí mismo, déjenos, yo, yo, ,,,,,,,,,,,,,,,,,, Más, más, mi, yo, ni, de, una, vez, ,,,,,,,,,,,,,,,,,,, Ellos, ellos, ellos, ellos, ellos, Esto, ésos, a través, a, también, debajo, hasta, encima de, muy, era, nosotros, nosotros, lo haríamos, nosotros, Dónde está, qué, quién, quién, quién, quién, por qué, por qué, con qué, usted, usted, usted, usted, usted, usted, usted, su, suyo, usted mismo
+
+- URL del perfil  de Facebook
+?                -
+
++ URL del perfil de Facebook
+
+- Usuario de Twitter (sin @)
+? ^
+
++ Nombre de usuario de Twitter (sin @)
+? ^^^^^^^^^^^
+
+
+- Preguntas frecuentes
++ Preguntas más frecuentes
+?          ++++
+
+
+- Soporte premium
+?         ^
+
++ Soporte Premium
+?         ^
+
+
+- Debes %1$sir a tus ajustes de lectura%2$s y desactivar la casilla de visibilidad en buscadores.
++ Debe% 1 $ sgo a su configuración de lectura% 2 $ s y desmarque la casilla de visibilidad del motor de búsqueda.
+
+- Gran problema de SEO: Estás bloqueando el acceso a los robots.
+? ^ ^^                      -                       ----
+
++ Enorme problema de SEO: Está bloqueando el acceso a robots.
+? ^^^ ^^
+
+
+- Entradas
++ Mensajes
+
+- Ajustes multisitio
++ Configuración de MultiSite
+
+- Ten en cuenta que no todas las variables pueden usarse en cada plantilla.
+?                                                  ^  --
+
++ Tenga en cuenta que no todas las variables se pueden utilizar en cada plantilla.
+?    ++                                      +++        ^^^^^
+
+
+- Los ajustes de título y metas de %1$s están creadas con variables que son reemplazadas por valores específicos de la página cuando la página se muestra. Las pestañas de la izquierda explican las variables disponibles. 
++ La configuración title &amp; metas para% 1 $ s se compone de variables que se reemplazan por valores específicos de la página cuando se muestra la página. Las pestañas de la izquierda explican las variables disponibles.
+
+- Explicación de la plantilla
+?               ---
+
++ Explicación de plantilla
+
+- Por qué Google no muestra el título correcto de la página
++ ¿Por qué Google no mostrará el título de la página correcta?
+
+- Optimización del título
+?                -
+
++ Optimización de títulos
+?                       +
+
+
+- Para mas información:
+?       ^
+
++ Para más información:
+?       ^
+
+
+- Search Console
++ Consola de búsqueda
+
+- Mapas del sitio XML
++ Sitemaps XML
+
+- Títulos y metas
+?           ^
+
++ Títulos y Metas
+?           ^
+
+
+- %1$s ha detectado que estás usando la versión %2$s de %3$s, por favor, actualiza a la última versión para evitar problemas de compatibilidad.
+?     ---       ^^^         -  ^               -       -     -----------        ^ --
+
++ % 1 $ s detectó que está utilizando la versión% 2 $ s de% 3 $ s, actualice a la última versión para evitar problemas de compatibilidad.
+?  + + +        ^           ^^^^^                + + +     + + +          ^^^
+
+
+- Otro sitio creado con WordPress
+?            ^^ -------
+
++ Otro sitio de WordPress
+?            ^
+
+
+- Todavía tienes la descripción corta de WordPress, incluso sería mejor dejarla vacía. %1$sPuedes solucionarlo en el personalizador%2$s.
++ Todavía tienes el lema de WordPress predeterminado, incluso un vacío es probablemente mejor. % 1 $ s Puede arreglar esto en el personalizador% 2 $ s.
+
+- Has utilizado HTML en el valor y eso no está permitido.
+?   -                   ^^       ^^ --
+
++ Ha utilizado HTML en su valor que no está permitido.
+?                      ^^       ^^
+
+
+- No puedes editar %s ya que no son tuyos.
+?                 -  ---         ^
+
++ No puedes editar% s que no sean tuyos.
+?                  +          ^^
+
+
+- No puedes editar %s.
+?         -       -
+
++ No se puede editar% s.
+?   +++              +
+
+
+- La entrada tiene un tipo de contenido no válido: %s.
++ La publicación tiene un tipo de publicación no válido:% s.
+
+- La entrada no existe. 
++ El correo no existe.
+
+- No se pudo borrar el archivo %s. Por favor, bórralo por FTP.
++ No se pudo eliminar el archivo% s. Elimínelo por FTP.
+
+- Bienvenue
++ Bienvenido
+

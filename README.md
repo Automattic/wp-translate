@@ -19,6 +19,7 @@ But, WordPress strings are not just human words. They contain structure. They co
 ```
 msgid "If you're an existing Jetpack Professional customer, you have immediate access to these themes. Visit <a href=\"%s\">wordpress.com/themes</a> to see what's available."
 msgstr "Si ya eres cliente de Jetpack Professional, tienes acceso inmediato a estos temas. Visita <a href=\"%s\">https://es.wordpress.org/themes/</a> para ver los que hay disponibles."```
+```
 
 ```
 msgid "In reply to <a %1$s>%2$s</a>"

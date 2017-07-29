@@ -208,7 +208,7 @@ It was trained on:
 
 Here is a sampling of the loss across those steps:
 
-TODO: add image
+![Training Loss](https://raw.githubusercontent.com/automattic/wp-translate/master/trainingloss.png)
 
 The large decrease is when we switched from the joint training data to only using wpcom data.
 

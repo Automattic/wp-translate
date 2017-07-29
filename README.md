@@ -61,7 +61,7 @@ python -m unittest seq2seq.test.pipeline_test
 
 ## How to run
 
-We need to encode our text data so that it can go into the model. The desired output is two parallel text files, one for the source language (always English in our case) and one for the target language. The lines of each file align with each other. To be able to efficiently encode all characters, we build a character mapping which maps an index to a unicode data point (theoretically we could map sequences of characters also).
+We need to encode our text data so that it can go into the model. The desired output is two parallel text files, one for the source language (always English in our case) and one for the target language. The lines of each file align with each other. To be able to efficiently encode all characters, we build a character mapping which maps an index to a unicode data point (theoretically we could map to sequences of characters also there are some tools in the seq2seq lib for doing this).
 
 So to build training data, we need a charmap for the target and source languages, then we use them to build the parallel text files which will just consist of the index numbers for the characters separated by whitespace.
 
@@ -93,8 +93,23 @@ diff tmp.chars tmp2.chars | grep -e "^<" >> charmaps/all-en.tsv
 
 And then edit the last couple of lines of all-en.tsv to give those missing characters some indices. There should only be a small handful of missing characters.
 
+### Data organization
+
+```
+/
+- charmaps - the list of
+- wp-data
+ - 2015 - downloaded wpcom and jetpack translation files from 2015
+ - 2017 - downloaded translation files from 2017
+ - wponly-processed - preprocessed/encoded training files from the 2015 and 2017 dirs
+- models
+  - goldilocks - the trained model for en to es translation
+- predictions - output files from
+```
+
 ### Prep the training data
 
+Creating the generic training data from common crawl corpus:
 
 ```
 python wp_translate_ptf_filter.py charmaps/en.tsv charmaps/es.tsv nmt-data/wmt16/raw/common-crawl/commoncrawl.es-en.en nmt-data/wmt16/raw/common-crawl/commoncrawl.es-en.es nmt-data/wmt16/commoncrawl.es-en.en nmt-data/wmt16/commoncrawl.es-en.es
@@ -102,7 +117,7 @@ python wp_translate_ptf_encode.py charmaps/en.tsv nmt-data/wmt16/commoncrawl.es-
 python wp_translate_ptf_encode.py charmaps/es.tsv nmt-data/wmt16/commoncrawl.es-en.es wp-data/wp-nmt-processed/commoncrawl.es-en.es.txt
 ```
 
-We want training sets that are balanced 50-50 between the wp data and a subset of the generic data. This way we can generalize better and make up for lack of vocab in the wp data. Putting them in the same file means that we will have mini-batches that contain both sets of data.
+When using generic data, we want training sets that are balanced 50-50 between the wp data and a subset of the generic data. This way we can generalize better and make up for lack of vocab in the wp data. Putting them in the same file means that we will have mini-batches that contain both sets of data.
 
 Take the generic NMT training data and randomize it, split it up, and then append the wp data onto it:
 
@@ -132,11 +147,12 @@ Encode the common crawl generic data.
 
 Encode the WP data (and then decode to check it):
 
-
 ```
-> python wp_translate_po2ptf.py wp-data/2015/wpcom-es.po charmaps/en.tsv charmaps/es.tsv wp-data/processed/wpcom-es-source.txt wp-data/processed/wpcom-es-target.txt
+> python wp_translate_po2ptf.py wp-data/2015/wpcom-es.po charmaps/en.tsv charmaps/es.tsv wp-data/wponly-processed/wpcom-es-source.txt wp-data/wponly-processed/wpcom-es-target.txt
  > python wp_translate_ptf_decode.py charmaps/en.tsv wp-data/processed/wpcom-es-source.txt tmp.txt
  ```
+
+This same final step can get used for generating data for evaluation also.
 
 ### Run the training
 
@@ -164,18 +180,47 @@ Predict results:
 Decode the results from the output
 
 ```
-python wp_translate_ptf_decode.py charmaps/es.tsv models/en2es/pred/predictions.txt tmp.txt
+cp models/en2es/pred/predictions.txt predictions/jetpack-2015.enc
+python wp_translate_ptf_decode.py charmaps/es.tsv predictions/jetpack-2015.enc predictions/jetpack-2015.txt
 ```
 
 ### Evaluate results
 
-TBD
+```
+python wp_translate_eval.py charmaps/es.tsv predictions/jetpack-2015.enc wp-data/wponly-processed/jetpack-es-target.txt predictions/jetpack-2015-output.diff
+```
 
 
-## Notes from initial training
+## Notes from training prototype model
 
-Started with en2es translation
-- Trained on wpcom data for 100k steps or so (13k examples)
- - saw some Spanish on the output, but was worried that we didn't have a big enough vocab in the training data
-- Started training on a subset of the common crawl corpus data (removed lines with characters not in our charmap) to get a wider vocab (300k examples)
-- alternated 10k steps on common crawl data, then 10k steps on wp data. Didn't want 300k examples to overwhelm the 13k. (yes this is very hacky and ad hoc)
+The prototype model consists of:
+- a 3 layer bidirectional encoder
+- a 3 layer attention decoder
+- 512 units in the internal layers
+- LTSM cells
+- max character length of 500 chars
+
+Trained to translate from en data to es_ES
+
+It was trained on:
+- 100k steps of combo data from common crawl data and wpcom data from 2015
+- 120k steps of just the wpcom data from 2015
+
+Here is a sampling of the loss across those steps:
+
+TODO: add image
+
+The large decrease is when we switched from the joint training data to only using wpcom data.
+
+## Notes from evaluating prototype model
+
+We ran predictions for the following data:
+- jetpack 2015 strings - 1655 strings
+- jetpack 2017 strings - 2541 strings
+- vantage theme 2017 strings - 573 strings
+- yoast strings - 1092 strings
+- wpcom 2017 strings - 17874 strings (note that this is a superset of the 13226 strings we trained on)
+
+All predictions were run using beam search with a width of 5.
+
+We evaluated the results based on what percentage of the strings were 100% translated correctly character for character.

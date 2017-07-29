@@ -257,6 +257,8 @@ We evaluated the results based on what percentage of the strings were 100% trans
 | vantage theme  | 12.04% (69)   | 3.93%                |
 | wpcom 2017     | 49.75% (8893) | 1.45%                |
 | wpcom 2017 diff|   |                |
+| jetpack readme |   |                |
+| yoast readme   |   |                |
 
 
 Diffs of all errors:
@@ -281,8 +283,10 @@ grep "^?" predictions/jetpack-2015-output.diff | tr -d '? ' | awk 'length($1) < 
 | jetpack 2017   | 20.77% (529)  | 15.80%               |
 | yoast plugin   | 16.33% (179)  | 12.80%               |
 | vantage theme  | 19.83% (114)  | 16.66%               |
-| wpcom 2017     | 20.763 (3694) | 14.20%               |
-| wpcom 2017 diff| 07.27  (72)   | 23.94%               |
+| wpcom 2017     | 20.76% (3694) | 14.20% (8% off by 1) |
+| wpcom 2017 diff| 07.27%  (72)  | 23.94%               |
+| jetpack readme | 12.00%  (24)  | 07.25%               |
+| yoast readme   | 07.27%  (12)  | 06.25%               |
 
 8.8% of the wpcom 2017 errors are only off by a single character.
 

@@ -1,0 +1,890 @@
+- El único plugin que necesitas para tener estadísticas, entradas relacionadas, optimización en motores de búsqueda, compartir en redes sociales, protección, copias de seguridad, velocidad y gestión de listas de correo electrónico.
++ El plugin que necesitas para estadísticas, publicaciones relacionadas, optimización de motores de búsqueda, compartición social, protección, copias de seguridad, velocidad y gestión de listas de correo electrónico.
+
+- Tenemos un equipo completo de ingenieros de felicidad dispuestos a ayudarte. Haz tus preguntas en el foro de ayuda o <a href="https://jetpack.com/contact-support">ponte en contacto con nosotros directamente</a>.
++ Tenemos todo un equipo de ingenieros de la felicidad listos para ayudarle. Haga sus preguntas en el foro de soporte, o <a href="https://jetpack.com/contact-support">póngase en contacto con nosotros directamente</a> .
+
+- Jetpack by WordPress.com
+?         ^^
+
++ Jetpack por WordPress.com
+?         ^^^
+
+
+- Publicar la entrada: http://wp.me/p1moTy-4Rl
+?        ^^^^^^ -----
+
++ Publicación: http://wp.me/p1moTy-4Rl
+?        ^^^
+
+
+- Instrucciones para la instalación
+?               ^^^^^^^
+
++ Instrucciones de instalación
+?               ^^
+
+
+- Una vez instales Jetpack tus estadísticas estarán disponibles en <a href="https://wordpress.com/stats">WordPress.com/Stats</a>, en las <a href="https://apps.wordpress.com/mobile/">aplicaciones móviles WordPress</a> oficiales y en tu escritorio de Jetpack.
+?         ^^^^^^^^        ^^                                                                                                                                                                              ^              ----------     ^^^^^^^^^^^^^^^^
+
++ Una vez que haya instalado Jetpack, sus estadísticas estarán disponibles en <a href="https://wordpress.com/stats">WordPress.com/Stats</a> , en las <a href="https://apps.wordpress.com/mobile/">aplicaciones móviles</a> oficiales de <a href="https://apps.wordpress.com/mobile/">WordPress</a> y en el panel de Jetpack.
+?         ^^^^^^^^^^^^^^^^^^        ^^^                                                                                                    +                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                   ^^^^^^^^^^^
+
+
+- La cuenta de WordPress.com es distinta de la que usas para acceder a tu WordPress alojado por tu cuenta. Si puedes acceder a <a href="https://wordpress.com">WordPress.com</a> entonces ya tienese una cuenta de WordPress.com. Si no puedes, crea una fácilmente <a href="https://jetpack.com/install?from=wporg">durante la instalación</a>.
++ Una cuenta de WordPress.com es diferente de la cuenta que utiliza para iniciar sesión en su auto-hospedado WordPress. Si puede iniciar sesión en <a href="https://wordpress.com">WordPress.com</a> , ya tiene una cuenta en WordPress.com. Si no puede, puede crear uno fácilmente <a href="https://jetpack.com/install?from=wporg">durante la instalación</a> .
+
+- Como Jetpack y sus servicios los ofrece y están alojados en WordPress.com, se requiere una cuenta de WordPress.com para que funcione Jetpack.
++ Debido a que Jetpack y sus servicios son proporcionados y alojados por WordPress.com, una cuenta de WordPress.com es necesaria para que Jetpack funcione.
+
+- Si tienes interés en aprender más acerca de las capas extra de protección y herramientas avanzadas disponibles, aprende más sobre nuestros <a href="https://jetpack.com/pricing?from=wporg">planes de pago</a>.
++ Si está interesado en aprender más sobre las capas adicionales de protección y herramientas avanzadas disponibles, conozca más sobre nuestros <a href="https://jetpack.com/pricing?from=wporg">planes de pago</a> .
+
+- Los servicios de pago de Jetpack incluyen copias de seguridad automatizadas, escaneo de seguridad, filtrado de spam, alojamiento de vídeo, monetización de tu sitio, herramientas SEO y soporte prioritario.
+?               ---   ^^^^                                                     ^^^^^^^^^^                                              ^^^^^                 ^^^^^^^^^                            ^^^^^^^^^^^
+
++ Los servicios pagados de Jetpack incluyen copias de seguridad automatizadas, análisis de seguridad, filtrado de spam, alojamiento de video, monetización de sitios, herramientas de SEO y soporte de prioridad.
+?                  ^^^^^^^                                                     ^^^^^^^^^^^                                              ^^^^^                 ^^^^^^^             +++               ^^^^^^^^^^^^
+
+
+- Incluye: <a href="https://jetpack.com/features/traffic/site-stats">estadísticas del sitio</a>, una <a href="https://jetpack.com/features/writing/content-delivery-network/">CDN de alta velocidad</a> para las imágenes, <a href="https://jetpack.com/features/traffic/related-posts">entradas relacionadas</a>, <a href="https://jetpack.com/features/security/downtime-monitoring">monitoreo de tiempo de actividad</a>, <a href="https://jetpack.com/features/security/brute-force-attack-protection">protección ante ataques de fuerza bruta</a>, <a href="https://jetpack.com/features/traffic/automatic-publishing/">compartir automático</a> en las redes sociales, <a href="https://jetpack.com/features/writing/sidebar-customization/">personalización de la barra lateral</a> y mucho más.
++ Estos incluyen: <a href="https://jetpack.com/features/traffic/site-stats">estadísticas del sitio</a> , un <a href="https://jetpack.com/features/writing/content-delivery-network/">CDN de alta velocidad</a> para imágenes, <a href="https://jetpack.com/features/traffic/related-posts">posts relacionados</a> , <a href="https://jetpack.com/features/security/downtime-monitoring">monitorización del tiempo de inactividad</a> , <a href="https://jetpack.com/features/security/brute-force-attack-protection">protección contra</a> ataques de fuerza bruta, <a href="https://jetpack.com/features/traffic/automatic-publishing/">intercambio automatizado</a> a redes sociales, <a href="https://jetpack.com/features/writing/sidebar-customization/">personalización de barras laterales</a> y muchos más.
+
+- ¡Sí! Las características base de Jetpack son y siempre serán gratis.
+?                          -----
+
++ ¡Sí! Las principales características de Jetpack son y siempre serán gratuitas.
+?         ++++++++++++                                                    + ++
+
+
+- ¿Debería comprar un plan de pago?
+?     ^^^^                 ---
+
++ ¿Debo comprar un plan pagado?
+?     ^                    ++
+
+
+- Alternativamente, instala Jetpack a través del directorio de plugins, o sube manualmente los archivos a tu servidor y sigue las instrucciones en pantalla. Si necesitas ayuda adicional <a href="http://jetpack.com/support/installing-jetpack/">lee nuestras instrucciones detalladas</a>.
++ Como alternativa, instale Jetpack a través del directorio de complementos o cargue los archivos manualmente en su servidor y siga las instrucciones en pantalla. Si necesita ayuda adicional <a href="http://jetpack.com/support/installing-jetpack/">lea nuestras instrucciones detalladas</a> .
+
+- La instalación es gratis, rápida y sencilla. <a href="https://jetpack.com/install?from=wporg">Instala Jetpack desde tu sitio</a> en minutos.
+?                        ^           ^^^   --                                                         ^            --- ^
+
++ La instalación es gratuita, rápida y fácil. <a href="https://jetpack.com/install?from=wporg">Instale Jetpack de nuestro sitio</a> en minutos.
+?                       + ^^           ^^                                                            ^           ++++  ^^
+
+
+- Instalación automática
+?                  ^  ^
+
++ Instalación automatizada
+?                  ^  ^ ++
+
+
+- La instalación es gratis,rápida y sencilla. Configura <a href="https://jetpack.com/install?from=wporg">el plan gratuito</a> en minutos.
+?                        ^          ^^^    ^^^^^^^^^^ -                                                          ^ ^^^^^^
+
++ La instalación es gratuita, rápida y fácil. Establecer <a href="https://jetpack.com/install?from=wporg">el plan libre</a> en cuestión de minutos.
+?                       + ^^ +         ^^   +++++++ ^^^                                                           ^^^ ^       ++++++++++++
+
+
+- La mayoría de los servicios y características de Jetpack son gratis. Jetpack también ofrece servicios avanzados de seguridad, copia de seguridad, alojamiento de vídeo, monetización del sitio, soporte prioritario y más herramientas SEO en los tres <a href="https://jetpack.com/pricing?from=wporg">sencillos y asequibles planes</a>.
++ La mayoría de las características y servicios de Jetpack son gratuitos. Jetpack también ofrece servicios avanzados de seguridad y copia de seguridad, alojamiento de video, monetización de sitios, soporte de prioridad y más herramientas de SEO en tres <a href="https://jetpack.com/pricing?from=wporg">sencillos y asequibles planes</a> .
+
+- Crea una conexión con tus lectores y haz que vuelvan a tu sitio con:
+?                       ^              ^ ^^^^   ^^   ^^^^^
+
++ Crear una conexión con sus lectores y mantenerlos volver a su sitio con:
+?     +                  ^              ^ ^^ ++++++  ^  +++ ^^
+
+
+- Añade medios enriquecidos y hermosamente presentados - no hace falta experiencia gráfica:
++ Agregue los medios ricos, presentados maravillosamente - ninguna habilidad gráfica del diseño necesaria:
+
+- Deja de preocuparte por la pérdida de datos, caídas del servicio y hackeo. Jetpack ofrece:
++ Deje de preocuparse por la pérdida de datos, el tiempo de inactividad y la piratería informática. Jetpack ofrece:
+
+- El tráfico es el alma de cualquier web. Jetpack incluye:
++ El tráfico es el alma de cualquier sitio web. Jetpack incluye:
+?                                    ++++++
+
+
+- Mantén seguro cualquier sitio WordPress, incrementa el tráfico e involucra a tus lectores.
++ Mantenga cualquier sitio de WordPress seguro, aumente el tráfico y comprometa a sus lectores.
+
+- [gratis] Scroll infinito de tus entradas
++ [Gratis] Desplazamiento infinito para tus mensajes
+
+- [gratis] Formularios de contacto totalmenten personalizables
+?  ^                               ^   -     -
+
++ [Gratis] Formularios de contacto completamente personalizables
+?  ^                               ^ ++++
+
+
+- [gratis] Acceso a comentarios con Facebook, Twitter y Google
+?  ^       ^ ^  ^^^^^^^^ ------
+
++ [Gratis] Iniciar sesión con Facebook, Twitter y Google
+?  ^       ^^^ ^^^^^  ^^
+
+
+- [gratis] Suscripciones por correo electrónico
+?  ^
+
++ [Gratis] Suscripciones por correo electrónico
+?  ^
+
+
+- [de pago] Alojamiento de vídeo de alta velocidad, si anuncios y en alta definición
+?  ^^^^                     ^                       ^              -
+
++ [Pagado] Alojamiento de video de alta velocidad, libre de anuncios y de alta definición
+?  ^  ++                   ^                       ^ ++++++            +
+
+
+- [gratis] Widgets adicionales para barras laterales, incluidos de estadísticas del sitio, calendario y widgets de autor
+?  ^                           ^ --      -         --      ^^^^^^                  ^ ----
+
++ [Gratis] Widgets adicionales de la barra lateral que incluyen estadísticas de blogs, calendarios y widgets de autor
+?  ^                           ^^^^               +++       ^ +                ++ ^^             +
+
+
+- [gratis] Personalización de barras laterales, incluyendo Facebook, Twitter y feeds RSS
+?  ^       ^                       -        ---                                     ----
+
++ [Gratis] personalización de la barra lateral incluyendo Facebook, Twitter y RSS feeds
+?  ^       ^                 +++                                             ++++
+
+
+- [gratis] Incrustaciones sencillas desde YouTube, documentos de Google, Spotify y más
+?  ^           ^^^                    ---          ^       - ----------
+
++ [Gratis] Incorporaciones sencillas de YouTube, Google Documents, Spotify y más
+?  ^          + ^^^                              ^^^^^^^^
+
+
+- [gratis] Galerías en carrusel, pase de diapositivas y rejilla
++ [Gratis] Carruseles, presentaciones de diapositivas y galerías de azulejos
+
+- [gratis] Una CDN de alta velocidad para tus imágenes
+?  ^ ^^^^    -                            ^
+
++ [Free] Un CDN de alta velocidad para sus imágenes
+?  ^ ^^                                ^
+
+
+- [de pago] Copias de seguridad de tu sitio, restauraciones y migraciones
+?   ------                     ------------
+
++ [Paid] Copias de seguridad, restauraciones y migraciones del sitio
+?  +++                                                    ++++++++++
+
+
+- [de pago] Escaneo de malware, código y solución frente a amenazas
+?   ------                                        ^^ -----
+
++ [Paid] Escaneo de malware, escaneo de códigos y resolución de amenazas
+?  +++                       +++++++++++      +   ++         ^
+
+
+- [gratis] Accesos seguros e identificación en dos pasos
++ [Free] Inicios de sesión protegidos y autenticación de dos factores
+
+- [gratis] Monitoreo de caídas del servidor y tiempo de actividad
++ [Free] Tiempo de inactividad y supervisión del tiempo de actividad
+
+- [gratis] Protección contra ataques de fuerza bruta
+?  ^
+
++ [Gratis] Protección contra ataques de fuerza bruta
+?  ^
+
+
+- [de pago] Programa de anuncios que incluye lo mejor de AdSense, Facebook Ads, AOL, amazon, Google AdX y Yahoo
+?  ^^^^                 ^^ ^  ^^                                                     ^
+
++ [Pagado] Programa de publicidad que incluye lo mejor de AdSense, Facebook Ads, AOL, Amazon, Google AdX y Yahoo
+?  ^  ++               ^ ^^^  ^^^                                                     ^
+
+
+- [de pago] Herramientas de optimización de motores de búsqueda para Google, Bing, Twitter, Facebook y WordPress.com
+?  ^^^^
+
++ [Pagado] Herramientas de optimización de motores de búsqueda para Google, Bing, Twitter, Facebook y WordPress.com
+?  ^  ++
+
+
+- [gratis] Entradas relacionadas
++ [Free] Puestos relacionados
+
+- [gratis] Compartir automáticamente en Facebook, Twitter, LinkedIn, Tumblr, Reddit y WhatsApp
+?  ^               ^           ^  -----
+
++ [Gratis] Compartición automática en Facebook, Twitter, LinkedIn, Tumblr, Reddit y WhatsApp
+?  ^               ^^^^           ^
+
+
+- [gratis] Estadísticas y análisis del sitio
+?  ^                       ^^^  --
+
++ [Gratis] Estadísticas y estadísticas del sitio
+?  ^                      +++ ^^^^ ++
+
+
+- Para empezar
++ Empezar
+
+- Servicios de pago
+?           ---
+
++ Servicios pagados
+?              ++ +
+
+
+- Soporte experto
++ Soporte de expertos
+?         +++       +
+
+
+- Debate y comunidad
++ Discusión y Comunidad
+
+- Tráfico: Herramientas SEO para Google, Twitter, Facebook y más.
+?          ^
+
++ Tráfico: herramientas SEO para Google, Twitter, Facebook y mucho más.
+?          ^                                                ++++++
+
+
+- Analítica: Estadísticas del sitio activas e informes de tráfico. 
++ Análisis: Estadísticas de sitio y percepciones de tráfico accionables.
+
+- Implicación: Compartir en redes sociales, me gusta y entradas relacionadas.
++ Compromiso: compartir social, gustos y posts relacionados.
+
+- Seguridad: Protege tu sitio y datos con potentes servicios de seguridad.
+?                 ^^^^                      ^ ^^^
+
++ Seguridad: Proteja su sitio y sus datos con poderosos servicios de seguridad.
+?                 ^^^^         ++++             ^ ^^ ++
+
+
+- Escritorio: Vista de pájaro de tus estadísticas, estado y salud.
++ Tablero de instrumentos: vista de pájaro de las estadísticas de su sitio, estado y salud.
+
+- Hay oportunidades para contribuir para desarrolladores a todos los niveles.  <a href="https://jetpack.me/contribute">Aprende cómo contribuir a Jetpack</a> o considera <a href="https://jetpack.me/beta">unirte a nuestro programa beta</a>.
++ Hay oportunidades para que los desarrolladores en todos los niveles contribuyan. <a href="https://jetpack.com/contribute">Obtenga más información sobre cómo contribuir con Jetpack</a> o considere <a href="https://jetpack.com/beta">unirse a nuestro programa beta</a> .
+
+- ¿Cómo puedo contribuir a Jetpack?
+?      ------         ^^
+
++ ¿Cómo contribuyo a Jetpack?
+?               ^^
+
+
+- ¿Cómo ver mis estadísticas?
+?         ^
+
++ ¿Cómo veo mis estadísticas?
+?         ^
+
+
+- Ya tengo una cuenta de WordPress, pero no funciona. ¿Qué está pasando?
+?                                                        ^    ^
+
++ Ya tengo una cuenta de WordPress, pero Jetpack no funciona. ¿Que esta pasando?
+?                                        ++++++++                ^    ^
+
+
+- Se evitan errores al eliminar el plugin de Jetpack.
++ Evite errores cuando se elimina el complemento Jetpack.
+
+- Las imágenes no se distorsionan cuando Galerías de mosaicos usa Photon.
++ Asegúrese de que las imágenes no se distorsionan cuando Tiled Galleries utiliza Photon.
+
+- Se pueden eliminar todas las configuraciones de título personalizado en la función de SEO.
++ Permitir la eliminación de todos los ajustes de título personalizado en la función de SEO.
+
+- Se evitan errores graves cuando el parámetro de exclusión de Entradas relacionadas no es una cadena.
+? ^^^^   ^^         ^^ ^                                    - -- ^^ ^^
+
++ Evite errores fatales cuando el parámetro de exclusión en Publicaciones relacionadas no es una cadena.
+? ^   ^         ^ ^^^                                      ^^^^^^^ ^^^^^
+
+
+- La imagen destacada se utiliza siempre en tuiteos publicados a través de Difundir.
+?                                           ^^^^^                          ^ ^^^^ ^
+
++ La imagen destacada se utiliza siempre en los tweets publicados a través de Publicize.
+?                                           ^  +++++++                        ^^^^ ^ ^^
+
+
+- Se muestran todos los sitios disponibles de una red, incluso en grandes instalaciones multisitio.
+? ^^^^^^    ^                              -
+
++ Mostrar todos los sitios disponibles en una red, incluso en grandes instalaciones multisitio.
+? ^^    ^                               +
+
+
+- Los anuncios no se muestran en el tipo de contenido personalizado de proyectos de portfolio.
++ Los anuncios que no se muestran en la cartera crean un tipo de contenido personalizado.
+
+- El tipo de contenido de los mensajes del formulario de contacto se ha configurado correctamente para restaurar la compatibilidad con los plugins de correo electrónico.
+?                        - --        -   -                         ^^^^                                     ^ --                             ^^^
+
++ El tipo de contenido del mensaje de formulario de contacto ya está configurado correctamente para restablecer la compatibilidad con los complementos de correo electrónico.
+?                                                            ++++ ^^                                     ^^^^^                            +++  ^^^ ++
+
+
+- Escritorio evita que las solicitudes de API se almacenen en la memoria caché en algunos proveedores de hosting y evita errores cuando el corrector ortográfico está inactivo.
+? ^ ^ ^^^^^^                                                 -----------                  ---------------    ^^^                           ^  ^ ----       ^ ^^^
+
++ Dashboard evita que las solicitudes de API se almacenen en caché en algunos hosts y evita errores cuando el Comprobador de ortografía está inactivo.
+? ^^ ^^^^ ^                                                                       ^                           ^^^^^^^^^  ^^        ^ ^^
+
+
+- Protección es compatible con direcciones IPv6.
++ Protect admite las direcciones IPv6 correctamente.
+
+- Ahora el contenido de VideoPress se muestra en las búsquedas de "vídeo" y se ha solucionado el problema de ubicación del icono de búsqueda en las pantallas de dispositivos móviles.
++ VideoPress ahora incluido en los resultados de búsqueda de &quot;video&quot; y el posicionamiento fijo del icono de búsqueda en pantallas móviles.
+
+- Los avisos de VaultPress se muestran correctamente en el escritorio de Jetpack.
++ Mostrar correctamente las notificaciones de VaultPress en el panel de Jetpack.
+
+- Se ha solucionado el problema con el aviso del widget de suscripción en PHP 7.1
+?       ^ ^^^ ---   ^^^^^^^^^^^^^^ ---       ^
+
++ Se ha corregido un aviso en el widget de suscripción en PHP 7.1
+?       ^ ^^^^    ^        ^^^
+
+
+- Se ha modificado el texto del botón Publicar por Correo Electrónico que se muestra cuando no hay ninguna dirección de correo electrónico generada.
++ Corregido el texto en el botón Publicar por correo electrónico cuando no se ha generado ninguna dirección de correo electrónico.
+
+- Ahora la API de REST de WordPess.com es compatible con solicitudes <code>HTTP PUT</code>.
++ La API REST de WordPess.com ahora permite <code>HTTP PUT</code> peticiones <code>HTTP PUT</code> .
+
+- El formulario de contacto no se activa automáticamente cuando los formularios Ninja están activos.
+? ^^^^                        ---
+
++ Formulario de contacto no activado automáticamente cuando los formularios Ninja están activos.
+? ^                               ++
+
+
+- Se sincronizan los nombres de plugins y temas cuando se activa un evento relacionado, como las actualizaciones de temas.
++ Sincronizar complemento y nombres de tema cuando se desencadena un evento relacionado que incluye actualizaciones de temas.
+
+- Ahora se distingue entre un archivo adjunto nuevo y uno actualizado.
++ Ahora distinguimos entre un nuevo y un accesorio actualizado.
+
+- Se sincroniza la eliminación de entradas, los cambios en la barra lateral, los eventos de usuario (de añadir, eliminar y actualizar) y la instalación de temas.
++ Sincronizar las supresiones de los mensajes, los cambios en la barra lateral, los eventos del usuario (adición, eliminación y actualización) y la instalación del tema.
+
+- Las actualizaciones automáticas de plugins solo se activan desde WordPress.com; ahora también activan el modo de mantenimiento de WordPress.
+?                                      ^^^    ^                                 ^      --------
+
++ Las actualizaciones automáticas de complementos sólo se activan desde WordPress.com y ahora activan el modo de mantenimiento de WordPress.
+?                                    +++  ^^^ ++   ^                                 ^^
+
+
+- Se ha actualizado la lista de configuraciones regionales de Jetpack.
++ Actualizado la lista de locales disponibles en Jetpack.
+
+- Ahora el modo de desarrollo también muestra la lista de módulos.
+? ^^^^^^^
+
++ El modo de desarrollo ahora también muestra la lista de módulos.
+? ^                     ++++++
+
+
+- Ahora el formulario de contacto añade nombres para mostrar a las direcciones de correo electrónico en el encabezado <code>Para</code>.
+? ^^^^^^^^^^                       ^ ^          ^ ^ ^^^^^^ -------                                                          ^^^^
+
++ Formulario de contacto ahora agrega nombres de visualización a direcciones de correo electrónico en el encabezado <code>To</code> .
+? ^                       ^^^ ^^^^ ++         ^^^^^^^ ^^^ ^^^^^                                                           ^^       +
+
+
+- Se ha eliminado el código de la interfaz "Mi Jetpack" porque no se usaba y un método XML-RPC ahora está obsoleto.
++ Se ha eliminado el código no utilizado de la interfaz &quot;Mi Jetpack&quot; y se ha obsoleto un método XML-RPC.
+
+- Los avisos acciones realizadas correctamente se descartan tras un breve período de tiempo.
++ Los avisos de éxito se descartan automáticamente después de un breve período.
+
+- Nuevos widgets de "Banner de EU Cookie Law", de Flickr y de la "Liga para la defensa de Internet".
++ Nuevos widgets &quot;EU Cookie Law Banner&quot;, Flickr y &quot;Internet Defense League&quot;.
+
+- Se arregló un error que estaba causando un vacío en el área admin de Jetpack.
++ Corregido un error que estaba causando un área de administración de Jetpack en blanco.
+
+- Entrada de versión: http://wp.me/p1moTy-4P0
++ Publicación: http://wp.me/p1moTy-4P0
+
+- Entrada de versión: http://wp.me/p1moTy-4N5
++ Publicación: http://wp.me/p1moTy-4N5
+
+- <strong>Mejoras en la compatibilidad</strong>
+?                  ^^^^^^
+
++ <strong>Mejoras de Compatibilidad</strong>
+?                 + ^^
+
+
+- <strong>Mejoras en la seguridad</strong>
+?                  ^^^^^^
+
++ <strong>Mejoras de Seguridad</strong>
+?                 + ^^
+
+
+- <strong>Mejores en la accesibilidad</strong>
+?               -------
+
++ <strong>Mejoras de accesibilidad</strong>
+?              ++++
+
+
+- <strong>Mejoras ligeramente menos elegantes</strong>
+?                                    ^^^
+
++ <strong>Mejoras ligeramente menos emocionantes</strong>
+?                                    ^^^^^^
+
+
+- La URL de Instagram ahora utiliza <code>www</code> en los íconos de redes sociales del widget.
++ La URL base de Instagram ahora usa <code>www</code> en el widget Social Media Icons.
+
+- VideoPress evita ahora PHP Notices cuando está recogiendo información del video.
++ VideoPress ahora evita avisos de PHP al buscar información de vídeo.
+
+- Cuando el correo electrónico ya está en la lista de suscripción, lo señalamos en el formulario de suscripción.
++ Cuando el correo electrónico ya está suscrito, ahora mostramos la notificación correcta en el formulario de suscripción.
+
+- Gravatar está siempre visualizado en los Ajustes.
++ Gravatar siempre se muestra en Ajustes.
+
+- Mejor soporte en la sincronización y respaldo de los datos de WooCommerce.
+?               ^^                     ^^^  ---    --
+
++ Mejor soporte para la sincronización y copia de seguridad de datos de WooCommerce.
+?               ^^^^                     ^^ +      +++++++++++
+
+
+- Publicitar ahora funciona con complementos de terceros como WP Recipe Maker.
+?        ^^^
+
++ Publicize ahora funciona con complementos de terceros como WP Recipe Maker.
+?        ^^
+
+
+- Ahora evitamos revelar la ruta en los mensajes de error PHP via cookies.
++ Ahora evitamos la divulgación de la ruta a través de cookies en mensajes de error de PHP.
+
+- Actualizados los paquetes de idiomas personalizados para diversos idiomas
++ Paquetes de idioma personalizados actualizados para varios idiomas.
+
+- El plan de datos Jetpack ahora utiliza REST API de Wordpress.com.
++ Los datos del plan Jetpack ahora utilizan la API REST de WordPress.com.
+
+- Ahora puede incrustar Apple Keynotes desde icloud.com en sus entradas y páginas.
+?                                                               ------
+
++ Ahora puede incrustar Apple Keynotes directamente desde icloud.com en sus publicaciones y páginas.
+?                                      +++++++++++++                        +++++++++++
+
+
+- Entrada de versión: http://wp.me/p1moTy-46L
++ Publicación: http://wp.me/p1moTy-46L
+
+- <strong>Mejoras en la performance</strong>
++ <strong>Mejoras de rendimiento</strong>
+
+- Habilite Google Analytics sin tocar una línea de código con esta nueva función de Jetpack.
+?                                                                        ---  ^^
+
++ Habilite Google Analytics sin tocar una línea de código con esta nueva característica de Jetpack.
+?                                                                         ++++++++++ ^^
+
+
+- Entrada de emisión: http://wp.me/p1moTy-40g
++ Publicación: http://wp.me/p1moTy-40g
+
+- Entrada de la versión: http://wp.me/p1moTy-3Kc
++ Publicación: http://wp.me/p1moTy-3Kc
+
+- <strong>Mejoras de seguridad y rendimiento:</strong>
+?                 - ^^^^^^^^^^^^
+
++ <strong>Mejoras en rendimiento y seguridad:</strong>
+?                  ^            ++++++++++++
+
+
+- <strong>Nuevas y emocionantes funcionalidades y mejoras:</strong>
++ <strong>Nuevas características y mejoras:</strong>
+
+- Esta versión incorpora un módulo completamente nuevo, Jetpack Ads, la novedosa funcionalidad VideoPress y un montón de nuevos shortcodes y widgets.
++ Esta versión presenta un nuevo módulo, Jetpack Ads, una nueva característica de VideoPress, y una gran cantidad de nuevos códigos cortos y widgets.
+
+- El widget de Posts Más Vistos ahora evita problemas de maquetación cuando se usa el diseño en cuadrícula y se muestra un post sin imagen.
++ Ahora, el Widget Top Posts evita los problemas de diseño cuando se utiliza el diseño Grid mientras se muestra una publicación sin una imagen.
+
+- Añadido título por defecto para el widget de traducción si no se ha definido ninguno.
++ Se agregó un título por defecto de Translate Widget en caso de que no hayas definido uno.
+
+- Arreglados varios errores que ocurrían al trabajar con múltiples widgets en el personalizador y en la pantalla de administración de widgets.
+? ^    ^^  -                -------------                ^^^^ ^^^                ^  -----------                                       ^
+
++ Corregido varios pequeños errores al trabajar con varios widgets en el Customizer y en la pantalla de administración de Widgets.
+? ^^    ^         +++++++++                         ^^^ ^                ^^^^^^^^                                         ^
+
+
+- Arreglado un problema por el cual las categorías vacías no se mostraban con el desplegable de la opción Visibilidad de Widget
+? ^    ^^               ^^^    ^ ^^                                                            ^^^^^^^^^^         ^ ^^^ ^^^^^^^
+
++ Se ha corregido un problema en el que las categorías vacías no se mostraban con el menú desplegable Widget Visibility feature.
+? ^^^^^^^^    ^               ^^    ^ ^                                             +++++             ++ + ^         ^^^^^ ^^^ ^
+
+
+- Sincronizados los shortcodes soportados en un sitio.
++ Cortocircuitos sincronizados soportados en un sitio.
+
+- Define un límite de tiempo por defecto de 30 segundos al enviar peticiones de sincronización desde el Cron.
+? ^ ^^^^                      - ^  ^ ^^                           ^^^   ^^                       ------
+
++ Establezca un límite de tiempo predeterminado de 30 segundos al enviar solicitudes de sincronización a través de Cron.
+? ^^^^^^ ^^^                       ^  ^ ^^^^^^                           ^^^   ^^^                     +++++++++
+
+
+- Los iconos del sitio ahora se muestran en la interfaz de gestión del sitio en WordPress.com
+?     ^                                                    ^^               ---
+
++ Los íconos del sitio ahora se muestran en la interfaz de administración del sitio WordPress.com.
+?     ^                                                    ^^^^^^  +++                           +
+
+
+- Confirmado que los incrustados de Instagram realmente se cargan al usar el scroll infinito.
++ Las inserciones de Instagram confirmadas se cargan cuando se utiliza el desplazamiento infinito.
+
+- Solucionado un error de ReCaptcha en el botón de compartir por correo electrónico.
+?   ^^^ ---           ---                       ^^^^         ----
+
++ Se ha corregido un error ReCaptcha en el botón Compartir correo electrónico.
+?  ++++++ ^^^^                                   ^
+
+
+- Antes no podías crear una categoría hija desde WordPress.com. ¡Ya puedes!
++ Antes de que usted no fuera capaz de crear una categoría de niño de WordPress.com. ¡Ahora usted puede!
+
+- Los títulos largos en los widgets de Jetpack no se veían muy buen, los hemos retocado.
++ Los títulos largos de los widgets de Jetpack no parecían tan grandes, así que los limpiaramos.
+
+- Eliminada una función obsoleta para prevenir notificaciones cuando se utiliza el Scroll infinito en el personalizador.
+? ^     ^^^                           --  --   ^ -----------                       ^^^ --
+
++ Se eliminó una función obsoleta para evitar avisos cuando se utiliza el desplazamiento infinito en el personalizador.
+? ^^^^     ^                              ++  ^^^^                        ^^^^^^^^^^^^^
+
+
+- Eliminada una notificación de PHP al ejecutar el comando de CLI de <code>wp jetpack</code>.
+?         ^   ^^^ ----------                              ----------
+
++ Eliminado un Aviso de PHP al ejecutar el comando <code>wp jetpack</code> .
+?         ^   ^^^^^                                                       +
+
+
+- Notará numerosos mejoras de diseño en el UI de Jetpack.
++ Notará numerosas mejoras en el diseño de la interfaz de usuario de Jetpack.
+
+- Añadidos y mejorados algunos shortcodes.
++ Agregado y mejorado unos pocos códigos cortos.
+
+- Mejoramos el Facebook Widget para evitar confusión cuando se está modificando la altura y ancho del mismo.
++ Mejora el Widget de Facebook para evitar confusiones al editar ajustes de anchura y altura.
+
+- QDEP blip.tv — hemos retirado su shortcode.
++ RIP blip.tv - hemos eliminado su código corto.
+
+- Use comando <code>sync</code> en Jetpack's WP CLI.
++ Utilice comandos de <code>sync</code> en la CLP WP de Jetpack.
+
+- Sincronización: limpieza de tareas programadas innecesarias.
++ Sincronizar: eliminó los trabajos programados innecesarios.
+
+- Sincronización: ahora se asegura que se carguen las clases necesarias, evitando errores.
+?                                      -----------
+
++ Sincronización: ahora se asegura de que las clases necesarias se cargan, evitando errores.
+?                                  +++                         ++++++++++
+
+
+- Administración: se ha hecho que la página De un vistazo funcione correctamente cuando aún no hay datos de copia de seguridad.
++ Admin: hecho de un vistazo página de trabajo muy bien cuando no hay datos de copia de seguridad todavía.
+
+- Administración: se ha asegurado que las pestañas de ayuda no estén ocultas.
+?      ---------    ---       ^ ^                               ----       ^
+
++ Admin: se aseguró de que las pestañas de ayuda no se ocultaran.
+?                 ^^ ^                              +        ^^^
+
+
+- Contenido destacado: se ha asegurado que no haya un bucle infinito al quitar la etiqueta destacada de la lista de etiquetas.
+?                      ------        ^           ----                   ^^ ^
+
++ Contenido destacado: asegurarse de que no hay bucle infinito al eliminar la etiqueta destacada de la lista de etiquetas.
+?                             ++++ ^                              ^^ ^^^
+
+
+- Sincronización: mejorada la compatibilidad con el plugin wp-missed-schedule.
++ Sync: compatibilidad mejorada con el complemento wp-missed-schedule.
+
+- CSs personalizados: Se ha hecho que la característica CSS personalizado de Jetpack sea compatible con el editor de CSS del personalizador en WordPress 4.7. 
++ Custom CSS: Hizo que la característica CSS personalizada de Jetpack fuera compatible con el editor CSS Customizer de WordPress 4.7.
+
+- Solucionado un problema en el que los usuarios de un plan de Jetpack Professional que pagaban mensualmente (en lugar de hacerlo anualmente) no podían habilitar las herramientas de SEO.
+?                                                                                           --                   ^^^  -----  ^^^
+
++ Solucionado un problema en el que los usuarios de un plan de Jetpack Professional que estaban pagando mensualmente (en comparación con anualmente) no podían habilitar las herramientas de SEO.
+?                                                                                      ++++++++      ++                  ^^^^    ^^^^^ +
+
+
+- Solucionado un problema en el que algunos usuarios con servidores más lentos obtendrían un error en el panel de Jetpack cuando se habilita <code>WP_DEBUG</code>.
+?                                                                                                                               ------------
+
++ Solucionado un problema en el que algunos usuarios con servidores más lentos obtendrían un error en el panel de Jetpack cuando <code>WP_DEBUG</code> estaba habilitado.
+?                                                                                                                                                     ++++++++++++++++++
+
+
+- Cambiada la configuración de notificación por correo electrónico por otra en la configuración de discusión.
++ Cambie la configuración de la notificación por correo electrónico con la otra configuración de correo electrónico en la Configuración de la discusión.
+
+- Hemos añadido una nueva característica: herramientas de SEO, disponibles para los suscriptores de Jetpack Professional. Puedes leer más sobre nuestros planes aquí: https://jetpack.com/features/
+?                                         ^                                                                                    -
+
++ Hemos añadido una nueva característica: Herramientas de SEO, disponibles para los suscriptores de Jetpack Professional. Puede leer más sobre nuestros planes aquí: https://jetpack.com/features/
+?                                         ^
+
+
+- Ahora te permitimos incrustar pins, tableros y perfiles de Pinterest.
+?       ^                        ^^
+
++ Ahora le permitimos incrustar pasadores, tableros y perfiles de Pinterest.
+?       ^                        ^^^^^^^
+
+
+- Photon ahora usa HTTPS por defecto. ¡Seguridad ante todo!
+?                                     ^^    -- ^^^^^^
+
++ Photon ahora usa HTTPS por defecto. Asegurar todas las cosas!
+?                                     ^^     ^    ++++++++ +++
+
+
+- Uno de los mayores problemas que enfrentan los usuarios de Jetpack desde hace años ha sido la dificultad de mover sitios de un nombre de dominio a otro. Esta actualización hace progresos para mejorar ese proceso.
+?                                                                                                                                                                             ^^^^    ---------------------------
+
++ Uno de los mayores problemas que enfrentan los usuarios de Jetpack desde hace años ha sido la dificultad de mover sitios de un nombre de dominio a otro. Esta actualización mejora la mejora de este proceso.
+?                                                                                                                                                                             ^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+- Nuevo widget: "Mi comunidad" donde puedes ver quién ha interactuado recientemente con tu sitio.
+?               ^            ^^^  ^
+
++ Nuevo widget: &quot;Mi comunidad&quot; en el que puedes ver quién ha interactuado recientemente con tu sitio.
+?               ^^^^^^            ^^^ ++++ ^ +++++
+
+
+- Nuevo widget: "Google Translate" para permitir a los usuarios traducir tu sitio a su propio idioma.
+?               ^                ^
+
++ Nuevo widget: &quot;Google Translate&quot; para permitir a los usuarios traducir tu sitio a su propio idioma.
+?               ^^^^^^                ^^^^^^
+
+
+- Se han añadido nuevos endpoints para permitir la instalación de archivos zip de plugins y temas a través de la API.
+?                       ^ ^^   ^                                                    ^^^
+
++ Se han añadido nuevos puntos finales para permitir la instalación de archivos zip de complementos y temas a través de la API.
+?                       ^^ ^ +++  ^^^                                                  +++  ^^^ ++
+
+
+- Muchas de las capturas de pantalla del plugin han sido reemplazadas por SVGs para hacer Jetpack más pequeño.
++ Muchas de las capturas de pantalla a través del plugin han sido reemplazadas por SVGs para hacer Jetpack más pequeño.
+?                                    +++++++++
+
+
+- Se han añadido tipos de publicaciones personalizadas en la salida de la API WP REST.
+?                                                      ^^
+
++ Se han añadido tipos de publicaciones personalizadas a la salida de la API WP REST.
+?                                                      ^
+
+
+- Se han añadido tests unitarios adicionales para mejorar el proceso de desarrollo y la estabilidad de Jetpack.
+?                ^  ^^    ^ ^^^^
+
++ Se han añadido pruebas de unidad adicionales para mejorar el proceso de desarrollo y la estabilidad de Jetpack.
+?                ^^^ ++ ^^^    ^ ^
+
+
+- Entrada de lanzamiento: http://wp.me/p1moTy-3JR
++ Publicación: http://wp.me/p1moTy-3JR
+
+- Con shortcodes volvemos ahora al principio de su procesamiento si no se pasa una cadena, ya que son necesarios.
++ Con los códigos cortos ahora regresamos temprano de procesarlos si no se pasa ninguna cadena, ya que son necesarios.
+
+- Hemos eliminado la leyenda del formulario de la configuración predeterminada de la galería de mosaico.
+?                                           ^^                                    ^^^^
+
++ Hemos eliminado la leyenda del formulario para la configuración predeterminada de Galería de mosaico, ya que no se relaciona.
+?                                           ^^^^                                    ^                 ++++++++++++++++++++++++
+
+
+- No estábamos construyendo enlaces de CPT correctamente, lo que generaba una mala navegación. Ahora está arreglado.
+?                                   ---                          ^  ---------                ^^^          ^^^^^^^^
+
++ No estábamos construyendo enlaces CPT correctamente, lo que resulta en mala navegación, que ahora está fijo.
+?                                                             ^^^^^^^^                  ^^^^^^^          ^^^
+
+
+- Ahora el widget de las mejores entradas incluye la capacidad de listar las páginas de archivos (media).
++ El widget Top Posts ahora incluye la capacidad de listar páginas de archivos adjuntos (medios).
+
+- Había un error de encolado JavaScript con nuestra función de uso compartido que se ha reparado.
+?  ^ ^^               ^ ^^ ^                                   ^^^^^       ^^
+
++ Hubo un error de enrutamiento de JavaScript con nuestra función de Compartir que se ha reparado.
+?  ^ ^               ^^^^^^^^^ ^ ^                                   ^       ^
+
+
+- Estamos enviando colas completas e incrementales por separado de modo que un fallo en una no bloquea la otra.
+? ^                                                             ^^^^^^^                   ^           - -    ^
+
++ Ahora estamos enviando colas completas e incrementales por separado para que un fallo en uno no bloquee al otro.
+? ^^^^^^^                                                             ^^^^                   ^          ++      ^
+
+
+- La sincronización se ejecuta por partes, así que hemos limitado el tiempo ejecución de la cola  PHP a 1/3 de tiempo de ejecución máximo, lo que ha desatascado el problema.
++ Sync se estaba ejecutando en problemas por lo que hemos limitado el tiempo dequequeue a 1/3 del tiempo máximo de ejecución de PHP, que ha desbloqueado el problema.
+
+- Hemos añadido traducciones del árabe marroquí y cambiamos los paquetes de idioma para los idiomas croata, español (Chile) y griego.
+?                            ----                       ^ ^^^^^            ----------------
+
++ Hemos añadido traducciones árabes marroquíes y hemos cambiado a paquetes de idiomas para croata, español (Chile) y griego.
+?                                 +         ++  ++++++       ^ ^^                     +++++
+
+
+- Hemos eliminado algunas advertencias que aparecían cuando no existían traducciones por una vuelta a atrás.
++ Eliminamos algunas advertencias que estaban ocurriendo cuando las traducciones no existían agregando un fallback.
+
+- Algunos plugins que estaban añaden contenido en las solicitudes HTTP salientes causan un bucle infinito. Lo hemos arreglado.
++ Algunos complementos estaban agregando contenido en las solicitudes de http de salida que causaban un bucle infinito que arreglamos este derecho.
+
+- La comprobación de permisos para el plugin de recuperación de información se ha arreglado también.
+?                                  - ^^^^^^^^^^                             ^  ^^^^^^ ^^^^
+
++ La comprobación de permisos para la recuperación de información de complemento también se corrigió.
+?                                   ^                             ^  ^^^^^ ^^^^         ++++++++++++
+
+
+- Hemos un enlace correcto a soporte para hacer más fácil que puedas conectar con el equipo de Jetpack si nos necesitas.
++ El vínculo de soporte correcto ahora se está utilizando para facilitarte la conexión con el equipo de Jetpack si nos necesita.
+
+- Encontramos una opción sin utilizar en la configuración de la tarjeta flotante de Gravatar y la quitamos.
+?                        --         ^                       -----------------------               ^^ ^
+
++ Encontramos una opción no utilizada en la configuración de Gravatar Hovercard y la eliminamos.
+?                         +        ^^                                 ++++++++++     ^^ ^^^
+
+
+- Hemos eliminado las advertencias PHP que comprueban que los archivos de idioma JSON como el jetpack-en_US.json son seguros y legibles antes de cargarlos.
+? ^^    ----------                    ----      ^^                        ^^^ ^^^^^^^     ---                    ----  ^^^^^^^
+
++ Quitamos las advertencias de PHP comprobando que los archivos de lenguaje json como jetpack-en_US.json sean legibles antes de cargarlos.
+? ^^^^^                     +++         ^   ++                     ^^^^^^^^^^^ ^                           ^^
+
+
+- Se han hecho varias correcciones en sincronizar para reparar problemas con difundir, notificaciones y suscripciones.
++ Se han realizado varias correcciones para sincronizar los problemas de reparación con Publicize, Notifications y Subscriptions.
+
+- Hemos mejorado la compatibilidad con Kinsta pasando automáticamente al modo de preproducción en Jetpack cuando se está en un entorno de preproducción.
+?                                             - ^                     ^          -- ^^^ ^      ^^                   -----                 -- ^^ -------
+
++ Hemos mejorado la compatibilidad con Kinsta activando automáticamente el modo de estadificación para Jetpack cuando se encuentra en un entorno de ensayo.
+?                                              ^^^^                     ^           ^^^ ^^^ +     ^^^^                     ++++++++++                ^^^^
+
+
+- Markdown tiene ahora una clase CSS en las notas al pie.
+?                ------                            -
+
++ Markdown ahora tiene una clase CSS en las notas a pie de página.
+?          ++++++                                      ++++++++++
+
+
+- Hubo varias mejoras y reparaciones hechas para sincronizar incluidos puntos terminales adicionales, mejoras de rendimiento, datos de la lista blanca, mejor toma de decisiones cuando se sincroniza información y más.
++ Hubo varias mejoras y reparaciones realizadas para sincronizar, incluyendo puntos finales adicionales, mejoras de rendimiento, datos de lista blanca, mejor toma de decisiones acerca de cuándo sincronizar información y más.
+
+- Las estadísticas ahora responden más rápido.
+?                  ^^^^^
+
++ Las estadísticas están respondiendo más rápido.
+?                  ^^^^^        +  ++
+
+
+- Hemos dejado de contar las vistas del carrusel en las estadísticas por defecto, puedes utilizar el filtro <code>jetpack_enable_carousel_stats</code> para permitir a contarlas de nuevo.
+?                                     -                                                -                                                                                     ------------
+
++ Hemos dejado de contar las vistas de carrusel en las estadísticas por defecto, puede utilizar el filtro <code>jetpack_enable_carousel_stats</code> para permitir que se vuelvan a contar.
+?                                                                                                                                                                  ++++++++++++ +++
+
+
+- Los cambios no guardados se perdían cuando los usuarios navegaban fuera de los ajustes así que hemos puesto un mensaje de confirmación para evitar que esto suceda.
+?                                 ^^                            -- ^^^ ^^               ^^^^     ^     -------
+
++ Los cambios no guardados se estaban perdiendo cuando los usuarios estaban navegando lejos de los ajustes, por lo que ponemos un mensaje de confirmación para evitar que esto suceda.
+?                            ++++++++     ^^ ++                     ++++++++       ^^^^ ^^^               ^^^^^^^^     ^^^
+
+
+- <strong>Mejora de la compatibilidad:</strong>
++ <strong>Compatibilidad mejorada:</strong>
+
+- Noticia del lanzamiento: http://wp.me/p1moTy-3FE
++ Publicación: http://wp.me/p1moTy-3FE
+
+- Fecha de la versión: 6 de diciembre de 2016
+?            ^^ ----
+
++ Fecha de lanzamiento: 6 de diciembre de 2016
+?            ^^^^^  ++
+
+
+- Fecha de la versión: 17 de enero de 2017
+?            ^^ ----
+
++ Fecha de lanzamiento: 17 de enero de 2017
+?            ^^^^^  ++
+
+
+- Fecha de la versión: 7 de febrero de 2017
+?            ^^ ----
+
++ Fecha de lanzamiento: 7 de febrero de 2017
+?            ^^^^^  ++
+
+
+- Fecha de la versión: 17 de febrero de 2017
++ Fecha de lanzamiento: 5 de abril de 2017
+
+- Fecha de la versión: 14 de marzo de 2017
+?            ^^ ----
+
++ Fecha de lanzamiento: 14 de marzo de 2017
+?            ^^^^^  ++
+
+
+- Fecha de lanzamiento: 20 de abril de 2016
++ Fecha de publicación: 4 de abril de 2017
+
+- Bienvenue
++ Bienvenido
+

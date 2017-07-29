@@ -1,0 +1,809 @@
+# Translation of Plugins - Yoast SEO - Stable Readme (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Yoast SEO - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Yoast SEO - Stable Readme (latest release)\n"
+"PO-Revision-Date: 2017-07-25 09:15:23+0000\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Short description.
+msgid ""
+"Improve your WordPress SEO: Write better content and have a fully optimized "
+"WordPress site using the Yoast SEO plugin."
+msgstr ""
+"Mejora el  SEO de tu WordPress: Escribe mejor contenido y consigue un sitio "
+"WordPress completamente optimizado usando el plugin Yoast SEO."
+
+#. Plugin name.
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#. Found in changelog list item.
+msgid ""
+"Fixes a typo in the readme.txt, props <a "
+"href=\"https://github.com/rayrutjes\">Raymond Rutjes</a>"
+msgstr ""
+"Soluciona un problema de tipografía en readme.txt, gracias <a "
+"href=\"https://github.com/rayrutjes\">Raymond Rutjes</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Fixes a performance issue related to calculating text link counts when "
+"saving a post."
+msgstr ""
+"Soluciona un problema de rendimiento relacionado con el cálculo del contador"
+" de enlaces de texto al guardar una entrada."
+
+#. Found in changelog list item.
+msgid ""
+"Fixes a bug where <code>remove_meta_if_default</code> and "
+"<code>dont_save_meta_if_default</code> don't return the given input value as"
+" default."
+msgstr ""
+"Soluciona un fallo por el que <code>remove_meta_if_default</code> y "
+"<code>dont_save_meta_if_default</code> no devuelve un valor introducido dado"
+" como valor por defecto."
+
+#. Found in changelog list item.
+msgid ""
+"Improves avatars on the credit page, props <a "
+"href=\"https://github.com/mikedehart\">Mike DeHart</a>"
+msgstr ""
+"Mejora los avatares en la página de agradecimientos, gracias <a "
+"href=\"https://github.com/mikedehart\">Mike DeHart</a>"
+
+#. Found in changelog list item.
+msgid ""
+"Adds a subheader on the notification dashboard to clarify problems and "
+"issues which are muted."
+msgstr ""
+"Añade una cabecera secundaria en el escritorio de avisos para simplificar la"
+" visualización de los problemas y errores silenciados."
+
+#. Found in changelog list item.
+msgid "Changes the column titles in the taxonomy list table to icons."
+msgstr ""
+"Cambia a iconos los títulos de columna en la tabla de la lista de "
+"taxonomías."
+
+#. Found in changelog list item.
+msgid ""
+"Adds support for third party sitemaps providers to be registered and used."
+msgstr ""
+"Añade compatibilidad con mapas del sitio de otros servicios para que puedan "
+"registrarse y utilizarse."
+
+#. Found in changelog list item.
+msgid "Adds a WordPress SEO Premium motivation on the social tabs."
+msgstr ""
+"Añade una incitación a probar WordPress SEO Premium en las pestañas "
+"sociales."
+
+#. Found in changelog list item.
+msgid ""
+"Adds a WordPress SEO Premium motivation box on Yoast SEO settings pages."
+msgstr ""
+"Añade una caja de incitación a probar WordPress SEO Premium en las páginas "
+"de ajustes de Yoast SEO."
+
+#. Found in changelog list item.
+msgid ""
+"Improves the readability feature for Dutch, English, French, German, Italian"
+" and Spanish."
+msgstr ""
+"Mejora la legibilidad para los idiomas danés, inglés, francés, alemán, "
+"italiano y español."
+
+#. Found in changelog list item.
+msgid "Adds support for importing of Jetpack SEO data."
+msgstr "Añade compatibilidad con la importación de datos de Jetpack SEO."
+
+#. Found in changelog list item.
+msgid ""
+"Adds the post-type and taxonomy identifiers on the titles and metas settings"
+" tab."
+msgstr ""
+"Añade identificadores de tipo de contenido y taxonomía en la pestaña de "
+"ajustes de títulos y metas."
+
+#. Found in changelog list item.
+msgid ""
+"Fixes an issue where the link columns would disappear after quick-editing a "
+"post."
+msgstr ""
+"Soluciona un error por el que las columnas de enlaces podrían desaparecer "
+"después de la edición rápida de una entrada."
+
+#. Found in changelog list item.
+msgid "Fixes a compatibility issue with WordPress 4.6."
+msgstr "Soluciona un problema de compatibilidad con WordPress 4.6."
+
+#. Found in changelog list item.
+msgid ""
+"Adds a feature toggle to disable the link counter tool &amp; link columns."
+msgstr ""
+"Añade un alternador de características para desactivar la herramienta del "
+"contador de enlaces y las columnas de enlaces."
+
+#. Found in changelog list item.
+msgid ""
+"Only load babel polyfill if it hasn't been loaded by another plugin yet."
+msgstr "Solo carga el polyfill de babel si no lo ha cargado ya otro plugin."
+
+#. Found in changelog list item.
+msgid ""
+"Fixes a fatal error that could occur when trying to save a post that has "
+"<code>&lt;a&gt;</code>-tags with invalid URLs in it."
+msgstr ""
+"Soluciona un error fatal que podía ocurrir al tratar de guardar una entrada "
+"que tuviese etiquetas <code>&lt;a&gt;</code>- con URLs no válidas."
+
+#. Found in changelog paragraph.
+msgid "Adds a banner for the structured data course."
+msgstr "Añade un banner para el curso de datos estructurados."
+
+#. Found in changelog list item.
+msgid "When there are posts or pages to reindex, a notice will be shown."
+msgstr "Cuando hay entradas o página que indexar se mostrará un aviso."
+
+#. Found in changelog list item.
+msgid ""
+"Introduces a database table to keep track of the linking structure. If the "
+"table cannot be created, a notification will be shown."
+msgstr ""
+"Introduce una tabla en la base de datos para el seguimiento de la estructura"
+" de enlaces. Si no se puede crear la tabla se mostrará un aviso."
+
+#. Found in changelog list item.
+msgid ""
+"Implements the extracted version of the Algolia Search which is now present "
+"in <code>yoast-components</code>."
+msgstr ""
+"Implementa la versión resumida de la búsqueda Algolia, que está ahora "
+"presente en <code>yoast-components</code>."
+
+#. Found in changelog list item.
+msgid ""
+"Changes recommended maximum sentence length for Italian from 20 to 25 words,"
+" based on more in-depth research."
+msgstr ""
+"Cambia la frase de la longitud máxima recomendada para el italiano de 20 a "
+"25 palabras, basándose en una investigación más profunda."
+
+#. Found in changelog list item.
+msgid "Changes 'page title' to 'seo title' in the snippet preview."
+msgstr ""
+"Cambia 'título de página' a 'título seo' en la vista previa del snippet."
+
+#. Found in changelog list item.
+msgid "Adds Flesch Reading for Italian."
+msgstr "Añade la lectura del índice Flesch para el italiano."
+
+#. Found in changelog list item.
+msgid "Introduces a module that counts links in the content."
+msgstr "Introduce un módulo que cuenta enlaces en el contenido."
+
+#. Found in changelog list item.
+msgid ""
+"Fixes a bug where images via <code>https</code> were not working, props <a "
+"href=\"https://github.com/apfelbox\">Jannik Zschiesche</a>."
+msgstr ""
+"Soluciona un fallo por el que las imágenes a través de <code>https</code> no"
+" funcionaban, gracias a <a href=\"https://github.com/apfelbox\">Jannik "
+"Zschiesche</a>."
+
+#. Found in description list item.
+msgid "You're done!"
+msgstr "¡Lo lograste!"
+
+#. Found in description list item.
+msgid ""
+"Go through the configuration wizard and set up the plugin for your site."
+msgstr "Ve al asistente de configuración y configura el plugin para tu sitio."
+
+#. Found in description list item.
+msgid "You should see (a notice to start) the Yoast SEO configuration wizard."
+msgstr ""
+"Deberías ver (un aviso al empezar) el asistente de configuración de Yoast "
+"SEO."
+
+#. Found in description list item.
+msgid "Go to \"after activation\" below."
+msgstr "Ve a \"después de activar\" abajo."
+
+#. Found in description list item.
+msgid "Activate Yoast SEO from your Plugins page."
+msgstr "Activa Yoast SEO desde tu página de plugins."
+
+#. Found in description list item.
+msgid "Search for 'Yoast SEO'"
+msgstr "Busca por 'Yoast SEO'"
+
+#. Found in description list item.
+msgid "Visit 'Plugins &gt; Add New'"
+msgstr "Visita 'Plugins &gt; Añadir nuevo'"
+
+#. Found in description header.
+msgid "Manually"
+msgstr "Manualmente"
+
+#. Found in description header.
+msgid "After activation"
+msgstr "Después de activar"
+
+#. Found in description header.
+msgid "From within WordPress"
+msgstr "Desde dentro de WordPress"
+
+#. Found in faq paragraph.
+msgid ""
+"You'll find answers to many of your questions on <a "
+"href=\"https://kb.yoast.com/kb/category/yoast-seo/\">kb.yoast.com</a>."
+msgstr ""
+"Encontrarlas las respuestas a muchas de tus preguntas en <a "
+"href=\"https://kb.yoast.com/kb/category/yoast-seo/\">kb.yoast.com</a>."
+
+#. Screenshot description.
+msgid ""
+"Easily import SEO data from other SEO plugins like All In One SEO pack, "
+"HeadSpace2 SEO and wpSEO.de."
+msgstr ""
+"Importa fácilmente datos SEO de otros plugins SEO como All in One SEO pack, "
+"HeadSpace2 SEO y wpSEO.de."
+
+#. Screenshot description.
+msgid "Example of the readability analysis functionality."
+msgstr "Ejemplo de la funcionalidad de análisis de legibilidad."
+
+#. Found in description paragraph.
+msgid ""
+"<strong>Premium Support</strong><br />\n"
+"  The Yoast team does not always provide active support for the Yoast SEO plugin on the WordPress.org forums. One-on-one email support is available to people who bought the <a href=\"https://yoast.com/wordpress/plugins/seo-premium/\">Premium Yoast SEO plugin</a> only.\n"
+"  Note that the Premium SEO plugin has several extra features too, including the option to have multiple focus keywords and a redirect manager, so it might be well worth your investment!"
+msgstr ""
+"<strong>Soporte Premium</strong><br />\n"
+"  El equipo Yoast no siempre ofrece soporte activo del plugin Yoast SEO en los foros de WordPress.org. El soporte de respuesta inmediata está disponible solamente para quienes adquieren el <a href=\"https://yoast.com/wordpress/plugins/seo-premium/\">plugin Premium Yoast SEO</a>.\n"
+"  ¡Ten en cuenta que el plugin SEO tienes varias características extra que dan valor más que de sobra a tu inversión, incluyendo la opción de tener varias palabras clave objetivo y el gestor de redirecciones!"
+
+#. Found in description paragraph.
+msgid ""
+"<strong>Bug Reports</strong><br />\n"
+"  Bug reports for Yoast SEO are <a href=\"https://github.com/Yoast/wordpress-seo\">welcomed on GitHub</a>. Please note GitHub is <em>not</em> a support forum, and issues that aren't properly qualified as bugs will be closed."
+msgstr ""
+"<strong>Informes de fallos</strong><br />\n"
+"  Los informes de fallos para Yoast SEO son <a href=\"https://github.com/Yoast/wordpress-seo\">bienvenidos en GitHub</a>. Por favor, date cuenta que GitHub <em>no</em> es  un foro de soporte y los problemas que no estén correctamente identificados como fallos se cerrarán."
+
+#. Found in description list item.
+msgid "Activate the Yoast SEO plugin through the 'Plugins' menu in WordPress"
+msgstr "Activa el plugin Yoast SEO desde el menú 'Plugins' en tu WordPress"
+
+#. Found in description list item.
+msgid ""
+"Upload the <code>wordpress-seo</code> folder to the <code>/wp-"
+"content/plugins/</code> directory"
+msgstr ""
+"Sube la carpeta <code>wordpress-seo</code> al directorio <code>/wp-"
+"content/plugins/</code>"
+
+#. Found in description paragraph.
+msgid "For more info, check out the following articles:"
+msgstr "Para más información revisa los siguientes artículos:"
+
+#. Found in description paragraph.
+msgid ""
+"Be sure to also check out the premium <a "
+"href=\"https://yoast.com/wordpress/plugins/news-seo/\">News SEO module</a> "
+"if you need Google News Sitemaps. It tightly integrates with Yoast SEO to "
+"give you the combined power of News Sitemaps and full Search Engine "
+"Optimization."
+msgstr ""
+"Asegúrate de probar también nuestro módulo premium <a "
+"href=\"https://yoast.com/wordpress/plugins/news-seo/\">News SEO</a> si "
+"necesitas mapas del sitio para Google News. Se integra perfectamente con "
+"Yoast SEO para ofrecerte el poder combinado de los nuevos mapas de sitio de "
+"News y una optimización completa en los motores de búsqueda."
+
+#. Found in description paragraph.
+msgid ""
+"Currently a huge translation project is underway, translating Yoast SEO in "
+"as much as 24 languages. So far, the translations for French and Dutch are "
+"complete, but we still need help on a lot of other languages, so if you're "
+"good at translating, please join us at <a "
+"href=\"http://translate.yoast.com\">translate.yoast.com</a>."
+msgstr ""
+"Actualmente se está llevando a cabo un enorme proyecto de traducción, "
+"traduciendo Yoast SEO a más de 24 idiomas. De momento están completas las "
+"traducciones al Español, Francés y Danés, pero todavía necesitamos ayuda en "
+"un montón de idiomas, así que si eres bueno traduciendo, por favor, únete a "
+"nosotros en <a href=\"http://translate.yoast.com\">translate.yoast.com</a>."
+
+#. Found in description paragraph.
+msgid ""
+"Read <a href=\"https://yoast.com/all-in-one-seo-pack-migration/\">this "
+"migration guide</a> if you still have questions about migrating from another"
+" SEO plugin to Yoast SEO."
+msgstr ""
+"Lee <a href=\"https://yoast.com/all-in-one-seo-pack-migration/\">esta guía "
+"de migración</a> si aún tienes preguntas sobre cómo migrar desde otro plugin"
+" de SEO a Yoast SEO."
+
+#. Found in description paragraph.
+msgid ""
+"Should you have a need to import from another SEO plugin to Yoast SEO, or "
+"from a theme like Genesis or Thesis, you can use the <a "
+"href=\"http://wordpress.org/extend/plugins/seo-data-transporter/\">SEO Data "
+"Transporter</a> plugin, which will easily convert your SEO meta data from "
+"and to a whole set of plugins like Platinum SEO, SEO Ultimate, Greg's High "
+"Performance SEO, and themes like Headway, Hybrid, WooFramework, Catalyst "
+"etc."
+msgstr ""
+"Si necesitas importar desde otro plugin de SEO a Yoast SEO, o desde un tema "
+"como Genesis o Thesis, puedes usar el plugin <a "
+"href=\"http://wordpress.org/extend/plugins/seo-data-transporter/\">SEO Data "
+"Transporter</a>, que convierte fácilmente tus metadatos SEO a y desde un "
+"montón de plugins como Platinum SEO, SEO Ultimate, Greg's High Performance "
+"SEO y temas como Headway, Hybrid, WooFramework, Catalyst, etc."
+
+#. Found in description paragraph.
+msgid ""
+"If you've used All In One SEO Pack or HeadSpace2 before using this plugin, "
+"you might want to import all your old titles and descriptions. You can do "
+"that easily using the built-in import functionality. There's also import "
+"functionality for some of the older Yoast plugins, like Robots Meta and RSS "
+"footer."
+msgstr ""
+"Si ya has utilizado All in One SEO Pack o HeadSpace2 antes de usar este "
+"plugin, puede que quieras importar todos tus viejos títulos y descripciones."
+" Puedes hacerlo fácilmente usando la utilidad de importación incluida. "
+"También importa funcionalidades como Robots Meta y RSS footer de los viejos "
+"plugins de Yoast."
+
+#. Found in description paragraph.
+msgid ""
+"If you have multiple blogs, setting up plugins like this one on all of them "
+"might seem like a daunting task. Except that it's not, because what you can "
+"do is simple: you set up the plugin once. You then export your settings and "
+"simply import them on all your other sites. It's that simple!"
+msgstr ""
+"Si tienes varios blogs, configurar plugins como este en todos ellos puede "
+"ser una tarea tediosa. Pero no es así, porque lo puedes hacer muy fácil: "
+"configura el plugin solo una vez. Luego exporta tus ajustes y simplemente "
+"impórtalos en todos tus otros sitios. ¡Así de simple!"
+
+#. Found in description paragraph.
+msgid ""
+"The Yoast SEO plugin, unlike some others, is fully Multi-Site compatible. "
+"The XML Sitemaps work fine in all setups and you even have the option, in "
+"the Network settings, to copy the settings from one blog to another, or make"
+" blogs default to the settings for a specific blog."
+msgstr ""
+"El plugin Yoast SEO, al contrario que otros, es totalmente compatible con "
+"multisitio. Los mapas del sitio XML funcionan bien en todas las "
+"configuraciones e incluso tienes la opción, en los ajustes de la red, de "
+"copiar ajustes de un blog a otro, o hacer que los ajustes de los blogs se "
+"apliquen por defecto a un blog específico. "
+
+#. Found in description paragraph.
+msgid ""
+"SEO and Social Media are heavily intertwined. That's why this plugin also "
+"comes with a Facebook OpenGraph implementation and will soon also support "
+"Google+ sharing tags."
+msgstr ""
+"El SEO y el social media está fuertemente relacionados, es por eso que este "
+"plugin también contiene la implementación de Facebook OpenGraph y pronto "
+"también será compatible con las tags de compartir de Google+."
+
+#. Found in description paragraph.
+msgid ""
+"Using the built-in file editor, you can edit your WordPress blog's "
+"<code>.htaccess</code> and <code>robots.txt</code> file, giving you direct "
+"access to the two most powerful files, from an SEO perspective, in your "
+"WordPress install."
+msgstr ""
+"Usando el editor integrado puedes editar los archivos .htaccess y robots.txt"
+" de tus blogs WordPress, dándote acceso directo a los dos archivos más "
+"potentes, desde la perspectiva SEO, de tu instalación de WordPress."
+
+#. Found in description paragraph.
+msgid ""
+"Making your theme compatible isn't hard either, check <a "
+"href=\"https://kb.yoast.com/kb/implement-wordpress-seo-breadcrumbs/\">these "
+"instructions</a>."
+msgstr ""
+"Hacer que tu tema sea compatible nunca ha sido tan fácil, revisa <a "
+"href=\"https://yoast.com/wordpress/plugins/breadcrumbs/\">estas "
+"instrucciones</a>."
+
+#. Found in description paragraph.
+msgid ""
+"If your theme is compatible, and themes based on for instance Genesis or by "
+"WooThemes often are, you can use the built-in Breadcrumbs functionality. "
+"This allows you to create an easy navigation that is great for both users "
+"and search engines, and will support the search engines in understanding the"
+" structure of your site."
+msgstr ""
+"Si tu tema es compatible, y los temas basados en Genesis o los de WooThemes "
+"suelen serlo, puedes usar la funcionalidad incluida de migas de pan. Esto te"
+" permite crear una navegación sencilla, fantástica tanto para usuarios como "
+"para motores de búsqueda a la hora de comprender la estructura de tu sitio."
+
+#. Found in description paragraph.
+msgid ""
+"Are you being outranked by scrapers? Instead of cursing at them, use them to"
+" your advantage! By automatically adding a link to your RSS feed pointing "
+"back to the original article, you're telling the search engine where they "
+"should be looking for the original. This way, the Yoast SEO plugin increases"
+" your own chance of ranking for your chosen keywords and gets rid of "
+"scrapers in one go!"
+msgstr ""
+"¿Te están penalizando los sitios que roban contenido? En vez de pelearte con"
+" ellos ¡úsalos para tu beneficio! Añadiendo automáticamente un enlace a tu "
+"feed RSS que apunte al artículo original le estás diciendo al motor de "
+"búsqueda que debería buscar el original. De este modo, ¡el plugin Yoast SEO "
+"incrementa tus oportunidades de posicionar en tus palabras clave elegidas y "
+"de paso te libras de los sitios que roban contenido!"
+
+#. Found in description paragraph.
+msgid ""
+"Because of using <a href=\"https://yoast.com/xsl-stylesheet-xml-"
+"sitemap/\">XSL stylesheets for these XML Sitemaps</a>, the XML sitemaps are "
+"easily readable for the human eye too, so you can spot things that shouldn't"
+" be in there."
+msgstr ""
+"Gracias al uso de <a href=\"https://yoast.com/xsl-stylesheet-xml-"
+"sitemap/\">hojas de estilo XSL en estos mapas del sitio XML</a>, los mapas "
+"del sitio XML son fácilmente leíbles también por el ojo humano, así puedes "
+"descubrir cosas que no deberían estar ahí."
+
+#. Found in description paragraph.
+msgid ""
+"These XML Sitemaps will even work on large sites, because of how they're "
+"created, using one index sitemap that links to sub-sitemaps for each 1,000 "
+"posts. They will also work with custom post types and custom taxonomies "
+"automatically, while giving you the option to remove those from the XML "
+"sitemap should you wish to."
+msgstr ""
+"Estos mapas del sitio XML funcionarán incluso en sitios enormes, debido al "
+"modo en que están creados, ya que usan un índice de mapa del sitio que "
+"enlaza a sub-mapas del sitio por cada 1.000 publicaciones. También funcionan"
+" automáticamente con los tipos de publicaciones y taxonomías personalizadas,"
+" al tiempo que te ofrecen la posibilidad de quitar los que quieras del mapa "
+"del sitio XML."
+
+#. Found in description paragraph.
+msgid ""
+"The Yoast SEO plugin has the most advanced XML Sitemaps functionality in any"
+" WordPress plugin. Once you check the box, it automatically creates XML "
+"sitemaps and notifies Google &amp; Bing of the sitemaps' existence. These "
+"XML sitemaps include the images in your posts &amp; pages too, so that your "
+"images may be found better in the search engines too."
+msgstr ""
+"El plugin Yoast SEO tiene la funcionalidad más avanzada de mapas del sitio "
+"XML de todos los plugins WordPress. Una vez activas la casilla, crea "
+"automáticamente mapas del sitio XML y avisa a Google y Bing de la existencia"
+" de los mapas del sitio. Estos mapas del sitio XML incluyen también las "
+"imágenes de tus entradas y páginas, así que tus imágenes también las "
+"encontrarán mejor los motores de búsqueda."
+
+#. Found in description paragraph.
+msgid ""
+"WordPress itself only shows canonical link elements on single pages, but "
+"Yoast SEO makes it output canonical link elements everywhere. Google has "
+"recently announced they would also use <code>rel=\"next\"</code> and "
+"<code>rel=\"prev\"</code> link elements in the <code>head</code> section of "
+"your paginated archives. This plugin adds those automatically. See <a "
+"href=\"https://yoast.com/rel-next-prev-paginated-archives/\">this post</a> "
+"for more info."
+msgstr ""
+"WordPress por su cuenta solo muestra elementos de enlaces canonical en "
+"páginas sencillas. Yoast SEO muestra elementos de enlaces canonical en todas"
+" partes. Google ha anunciado recientemente que deberíamos utilizar los "
+"elementos de enlace <code>rel=\"next\"</code> y <code>rel=\"prev\"</code> en"
+" la sección <code>head</code> de tus archivos con paginación, este plugin "
+"los añade automáticamente, echa un vistazo a  [esta "
+"entrada](https://yoast.com/rel-next-prev-paginated-archives/ "
+"title=\"rel=next &amp; rel=prev for paginated archives\") para más "
+"información."
+
+#. Found in description paragraph.
+msgid ""
+"With the Yoast SEO plugin you can control which pages Google shows in its "
+"search results and which pages it doesn't show. By default, it will tell "
+"search engines to index all of your pages, including category and tag "
+"archives, but to only show the first pages in the search results. It's not "
+"very useful for a user to end up on the third page of your \"personal\" "
+"category, right?"
+msgstr ""
+"Con el plugin Yoast SEO puedes controlar en qué páginas Google muestra "
+"resultados de búsqueda y en cuáles no. Por defecto, dirá a los buscadores "
+"que indexen todas las páginas, incluyendo categorías y etiquetas de archivo,"
+" pero solo muestra las primeras páginas en los resultados de búsqueda. No es"
+" muy útil para un usuario terminar en la tercera página de su categoría "
+"personal, ¿verdad? "
+
+#. Found in description paragraph.
+msgid ""
+"While out of the box WordPress is pretty good for SEO, it needs some tweaks "
+"here and there. This Yoast SEO plugin guides you through some of the "
+"settings needed, for instance by reminding you to enable pretty permalinks. "
+"But it also goes beyond that, by automatically optimizing and inserting the "
+"meta tags and link elements that Google and other search engines like so "
+"much:"
+msgstr ""
+"Aunque WordPress por sí mismo es bastante bueno para el SEO necesita algunos"
+" ajustes por aquí y allá. El plugin Yoast SEO te guía a través de algunos "
+"ajustes necesarios, por ejemplo, recordándote que actives los enlaces "
+"permanentes bonitos. Pero también va más allá, optimizando automáticamente e"
+" insertando las meta tags y elementos de enlaces que a Google y otros "
+"motores de búsqueda tanto le gustan:"
+
+#. Found in description paragraph.
+msgid ""
+"Combined, this plugin makes sure that your content is the type of content "
+"search engines will love!"
+msgstr ""
+"¡En conjunto, este plugin se asegura de que tu contenido es el tipo de "
+"contenido que les encanta a los motores de búsqueda!"
+
+#. Found in description paragraph.
+msgid ""
+"The plugin also allows you to write meta titles and descriptions for all "
+"your category, tag and custom taxonomy archives, giving you the option to "
+"further optimize those pages."
+msgstr ""
+"El plugin también te permite escribir títulos y descripciones meta para "
+"todos los archivos de categorías, etiquetas y taxonomías personalizadas, "
+"dándote la posibilidad de optimizar aún más esas páginas."
+
+#. Found in description paragraph.
+msgid ""
+"The Yoast SEO plugins <a href=\"https://yoast.com/content-seo-wordpress-"
+"linkdex/\">Page Analysis</a> functionality checks simple things you're bound"
+" to forget. It checks, for instance, if you have images in your post and "
+"whether they have an alt tag containing the focus keyword for that post. It "
+"also checks whether your posts are long enough, whether you've written a "
+"meta description and if that meta description contains your focus keyword, "
+"if you've used any subheadings within your post, etc. etc."
+msgstr ""
+"La funcionalidad del plugin Yoast SEO de <a href=\"https://yoast.com"
+"/content-seo-wordpress-linkdex/\">análisis de página</a> comprueba cosas "
+"sencillas que podrías olvidar. Comprueba, por ejemplo, si hay imágenes en tu"
+" publicación y si tienen la etiqueta alt y esta contiene la palabra clave "
+"objetivo de esa publicación. También comprueba si tus publicaciones son lo "
+"suficientemente largas, si has escrito una meta description y si esa meta "
+"description contiene tu palabra clave objetivo, si necesitas algún subtítulo"
+" dentro de tu publicación, etc, etc."
+
+#. Found in description paragraph.
+msgid ""
+"Using the snippet preview, you can see a rendering of what your post or page"
+" will look like in the search results, whether your title is too long or too"
+" short, and whether your meta description makes sense in the context of a "
+"search result. This way the plugin will help you not only increase rankings "
+"but also increase the click through rate for organic search results."
+msgstr ""
+"Usando la vista previa del snippet verás una muestra de cómo se verá tu "
+"entrada o página en los resultados de búsqueda, si tu título es demasiado "
+"largo o corto y si tu meta description tiene sentido en el contexto del "
+"resultado de búsqueda. De este modo el plugin te ayudará no solo a mejorar "
+"en los rankings sino también a incrementar el <em>click through</em> en los "
+"resultados de búsqueda orgánicos."
+
+#. Found in description paragraph.
+msgid ""
+"You should also check out the <a href=\"https://yoast.com/wordpress/plugins"
+"/local-seo/\">Yoast Local SEO</a>, <a "
+"href=\"https://yoast.com/wordpress/plugins/news-seo/\">Yoast News SEO</a> "
+"and <a href=\"https://yoast.com/wordpress/plugins/video-seo/\">Yoast Video "
+"SEO</a> extensions to Yoast SEO. These of course come with support too."
+msgstr ""
+"También deberías echar un vistazo a las extensiones para Yoast SEO <a "
+"href=\"https://yoast.com/wordpress/plugins/local-seo/\">Yoast Local SEO</a>,"
+" <a href=\"https://yoast.com/wordpress/plugins/news-seo/\">Yoast News "
+"SEO</a> y <a href=\"https://yoast.com/wordpress/plugins/video-seo/\">Yoast "
+"Video SEO</a> que, por supuesto, también tienen soporte."
+
+#. Found in description paragraph.
+msgid ""
+"WordPress out of the box is already technically quite a good platform for "
+"SEO. This was true when Joost wrote his original <a "
+"href=\"https://yoast.com/articles/wordpress-seo/\">WordPress SEO</a> article"
+" in 2008 (updated every few months) and it's still true today, but that "
+"doesn't mean you can't improve it further! This plugin is written from the "
+"ground up by Joost de Valk and his team at <a "
+"href=\"https://yoast.com/\">Yoast</a> to improve your site's SEO on "
+"<em>all</em> needed aspects. While this <a "
+"href=\"https://yoast.com/wordpress/plugins/seo/\">Yoast SEO plugin</a> goes "
+"the extra mile to take care of all the technical optimization, more on that "
+"below, it first and foremost helps you write better content.  Yoast SEO "
+"forces you to choose a focus keyword when you're writing your articles, and "
+"then makes sure you use that focus keyword everywhere."
+msgstr ""
+"WordPress es ya de por sí  una plataforma bastante buena técnicamente para "
+"el SEO, esto era ya cierto cuando Joost escribrió su artículo original <a "
+"href=\"https://yoast.com/articles/wordpress-seo/\">WordPress SEO</a> en 2008"
+" (actualizado cada pocos meses) y es cierto aún hoy en día, ¡pero eso no "
+"significa que no puedas mejorarlo aún más! Este plugin está escrito desde "
+"cero por Joost de Valk y su equipo de <a "
+"href=\"https://yoast.com/\">Yoast</a> para mejorar el SEO de tu sitio en "
+"<em>todos</em> los aspectos necesarios. Por ello <a "
+"href=\"https://yoast.com/wordpress/plugins/seo/\">el plugin Yoast SEO</a> va"
+" mucho más allá para preocuparse de toda la optimización técnica, y más "
+"allá, para empezar, y además te ayuda a escribir mejor contenido. Yoast SEO "
+"te fuerza a elegir una palabra clave objetivo cuando escribes tus artículos,"
+" y luego se asegura de que uses esa palabra clave objetivo en todas partes."
+
+#. Found in description list item.
+msgid ""
+"Follow Yoast on <a href=\"https://facebook.com/yoast\">Facebook</a> &amp; <a"
+" href=\"http://twitter.com/yoast\">Twitter</a>."
+msgstr ""
+"Sigue a Yoast en <a href=\"https://facebook.com/yoast\">Facebook</a> y <a "
+"href=\"http://twitter.com/yoast\">Twitter</a>."
+
+#. Found in description list item.
+msgid ""
+"Other <a href=\"https://yoast.com/wordpress/plugins/\">WordPress Plugins</a>"
+" by the same team."
+msgstr ""
+"Otros <a href=\"https://yoast.com/wordpress/plugins/\">plugins WordPress</a>"
+" del mismo autor."
+
+#. Found in description list item.
+msgid ""
+"The <a href=\"https://yoast.com/wordpress/plugins/seo/\">Yoast SEO "
+"Plugin</a> official homepage."
+msgstr ""
+"La página oficial del <a "
+"href=\"https://yoast.com/wordpress/plugins/seo/\">plugin Yoast SEO</a>."
+
+#. Found in description list item.
+msgid ""
+"Once you have great SEO, you'll need the <a "
+"href=\"https://yoast.com/articles/wordpress-hosting/\">best WordPress "
+"Hosting</a>."
+msgstr ""
+"Una vez tengas un gran SEO necesitas el <a href=\"https://yoast.com/articles"
+"/wordpress-hosting/\">mejor hosting WordPress</a>."
+
+#. Found in description list item.
+msgid ""
+"<a href=\"https://yoast.com/articles/wordpress-seo/\">WordPress SEO - The "
+"definitive Guide by Yoast</a>."
+msgstr ""
+"<a href=\"https://yoast.com/articles/wordpress-seo/\">WordPress SEO - La "
+"guía definitiva de Yoast</a>."
+
+#. Found in description list item.
+msgid ""
+"The <a href=\"https://kb.yoast.com/kb/category/yoast-seo/\">Yoast SEO "
+"Knowledgebase</a>."
+msgstr ""
+"La <a href=\"http://kb.yoast.com/category/42-wordpress-seo\">base de "
+"conocimiento de Yoast SEO</a>."
+
+#. Found in description header.
+msgid "Further Reading"
+msgstr "Más lectura"
+
+#. Found in description header.
+msgid "News SEO"
+msgstr "SEO de noticias"
+
+#. Found in description header.
+msgid "Yoast SEO Plugin in your Language!"
+msgstr "¡Yoast SEO en tu idioma!"
+
+#. Found in description header.
+msgid "Import functionality for other WordPress SEO plugins"
+msgstr "Importa funcionalidades de otros plugins de SEO para WordPress"
+
+#. Found in description header.
+msgid "Import &amp; Export functionality"
+msgstr "Funcionalidad de importar y exportar"
+
+#. Found in description header.
+msgid "Multi-Site Compatible"
+msgstr "Compatible con multisitio"
+
+#. Found in description header.
+msgid "Social Integration"
+msgstr "Integración social"
+
+#. Found in description header.
+msgid "Edit your .htaccess and robots.txt file"
+msgstr "Edita tus archivos .htaccess y robots.txt"
+
+#. Found in description header.
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#. Found in description header.
+msgid "RSS Optimization"
+msgstr "Optimización RSS"
+
+#. Found in description header.
+msgid "XML Sitemaps"
+msgstr "Mapas del sitio XML"
+
+#. Found in description header.
+msgid "Meta &amp; Link Elements"
+msgstr "Elementos meta y enlaces"
+
+#. Found in description header.
+msgid "Technical WordPress Search Engine Optimization"
+msgstr "Optimización técnica de WordPress en los motores de búsqueda"
+
+#. Found in description header.
+msgid "Page Analysis"
+msgstr "Análisis de página"
+
+#. Found in description header.
+msgid "Write better content with Yoast SEO"
+msgstr "Escribe mejor contenido con Yoast SEO"
+
+#. Screenshot description.
+msgid "The advanced section of the Yoast SEO meta box."
+msgstr "La sección avanzada de la caja meta de Yoast SEO"
+
+#. Screenshot description.
+msgid "Example of the SEO analysis functionality."
+msgstr "Ejemplo de la funcionalidad de análisis SEO."
+
+#. Screenshot description.
+msgid "The fully configurable XML sitemap for Yoast SEO."
+msgstr "El mapa del sitio XML totalmente configurable por Yoast SEO."
+
+#. Screenshot description.
+msgid ""
+"The Yoast SEO plugin general meta box. You'll see this on edit post pages, "
+"for posts, pages and custom post types."
+msgstr ""
+"La caja meta general del plugin Yoast SEO. Verás esto en la edición de "
+"páginas, entradas y tipos de contenido personalizado."
+
+#. Found in changelog paragraph.
+msgid "Enhancements"
+msgstr "Mejoras"
+
+#. Found in changelog paragraph.
+msgid "Bugfixes"
+msgstr "Soluciones a fallos"
+
+#. Found in changelog list item.
+msgid "Fixes a bug where the whip notification can be shown multiple times."
+msgstr ""
+"Soluciona un fallo por el que el aviso con rebote podría mostrarse varias "
+"veces."
+
+#. Found in changelog paragraph.
+msgid ""
+"For the changelog of earlier versions, please refer to the separate "
+"changelog.txt file."
+msgstr ""
+"Para registro de cambios de versiones anteriores, por favor, revisa el "
+"archivo changelog.txt."
+
+#. Found in changelog paragraph.
+msgid "Under the hood"
+msgstr "Bajo el capó"
+
+#. Found in changelog paragraph.
+msgid "Release Date: July 13th, 2017"
+msgstr "Fecha de lanzamiento: 13 de julio de 2017"
+
+#. Found in changelog paragraph.
+msgid "Release Date: July 25th, 2017"
+msgstr "Fecha de lanzamiento: 25 de julio de 2017"
+
+#. Found in changelog paragraph.
+msgid "Release Date: July 6th, 2017"
+msgstr "Fecha de lanzamiento: 6 de julio de 2017"
+
+msgid "Welcome"
+msgstr "Bienvenue"

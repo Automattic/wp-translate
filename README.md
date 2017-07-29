@@ -6,6 +6,30 @@ Mostly built on https://github.com/google/seq2seq with the main idea coming from
 
 Experimental prototype that somewhat works for English to Spanish translation. Accuracy is probably about 30-50%
 
+# Background on the Problem
+
+WordPress's mission is to democratize publishing, and one of the great challenges to meeting that goal is how do we enable people to build web sites in whatever language they prefer. Only 5.5% of the world is a native English speaker. Currently the strings in WordPress core, plugins, and themes get translated by an army of volunteers who work to keep up with the constant changes. Spanish (one of the most active) for instance has over 800 contributors: https://make.wordpress.org/polyglots/teams/?locale=es_ES
+
+Although that method does a good job for translating core into most languages, the full power of WordPress comes from the tens of thousands of plugins and themes for customizing it. Even in a popular language like Spanish, only 56 of the 53,000 plugins are 90% or more translated.
+
+So why not just throw this data at Google Translate? Google Translate is really good, and with neural machine translation (NMT) has recently gotten much better: https://arxiv.org/pdf/1609.08144.pdf
+
+But, WordPress strings are not just human words. They contain structure. They contain HTML, and in many cases they have sprintf() style arguments in the strings. When a translation is done, this structure needs to be preserved and properly placed into the translated string. Here are some examples:
+
+```
+msgid "If you're an existing Jetpack Professional customer, you have immediate access to these themes. Visit <a href=\"%s\">wordpress.com/themes</a> to see what's available."
+msgstr "Si ya eres cliente de Jetpack Professional, tienes acceso inmediato a estos temas. Visita <a href=\"%s\">https://es.wordpress.org/themes/</a> para ver los que hay disponibles."```
+
+```
+msgid "In reply to <a %1$s>%2$s</a>"
+msgstr "En respuesta a <a %1$s>%2$s</a>"
+```
+
+# The Approach
+
+
+
+
 # Setup
 
 For running on AWS and using GPUs (p2.xlarge is about 150x faster than my macbook pro) I used the instructions and config setup from the Fast AI class: http://wiki.fast.ai/index.php/AWS_install
@@ -219,18 +243,20 @@ We ran predictions for the following data:
 - vantage theme 2017 strings - 573 strings
 - yoast strings - 1092 strings
 - wpcom 2017 strings - 17874 strings (note that this is a superset of the 13226 strings we trained on)
+- wpcom 2017 new strings - 990 strings (this is a manual diff between 2017 and 2015 data)
 
 All predictions were run using beam search with a width of 5.
 
 We evaluated the results based on what percentage of the strings were 100% translated correctly character for character.
 
-| Project        | Exact Matches | Off by < 4 chars |
-| -------------- |:-------------:| ----------------:|
-| jetpack 2015   | 54.32% (899)  | 5.08%            |
-| jetpack 2017   | 36.36% (924)  | 3.00%            |
-| yoast plugin   | 06.59% (72)   | 2.66%            |
-| vantage theme  | 12.04% (69)   | 7.85%            |
-| wpcom 2017     | 49.75% (8893) | 2.90%            |
+| Project        | Exact Matches | Off by < 4 chars est |
+| -------------- |:-------------:| --------------------:|
+| jetpack 2015   | 54.32% (899)  | 2.59%                |
+| jetpack 2017   | 36.36% (924)  | 1.50%                |
+| yoast plugin   | 06.59% (72)   | 1.33%                |
+| vantage theme  | 12.04% (69)   | 3.93%                |
+| wpcom 2017     | 49.75% (8893) | 1.45%                |
+| wpcom 2017 diff|   |                |
 
 
 Diffs of all errors:
@@ -241,11 +267,25 @@ Diffs of all errors:
 - [WP.com 2017](https://github.com/Automattic/wp-translate/blob/master/predictions/wpcom-2017-output.diff)
 
 
-The percent off by less than 4 chars is determined using:
+The percent off by less than 4 chars is determined using. This is completely wrong. Double counts and over counts, so I divide by two to use it as an estimate.
 
 ```
 grep "^?" predictions/jetpack-2015-output.diff | tr -d '? ' | awk 'length($1) < 4 { print $1 }' | wc -l
 ```
+
+## Translating with Google Translate API
+
+
+| Project        | Exact Matches | Off by < 4 chars est |
+| -------------- |:-------------:| --------------------:|
+| jetpack 2017   | 20.77% (529)  | 15.80%               |
+| yoast plugin   | 16.33% (179)  | 12.80%               |
+| vantage theme  | 19.83% (114)  | 16.66%               |
+| wpcom 2017     | 20.763 (3694) | 14.20%               |
+| wpcom 2017 diff| 07.27  (72)   | 23.94%               |
+
+8.8% of the wpcom 2017 errors are only off by a single character.
+
 
 
 ## Ideas for Improvements

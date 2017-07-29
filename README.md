@@ -234,6 +234,14 @@ We evaluated the results based on what percentage of the strings were 100% trans
 | wpcom 2017     | 49.75% (8893) | 2.90%            |
 
 
+Diffs of all errors:
+- [Jetpack 2015](https://github.com/Automattic/wp-translate/blob/master/predictions/jetpack-2015-output.diff)
+- [Jetpack 2017](https://github.com/Automattic/wp-translate/blob/master/predictions/jetpack-2017-output.diff)
+- [Yoast Plugin](https://github.com/Automattic/wp-translate/blob/master/predictions/wordpress-seo-2017-output.diff)
+- [Vantage Theme](https://github.com/Automattic/wp-translate/blob/master/predictions/vantage-2017-output.diff)
+- [WP.com 2017](https://github.com/Automattic/wp-translate/blob/master/predictions/wpcom-2017-output.diff)
+
+
 The percent off by less than 4 chars is determined using:
 
 ```

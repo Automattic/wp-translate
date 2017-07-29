@@ -43,9 +43,10 @@ for pred_s, exp_s in zip( pred_lines, exp_lines ):
     if ( pred_text == exp_text ):
         correct = correct + 1
     else:
-        diff = difflib.ndiff(exp_text, pred_text)
-        fh.write( ''.join(diff) + "\n\n" )
+        diff = difflib.ndiff([exp_text], [pred_text])
+        fh.write( "\n".join(diff) + "\n\n" )
 
 fh.close()
 
-print('Accuracy: ' + str(correct/total) + '% (' + str(correct) + '/' + str(total) + ')' )
+perc = float(correct)/float(total) * 100
+print('Accuracy: ' + '%.2f' % perc + '% (' + str(correct) + '/' + str(total) + ')' )

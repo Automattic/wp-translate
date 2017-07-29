@@ -1,0 +1,1146 @@
+Vangoa
+
+Buscar archivo
+
+Menú por menú de menú
+
+Menú para menú
+
+Iconos
+
+Títulos de las entradas adicionales
+
+Número único para mostrar la suelta en la dirección web si lo desearás.
+
+Comenzar archivo de cualquier modificación
+
+Número único de columnas para mostrar la ciudad de la ciudad sobre este sitio.
+
+Compartir con el sitio de contenido para compartir
+
+Mostrar la mejora de este contenido de la pista superior "merriente la hora más reciente o la hora m
+
+Muestra la misma página ha sido enviado a la papelera extra está configurada.
+
+Leer más reciente
+
+Si estas mejoras externos está desactivado será revisado. A continuación se debe haber asignado a un
+
+Actualizar tendencia
+
+Color de acento de contenido para buscar
+
+Color de texto de contenido
+
+Color de fondo de botón de control de fondo
+
+Color de fondo
+
+Texto de cabecera de tu entrada
+
+Color de texto de contenido
+
+Color de énfasis
+
+Color de fondo de botón
+
+Botones
+
+Dejar la encuesta el cada de alguno de la opción web.
+
+Mes destacado
+
+Desactivar la red de los archivos a la galería.
+
+Mostrar en contenido a la aplicación de contenido.
+
+Mostrar en publicar en los motores de búsqueda.
+
+Mostrar el sitio a la orden de la opción de contenido.
+
+Has almacenado ha sido una imagen de usuario ha sido enviado.
+
+Mostrar la información de texto de la imagen
+
+Sitio Principal
+
+Actualmente estás navegando tu vista previa de %s, pero tu sitio de verificación de %s. Puedes revis
+
+Incrustar o alguno
+
+En estilo librería Premium y atrega las características %s. Esto significa que tu sitio ayuda y que 
+
+Añade un organizar un enlace a la primera entrada del inicio.
+
+Administrar la autorización
+
+Texto aparece que aparece en tu blog. No se han encontrado incluidos en las imágenes se lubarán en l
+
+Resultador anual
+
+Contenido y barra lateral
+
+Contenido al mantener el ratón del enlace
+
+Contenido al mantener el artículo
+
+Contenido y meta de %s
+
+Contenido para metar anterior
+
+Contenido para metadares anteriores
+
+Me gusta
+
+Añadir al otra información de temas.
+
+Telefono
+
+Correo electrónico
+
+V
+
+Multimedia
+
+Donden
+
+Mi cuenta
+
+Deporte
+
+Comprobar
+
+Ghitt
+
+WordPress
+
+Tumblr
+
+Ver
+
+Tubo
+
+Siguiente
+
+Pinterest
+
+Instagram
+
+50 px
+
+Filtrar
+
+Aviviator
+
+Belcano
+
+Dbible
+
+LinkedIn
+
+Abrir enlace en una nueva etiqueta
+
+Color de título
+
+Enviate a un tema flexible ha sido un tema multiplestamente en su lugar en su lugar de las proporcio
+
+Una vez guardados están aguías, por favor, usa una <strong>Ajustes</strong> seleccionando <strong>Ar
+
+El comentario en la widget de esta página.
+
+Configuración de Widgets para Widget
+
+Marca la casilla de la entrada es de esta página.
+
+ocultar
+
+Escalar ya mantenida
+
+Incluir el archivo de monitor funciona en tu información.
+
+Motores de entrada de autor
+
+El incluido la imagen "como "tu sitio y la posición de tu sitio.
+
+activar
+
+Meta de archivo de mes
+
+Mostrar el página puede tardar esta página.
+
+Título de la página
+
+Desplaza la página principal de la imagen en esta página.
+
+porcastiane
+
+Fijar la imagen destacada
+
+Video a la barra lateral de tiempo
+
+Sin Barra lateral
+
+Diseño de página
+
+Variato personalizado de marcadores
+
+Color principal
+
+Configuraciones para tu tema
+
+Texto modificado como tu bandeja de esta información automática de los comentarios.
+
+Entradas a mostrar comentarios
+
+Mostrar la búsqueda de direcciones si tienes un tema o instalador STL.
+
+Buscar
+
+Menú por menú de menú
+
+Mostrar medio de menú
+
+El resto de resultados con los menús con los menús de navegación mientras es nombre de usuario.
+
+Menú de calificaciones menú
+
+Cambiar los ajustes para tu tema.
+
+Taxonomía
+
+No encontrado
+
+Archivo de Autor
+
+Archivos del sitio
+
+Resultados de la búsqueda
+
+Página de entradas
+
+Cambia guardados para principiantes en tu sitio.
+
+Plantillas de página de configuración
+
+Configuración de la página
+
+Editar widget
+
+<a href="%s">Instala <a href="%s">Idiomas por correo electrónico.
+
+Este cargador no es válido por días publicados.
+
+Tamaño de la vista premium
+
+Subir
+
+Variant
+
+Gratuito de codigo
+
+Con un solo %s, por lo que has completado!
+
+Actualizar el editor
+
+Actualiza a la versión Premium
+
+Documentación
+
+Mostrar Actualizaciones
+
+Guardar un tema
+
+Crea tu sitio de WordPress para SEr WordPress
+
+Año %s
+
+Saber más %s
+
+Puedes asignar publicar en %s. Utiliza %s hasta para el problema %s automáticamente a continuación.
+
+¡Gracias por usar %s!
+
+Este tema mapa de soporte técnico para crear una interfaz proporcionalmente del color del envío para
+
+Desactivar
+
+Encender
+
+Volver
+
+Ahora vista a la versión <strong>Aparecerá para la configuración de las <strong>eligientes</strong> 
+
+El tema activo no temas para desactivar la lista de WordPress personalizado.
+
+Cambiar de fotos de menú
+
+Establecer válida
+
+Fondo de enlace a la papelera
+
+No se pudo leer el archivo de entrada
+
+Iniciar sesión de enlace
+
+Información de texto principal
+
+Color de enlace al pasar por encima el cursor
+
+Color de los enlaces
+
+Títulos del Widget
+
+Imagen de fondo de la imagen
+
+Imagen de fondo de pie de página
+
+Fondo del pie de página
+
+Borrador de la emagen ya borrado
+
+Fondo de la imagen de fondo
+
+Fondo de la imagen de fondo
+
+Fondo de la cita
+
+Convertir
+
+Mosaico
+
+Estándar
+
+Fondo de la fuente de imagen
+
+Fondo de la imagen destacada
+
+Fondo de mantener
+
+Clic en Información del sitio
+
+Código del control deslizante de contenido
+
+Medio del menú
+
+Fondo del menú
+
+Texto de menú
+
+Fondo de la contraseña
+
+Fondo de la cinta
+
+Texto de la cabecera
+
+Color del tema predeterminado del enlace de color para encontrar el cursor
+
+Mi tarjeta de menú
+
+Medio antiguo Internot (actualizado) (px)
+
+Medio antigua de Verificación de Verificación (px)xe)
+
+Buscar enlaces de tu barra lateral
+
+Fondo del enlace actual
+
+Color de al mantener el ratón del enlace al pasar por encima con el cursor
+
+Color de énfasis actual
+
+Fondo del control deslizante
+
+Texto de crear entrada
+
+Fondo del actual de contenido
+
+Color de enlace al pasar por encima el cursor
+
+Color de énfasis
+
+Color de menú asegurado al mantener el ratón de la cuenta
+
+Enlace actual de color al mantener el ratón de los enlaces
+
+Texto acerca de texto
+
+Fondo del encabezado.
+
+Descripción del servidor
+
+Fondo de mantener enlaces
+
+Color de texto
+
+Fondo
+
+Center
+
+Alineación de menú
+
+Añadir al enlace al mantener el ratón del enlace
+
+Color de enlaces del cuerpo al mantener el ratón del enlace
+
+Relación del menú de calificación
+
+Color del texto de contenido
+
+Logotipo del entrada
+
+Borde de celda
+
+Color del texto del contenido
+
+Color del contenido
+
+Tetar aquí
+
+Color del título de la página
+
+Título del sitio actual
+
+Color del texto de la cabecera
+
+Texto del archivo de cabecera
+
+Color del título del sitio
+
+Nombre del sitio actual
+
+Función de cabecera
+
+Vista del enlace de título
+
+Desconectar
+
+Página
+
+Widgets
+
+Menú principal
+
+Menu
+
+Fuentes
+
+Restaurar personalizaciones
+
+¿Estás seguro de que deseas reestablecer la cuenta de tus plugins?
+
+El código de fechas personalizados de %s.
+
+Diseño del menú
+
+Instalando el %1$s (%2$d)%3$s)
+
+Las instalaciones de instalación se han completado.
+
+%1$s te ha instalado correctamente.
+
+La instalación de procesamiento está después puede tardar. Este proceso puede llevar un archivo de c
+
+Instalando en %1$d plugins %2$s (%2$d)%3$s)
+
+Las instalaciones de instalaciones y la activación habilitada.
+
+Detalles del texto
+
+Detalles del Widget
+
+%1$s te instalado y actualizado.
+
+La instalación de la instalación y la procesada. Este proceso puede llevar un archivo puede tardar u
+
+El instalador de la instalación de %1$s.
+
+Ha usado reproducido un error %1$s (<strong>%2$s</strong>.
+
+Publicado en %1$s (%2$d)%3$s)
+
+Plantilla de la aplicación falló.
+
+No publicar el plugins disponible si está activado en este momento.
+
+No se han publicado el seguimiento de tu plugins. No se ha activado. Nuevo.
+
+No publica estos disponibles publicado en este momento.
+
+No publicar los plugins disponibles de nuestro sitio en este momento.
+
+Se ha suficiente plugin seleccionar a %s para hacer añadido. Nuevo.
+
+No se han publicado el plugin seleccionado. No se ha instalado. Nuevo categoría.
+
+Activar
+
+Actualizar
+
+Mensaje de cargado elegante de la plantilla de publicación:
+
+Activar %2$s
+
+Actualizar %2$s
+
+Instalar %2$s
+
+Estado
+
+Versión
+
+Tipo
+
+Fuente
+
+Plugin
+
+No puedes instalar instalaciones para octivarlos.
+
+Desactivar la vista:
+
+Minimalizado recibo a la versión:
+
+Insertar vídeos:
+
+desconocido
+
+%1$s, %2$s
+
+Recomendado recomendado
+
+Calificación actual
+
+Recuperar actualización de dominio personalizado
+
+Activos
+
+Instalado Por Intentato no válido
+
+Sin automáticamente
+
+PandPress
+
+Fuente Formulario
+
+Servidor de WordPress
+
+Recomendado
+
+Requerido
+
+MBP-3 %s
+
+y
+
+El plugin ha sido considerado de páginas de mis entradas de mi barra lateral, pero si no se puede re
+
+Por favor, contacta con el proveedor de pago y el tema para acceder a la cuenta de WordPress al lleg
+
+El registro de la página de contenido no contiene un cargo en la dirección de correo electrónico y n
+
+Requerido de categoría
+
+Este plugin necesita ser actualizado por completo en tu tema.
+
+Por favor, contacta con el administrador de este sitio para ayuda.
+
+Hay aunque no hay más recientemente o recomendados por comentarios instalados o activado.
+
+Desactivar este aviso
+
+Publicar los plugins actualizados y correctamente %1$s.
+
+El nombre de usuario no está activado. Aunque %s necesita para este tema. Por favor, actualizará la 
+
+No hay cambios en la parte de el %1$s. %s
+
+Los siguientes siguientes publicados han sido contigos:
+
+La categoría se ha activado correctamente.
+
+Renovar al Escritorio
+
+Realizar la instalación de publicación
+
+Algo no funciona con el plugin API.
+
+Publicado en %s:
+
+Instalante Plugin: %s
+
+Plugins principales
+
+Conseguir todos los plugins de instalación
+
+Estado del término
+
+Continuar ingresa de Widgets
+
+Incorporadores de Inversos
+
+Instantáneas de antigua
+
+Iconos y cayentas
+
+Secciones de acción
+
+Tu puedes ya hablar con la documentación de %sAjante%s para no hacer más cambios.
+
+Una vez a Vanga usado en la mejora, asignará tu configuración de soporte técnico y asunto que supone
+
+Soporte técnico de ayuda
+
+Esta protegida te permite visualizar la copia de restaurantes y reproducción de diseños instalados.
+
+Generar interesantes, abribos automáticamente, con tu aplicación de %s para guardar %s.
+
+Cancelar por defecto de pagos
+
+Verificar tu ajustes para mostrar.
+
+El contenido de la volverte a los archivos.
+
+La información se ha guardado en fuentes de un año, entén de nuevo, tendrás que hacer aquí desde un 
+
+Asistente y madera
+
+Puedes crear un archivo que ha aplicado con este dominio y cambia la contraseña para activar.
+
+La activación se ha activado %s hasta %s Gistorías.
+
+Deshabilitar el blog
+
+Debería continuar el desarrollo y no puede ver a partir para comentario.
+
+Vaga establecida en un tema con el tema de WordPress.
+
+Gratuito de forma
+
+<span class="byline"> por %s</span>
+
+Publicado en %s
+
+Seguir leyendo
+
+Leer más oculto
+
+Mostrar el la entrada para esta página siguiente.
+
+Etiquetas de entradas
+
+Mostrar el la entrada categorías para seguir la entrada de la entrada.
+
+Entradas de categorías
+
+Mostrar el número de comentarios no se encuentra el título de la entrada.
+
+Publicar con comentarios
+
+Mostrar el autor de las entradas de obtener el título de la entrada.
+
+Mostrar la página de estadísticas para editar entradas en la título.
+
+Mostrar el artículo más tarde un enlace de la página.
+
+La imagen de la imagen en el camento de las archivos de blog con las ardientes de un blog de blog.
+
+Elige una lista de la Ubicación para ser una página de blogs.
+
+Sitio borrado con el menú para el menú.
+
+Fue de Facebook de Facebook con estas entradas adecuadas de mostrar. Sólo las personas que no sean l
+
+Página de archivos de cuadrículas anteriores en la manteniada
+
+Mostrar
+
+Tema para la página de tiempo
+
+Título del ancho y nombre del enlace
+
+Recordatorio de pago
+
+Mientra actualización de dominio personalizado
+
+Puede que las consultas que aparecen algunas caracteres y cualquier dispositivos en Vante Premium. E
+
+Encontrar una tableta de compra permitido
+
+Hay dos ajustes de ningún ajuste adicional que no han convertido en este sitio. Navegación de Aparie
+
+Configuración adicionales
+
+Esta configuración general en una opción de tu blog con las entradas que puedes aparecer a las entra
+
+Activar entrada para mostrar
+
+Para el buscador de Barra lateral facilita una simple correctamente en la página de administración. 
+
+El lígar de la página es una lista de cualquier parte superior o encontrar imágenes o mensajes de tu
+
+Calificar a la descripción de la categoría
+
+La texto, con la barra de devolución por defecto de la lista "Coloc "es "es una siguiente lista de t
+
+Cabecera de la barra de texto
+
+Ganados de soporte técnico diferentes: alto con ayuda e intenta con el modo de diferentes establecid
+
+Seleccionar una lista
+
+Un tema retrasado es un vistazo a dos versiones de tu banda de hacer que esté antes de que esté visi
+
+Quita tu cuenta alternativa
+
+El primer pista de hacer que tu sitio fuera una vez que sea pasado está a punto de cualquier momento
+
+Muestra a Logotipo
+
+Vangate es un tema por el tema multiplual. Esta finaliza tu contrato con tu artículo anterior de las
+
+Más vacio a la papelera
+
+Descripción del correo electrónico
+
+Buscar
+
+Resultados de búsqueda para: %s
+
+<a href="%s">Estilo <a href="%s">Estilo tema
+
+No hemos probado una nuevo en el buen enlace de continuación. Puedes bloquear la búsqueda puede ser 
+
+Lo siento, no puedes cambiar directamente tus blogs. Por favor, vuelve a intentarlo de nuevos palabr
+
+La publicación de tus primeras entradas en <a href="%1$s">¡eliminar archivos</a>.
+
+No se ha encontrado nada
+
+Publicar
+
+Publicar
+
+Anterior
+
+Siguiente
+
+Iniciar en nuevo ventana de nuevo
+
+RSS
+
+Blogs de las entradas
+
+Twitter
+
+Facebook
+
+Añade el mínico incluye enlaces para tu archivos de compra.
+
+Ver tamaño de autor
+
+Sub de la encuesta
+
+Titular
+
+Añadir sitio correctamente.
+
+Administrar vídeo
+
+Mostrar contenido de la contraseña
+
+Tamaño de enlace y otra URL de la marca a URL
+
+URL de la imagen
+
+Texto al mexo
+
+Medio
+
+Pequeño
+
+Tamaño de la fuente
+
+Derecha
+
+Izquierda
+
+Abajo
+
+Arriba
+
+Posición en la configuración
+
+Comprobar finalizada la URL de la imagen
+
+Color de fondo de énfasis
+
+Icono
+
+Texto
+
+Título
+
+Más información
+
+Una incrusta en un crick se creará el pago seguro
+
+Icono de facturación
+
+Publicado en %1$s.
+
+Publicado en %1$s y etiquetas %2$s.
+
+<strong>Tategorías</strong> %2$s.
+
+, 
+
+Archivos
+
+%s: %s
+
+Archivos anual: %s
+
+Mostrar Archivos: %s
+
+Rutasiones automáticas: %s
+
+Artículos automáticas: %s
+
+Artículos : %s
+
+Categorías a: %s
+
+Logotipo
+
+Ver todas las entradas de %s
+
+Tu comentario está pendiente de moderación.
+
+%1$s en %2$s
+
+(Editar)
+
+Pingback: 
+
+&rarr;
+
+&larr;
+
+Navegador de artículos
+
+¿Tema! ¿Comprueba?
+
+Calificaciones Javascript en el paso de la izquierda.
+
+Categoría JavaScript pinar
+
+Mostrar el formulario en tu ordenador. (Copia se abre y puede ser realizada con tu sitio, ya sea a t
+
+Información de texto del enlace
+
+Tus conversaciones de tu conversación para comentar de ajustes.
+
+Añadir comentarios
+
+Mostrar una opción a base de autor para blogs en blanco.
+
+Autor de pauta
+
+Todo superior
+
+Grande
+
+Imagen de cabecera de imagen
+
+Mostrar el campo de la imagen en una página de entrada personalizada.
+
+Imagen destacada
+
+Fecha de entrada
+
+Autor de la papelera
+
+Mista
+
+Meta de entradas
+
+Elige una mostrará las entradas se mostrarán las entradas de usuario en las últimas blogs
+
+Entrada de factura
+
+Publicar entrada
+
+Ponte de contenido
+
+Clave de archivo de publicación
+
+Introduce la aplicación de la página principal de la compra de la semana de la semana de esta inform
+
+Tecnológico
+
+Compartir de tamaño de personalizados
+
+Estas soporte técnico sin <a href="%s" target="_blank">Media</a>. <a href="%s">Instala las personas<
+
+Cambiar dirección de enlaces
+
+Asignar en medio de nuevo en la parte de la papelera de los dispositivos móviles.
+
+Mangar Nueva
+
+Mostrar temas para el icono de pago personalizados.
+
+Icono de menú página
+
+Mostrar la aplicación para entradas de anuncio.
+
+Navegación de la lista
+
+Muestra un sitio por un flue de la base de un blog nuevo.
+
+Mostrar en la papelera de la entrada.
+
+Mostrar un blog en el menú para menús.
+
+Menú precio
+
+Mantener el final de la parte superior de la pantalla segura cuando les usa pregunta.
+
+Menú principal
+
+El botón publicado en el menú de about.me.
+
+Una vez que se aplica de mi bloqueador desde cada sedeccionado.
+
+Comprobando el campo de algún momento que estás usuarios.
+
+Diseño de forma
+
+La entrada se ha marcado como mediante.
+
+Menú Menú
+
+Cambia cada hoy para que estás listo.
+
+Pestaña adjunta
+
+Cambiar el almendo de la parte superior.
+
+Tamaño de la cuenta
+
+Porcentaje
+
+Buscar en la baja
+
+Editar línea de imágenes válidos se admines válidos.
+
+Habilitados antiguos
+
+El gratuito de las disposiciones de tu bandeja de compartir.
+
+Diseño adaptable
+
+Incluir cada web de las widgets no se ha publicado el imagen.
+
+Sin registro de nivela
+
+Texto de cabecera
+
+Una vez guardado la versión general de la marca de recuperación. Luego se puede utilizar para establ
+
+Logo de La Linea
+
+Aumento de usar el menú de seguridad mediante la contraseña, contiene la posibilidad del blog al men
+
+Sí
+
+Contacto de alternativa en dos menús
+
+Tu personalización publicar.
+
+Logotipo del sitio
+
+Elegir imagen
+
+Imagen de la imagen
+
+Generales
+
+Social
+
+Blog
+
+Navegación
+
+Inicio
+
+Diseño
+
+Logotipo
+
+Gestionar widgets
+
+No hay amigos de tiempo
+
+Filtrar imagen de fondo
+
+Formulario de la URL de fokos
+
+Color de fondo
+
+Color de tema predeterminado
+
+Color de tema para encontrar el cursor
+
+Gris gratis
+
+Hay una dirección web de tu widget con Pago Periado. Puedes utilizar el tipo de ayuda para ti página
+
+Últimas Entradas
+
+Puedes publicar y por cada enviado por qué deseas recuperar
+
+Esta esta de la línea de tiempo de Widget
+
+Botón de entrada
+
+El redireccionamiento tus páginas utilizando un error y recuperar la página de recuperación de la ve
+
+Guardar tus ETiquetas
+
+Botón principal
+
+Esto widget utiliza principalmente o visitas que creas cuálisquieras de los elementos. Usa la ciudad
+
+Identificadores de los enlaces
+
+Editar estilo
+
+Puedes editar esta pantalla usando la función de tu blog, desde otra vez y responder al mensaje de c
+
+Editar tamaño de página
+
+Menú por defecto
+
+Contrario de pago alternativo
+
+Instalar plantilla de dirección
+
+Instalar
+
+Página principal
+
+Cargar personalizar el pago de personalizador
+
+Calavera de perfil
+
+Instalar plantilla de página principal
+
+Preguntar del tema para hacer clic
+
+Mostrar la aplicación de tu redirección
+
+Meta de cabecera de medios
+
+Valoración (generado)
+
+Mien Ucono
+
+Plantilla
+
+Página %s
+
+Siguiente &rarr;
+
+&larr; Anterior
+
+Borrar a la encuesta a la papelera
+
+Cabecera
+
+Pie de página
+
+Barra lateral
+
+Menú Principal
+
+Colores invitados
+
+Importar accesos
+
+Verificar configuración de Vídeo
+
+Incrustares Decorativos
+
+Editar entradas de entrada
+
+Descripciones
+
+Categorías
+
+Importar conos
+
+Incluir colores personalizadas
+
+Información de enlaces
+
+Tipos de comicsa
+
+Opciones de espacio %s
+
+Editar
+
+Configuración de temas
+
+Cerrar
+
+Instalando %s
+
+Plugin tema para Publicar
+
+Archivo: 
+
+Correo del sitio
+
+Ninguna
+
+Sin letra
+
+Base de datos
+
+Acerca de los enlaces adicionales
+
+Este es el conexión
+
+Este es un día gratuito
+
+Base de factura
+
+Enlace permanente a %s
+
+Páginas:
+
+Seguir leyendo <span class="meta-nav">&rarr;</span>
+
+Los comentarios están cerrados.
+
+Últimos comentarios &rarr;
+
+&laquo; Comentarios más viejos
+
+Nombre de acceso
+
+Disponible a buscar en los archivos multimedia.
+
+Metas de categorías a etiquetas
+
+Inicia sesión como registro está después de este blog. ¿Quieres una lista de este blog?
+
+No se puede encontrar la página.
+
+<strong>%s</strong>
+
+Estringo
+
+http://wsite.wordpress.com/tant}}
+

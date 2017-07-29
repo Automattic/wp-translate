@@ -1,11 +1,10 @@
 # WP Translate
 
-Attempting to translate WP strings with a character based sequence to sequence neural network.
+Translate WordPress strings with a character based sequence to sequence neural network.
 
-Mostly built on https://github.com/farizrahman4u/seq2seq with the main idea coming from http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+Mostly built on https://github.com/google/seq2seq with the main idea coming from http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-Experimental
-
+Experimental prototype that somewhat works for English to Spanish translation. Accuracy is probably about 30-50%
 
 # Setup
 

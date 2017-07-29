@@ -1,0 +1,3321 @@
+Más información
+
+Contenido relacionado
+
+Cargando&hellip;
+
+Siguiente &raquo;
+
+Buscar todo
+
+Hace un comentario
+
+editar
+
+Haz clic aquí
+
+Estitos, vistas promedios, alternativas, vídeos, tráfico
+
+,,ctivado, seguridad, proteger, busca de formularios
+
+Columnas de mosaicos
+
+Has desconectado correctamente Jetpack.
+
+¿Sólo te puedes estar siguiendo <a href="%s">ajustes de <a href="%s">Ajustes de configuración</a> qu
+
+Te damos la bienvenida a CSS personalizado
+
+Para saber cómo funciona, ve a http://wp.me/PEmnE-Bt
+
+Notalizaciones personalizados con el CSS pero se realizó cambias.
+
+¿Estás seguro de que quieres desconectarse de WordPress.com?
+
+visita la misma de archivos de tu suscripción, mientras opciones de miniatura, o un suscripción dire
+
+permitir que tu importación se haga plugins, una actualización de autor de <a href="http://wordpress
+
+Encuestas y suscripciones para tus imágenes de nuestras imágenes y actualizaciones de tu sitio, medi
+
+visita páginas de visitantes a tu blog al contenido y nuevo en la parte superior de la publicación d
+
+Titular, Facebook y Google busca en la parte superior de cada vez la parte superior de cada visitant
+
+quieres iniciar sesión por tipo de Jetpack en tu sitio de Jetpack que coincide con tu cuenta de Word
+
+nosotros tus entradas generales y compartir temas, sin calendarios disponibles.
+
+un artículo para tus entradas y páginas más editores, pero te permite conseguir más populares de vis
+
+comentarios en las perfiles de las pruebas a las cuentas de Gravatar, las cuentas que los visitantes
+
+Añade una nueva página o utiliza para nuestras entradas de tu sitio de un interfaz de distribución.
+
+Como actualiza los recordatorios recomendados para obtener a la <a href="%s">sitios web para persona
+
+Minutos
+
+Recomendado
+
+Entradas y páginas
+
+Álbum
+
+Artista
+
+El ID de usuario no válido, por favor, vuelve a contenido y verificado
+
+Para Leer
+
+Bloquear los enlaces importantes
+
+Semanas desconocidos por bloqueados si Akismet.
+
+Administrar
+
+Administra tus sitios de tus sitios para publicar, haz clic en el sitio, http://wordpress.com.
+
+Letra mantinada de fuente
+
+12-22014 1512
+
+Leer
+
+Configura al menos de Jetpack...
+
+Ilimitar la entrada "%s" con las funciones de Jetpack
+
+Para aprende que Jetpack ya conecta tu cuenta de WordPress.com haciendo clic en el botón de WordPres
+
+El RESERENTE ESMERLE ENGALZA (Automática) (Encontra)) que se muestran los botones para que configura
+
+Supervisa tu sitio web
+
+Le importación minimalista de recortación, se le enviará un informe de la imagen <strong>%s</strong>
+
+Saber más sobre el tipo de ayuda y que añadas a tu sitio.
+
+¡Los cambios de seguridad. Tienes miniaturas por sitio.
+
+Tumblr están
+
+Descartar
+
+Personas que tu nombre de usuario en la cuenta de <a href="%1$s">Lista de <a href="%1$s">Listado cor
+
+Las mensajes de tu correo electrónico más suavicio <a href="%s" target="_blank">Instrucciones)</a>
+
+Estante:
+
+Mostrar tus libros de Goodreads
+
+Leyendo en este momento
+
+Goodreads
+
+Horas:
+
+Lo sentimos. No podemos marcar esta dirección. No se mostrará un mapa. ¿Es correcto el formato de es
+
+Teléfono:
+
+Mostrar mapa
+
+Dirección:
+
+Títulos de nuevo
+
+9999 Misiones Bourea, Estados Unidos, CAA 92100
+
+Un nuevo correo: 12 de mayor: Director: 15 - Error: 151s
+
+Ha ocurrido un problema al recopilar los datos para mostrar esta dirección en un mapa.  Actualiza el
+
+Muestra tu ubicación, horario e información de contacto.
+
+Información de contacto
+
+Cancelar esta abrirá
+
+Jetpack conecta tu sitio WordPress.com para ver tus fáciles de tráfico y personalización, centraliza
+
+,, abre Jetpack
+
+Administra tus sitios de tu sitio de WordPress, o autorizado para no seguir WordPress.com
+
+En la biblioteca de Amigos que permitan actualizar tu sitio autohospedado de WordPress con WordPress
+
+Aquí puedes actualizar los plugins, desactivar todas las plugins articiales de activación o desactiv
+
+Desconocido texto de facturación.
+
+Akismet para alguna de las casillas personalizadas de la gente sin promedio!
+
+Puede estar de trabajo, seguridad muestran en fuente minimalista.
+
+Para comprobar Jetpack antes de que sean listados de nuevos objetos para los ataques de contactos.
+
+Activar Jetpack de Jetpack
+
+Exportar Jetpack está inactivo.
+
+Activar Akismet
+
+<strong>¡Se ha podido actualizar la cuenta de %s! ¡Usa ahora esperando.</strong>
+
+Lista de imágenes
+
+Cuadrícula de imagen
+
+Top de entradas y páginas más vistas se calcula a partir de las estadísticas de las últimas 24-48 ho
+
+No hay ninguna entrada para mostrar. <a href="%s">¿Deseas más tráfico?</a>
+
+Timeline de Twitter
+
+Despliega un widget oficial de Timeline de Twitter.
+
+Mis tuits
+
+Sígueme en Twitter
+
+Ancho (px):
+
+Altura (px):
+
+# de Tweets mostrado:
+
+Necesitas <a href="%1$s" target="_blank"> crear un widget en Twitter.com </a> y entonces, introduzca
+
+ID del widget:
+
+Opciones de diseño
+
+Sin Encabezado
+
+Sin Pie
+
+Sin Borde
+
+Sin barra de scroll
+
+Fondo Transparente
+
+Color de los enlaces (hex)
+
+Color del borde (hex)
+
+Tema del Timeline:
+
+Eventos próximos
+
+Mostrar eventos próximos desde un feed de iCalendar.
+
+URL de feed de iCalendar:
+
+Elementos para mostrar:
+
+Muestra entadas de WordPress
+
+Despliega un listado de las entradas recientes de otro blog de WordPress.com o con Jetpack.
+
+No es posible cargar la información del blog en este momento.
+
+No podemos mostrar entradas para este blog.
+
+Entradas recientes
+
+URL del Blog:
+
+Ingresa la URL de un sitio de WordPress.com o de WordPress con Jetpack.
+
+Número de Entradas a Mostrar:
+
+Mostrar Imagen Destacada:
+
+Mostrar Extractos:
+
+%s (Página)
+
+Jetpack es el enlace de color al mantener el modo de adjuntos.
+
+&laquonal&hellip;
+
+Mover valoración. Por favor contacta con el seguimiento.
+
+Ver entrada como ventana
+
+Comenzar a utilizar con Jetpack 
+
+Empezaron a desactivar tu mensaje instantáneo de Jetpack antes de conectarte.
+
+Jetpack está respondiendo activado y noticias personalizadas.
+
+Jetpack actualizando el cuerpo de Actualización!
+
+Configuración de Actualización
+
+Galbal
+
+Estos ajustes de configuración aficos y todos los sitios en la red.
+
+Subscription del sitio
+
+Por favor, indivisa los administradores individuales para administrar la conexión de nuevos conexion
+
+http://wordpress.org/news/feed/persont/}
+
+Cargar el paquete de la cuenta de WordPress.com a tu sitio de WordPress.com. La cuenta que puedas co
+
+Automático
+
+http://jetpack.
+
+Jetpack
+
+Jetpack %s
+
+Desactivar %s
+
+Actualmente se ha suscrito a %s para demasiado correctamente. %s
+
+¿Recibir un recibo actualizado Jetpack %s
+
+%1$s-%2$s
+
+%1$s a las %2$s
+
+Barra lateral de %1$s
+
+%1$s %2$s
+
+%1$s: %2$s
+
+Nombre
+
+Correo electrónico
+
+Web
+
+Comentario
+
+Nuevo Campo
+
+Opciones
+
+Opción
+
+Primera opción
+
+Vaya, hubo un problema al generar el formulario. Por favor intenta de nuevo.
+
+mover
+
+editar
+
+(requerido)
+
+Claro que sí. %1$s para añadir un nuevo cuadro de texto, área de texto, radio, casilla de verificaci
+
+Sí, puede leer su feedback en cualquier momento haciendo clic en el enlace "%1$s" en el menú de admi
+
+, 
+
+en
+
+sin derivadas
+
+Navegación de tamaño
+
+Mantener la barra lateral
+
+Errores
+
+Comentarios de Jetpack
+
+Formulario de contacto
+
+Tipos de contenidos personalizados
+
+CSS Personallizado
+
+Adjunto adicional
+
+Gravatar Hovercards
+
+Scroll infinito
+
+ACTALI
+
+Balería predeterminada
+
+Me gusta
+
+Markdown
+
+Tema para móviles
+
+Supervisar
+
+Notificaciones
+
+Omnisearch
+
+Photon
+
+Publicar por Correo Electrónico
+
+Protecto
+
+Difundir
+
+Entradas relacionadas
+
+Compartir
+
+Mostrar cargos por correo electrónico
+
+Muchos tus enlaces
+
+Icono de sitio
+
+Ajustes de Jetpack antes
+
+Estadísticas de WordPress.com
+
+Suscripciones
+
+Galerías de mosaicos
+
+Verticales
+
+Servicio de testimonios
+
+VideoPress
+
+Actividad de Visibilidad
+
+Cabeceras de Widget de barra lateral
+
+Consulta tu sitio, el estilo, personalizado, y junto con el servicio de revisar.
+
+Transferir imágenes de las galerías en contraseña para completar.
+
+Permite a los lectores comentar con las cuentas WordPress.com, Twitter, Facebook on-Google.
+
+Insertar un contacto de nuevo en tu sitio.
+
+Diseño antes de modo diferente en tu sitio de tus entradas y separados por separados y páginas.
+
+Personaliza las hojas de estilo CSS de tu sitio sin modificar tu tema.
+
+Los tus archivos de tus entradas y comentarios para buscar los metadatos y otros servicios.
+
+Entradas de aplicaciones publicadas en voluntad o gravatares.
+
+Asocia soporte técnico para iniciar sesión en tu tema.
+
+Permitir aplicaciones para acceder a la cuenta a tu contraseña de la entrada.
+
+Utilizar LakTer multimedia para entradas y páginas con el gestor de compartir y solicitar algunos má
+
+Ofrece a los visitantes una forma sencilla de mostrar insperior para tu contenido.
+
+Entradas o empiezas para páginas y entradas son cargadas de Markdown.
+
+Optimiza tu sitio con un sitio web de tiempo bien.
+
+Recibe notificaciones de Jetpack si tu sitio está sin conexión y también cuando la recuperas.
+
+Recibir notificaciones de destino activada en la barra de dispositivos y tu dispositivos de tus disp
+
+Buscar tu información de la base de datos en tu navegador.
+
+Acelera tu sitio al cargar imágenes desde el CDN de WordPress.com.
+
+Publicar entradas de un archivo publicado y visita en el cliente de correo electrónico.
+
+Añadir a la protección de contraseña a tu blog gratuito. Freshly Protect.
+
+Comparte nuevas entradas en las redes sociales automáticamente.
+
+Mostrar las enlaces a tu contenido para entradas y páginas.
+
+Permite a los visitantes compartir tu contenido en Facebook, Twitter, etc. con un clic.
+
+Elegir contenido desde Tu,biendo personalizado, personalizado, más, más, con necesario no cada neces
+
+Enviar tu correo electrónico con el sitio web para todas las entradas y páginas.
+
+Añadir un sitio en tu sitio.
+
+Permite a tus usuarios a partir de usuarios con WordPress.com.
+
+Supervisa tus estadísticas con informes concisos y claros, sin aumentar la carga de tu servidor.
+
+Para usar los usuarios suscritos a tus entradas y comentarios mediante las notificaciones de correo 
+
+Mostrar tu imágenes galerías en una vista de una variada de nuevos arreglos.
+
+Tus sitios web trabaja con las siguientes proyectos de tus entradas y pie de suscripciones).
+
+Visita tu sitio o dominio o de busca de WordPress, los hostines de WordPress, los artículos y otros.
+
+Sube y modificar el diseño medio de tu sitio (%s. Suscripciones por correo electrónico).
+
+Aprecia de los widgets para aparecer en tu sitio web.
+
+Añadir imágenes, las metas de tus palabras, tus estadísticas RSL y mostrar a tu barra lateral.
+
+Otro
+
+Escritura
+
+Mostrar en vídeos
+
+Social
+
+Apariencia
+
+Desarrolladores
+
+Móvil
+
+Estadísticas de WordPress.com
+
+Para ver tus blogs, significa que necesitas seguridad a comprobar que tu vista Previa de API directa
+
+Ver %s.
+
+Actualizar conexión con %s
+
+%1$s: %2$s
+
+words
+
+En "%s"
+
+Correo electrónico
+
+Correo electrónico
+
+Twitter
+
+Multimedia
+
+Reddit
+
+LinkedIn
+
+Facebook
+
+Imprimir
+
+Publica esto
+
+Google
+
+Tumblr
+
+Pinterest
+
+Pocket
+
+Ver: %s
+
+Se necesita JavaScript para reproducir %s.
+
+%s si:
+
+Mostrar
+
+Ocultar
+
+-- Seleccionar --
+
+Autor
+
+Usuario
+
+Perfil
+
+Etiqueta
+
+Fecha
+
+Página
+
+Taxonomía
+
+es
+
+o
+
+%1$s en %2$s
+
+De pago
+
+Ajustar imagen
+
+El enlace de Redireccionamiento de Redirecciona no funciona y será reembolsado como funciona de Jetp
+
+Tu factura
+
+El Redireccionamiento de Redireccionamiento no se ha visto no funcionará y será eliminado.
+
+Nombre de resultados
+
+Por qué previsualizar tu petición aquí.
+
+Fueva previa
+
+No se ha modificado esto fuente para los usuarios no podrán cadar widgets
+
+Una vez a marcar
+
+Ahora de recortar administradores:<br />%s</strong> elige la dirección de correo electrónico ya que 
+
+Ver título a hacer
+
+Puedes visitar <a href="%s" title="%s">Aparecer %1$s</a> para el borrador </a> para eliminar este bl
+
+Importar servicio de correo electrónico
+
+Esto no tiene permisos instalado para iniciar sesión en la widgets después.
+
+Imagen de blog actual
+
+Enlaces a los feeds RSS de su blog
+
+Todo hora
+
+Mostrar enlaces (actual)
+
+Tu sitio ha sido cargado hacia abajo!
+
+Entradas
+
+Compartir para configuración de Galerías
+
+Entradas & Comentarios
+
+Por favor, subir archivo.
+
+Feed(s) para mostrar:
+
+Si el archivo que has subido no está activado. Por favor, vuelve a intentarlo.
+
+Enlace de texto
+
+El imagen de que subiste está malés sin malés de cualquier momento.
+
+Enlace de imagen
+
+El imagen que subiste subida está mallando la casilla de un espacio (usuario.
+
+Enlaces de texto & imagen
+
+Imagen de pantalla para importar tu blog
+
+Formato:
+
+Importar archivo de correo electrónico para imagen
+
+Configuración de imagen:
+
+Usted no está superado para alguna!
+
+Pequeño
+
+Ajustes de Jetpack antes
+
+Medio
+
+Leer la autenticación en dos pasos
+
+Grande
+
+Publicar por Correo electrónico
+
+Tamaño de imagen:
+
+Error: %s: Esta lista de Jetpack se conectará en este momento y superior.
+
+Rojo
+
+No se puede corregir con los directos de correo electrónico, cada vez y continuar.
+
+Naranja
+
+La invitación no es por defectorar instalada.
+
+Verde
+
+Error: No se puede crear este nombre de usuario.
+
+Azul
+
+Coniciar a WordPress.com
+
+Púrpura
+
+No se ha pidiendo marcar la información
+
+Rosa
+
+Hacer clic y puedes crear una cuenta de <strong>%1$s</code></code> para bloguear en tu cuenta. Si ya
+
+Plateado
+
+No pudimos encuentrar una cuenta en <strong>%2$s</strong> está desactivada a tu cuenta de WordPress.
+
+Color de imagen:
+
+La descripción de WordPress.com
+
+Suscribirse a %s
+
+Conectando con WordPress.com LSML para iniciar sesión en tu cuenta de WordPress.com.
+
+Mensajes y Páginas Populares
+
+Dos pasos activado
+
+Muestra tus entradas y páginas más vistas.
+
+Tamaño de especificada
+
+Número máximo de mensajes para mostrar (no más de 10):
+
+Enlace de acceso único
+
+Mostrar como:
+
+Estadísticas del sitio
+
+Lista de texto
+
+Los versiones de WordPress.com ahora
+
+Tu administrador de esta web o contacta con Jetpack.
+
+Ver sitios web de Widgets
+
+Visita <a href="%s">Esta sitio</a> para ver tus estadísticas.
+
+Administrar arrastra
+
+Un poco de consultas durante 48 horas sitios en la aplicación de administrador.
+
+Registrarse resultados
+
+Puede que las páginas de los visitantes llegaron a continuación.
+
+Simplemente
+
+Ocultar el tamaño de la imagen por defecto.
+
+Las imágenes de texto recientes de las estadísticas y <strong>realizar la baja a la baja de las entr
+
+Cambiar fecha
+
+Visibilidad de la visibilidad
+
+Selecciona la relación de los estadísticas para ver las estadísticas de esta entrada.
+
+Estadísticas
+
+Las versión 48 horas a partir de tu sitio.
+
+día
+
+semana
+
+mes
+
+ayer
+
+la semana pasada
+
+el mes pasado
+
+el trimestre pasado
+
+el año pasado
+
+Gráfica de estadísticas por
+
+Mostrar las entradas más populares sobre
+
+Mostrar términos de búsqueda populares sobre
+
+%1$s %2$s Visitas
+
+Ver todos
+
+Posts Más Vistos
+
+No se ha producido un error, intentar de nuevo.
+
+Lo más buscado
+
+No hemos podido guardar estas entradas no se han vuelto. Por favor, vuelve a cargar la página de nue
+
+No hemos podido volver a ser entradas de tus sitios. Por favor, completa para intentarlo de nuevo. S
+
+Juscar ajustes de Jetpack
+
+Seguir Blog
+
+Seguir comentarios
+
+Configuración de Seguidores
+
+Texto de correo electrónico de seguimiento de blog
+
+Comentar el siguiente texto de correo electrónico
+
+Cambia a tus visitantes por favor, contiene tus entradas o comentarios o borradores.
+
+Mostrar la opción <em>'seguir blog'</em> en el formulario de comentario
+
+Mostrar la opción <em>'seguir comentarios</em> en el formulario de comentario
+
+Estos ajustes modifican los correos electrónicos enviados desde tu blog a los seguidores.
+
+Texto de introducción que se envía cuando alguien sigue tu blog. (Se añadirán automáticamente la inf
+
+Texto de introducción que se envía cuando alguien sigue una entrada de tu blog. (La información del 
+
+Hola.
+
+Recientemente les comentarios se recibirás esto. Esto significa que una vez que se recibe cad
+
+¡Hola!
+
+Recientemente se recibirás una de mis entradas. Esto significa que recibe un correo electrón
+
+Notificarme de los siguientes comentarios por correo electrónico.
+
+Recibir nuevas entradas por correo electrónico.
+
+Añade un formulario de correo electrónico para seguir para suscribirte a tu blog.
+
+Subdominio suspendido (Alt))
+
+Por qué no es válido no es válido. Por favor escribe el cambio de nuevo.
+
+Ya tienes autorización en este sitio. Por favor, comprueba que tu buscador.
+
+Se ha producido un error al escribir. Por favor, inténtalo de nuevo.
+
+Dirección de Dirección:
+
+Suscribirse a el blog por Email
+
+Introduce tu dirección de correo electrónico a este suscripción a este Blog y recibir las notificaci
+
+Correcto. Se ha configurado un correo electrónico de confirmación para confirmar. Por favor, confirm
+
+Título de la aplicación:
+
+Texto opcional para mostrar tus lectores:
+
+Cuando sesión de plantillas:
+
+Suscribirte a botón:
+
+Enviar cerrado personalizado:
+
+Puedes usar la actualización de todas las suscripciones de texto, Sélo en la parte superior izquierd
+
+Contenido destacado
+
+Destaca de manera fácil todas las entradas con la <a href="%1$s">etiqueta "featured"</a> o la etique
+
+Nombre de la etiqueta
+
+Ocultar etiquetas de las entradas meta y las nubes de etiquetas.
+
+Muestra el contenido de las etiquetas en todas las listas.
+
+La configuración de Contenido Destacado se ha movido a <a href="%s">Apariencia &rarr; Personalizar</
+
+Añadir logotipo
+
+Establecer como logotipo
+
+Seleccionar logotipo
+
+Cambiar logotipo
+
+Eliminar logotipo
+
+No se ha establecido ningún logotipo
+
+Título del sitio, lema y logotipo
+
+Mostrar texto de cabecera
+
+Logotipo
+
+Logotipo del sitio
+
+&mdash; Elegir &mdash;
+
+Mosaico
+
+Mosaicos cuadrados
+
+Círculos
+
+Mostrar todas las fotos de tu galería en un mosaico moderno.
+
+Ejemplo:
+
+Servicios de Verificación del Sitio Web 
+
+Escribe el valor de palabra clave "content" para verificar tu sitio con nosotros.
+
+y
+
+Error de %s
+
+Este vídeo está destinado a público adulto.
+
+Por favor, verifica tu fecha de nacimiento.
+
+Enviar
+
+No tienes <a rel="nofollow" href="%s">niveles gratuitos</a> suficientes para ver este enlace. Si est
+
+ver vista
+
+Esta película necesita <a rel="nofollow" href="%s">Adobe Flash</a> para reproducirse.
+
+Cargando vídeo...
+
+Los VideoPress pueden notar el plugin no comunicada con la error de servidores. Este error tiene que
+
+<strong>%s</strong> no te está permitido como el sitio.
+
+Publicar lista de públicaciones de vídeos se publicarán.
+
+Un autor de la página de VideoPress para VideoPress: <strong>%s</strong>.
+
+No se pudo obtener una vista de VideoIrkeque. Por favor, vuelve a intentarlo más tarde.
+
+Te enviaremos que estás videos en correo electrónico personalizados de WordPress.com en WordPress.co
+
+Seguido lo conexión de WordPress.com
+
+Sí visitas de los vídeos antes de visitar la disponible en tu biblioteca multimedia.
+
+<a href="%s">Cita herramienta</a> para rechazar este lista.
+
+Vídeos de barra lateral
+
+Descubre por defecto a usuarios en los usuarios de VideoPress privado
+
+A usar permisos a los vídeos de mis vídeos
+
+A usar para usar para acceder y vídeos
+
+Permitir una utilización para cargar entradas, mediante línea
+
+Algunos usuarios para subir archivos
+
+Formatos libres
+
+Solo se mostrarán videos en formatos libres
+
+Almacena archivos ogg de vídeo con Theora y de audio con Vorbis. Ten en cuenta que algunos navegador
+
+Adelaide para la automática
+
+Reproducir los vídeos en alta calidad por defecto.
+
+Esta configuración puede ser reemplazada por vídeos individuales.
+
+Video de WordPress
+
+VideoPress
+
+El botón inferior para borrar tus videos de VideoPress. Ten en cuenta que puedas aparecer a tu Video
+
+Cortar tu cuenta de VideoPress
+
+Por favor, actualiza JavaScript en tu navegador en Widgets.
+
+Por favor, selecciona un archivo de correo electrónico.
+
+El vídeo subido. Por favor, selecciona no ha sido vídeos en vídeos.
+
+Ha ocurrido un error desconocido. Por favor, vuelve a intentarlo más tarde.
+
+La actualización ha sido correctamente. Por favor, actualízalo a tu vez de VideoPress Librers.
+
+Insertar vídeo
+
+Insertar vídeo
+
+Dirección del archivo OGG
+
+Ubicación del archivo de video en formato Ogg.
+
+Mostrar el menú de compartir y permitir a los espectadores insertar o descargar este vídeo
+
+Valoración
+
+Shortcode 
+
+La prueba gratuita no está siguiendo está visible si el video procesado.
+
+Vista previa de Visitar:
+
+Utiliza el siguiente formulario para subir archivos en tu VideoPress Libres de tus VideoPress Librar
+
+Subir vídeo
+
+Todas las páginas de categoría
+
+Identificado
+
+Basado en
+
+Las páginas de los autores
+
+Todas las páginas de la etiqueta
+
+Los archivos de fecha
+
+Archivos diarios
+
+Archivos mensuales.
+
+Archivo anual
+
+Portada
+
+Página de entradas
+
+Página de archivo
+
+página con error 404
+
+Buscar resultados
+
+Entrada personalizada:
+
+Página estática:
+
+Todas las páginas de taxonomía 
+
+Visibilidad
+
+Categoría
+
+Borrar
+
+Cuadro de Me gusta de Facebook
+
+Mostrar una casilla de me gusta de Facebook para conectar a  los visitantes con tu Facebook
+
+Parece que tu URL de Facebook está correctamente configurada. Por favor, márcalo en tus <a href="%s"
+
+URL de la página de Facebook
+
+El me gusta solo funciona con <a href="http://www.facebook.com/help/?faq=174987089221178">Facebook</
+
+Ancho
+
+Altura
+
+Mostrar caras
+
+Mostrar el perfil de las fotos en el complemento.
+
+Mostrar stream
+
+Mostrar el stream del perfil para el perfil público.
+
+Mostrar borde
+
+Mostrar el borde alrededor del plugin
+
+Mostrar muro
+
+Mostrar el muro en la página Lugares en vez de la actividad de los amigos.
+
+Título:
+
+Imágenes:
+
+Elige las imágenes
+
+Enlace a:
+
+Orden aleatorio:
+
+Estilo:
+
+Mostrar una galería de fotos o presentación de diapositivas
+
+Mosaico
+
+Errores
+
+Página de adjuntos
+
+Archivo multimedia
+
+Perfil de Gravatar
+
+Mostrar una versión pequeña de tu perfil de Gravatar
+
+Tienes que seleccionar qué se muestra en este <a href="%s">widget del perfil de Gravatar</a>.
+
+Ver perfil completo &rarr;
+
+Error al cargar el perfil
+
+Enlaces personales
+
+Servicios verificados
+
+Selecciona un usuario o selecciona "personalizar" e introduce una dirección de correo personalizada.
+
+Personalizado
+
+Personalizar dirección de correo electrónico
+
+Mostrar enlaces personales
+
+Los enlaces a sitios web, blogs o cualquier otro sitio ayudan a describir quién eres.
+
+Mostrar enlaces de cuenta
+
+Enlaces a servicios que usas por la web.
+
+Abrir en una ventana nueva
+
+Edita tu perfil
+
+¿Qué es un Gravatar?
+
+Imagen
+
+Mostrar una imagen en tu barra lateral
+
+URL de la imagen:
+
+Tweets de @%s
+
+Texto alternativo:
+
+No existen eventos próximos
+
+Título de imagen:
+
+ID de actualización
+
+Descripción:
+
+Actualizar sitio actual
+
+Izquierda
+
+Icono de tamaño
+
+Center
+
+Añadir un sitio actual
+
+Derecha
+
+Una creación de correo electrónico en tu sitio para tu sitio.
+
+Alineación de imagen:
+
+Añadir sitio
+
+Ancho:
+
+el archivo realizado
+
+Altura:
+
+Subir una imagen que deseas utilizar la sitio que deseas utilizarla. Cómo se puede barrar en la sigu
+
+Si está vacío, intentaremos determinar el tamaño de la imagen.
+
+El invitado no tiene alguno
+
+URL de enlace (cuando se hace clic sobre la imagen):
+
+Oculta archivo y mostrar.
+
+Abrir enlace en una nueva ventana/pestaña
+
+Subir imagen
+
+Revisar a la imagen por defecto
+
+<a href="%s">Cancelar <a href="%s">Cancelar a las configuraciones de la configuración.
+
+Deshace Bloquear comic el botón por dothherh. http://www.gomail.com/
+
+la imagen del artículo
+
+<strong>La URL de la servidor de búsqueda para que mostrar?</strong><br /><a target="_blank" href="%
+
+Jetpack quieres conseguir las sintemas de seguridad como se pueden automáticamente, puedes <a href="
+
+Cargar tu consejo para la galería
+
+Correos electrónicos con la activación de Correo electrónico WordPress que has incrustado en entrada
+
+CSS Personallizado
+
+CSS personalizado de CSS de tu personalización de estilo para añadir o responder a tus entradas CSS,
+
+El CSS de la CSS de editar o aprobar en la Apariencia (APp en <a href="%s">Editar CSS</a>.
+
+Tema para móviles
+
+Nuestros ataques de configuración de los visitantes que tu sitio sea utilizado para que sea utilizad
+
+Jetpack ahora mismo está optimizado para todas las conversaciones. Usa las conversaciones de la imag
+
+Visitantes en Twino, Android, Windows Ponte y otras dispositivos serán diversas solicitadas automáti
+
+Si eres un tema autoa, puedes andar el año solo puede acoptar de administración de correo electrónic
+
+Escribe el contenido de la contenido, título y la publicación de encuentras que en el borrador?
+
+Si la información de la consulta información de Color hace que se actualizó un tema sencillo. Intent
+
+Este tema, tu monitorización, te lo envíe nuevos asignados no funcionan información de correo electr
+
+El tema sin temas informaciones de correo electrónico finalizada, pero no puedes activarlos este mod
+
+El apuntador ha sido disponible para tu tema. Puedes comenzar a desactivar esta actualización indica
+
+Publicar por Correo Electrónico
+
+Por favor, publicar en El Modo de Publicar entradas en tu blog por correo electrónico. Se puede util
+
+Administra tu dirección de correo electrónico de asignación de tu blog desde <a href="%s">ajustes de
+
+Más información sobre el correo electrónico de temas, adjuntos y las personas que personalizan tus e
+
+Si tu sitio ha sido una entrada de las imágenes en entradas del contenido desde la ventana de conten
+
+Galerías de mosaicos
+
+Crear los registros de las fuentes más vistas por defecto para tus fotos se avisan a usar una vez us
+
+Las imágenes: Las galerías incrustadas en el servidor tienen procesados externos de WordPress.com, a
+
+Los permisos actualizar tus lectores para mostrar las entradas y otras entradas de tus entradas y ot
+
+Después de tus entradas generales se aplicarán a cualquier momento hasta que tus entradas y las Grav
+
+Más información acerca del uso de nuevos utilizados.
+
+Buscar comentarios aquí los resultados de la versión Amigos. También está soportante de los promedio
+
+Diseño blog ofrece con otros plugins de otros plugins o escribir otros resultados formanes.
+
+Contrareña los widgets para los widgets aparecerán con el visitante de Divisible.
+
+Para controlar visitantes, explora y haz clic en el botón de visibilidad de la visibilidad de la vis
+
+Por ejemplo, si quieres indicar la dirección de correo electrónico antes de la categoría o en las pá
+
+Puedes cambiar la widgets ha sido enviada a la página. Por ejemplo, si no dispones de la lista de ar
+
+Con la Videopress de VideoPress puedes subir vídeos a tu dirección de correo electrónico a tu sitio 
+
+La información de WordPress.com Business Aplica para algunos usuarios inactivos para algunos de tu s
+
+Una cantidad de los anuncios, con la cantidad de WordPress.com "actualiza la opción se añada a tu bl
+
+Sin embargo, la documentación de los cambios de Jetpack Monitor es en la tabla de Jetpack que tiene 
+
+Te damos te conocidos por tanto como esta lista está opcional, podrás publicar, puedes actualizar un
+
+Entradas relacionadas
+
+Las entradas más profesionales sobre los enlaces de tu sitio en el cuadro de tus entradas. Si estás 
+
+Más información se incluye una interfaz de relacionadas.
+
+Esta fácil utiliza la información de WordPress.com fue requisita y que se contiene la contenido de t
+
+Modas nuevos participantes que comentas en los comentarios y comentarios de otros sitios utilizando 
+
+Estas a obtener autorización para visitar que tu sitio web controla con otros servicios de todos los
+
+Verificar tus servicios para acceder a las servicios de avajar en estos servicios (... a veces la ve
+
+Tema personalizado conterido
+
+Diseño antes de modo diferente en tu sitio de tus entradas y separados por separados y páginas.
+
+Para aplicar un contenido de tu contenido, para verlo, se perder, para <a href="%s">Activar &rarr; T
+
+Añade añadida, <strong>ha conectado a un sitio web a usar <strong>%s</strong> al fantástico <a href=
+
+Icono de sitio
+
+El ID de calificación fue principalmente un incorrecto para tu sitio. Esto significa que usa favorit
+
+Para añadir un nuevo año en tu sitio, para volver a <a href="%s">Ajustes &rarr; La actualización &ra
+
+Recibir correos electrónicos de todos los archivos.
+
+El archivo se ha encontrado en %s (<a %s)</a>)
+
+Este propietario no está actualizado en un navegador de WordPress.com.
+
+Buscar comentarios
+
+Comentarios
+
+Omnisearch
+
+Buscar todo
+
+Resultados:
+
+Saltar a:
+
+Volver al Inicio &uarr;
+
+Buscar medios
+
+Medios
+
+Buscar plugins
+
+Plugins
+
+Cargando &hellip;
+
+Título
+
+Fragmento
+
+Sin publicar
+
+d/m/Y G:i
+
+hace %s
+
+d/m/Y
+
+Publicadas
+
+Programación perdida
+
+Programada
+
+Última modificación
+
+Dirección de email
+
+Activar publicación por Email
+
+Más información
+
+Registrarse adicionales
+
+Desactivar la entrada por correo electrónico
+
+Publicar una de las entradas por %d información de tu cuenta %s a tu cuenta de WordPress.com.
+
+Si tienes un cuenta de WordPress.com para cualquier disponible para salir de un segundos.
+
+No se pudo crear en tu dirección de correo electrónico de tu país. Inténtalo de nuevo más tarde.
+
+Activar registro en tu dirección de correo electrónico de tu pay. Inténtalo de nuevo más tarde.
+
+Desactiva a diseño de fuentes a tu dirección de correo electrónico. Inténtalo de nuevo más tarde.
+
+A Este kit no se ha conectado por Jetpack.
+
+Introduce un ID de actualización
+
+Gestión de la mejora
+
+Una de tu dirección IP no es válida.
+
+Contenido guardado.
+
+Introduce en una dirección IP en la previsualización de los sitios está desplegable con Jetpack.
+
+Tu correo electrónico : %s
+
+SP4 IPv4 y IPv6. <br />Para especificar un rango, introduce el valor bajo y calendarios y establecid
+
+Guardar
+
+<strong>Las correos electrónicos para recortar cancelar la mejora <strong>%s</strong> Esto se utiliz
+
+Por favor, selecciona este correo para el problema antes de que no están como una vez que sea, tendr
+
+Tu navegador fue incorrectamente, por favor, vuelve a intentarlo.
+
+Tu bitacora puede ser conectado a WordPress.com. Por favor, permanece a WordPress.com.
+
+Error antes de conectar WordPress.com. Ver %1$s, %2$s
+
+Publicar sobre minúsculas de Jetpack
+
+Tu importación de %1$s) ha sido guardado por defecto de publicación de portación de publicación. <a 
+
+Buscar en los botón de Jetpack
+
+Tu archivo no es válido
+
+Ninguna Faletían
+
+Hubo un error al contactar con Jetpack.
+
+Video en %s
+
+Para eliminar, te enviaremos una entrada de %s cuando a tu cuenta de tu cuenta de WordPress.com, usa
+
+Hubo un problema al conectarse a %s para crear una conexión automática. Por favor, vuelve a intentar
+
+Un solo más solicitado como marcado. Este nombre de asignar alguna interfaz de correo electrónico o 
+
+No podemos verificar que tu servidor muestra autorización de nuevos. Por favor, vuelve a intentarlo 
+
+Si necesita <b>Sit incluye en tu solicitud. Por favor, ponte en contacto con el servicio de WordPres
+
+Su información información se incluirá en la presentación. Por favor, asegúrate de que la cuenta que
+
+Al hacer clic en el botón de abajo, inténtalo de nuevo. Si sigues teniendo problemas, si tienes algu
+
+Hubo un problema al conectar con Públice. Por favor, vuelve a intentarlo de nuevo dentro de un momen
+
+Error: %s
+
+Se ha conectado la conexión se ha eliminado.
+
+Publicar por %s:
+
+Factura de Facebook
+
+Página de Facebook
+
+Blog de Tumblr
+
+Esta función funciona adecuadamente.
+
+Has conectado con éxito la conexión que se conectemente a %1$s.
+
+Has decidido no conectar tu blog. Por favor, haz clic en "aceptar" cuando aparezca si deseas conecta
+
+Conecta tu blog con las redes sociales más populares y comparte automáticamente las entradas nuevas 
+
+Puedes crear una conexión solo para ti mismo o para todos los usuarios de tu blog. Las conexiones co
+
+Conectado como:
+
+Compartido
+
+Desconectar
+
+Estas seguro que quieres dejar de publicar entradas a esta conexión?
+
+¿Hacer esta conexión disponible para todos los usuarios de este blog?
+
+Hubo un problema al conectarse a %s. Por favor, desconéctate y vuelve a intentarlo.
+
+Antes que hagas clic en Publicar, por favor, actualiza la(s) siguiente(s) conexion(es) para asegurar
+
+Publicítate:
+
+Mensaje personalizado:
+
+Ocultar
+
+No conectado
+
+Conectarse a
+
+Conectarse y compartir tus entradas en %s
+
+Detalles del título
+
+Mostrar
+
+Relacionado
+
+Mostrar el texto "Relacionado" para separar más claramente la sección de las entradas
+
+Utiliza un diseño grande y visualmente atractivo
+
+Previsualizar:
+
+Ocultar el contenido relacionado después de la entrada
+
+Mostrar contenido relacionado después de las entradas
+
+Entrada sin título
+
+Entrada similar 
+
+%1$s (%2$s) las entradas que puedes interesar el siguiente artículo:
+
+Entrada compartida
+
+Clases CSS (vacial]
+
+Añadir. Si está desplaza, incluido en tu sitio, incluye el archivo de tus elementos incluyendo temas
+
+Comparte:
+
+Más
+
+Compartir
+
+ (Se abre en una ventana nueva)
+
+¡Este artículo ha sido compartido!
+
+Has compartido esta entrada con %s
+
+Cerrar
+
+Hac clic para enviar por correo electrónico a un amigo
+
+Enviar a dirección de correo electrónico
+
+Su Nombre
+
+Tu dirección de correo electrónico
+
+Enviar correo electrónico
+
+La entrada no fue enviada. ¡Comprueba tus direcciones de correo electrónico!
+
+Error en la comprobación de email. Por favor, vuelve a intentarlo
+
+Lo sentimos, tu blog no puede compartir entradas por correo electrónico.
+
+Twitter
+
+Haz clic para compartir en Twitter
+
+Multimedia
+
+Haz clic aquí para compartir en Tumblr
+
+Reddit
+
+Haz clic para compartir en Reddit
+
+LinkedIn
+
+Haz clic aquí para compartir en LinkedIn
+
+Facebook
+
+Comparte en Facebook
+
+Imprimir
+
+Los vistas son las imágenes por defecto de Gravatar información sobre la información de las entradas
+
+Haz clic para imprimir
+
+Herramientas de covas fueron mientras por cómo aplicar tu internet presenta y ayuda a tu blog.
+
+Publica esto
+
+Los vistas son las mejoras de página de Gravatar información sobre información sobre una entrada, in
+
+Haz clic para utilizar ¡Publica Esto!
+
+Para ver todos los veces a ninguna vez de nuevo en tu blog en tu blog con el comentario. Si el comen
+
+Google
+
+Mostrar cargos por correo electrónico
+
+Haz clic para compartir en Google+
+
+Los temas preocupados te permiten ofrecer mediante las propiedades en tu sitio. Si solicitaste en tu
+
+Haz clic para compartir en %s
+
+Introduce una red de soltar el directorio de /PPs en la parte inferior de tu sitio a medias. Puede s
+
+URL
+
+Alineación de asignación de dominio: %s.
+
+Icono
+
+Muchos tus enlaces
+
+Eliminar el servicio
+
+Insertado o de tu gusto o copiando la URL de nuevo, puedes generar una mayoría de tus entradas y pág
+
+Tumblr
+
+Consigue esto prefijo para usar un Twitter, Facebook y seleccionar los mensajes para caracteres o ca
+
+Compartir en Tumblr
+
+Estos archivos solo y publicaron hasta que publicar en pintalos se mostrarán antes de que se vuelvan
+
+Haz clic para compartir en Tumblr
+
+Estadísticas de WordPress.com
+
+Pinterest
+
+Hay plugins de plugins y servicios que estén servicios, pero una prueba de subtitular. Las siguiente
+
+Haz clic para compartir en Pinterest
+
+Puedes <a href="%s">Actualizar este escritorio de tu escritorio</a>.
+
+Pocket
+
+Difundir
+
+Pincha para compartir en Pocket
+
+Publicado que te permite conectar tu blog con las redirecciones de soporte técnico y compartir autom
+
+&#161;Atenci&#243;n! &#161;No encontramos el soporte Multibyte!
+
+Publicar te permite compartir tus entradas de Facebook, Twitter, Tumblr, Yahoo! y Linkedin.
+
+Este plugin funcionar&#225; sin &#233;l, aunque el soporte multibyte se utiliza <a href="%s">si est&
+
+Gestiona la información de tu <a href="%s">Publicaciones</a>.
+
+Añade a tu blog botones para compartir y permitir a tus visitantes que compartan la entrada con sus 
+
+Más información acerca del uso de Difundir.
+
+Servicios disponibles
+
+Notificaciones
+
+Arrastra al espacio inferior los servicios que quieras activar.
+
+Consigue con las letras que aparecen a tus sitios de WordPress y destino a otro usuario de WordPress
+
+Añadir un servicio nuevo
+
+Puedes ver tu notificación en la página de la consulta y <a href="%s">WordPress.com</a>.
+
+Te avisamos de que tus servicios han sido limitados ya que tu página web es privada.
+
+LTT
+
+Servicios activados
+
+%s es una opción de manualmente la imagen para ser completado por correo electrónico atractivos, com
+
+Los servicios arrastrados aquí aparecerán de forma individual.
+
+Jetpack completo en la parte de %s y la superior de WordPress para ver las entradas previamente en l
+
+Arrastrar y soltar aquí los servicios disponibles.
+
+Lo siento, esta permitida no está desactivada.
+
+Los servicios arrastrados aquí estarán ocultos tras un botón para borrar.
+
+Utiliza <code>whele tu proveedor de vezce ahora, <code>wordpress.com</code> el archivo de compras: %
+
+Vista previa
+
+Compartir tus entradas con Twitter, Facebook, y configuración de servicios. Puedes configurar los se
+
+Compartir está desactivado. Añade servicios arriba para activarlo.
+
+Los servicios servicios incluyen incluyetos Twitter, Facebook, Twitter, Tumblr, Enlaces de Twitter, 
+
+Estilo de botón
+
+Los servicios servicios incluyen incluyetos Twitter, Facebook, Facebook, Entrego, Custom, Indicatron
+
+Icono + texto
+
+Editar formatos publicados en tu propio servicio.
+
+Sólo el icono
+
+Para configurar tus configuraciones, con el botón de configuración, con el seguimiento de las entrad
+
+Sólo texto
+
+Arrastra y servicios de terceros para la haber activado tienen la capa de tu sitio a tu sitio y la h
+
+Botones oficiales
+
+Las detalles de la configuración sobre la <a href="%s">Autorización de soporte técnico</a>. Esto sig
+
+Texto de Compartir
+
+Mantener la barra lateral
+
+Nombre de servicio
+
+¡El archivo <a href='%s'>Abrevista</a> para el servicio</a> y recuperar suscripciones profesionales 
+
+Compartiendo URL
+
+La información de los archivos de entrada nuevo por correo electrónico de <a href="%s">Actualiza opc
+
+Puedes añadir las siguientes variables a la URL para compartir tu servicio:
+
+Widget de pantalla
+
+URL de icono
+
+La Unica de enlaces BBL
+
+Escribe la URL de un icono de 16x16px que quieras usar para este servicio.
+
+para que tu añadido enlaces a las que los enlaces de tu blog completo de tu barra de tu barra de la 
+
+Crear botón de compartir
+
+Twitter awigeow
+
+Ocurrió un error al crear tu nuevo servicio para compartir, por favor, comprueba que diste una infor
+
+, tus textos de tu barra lateral con un barra de herramientas. Es posible que añades como añadir a t
+
+Tu bitacora actualmente no tiene ninguna entrada publicada.
+
+Cuadro de menú personalizado actual de la cuenta
+
+Descargar: <a href="%s">%s</b>
+
+Mostrar tu mensaje de tu barra de cada ubicación de tu barra de herramientas, es posible que tu list
+
+Ver en Instagram
+
+Editar imagen de Widget
+
+No se pudo iniciar esta presentación. Intenta actualizar la página o utiliza otro navegador.
+
+y le permite cargar archivos de imágenes para guardar las fuentes en tu tema. Es posible que añades 
+
+¡Haga clic para activar la reproducción automática de la presentación!
+
+<strong>Tienda <strong>Widgets</strong> más tus últimas tienes proximas de tu bandeja o en tu tema.
+
+Enviares
+
+<strong>La Un cargo de Veta Revista</strong> cuando se mostrará un marca de cada enlace y chat en la
+
+Tomar
+
+<strong>Tiendas de imagen <em>Tite</strong> permiten añadir imágenes en la barra de tu barra de tu t
+
+Difundir
+
+<strong>Las veces gratuitas de Gravatar</strong> te permiten a publicar la imagen de tu Gravatar de 
+
+Presentación
+
+<strong>Error &strong>widgets</strong> proveedor te provoca una función de manteniente o desactivar 
+
+Slideshow de Galería de Imágenes
+
+<strong>Las entradas</strong> Le gustaría <strong>Widgets</strong> mediante las entradas recientes d
+
+Haga click para ver el pase de diapositivas.
+
+<strong>Revista: La información de correo electrónico <strong>Multimedia para enviartes tus lectores
+
+El pase de diapositivas requiere JavaScript.
+
+<strong>Comprando la versión <strong>Widgets</strong> pero un usuario para que un enlace permanente 
+
+Nombre de usuario no válido
+
+Desactivar estos sitios como un número de personalización de instalación.
+
+Identificador no válido
+
+Utiliza la versión más de la web aparecerá en la parte superior de <a href="%s">Widgets</a>. Añade l
+
+Suscriptor de autor
+
+Efemplo permitirá a visitar su suscripción para todas las entradas puede obtener una vez al menos un
+
+El cambio de dominios, tus visitantes tus visitantes tus visitantes solo la hora para algunos coment
+
+Puedes seguir la suscripción de WordPress aparecerán en <a href="%s">Widgets</a>. Añade la widget de
+
+También puedes activar tu suscripción a tu suscripción de Suscripción a las entradas de la aplicació
+
+Personaliza los correos electrónicos en los mensajes de tu blog a tus seguidores y comentarios en la
+
+Jetpack recibirá la otra pestaña automáticamente con el contenido desde tu blog o sitio web o será e
+
+Jetpack te permite autorizar las aplicaciones sobre las servicios de aplicaciones para asegurarte a 
+
+Después de usuarios de WordPress.com? <a href='http://en.support.wordpress.com/d/sta>. Utilice siste
+
+Un tema de contacto con el uso de la base de detalles para que tus lectores, sin tienes que escribir
+
+El contacto de contacto de forma parte segurará para ver tus nodificaciones. Cuando nuestros nombres
+
+Jetpack de comentarios para comentarios
+
+Jetpack comentarios ajas visitas a los visitantes que se permiten letras WordPress.com, Twitter o in
+
+Nuevo proyecto
+
+Ver proyecto
+
+Buscar proyecto
+
+No se encontró ningún proyecto
+
+No se encontró ningún proyecto en la papelera
+
+Tipos de proyectos
+
+Tipo de proyecto
+
+Todos los tipos de proyecto
+
+Edita el tipo de proyecto
+
+Ver tipo de proyecto
+
+Actualizar tipo de proyecto
+
+Añadir nuevo tipo de proyecto
+
+Nombre del nuevo tipo de proyecto
+
+Tipo de proyecto superior
+
+Tipo de proyecto superior:
+
+Buscar tipos de proyectos
+
+Etiquetas de proyecto
+
+Etiqueta de proyecto
+
+Todas las etiquetas de proyecto
+
+Editar etiqueta de proyecto
+
+Ver etiqueta de proyecto
+
+Actualizar etiqueta de proyecto
+
+Añadir nueva etiqueta de proyecto
+
+Nueva etiqueta de proyecto
+
+Buscar etiquetas de proyecto
+
+Etiquetas de proyecto populares
+
+Separa las etiquetas con comas.
+
+Añadir o quitar etiquetas
+
+Elige entre las etiquetas más utilizadas
+
+No se han encontrado etiquetas.
+
+Proyecto actualizado. <a href="%s">Ver elemento</a>
+
+Proyecto actualizado.
+
+Proyecto restaurado a la revisión de %s
+
+Proyecto publicado. <a href="%s">Ver proyecto</a>
+
+Proyecto guardado
+
+Proyecto enviado. <a target="_blank" href="%s">Vista previa de proyecto</a>
+
+Proyecto programado para: <strong>%1$s</strong>.<a target="_blank" href="%2$s">Vista previa de proye
+
+Borrador de proyecto actualizado. <a target="_blank" href="%s">Vista previa de proyecto</a>
+
+Tu archivo de Porfolio no tiene entradas todavía. Puedes empezar a crearlas en tu escritorio.
+
+Tipos
+
+Etiquetas
+
+Testimonios
+
+Activar testimonios para este sitio.
+
+Las páginas de testimonios mostrarán como máximo %1$s testimonios
+
+Testimonios de clientes
+
+Testimonio
+
+Todos los testimonios
+
+Agregar un nuevo testimonio
+
+Editar testimonio
+
+Nuevo testimonio
+
+Ver testimonio
+
+Buscar en los testimonios
+
+No se encontraron testimonios
+
+No se encontraron testimonios en los eliminados
+
+Ingrese aquí el nombre del cliente
+
+Nombre del cliente
+
+Testimonio actualizado. <a href="%s">Ver testimonio</a>
+
+Testimonio actualizado.
+
+El testimonio ha sido restaurado a la revisión del %s
+
+Testimonio publicado. <a href="%s">Ver testimonio</a>
+
+Testimonio guardado.
+
+Testimonio enviado. <a target="_blank" href="%s">Vista previa del testimonio</a>
+
+Testimonio programado para: <strong>%1$s</strong>. <a target="_blank" href="%2$s">Vista previa del t
+
+El borrador del testimonio ha sido actualizado. <a target="_blank" href="%s">Vista previa del testim
+
+Archivo de testimonios personalizados
+
+Personalizar
+
+Título de páginas de testimonios
+
+Contenido de paginas de testimonios
+
+Imágen destacada para la página de testimonios
+
+Tu entrada de tu sitio actualmente tiene entradas todavía. Puedes empezar a crearlas en tu escritori
+
+Gravatar Hovercards
+
+Muestra los perfiles de la gente cuando pasas el ratón por encima de sus Gravatares.
+
+Sitúa el ratón sobre tu Gravatar para ver tu perfil.
+
+Nieve
+
+Mostrar nieve cayendo en mi blog hasta el 4 de enero.<sup></sup>
+
+Hasta el infinito y más allá
+
+Hemos cambiado esta opción a una versión clic-para-desplazarse debido a que tiene widgets para el pi
+
+Desplazamiento infinito
+
+(Mostrar entradas %s en cada carga)
+
+Entradas antiguas
+
+Anteriores: %s
+
+Ir arriba
+
+Tema: %1$s.
+
+Un solo google Analytics con Scroll infinito
+
+Procesar a la galería de inicios independientes entradas y páginas con vistas de Google Analytics
+
+Para hacer clic en el botón de archivo de copia de seguridad, desactiva las nuevas instalaciones de 
+
+Guardar configuración
+
+"Me gusta" y comparticiones
+
+Me gusta
+
+Mostrar "me gusta".
+
+Mostrar botones para compartir.
+
+Notificaciones de "Me gusta"
+
+Envíeme correo electrónico cada vez
+
+A alguien le gusta una de mis entradas
+
+Los "Me gusta" de WordPress.com son
+
+En todas las entradas
+
+Activado por entrada
+
+Botón de reblogueo de WordPress.com
+
+Mostrar el botón de re-publicar en las entradas. 
+
+No mostrar el botón de re-publicar en las entradas. 
+
+Texto
+
+"Me gusta" de comentarios están
+
+Área de texto
+
+Sí para todos los comentarios.
+
+Opciones
+
+Mostrar botones
+
+Primera opción
+
+Página inicial, Páginas de archivo y Resultados de búsqueda
+
+Añadir otra opción
+
+Configuración de Compartir
+
+¿Obligatorio?
+
+Compartir
+
+Guardar este campo
+
+La configuración se ha guardado
+
+Así será la apariencia de tu formulario
+
+Botones de compartir
+
+Añadir un campo nuevo
+
+Guardar cambios
+
+Añadir este formulario en mi entrada
+
+Me gusta:
+
+Configuración de correo electrónico
+
+Me gusta
+
+Introduce tu dirección de correo electrónico
+
+Cargando...
+
+¿Cuál debería ser la línea de asunto?
+
+A <span>%d</span> blogueros les gusta esto:
+
+Guardar y volver al generador de formularios
+
+Markdown
+
+Tus tipos de contenidos personalizados
+
+Usar Markdown para posts y páginas.
+
+Utiliza estos ajustes para mostrar diferentes tipos de contenidos en tu sitio.
+
+Más información sobre Markdown.
+
+Usar Markdown para comentarios.
+
+Vista previa: los cambios deben ser guardados o se perderán
+
+Contenido Markdown
+
+Editar CSS
+
+Ver sitio para móvil
+
+CSS
+
+Compatible con Móviles:
+
+Hoja de estilos en CSS personalizada
+
+No
+
+Hoja de estilos guardada
+
+Incluir esta CSS en el Tema para Móviles
+
+Publicar
+
+Esta entrada está protegida. Introduce la contraseña para ver los comentarios.
+
+Revisiones del CSS
+
+Nombre de acceso
+
+Editor de estilos CSS
+
+&laquo; Comentarios más viejos
+
+¿Nuevo con el CSS? Empieza con un <a href="http://www.htmldog.com/guides/cssbeginner/">tutorial para
+
+Últimos comentarios &rarr;
+
+Ancho del elemento multimedia
+
+Galería
+
+Estándar
+
+Seguir leyendo <span class="meta-nav">&rarr;</span>
+
+%s px
+
+Limitar el ancho a %1$s pixeles para videos, imágenes de tamaño completo y otros códicos cortos. (<a
+
+Enlace permanente a %s
+
+El ancho por defecto para el contenido del tema %s es de %d píxeles.
+
+Páginas:
+
+Aceptar
+
+<b>%1$s</b>
+
+Cancelar
+
+<b>%s</b>
+
+Preprocesador:
+
+Destacados
+
+Ninguna
+
+Portada por él
+
+Modo:
+
+Add-on
+
+Navegador de artículos
+
+Reemplazo
+
+&laquo; Anterior
+
+Add-on CSS <b>(Recomendado)</b>
+
+Siguiente &raquo;
+
+Reemplazar <a href="%s">el CSS del tema</a> <b>(Avanzado)</b>
+
+Ver sitio completo
+
+Vista previa
+
+http://es.wordpress.org
+
+Guardar &amp; Comprar Actualización
+
+Plantilla de proyectos prontos de publicación
+
+Guardar hoja de estilo
+
+Siguiendo programada por %s
+
+Mostrar más.
+
+Menú Principal
+
+Convertir a Comic
+
+Margar la barra lateral
+
+Convertir en una Entrada
+
+Menu
+
+No estás autorizado para hacer este cambio
+
+Sin propietario del propietario
+
+<span class="princ" solicitado</a> hace <a href="%1$s" title="%2$s" al "ahorrar <a href="%2$s" al Ga
+
+Suelta imágenes para cargarlas
+
+Subiendo...
+
+<span class="meta-nav">&larr;</span> Formatos
+
+Procesando...
+
+Enviar <span class="meta-nav">&rarr;</span>
+
+Lo sentimos, tu navegador no es compatible. Actualízalo en browsehappy.com.
+
+Pingback: 
+
+Aquí sólo se pueden cargar imágenes.
+
+%1$s en %2$s
+
+Tu carga no se ha completado, vuelve a intentarlo más tarde o cruza los dedos y vuelve a intentarlo 
+
+Tu comentario está pendiente de moderación.
+
+Comics
+
+Responder
+
+Comic
+
+<span class="editar"><a href="%1$s" title="%2$s" <a href="%2$s">mantente tema</a> $4$s</a></span>
+
+Todos los Comics
+
+Página %s
+
+Añadir nuevo
+
+Rutasiones automáticas: %s
+
+Agregar nuevo Comic
+
+Mostrar Archivos: %s
+
+Editar Comic
+
+Archivos anual: %s
+
+Nuevo Comic
+
+Publicado en %s
+
+Ver Comic
+
+caducado con %s
+
+Buscar Comics
+
+Escrito por %s
+
+No se han encontrado Comics
+
+Archivo del sitio
+
+No Comics found in Trash
+
+Resultados de búsqueda para: %s
+
+Comic actualizado. <a href="%s">Ver comic</a>
+
+No se ha encontrado nada
+
+Campo personalizado actualizado.
+
+Disculpa, pero no se han encontrado resultados para el archivo solicitado. Tal vez una nueva búsqued
+
+Campo personalizado borrado.
+
+Extractos
+
+Comic actualizado.
+
+Activar exportaciones en la propia y página de autores
+
+Comic restaurado a revision del %s
+
+Mostrar entradas permitidos en las páginas y páginas de archivos
+
+Comic publicado. <a href="%s">Ver comic</a>
+
+Imágenes destacadas
+
+Comic guardado.
+
+Mostrar todas las imágenes instaladas
+
+Comic enviado. <a target="_blank" href="%s">Vista previa de comic</a>
+
+Mostrar imágenes para imágenes
+
+Comic agendado para: <strong>%1$s</strong>. <a target="_blank" href="%2$s">Vista previa de comic</a>
+
+Hacer click sobre mós
+
+j F Y G:i a
+
+Muestra una prueba de la parte superior de la gestión de WordPress para el tema por defecto.
+
+Borrador del Comic actualizado. <a target="_blank" href="%s">Vista anticipada de comic</a>
+
+Aplicaciones de móvil
+
+Nonce invalido o caduco.
+
+Llevarte a WordPress contigo.
+
+Has aparecera salir de <a href="%s">Inicia sesión en IPTo, para Volver a <a href="%s">Additar <a hre
+
+Etiquetas de elemento de menú
+
+Verticales
+
+Etiqueta de elemento de menú
+
+Su instalación de WordPress está actualmente por correcto el lugar de WordPress con los detalles de 
+
+Etiquetas de los elementos en el menú de búsqueda
+
+Elegir de públicación
+
+Etiquetas populares
+
+Con un mensaje de menú suscripción, la versión Predetorgife y puede ver tu sitio, tema de contenido,
+
+Todas las etiquetas de los elementos del menú
+
+Pestaña y Reproducción
+
+Editar etiqueta de elemento de menú
+
+Gravatar de Gravatar
+
+Ver etiqueta de elemento de menú
+
+&#8517; los archivos &#8217;
+
+Actualizar la etiqueta del elemento de menú
+
+Añadir nueva etiqueta del elemento de menú
+
+Nombre de etiqueta de elemento de menú nuevo
+
+Por ejemplo picante, favorito, etc. <br /> Separa etiquetas con comas. 
+
+Añadir o eliminar etiquetas
+
+Elige una de las etiquetas más utilizadas
+
+No se encontró ninguna etiqueta
+
+Secciones del menú
+
+Sección del menú
+
+Buscar secciones del menú 
+
+Todas las secciones del menú 
+
+Sección superior del menú 
+
+Sección superior del menú:
+
+Editar Menú
+
+Ver Menú
+
+Actualizar sección del Menú
+
+Agregar nueva sección del menú
+
+Nuevo nombre de menú
+
+Elementos en tu menú de restaurantes
+
+Elementos del menú
+
+Elemento del menú
+
+Menús de comida
+
+Añadir un elemento
+
+Agregar Elemento en el Menú
+
+Editar elemento del menú
+
+Elemento de menú nuevo
+
+Elemento del menú Ver
+
+Buscar elementos de menú
+
+No se encontró ningún elemento de menú
+
+No se encontró elementos de menú en la papelera
+
+Elemento de menú actualizado. <a href="%s">Ver elemento</a>
+
+Elemento del menú actualizado.
+
+Elemento de menú restaurado desde la revisión de %s
+
+Elemento del menú publicado. <a href="%s">Ver elemento</a>
+
+Elemento del menú guardado.
+
+Elemento de menú enviado. <a target="_blank" href="%s">Previsualizar elemento</a>
+
+Elemento de menú programado para: <strong>%1$s</strong>. <a target="_blank" href="%2$s">Previsualiza
+
+Borrador de elemento de menú actualizado. <a target="_blank" href="%s">Previsualizar elemento</a>
+
+Pone el nombre del elemento de menú aquí.
+
+Añadir muchos elementos
+
+Los objetos del menú han sido reorganizados. 
+
+Miniatura
+
+Etiquetas
+
+Precio
+
+Orden
+
+Guardar nueva clasificación
+
+Sin categoría
+
+Mover hacia arriba la sección de menú
+
+ARRIBA
+
+Mueve la sección del menú hacia abajo
+
+ABAJO
+
+Usa la tecla <kbd>TAB</kbd> de tu teclado para desplazarte entre columnas y la tecla <kbd>INTRO</kbd
+
+Agregar a la sección:
+
+Etiquetas: <small>picantes, favoritos, etc. <em>Separar las etiquetas con comas</em></small>
+
+Descripción
+
+Nueva Fila
+
+Añadir estos elementos del menú nuevos
+
+Sin etiquetas
+
+Proyectos de porfolio
+
+Tu importación en tu contraseña <strong>%s</strong>
+
+Habilitar proporciones de soporte para este sitio.
+
+Las páginas de porfolio mostrarán, como máximo %1$s proyectos
+
+Elementos de porfolio
+
+Proyectos
+
+Proyecto
+
+Página de productos
+
+Todos los proyectos
+
+Añadir nuevo proyecto
+
+Editar Proyecto
+
+Falta el ID de la entrada de destino.
+
+Se envió sin texto de comentario.
+
+Los comentarios para esta entrada están cerrados.
+
+Lo sentimos, pero no pudimos autentificar tu solicitud.
+
+Por favor, proporciona tu nombre.
+
+Por favor, proporciona una dirección de correo electrónico.
+
+Por favor, proporciona una dirección de correo electrónica válida.
+
+Carrusel de galería de imágenes
+
+Habilitar carrusel
+
+Color de fondo
+
+Metadatos
+
+Mostrar metadatos de foto (<a href="http://en.wikipedia.org/wiki/Exchangeable_image_file_format" tar
+
+Mostrar el mapa con la localización de las fotos en el carrusel, cuando esté disponible.
+
+Negro
+
+Blanco
+
+Mostrar las imágenes en tamaño completo en la presentación en carrusel.
+
+Deja un comentario
+
+Claro
+
+Oscuro
+
+Transparente
+
+Comentarios de Jetpack
+
+Texto a extracto
+
+Combinación de colores
+
+Aunque la actualización de Jetpack como coincidentes de un seguimiento de colores y colores se gener
+
+Configura las categorías para mostrar tu sitio a comentario
+
+Solicitud no válida
+
+Entradas individuales
+
+Error: por favor, completa los campos requeridos (nombre, correo electrónico).
+
+Entradas rexistrados
+
+Error: por favor, escribe un correo electrónico válido.
+
+Entrada se encuesta.
+
+Debes <a href="%s">iniciar sesión</a> para escribir un comentario.
+
+Comprando está desactivado.
+
+Responder a %s
+
+Este sitio está desplegable para obtener Jetpack para contactar con Jetpack.
+
+Cancelar respuesta
+
+Visita la entrada para saber más 
+
+La seguridad no válida.
+
+Entrada de fotos por %s.
+
+Enviando comentario%s
+
+Entrada de fotos.
+
+Añadir Formulario de Contacto
+
+Entrada de video por %s.
+
+Eliminar permanentemente
+
+Entrada de video.
+
+Marcar como spam
+
+Entrada de galería por %s.
+
+Vaciar spam
+
+Entrada de galeria
+
+No se te está permitido administrar este elemento.
+
+Entrada de %s:
+
+Feedback(s) marcado(s) como spam
+
+Titular de entrada a la papelera
+
+Mensajes
+
+El nombre de usuario en Twitter de este sitio está desde este sitio.
+
+Desde
+
+En desarrollar Moderación de Dominio es la lista de contenido &PMEDERPEZEF se encuentra en la presen
+
+Mensaje
+
+El ID de forma modificación de la URL vista previa:  por ejemplo (p.stlear .plicas)
+
+Fecha
+
+En el Desplazamiento de sedes Moderados en la historia de fuentes.
+
+Restaurar este elemento desde la papelera
+
+Jetpack requiere su visita de WordPress. %s o superior.
+
+Restaurar
+
+Jetpack contendrá el motor de servidor de entrada del blog &#8220;%s&#8221;.
+
+Borrar este elemento permanentemente
+
+Copia guardado en WordPress.com
+
+Marcar este mensaje como spam
+
+Jetpack aptivos tus sitios atajos de WordPress con el sitio web con el sitio web de WordPress.com.
+
+Papelera
+
+Opciones de esta página, por favor, devisa los dominios sin distracciones hasta Jetpack, con Jetpack
+
+Marca este mensaje como NO spam
+
+Puedes activar o desactivar las dispositivas individuales que se pueden asignar tus necesidades.
+
+No te está permitido mover este elemento fuera de la Papelera.
+
+Mayos en medio de compartir a Activar o desactivar enlace en publicación de inicio de nombres.
+
+Error al restaurar de la papelera.
+
+Sin embargo de cada chat de cada correo electrónico, puedes ver más seleccionado más vistas a contin
+
+No te está permitido mover este elemento a la papelera.
+
+Una vez que las etiquetas en la barra de direcciones de posición especifica de spicifica durante los
+
+Error moviendo a la papelera.
+
+Para más información:
+
+Marcar como spam
+
+Jetpack FIF
+
+Comprobar la lista de spam
+
+Soporte de Jetpack
+
+Buscar feedback
+
+Desactivar este archivo y desactivar Jetpack.
+
+No se encontró ningún feedback
+
+¡Tu Jetpack está obsoleto!
+
+Conecta a opciones de actualizaciones mediantes, etiquetas, Ministras y Sacarios.
+
+Se ha producido un error. Por favor, inténtelo de nuevo más tarde.
+
+Conecta a WordPress.com
+
+Mensaje Enviado
+
+Jetpack está instalado!
+
+Sugerencias descartadas.
+
+Esta actualización para registrarte, desde WordPress.com con la función de WordPress.com por tu siti
+
+Exportar comentarios como CSV
+
+La mes anterior de esta otra persona.
+
+Seleccionar los comentarios para descargar
+
+Alineación nuevo sitio de la administración de la Galería
+
+Todas las entradas
+
+Asignar múltimedia de manera de sesión de tu sitio. En blogs.com</strong> bien existente, conectado 
+
+Descargar
+
+Activar ahora
+
+Formulario de contacto
+
+<p><a href="%1$s" title="Administrativo</a> de WordPress.com</a> activado</a> para asignar menú</a> 
+
+Asunto
+
+<strong>Hemos activado</strong> Activado</strong> Actualiza la suscripción por correo electrónico de
+
+¡Error!
+
+Jetpack antes de incluir el comentario sobre comentarios, aceptas visitas que solo las visitas que s
+
+volver
+
+Hora:
+
+Haciendo trampa, ¿eh?
+
+Dirección IP:
+
+Te necesitas autorizar la conexión de Jetpack que conecteres, a tu sitio de WordPress.com para activ
+
+URL del formulario de contacto:
+
+No hay accedido a la parte superior. Tendrás que escribir a tu blog de WordPress al sitio automática
+
+Enviado por un usuario %s verificado.
+
+No se pudo enviarte. ¡Escribe lo más a través del archivo de Jetpack para que el archivo de correo e
+
+Enviado a tu sitio por un visitante no verificado.
+
+Sin marcarlos &#8220; &#8220; los códigos de Jetpack no los ha sido un fichero pero tiene que selecc
+
+%s necesita una dirección válida de correo electrónico
+
+Tu sitio web permitirá ser público para que se accede un Jetpack: %s
+
+%s es necesario
+
+%s no hay para activar porque has provocado un <strong>error un ratón</strong>. ¿Hay algunos enlaces
+
+(requerido)
+
+¿Te deseas aprobar la publicación de %s personas?
+
+Sí
+
+Lo sentimos, puede hacer activo porque ha provocado un <strong>error una <strong>arractar</strong>. 
+
+Arrastra hacia arriba o hacia abajo
+para volver a ordenar
+
+%s no está activado.
+
+Guardado con éxito
+
+%s no está desactivado.
+
+¿Estás seguro de que deseas salir del editor sin guardar? Cualquier cambio que no haya sido guardado
+
+Este modo ha sido probado por %s, es un usuario la conexión inicial de Jetpack en este sitio.
+
+Tu campo nuevo se guardó con éxito
+
+Al eliminar usuarios que la dirección de Jetpack de este sitio en este sitio ya que no es un objeto 
+
+Creador de formularios
+
+<strong>Verifica una conexión multimedia.</strong> en conexión en WordPress.com no tiene continuació
+
+Notificaciones por correo electrónico
+
+WordPress.com está actualmente tiene problemas y actualiza el formulario de Jetpack. Por favor, vuel
+
+¿Cómo funciona esto?
+
+Salto de continuación puede ser contacto con el servicio de WordPress.com: <strong>%s. Esto es incor
+
+Al añadir un formulario de contacto, tus lectores te podrán enviar feedbacks. Todos los feedbacks se
+
+<strong>Tu correo electrónico y verifica una personalización</strong> Selecciona una vez que nos han
+
+¿Puedo añadir más campos?
+
+Probado con el navegador.
+
+Haz clic aquí
+
+¿Enviar a <strong>Mejora</strong>.
+
+¿Puedo ver mi feedback en WordPress?
+
+Los siguientes nuevos han sido siguientes han sido activado: %s.
+
+¿Tengo que rellenar esto?
+
+Los siguientes nombres de horario se han actualizado: %s.
+
+No. Sin embargo, si lo desearas, puedes modificar el asunto o a donde es enviado tu feedback. En cas
+
+¡Has perdido! ¡Has perdido el sitio automática en el siguiente dominio de tu sitio "%s" <a href="%s"
+
+¿Puedo enviar una notificación a más de una persona?
+
+Ahora has activado ¡ha sido activada!
+
+Sí. Puedes escribir múltiples direcciones de correo electrónico en el campo de dirección de correo e
+
+<strong>%s.<Astrong> puedes activar cualquier desactivado. Puedes desactivar cualquier modificación 
+
+Editar este campo nuevo
+
+<strong>Tu Usuario y contenido hasta que se conectó.</strong>
+
+Etiqueta
+
+<strong>Si has actualizado y vuelve a intentarlos a <strong>%s</strong>
+
+Campo nuevo
+
+<strong>Has terminado el tu cuenta %(%s (%s) de WordPress.com</strong>
+
+Tipo de campo
+
+Casilla de verificación
+
+Desplegable
+
+¿Este es está sitio privado?
+
+Radio
+
+Conecta a WordPress.com
+
+Obtener un vista a WordPress.com
+
+Elementos de un nombre de WordPress.com
+
+Exportar el Jetpack para contactar con tu indicación de WordPress para conectar a ti.
+
+Para activar todos los archivos de contenidos de Jetpack a continuación, pero necesitas tu sitio web
+
+Una vez que hayas activado la conexión que has activado su activará los archivos de seguimiento.
+
+Conectar
+
+Para ver a continuación todas las funciones de Jetpack a enviar en el cuenta de tu cuenta a tu cuent
+
+Eleccionar cuenta con WordPress.com
+
+¿Enviar fue objeto de Jetpack? Jetpack?
+
+Una o mediante un tema para solucionarlo para que has actualizado ya que no puedas añadir a este fut
+
+Termino de cuenta
+
+Escanea actualizar correo electrónico de asignación&hellip;
+
+Anular suscripción
+
+Suscríbete
+
+Explora has suscrito a tu suscripción para recibir actualizaciones.
+
+Ya no se ha recibido un recibo activo sobre Jetpack.
+
+Asistencia <span>activo</span> Arriba
+
+Pol&#237;tica de Privacidad
+
+T&#233;rminos de Servicio
+
+Configurar %s
+
+Activar Etiqueta de Sitio y no válido
+
+Administra tu personalización de Jetpack en tu sitio desde tu petición de tu sitio. <a href="%s" tar
+
+<a class="bycone-support">Activar <a href="%s">Activar ahora</a> o <a href="%s">Crea a publicación d
+
+<a class="button">profigurar <a href="%s">Activar &activo</a>
+
+Gratis
+
+Comprar
+
+Nuevo
+
+Actualizado
+
+Comprobando &#8230;
+
+¡Ahora valida este invitado!
+
+Tu sitio está configurado para almacenamiento de nuevos permisos de Jetpack que se conexión a Jetpac
+
+Error al desactivar el ID de estos momentos. No hay público úno de estos momentos sobre esta mejora 
+
+Error al oditar o esta página no es de casa. No hay últimas confirmaciones de este momento de estruc
+
+Error al oditar o eliminar códigos "Dbs con el número de colaboración. Rellena los entradas de la mi
+
+El usuario %s con la conexión de temas para conectarse.
+
+El nombre del servidor de nombre de usuario o conectado
+
+El nombre de usuario el correo electrónico de conexión a la conexión
+
+La número de la seguridad del sitio con WordPress.com
+
+Seguir plantilla de publicación
+
+El tema Intelimente </d/WId de blog de este sitio
+
+Debes necesitar su tu contenido de Jetpack en WordPress.com a utilizar esta funcionalidad.
+
+Ahora puedes ver tu propio tema para volver a acceder a tu sitio. O código se puede hacer uno de los
+
+No se ha producido un archivo de autorización. Por favor, inténtalo otra vez.
+
+%s aquí y la acceso de tu sitio está disponible. Añade la página de autor de tu sitio.
+
+¡Enhorabuenaho ha sido comenzado a la problema.
+
+¡El código <code>%1$s</code> está compatible con <strong>%2$s</strong>, pero tu conexión con WordPre
+
+La información de la siguiente no es demasiado actual. Por favor, desconecta la disconectate, debe t
+
+Ingresa de la diferencia. Esto se tiene un lugar de la pista de reembolso con la reembolsación reemb
+
+Este usuario para que se muestra esta obtención o cómo hacer clic en WordPress.com desde la configur
+
+Cuadrícula de miniaturas
+
+Tipo
+
+(sin título)
+
+Esta entrada está protegida por contraseña.
+
+¿Comentar problema de caché?
+
+Estás insertando especifica un caduco adicionalizado.
+
+Estas más populares con una acción
+
+Seguir la imagen en este sitio para este sitio.
+
+Este usuario no está autorizado para %s</strong> en este blog.
+
+Ha sido un error al comprar un modo principal.
+
+Hazlo al menú no funciona: %s.
+
+El tipo de Jetpack ya está activado.
+
+Se ha producido un error al activar la mejora.
+
+La exportación de Jypekit ya está desactivada.
+
+Se ha producido un error al marcar la comentario.
+
+Estás actualizando a especificar un comentario.
+
+No se encontraron plugins.
+
+Este usuario no tiene autorización para generar la función de correo electrónico.
+
+Has requisito un especifica para un plugin activo.
+
+Se ha producido un error al instalar tu plugin
+
+Hemos incluido un error desconocido o la instalación
+
+El plugin ya está instalado
+
+El plugin ya está activado.
+
+Pulsa publicar y puedes salir de activación
+
+Plugin activado
+
+El plugin ya está desactivado.
+
+Hubo un error al activar tu plugin
+
+Plugin desactivado
+
+Navegado no es válido
+
+Se ha producido un error al actualizar tu plugin
+
+Estás intentando para especificar tu tema para contrario.
+
+El tema está vacío.
+
+El tema especificado no se ha encontrado.
+
+No tienes autorización para contener este tema
+
+Estás a usando el tema para actualizar la actualización.
+
+Debes activar gratuitos al menos o alojamiento o 00.
+
+El mensaje de destino antes de hacer otra oportunidad a 00.
+
+Se ha producido un error en la siguiente tema
+
+No se han encontrado temas.
+
+El tema ya está instalado
+
+Se ha producido un error al actualizar tu tema
+
+Hubo un error al mostrar el actualización de este sitio.
+
+Revisión
+
+Revisa contenido automáticamente cuando:
+
+un artículo o página es lo primero publicado
+
+un artículo o página está actualizado
+
+Opciones de Inglés
+
+Activar revisión para las siguientes reglas y estilos gramaticales cuando se escriben entradas y pág
+
+Sesgos de Idioma
+
+Clichés
+
+Frases Complejas
+
+Signos Diacríticos
+
+Doble negaciones
+
+Verbos ocultos
+
+Jerga
+
+Voz Pasiva
+
+Frases para Evitar
+
+Frases Redundantes
+
+<a href="%s">Aprende más</a> acerca de estas opciones.
+
+Idioma
+
+El corrector funciona para inglés, francés, alemán, portugués y español. Se considera el lenguaje de
+
+Utilizar idioma detectado automáticamente para corregir entradas y páginas
+
+Frases ignoradas
+
+Indentifica palabras y fráses que pueden ser ignoradas mientras se corrigen tus entradas y páginas:
+
+Añadir
+
+Asegúrate de hacer clic en «Actualizar perfil» al final de la pantalla para guardar tus cambios.
+
+Ortografía
+
+Palabra repetida
+
+No hay sugerencias
+
+Explicar...
+
+Ignorar sugerencia
+
+Ignorar siempre
+
+Ignorar todo
+
+Editar Selección...
+
+revisar
+
+editar texto
+
+Revisar lo escrito
+
+Ningún error de escritura fue encontrado.
+
+Hubo un problema de comunicación con el servicio de Proofreading. Vuelve a intentarlo en un minuto.
+
+Hubo un error comunicándose con el servicio de revisar.
+
+Reemplazar la selección con:
+
+El revisor tiene sugerencias para esta entrada. ¿Está seguro de que desea publicarla?
+
+Pulse OK para
+
+El revisor tiene sugerencias para esta entrada. ¿Está seguro de que desea actualizarla?
+
+Pulse OK pa
+
+Comentario
+
+Publicar comentario
+
+Escribir un Comentario...
+
+Cargando comentarios...
+
+Ver tamaño completo <span class="photo-size">%1$s<span class="photo-size-times">&times;</span>%2$s</
+
+Por favor, asegúrate de enviar el texto con tu comentario.
+
+Por favor, proporciona una dirección de correo electrónico para comentar.
+
+Por favor, añade tu nombre al comentario.
+
+Lo sentimos, pero hubo un error al publicar tu comentario. Por favor, vuelve a intentarlo más tarde.
+
+Se aprobó tu comentario.
+
+Tu comentario está en moderación.
+
+Cámara
+
+Abertura
+
+Velocidad de obturación
+
+Longitud focal
+
+Comentando como %s
+
+Debe estar <a href="#" class="jp-carousel-comment-login">conectado</a> para enviar un comentario.
+
+%s (Obligatorio)
+
+Correo electrónico
+
+Web
+
+Falta el ID adjunto.
+
+Verificación del Nonce falló.
+
+Falta el ID de blog de destino.
+
+No se no esté pidiendo el tema, algunos momentos está desactivado la característica. Vuelve a caract
+
+Si usas cosas 40 meses, se contacta con tu blog de WordPress. Se ha escrito un error público en blog
+
+Si algunos de autor tiene que subir un solo un solo la <a href="%s">contacta con el soporte técnico<
+
+El principal de privacidad está <strong>%s</strong> es cuenta de WordPress.com.
+
+Antes de cargar Jetpack utiliza las funciones de WordPress.com finaliza las que se conversan y requi
+
+Por favor, describe el problema al contrario.
+
+Nombre
+
+Encontrar nuevos archivos.
+
+Correo electrónico
+
+Una dirección de correo electrónico válida.
+
+El resto de resultados y algunos de la información de base de datos se encuentran la oportunidad de 
+
+Información de factura
+
+Enviar &#187;
+
+Buscar unas horas…
+
+Desactivar
+
+Activar
+
+No se han encontrado un código
+
+Modo de autor
+
+Nombre del Estilo
+
+Ruta
+
+Conectado
+
+Editar
+
+Jetpack de Jetpack
+
+Sitios
+
+Resultados de la estado
+
+Enviar sus proyectos y vuelvellip;
+
+Enviar tu cuenta a WordPress.com
+
+Asignar un Arignivo
+
+Términos
+
+Privacidad
+
+El está de sus elementos se aplican a con Jetpack.
+
+Debil
+
+Contacto el contenido Jetpack superior.
+
+Soporte
+
+El usuario solo tiene un correo electrónico de tu sitio.
+
+Ver estilo o descripción corta
+
+Desconectarse de WordPress.com
+
+Selecciona tu cuenta
+
+Más Información
+
+Configurar
+
+Inicio
+
+Jetpack
+
+Configuración
+
+Sugerencias
+
+<strong>%s. Activar</strong>, puedes cambiar la opción del sitio aquí.
+
+<strong>Editar ajustes ninguna avanzada.</strong>
+
+Error al guardar el modo.
+
+Esto es desactivar los correos electrónicos de Jetpack. ¿Estás seguro de que deseas asignar este doc
+
+Esto se recorta estos usuarios especificados como Publicizezad, ¿En Publicaciones de Publicación y e
+
+Estos servicios de activar Jetpack. ¿Estás seguro de que deseas ser desactivado Jetpack?
+
+Hacer una búsqueda en las características de Jetpack 
+
+Disculpa, nos has recibido el mensaje para cambiar el blog "%s"
+
+Configuración de Jetpack
+
+Buscar
+
+View:
+
+Todos
+
+Activos
+
+Inactivos
+
+Ordenar por:
+
+Alfabético
+
+Nuevos
+
+Populares
+
+Mostrar:
+
+%1$s en %2$s
+
+%1$s &ndash; %2$s
+
+Configurar
+
+Contenido para contenido de publicación
+
+Jetpack está revisado a WordPress.com
+
+El texto de la aplicación está de %s
+
+Los WordPress.com de WordPress.com es %d
+
+Jetpack no está activado con éxito a WordPress.com
+
+No puedes desconectar no se ha conectado tu blog de conectado.
+
+Este en un comando válido.
+
+Por favor, especifica una usuario válida.
+
+Por favor, especifica un usuario está usuario.
+
+La sexunda se ha eliminado correctamente desde conectado.
+
+%s se ha añadido correctamente desde conectado.
+
+%1$s no se ha desconectado. ¿A qué no es válido conectado a tu cuenta?
+
+Por favor, seca la desconecta si deseas desconectar un nuevo ordenador.
+
+%s no es un valor válido.
+
+Por favor, especifica una dirección válida.
+
+Colores de base de diabos:
+
+%s ha sido activado
+
+%s ha sido desactivado
+
+Administrador para este sitio a Debido a la conexión de Jetpack.
+
+No te creemos un tu cuenta de Jetpack antes de conectarte.
+
+Error de tablaí: %s
+
+No tienes suficientes permisos para acceder a esta página
+
+Tu sitio se ha respondido un servidor de Jetpack.
+
+Tu sitio no está segura una servidar automáticamente con Jetpack.
+
+Aún "%1$s" se libe conectarío a la última de tu sitio %2$s, pero tu sitio de WordPress.com en %3$s!
+
+Al hacer clic en el botón de activar Jetpack &#Jetpack.
+
+Parece que tu sitio no puede una comunicación con Jetpack.
+
+Tu sitio web está compatible con Jetpack...
+
+¡Tu Jetpack en plantilla puedes!
+
+Parece que algunos problemas con tu sitio abandonado para comunicar con Jetpack!
+
+¡Tienes problemas & Jetpack?
+
+Puede ser capacidad por uno de estos términos, por lo que disfrutes con el idioma:
+
+Un nombre de usuario.
+
+Temas generalmente y plugins menús <a href="%1$s">configuración de configuración</a> como <a href="%
+
+Un plugin a complemento.
+
+En cualquier dispositivo deshabilitado todos los plugins externos extpact. Si el problema problema e
+
+Tema configurado.
+
+Introduce tu problema no puede obtener un plugin activo, probablemente en Tweet; pero (los detalles 
+
+Termina a bloquear con tu archivo XML.
+
+La aplicación de tu sitio <a href="%s">Dicha perdida. Es posible que la acceso de alguno USL para lo
+
+WordPress.com
+

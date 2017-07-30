@@ -245,6 +245,8 @@ We ran predictions for the following data:
 - yoast strings - 1092 strings
 - wpcom 2017 strings - 17874 strings (note that this is a superset of the 13226 strings we trained on)
 - wpcom 2017 new strings - 990 strings (this is a manual diff between 2017 and 2015 data)
+- jetpack readme - 198 strings
+- yoast readme - 99 strings
 
 All predictions were run using beam search with a width of 5.
 
@@ -257,9 +259,9 @@ We evaluated the results based on what percentage of the strings were 100% trans
 | yoast plugin   | 06.59% (72)   | 1.33%                |
 | vantage theme  | 12.04% (69)   | 3.93%                |
 | wpcom 2017     | 49.75% (8893) | 1.45%                |
-| wpcom 2017 diff|   |                |
-| jetpack readme |   |                |
-| yoast readme   |   |                |
+| wpcom 2017 diff| 3.13% (31)    | 2.50%                |
+| jetpack readme | 0%    (0)     | 0%                   |
+| yoast readme   | 0%    (0)     | 0%                   |
 
 
 Diffs of all errors:

@@ -270,6 +270,8 @@ Diffs of all errors:
 - [Yoast Plugin](https://github.com/Automattic/wp-translate/blob/master/predictions/wordpress-seo-2017-output.diff)
 - [Vantage Theme](https://github.com/Automattic/wp-translate/blob/master/predictions/vantage-2017-output.diff)
 - [WP.com 2017](https://github.com/Automattic/wp-translate/blob/master/predictions/wpcom-2017-output.diff)
+- [Jetpack Readme](https://github.com/Automattic/wp-translate/blob/master/predictions/wp-plugins-jetpack-stable-readme-es-pred.diff)
+- [Yoast Readme](https://github.com/Automattic/wp-translate/blob/master/predictions/wp-plugins-wordpress-seo-stable-readme-es-pred.diff)
 
 
 The percent off by less than 4 chars is determined using. This is completely wrong. Double counts and over counts, so I divide by two to use it as an estimate.
@@ -279,6 +281,12 @@ grep "^?" predictions/jetpack-2015-output.diff | tr -d '? ' | awk 'length($1) < 
 ```
 
 ## Translating with Google Translate API
+
+```
+python gt_po_eval.py wp-data/2017/wp-plugins-jetpack-stable-readme-es.po es gt-translated/wp-plugins-jetpack-stable-readme-es.po gt-translated/wp-plugins-jetpack-stable-readme-es.diff
+```
+
+I spent about $30 translating these (including some testing):
 
 
 | Project        | Exact Matches | Off by < 4 chars est |
@@ -293,6 +301,13 @@ grep "^?" predictions/jetpack-2015-output.diff | tr -d '? ' | awk 'length($1) < 
 
 8.8% of the wpcom 2017 errors are only off by a single character.
 
+Diffs of all errors:
+- [Jetpack 2017](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-plugins-jetpack-stable-es.diff)
+- [Yoast Plugin](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-plugins-wordpress-seo-stable-es.diff)
+- [Vantage Theme](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-themes-vantage-es.diff)
+- [WP.com 2017](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wpcom-es.diff)
+- [Jetpack Readme](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-plugins-jetpack-stable-readme-es.diff)
+- [Yoast Readme](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-plugins-wordpress-seo-stable-readme-es.diff)
 
 
 ## Ideas for Improvements

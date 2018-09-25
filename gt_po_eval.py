@@ -76,21 +76,20 @@ for entries in batch_gen(po, 20):
     for entry,t in zip(entries, translations):
         cnt = cnt + 1
         out_entry = deepcopy(entry)
-    out_entry.msgstr=t['translatedText']
-    out_po.append(out_entry)
+        out_entry.msgstr=t['translatedText']
+        out_po.append(out_entry)
 
-    if ( entry.msgstr == '' ):
-        untranslated = untranslated + 1
-    else:
-        total = total + 1
-        if ( t['translatedText'] == entry.msgstr ):
-            correct = correct + 1
+        if ( entry.msgstr == '' ):
+            untranslated = untranslated + 1
         else:
-            diff = difflib.ndiff([entry.msgstr], [t['translatedText']])
-            # dfh.write( u"\n".join(diff).encode('utf-8') + b"\n\n" )
-            dfh.write( u"\n".join(diff) + u"\n\n" )
+            total = total + 1
+            if ( t['translatedText'] == entry.msgstr ):
+                correct = correct + 1
+            else:
+                diff = difflib.ndiff([entry.msgstr], [t['translatedText']])
+                dfh.write( u"\n".join(diff) + u"\n\n" )
 
-po.save(out_file)
+out_po.save(out_file)
 
 dfh.close()
 

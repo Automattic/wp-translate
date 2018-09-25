@@ -309,6 +309,22 @@ Diffs of all errors:
 - [Jetpack Readme](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-plugins-jetpack-stable-readme-es.diff)
 - [Yoast Readme](https://github.com/Automattic/wp-translate/blob/master/gt-translated/wp-plugins-wordpress-seo-stable-readme-es.diff)
 
+### 2018 AutoML Update
+
+We trained an AutoML translation model using the `wp-data/2015/
+all-es.po` translations and compared results with the older google translations,
+a frech re-translation, and the custom-trained model:
+
+| Project         | Exact Matches | Off by < 4 chars est |
+| ----------------|:-------------:| --------------------:|
+| wpcom 2017 diff | 07.27%  (72)  | 23.94%               |
+| wpcom 2018 diff | 9.19%  (91)   | ?                    |
+| 2018 automl diff| 12.23% (121)  | ?                    |
+
+Diffs of errors:
+- [Original NMT model translations](https://github.com/Automattic/wp-translate/blob/automl/gt-translated/wpcom-2017-2015-diff.diff)
+- [Fresh NMT model translations](https://github.com/Automattic/wp-translate/blob/automl/2018-gt-translated/wpcom-2017-2015-diff.diff)
+- [Custom AutoML model translations](https://github.com/Automattic/wp-translate/blob/automl/automl-translated/wpcom-2017-2015-diff.diff)
 
 ## Ideas for Improvements
 

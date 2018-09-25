@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
-import numpy as np
 from six.moves import range
 import polib as polib
 import sys
@@ -55,40 +54,41 @@ for entries in batch_gen(po, 20):
         print( total )
     data = []
     for entry in entries:
-    	data.append(entry.msgid)
+        data.append(entry.msgid)
 
     try:
-    	translations = translate_client.translate(
-    	    data,
-    	    source_language='en',
-    	    target_language=lang,
-    	    model='nmt'
-    	)
+        translations = translate_client.translate(
+            data,
+            source_language='en',
+            target_language=lang,
+            model='nmt'
+        )
     except:
         print('hit max usage. pausing')
         time.sleep(105)
         translations = translate_client.translate(
-    	    data,
-    	    source_language='en',
-    	    target_language=lang,
-    	    model='nmt'
-    	)
+            data,
+            source_language='en',
+            target_language=lang,
+            model='nmt'
+        )
 
     for entry,t in zip(entries, translations):
         cnt = cnt + 1
         out_entry = deepcopy(entry)
-	out_entry.msgstr=t['translatedText']
-	out_po.append(out_entry)
+    out_entry.msgstr=t['translatedText']
+    out_po.append(out_entry)
 
-	if ( entry.msgstr == '' ):
-	    untranslated = untranslated + 1
-	else:
-	    total = total + 1
-	    if ( t['translatedText'] == entry.msgstr ):
-	        correct = correct + 1
-	    else:
-	        diff = difflib.ndiff([entry.msgstr], [t['translatedText']])
-	        dfh.write( u"\n".join(diff).encode('utf-8') + "\n\n" )
+    if ( entry.msgstr == '' ):
+        untranslated = untranslated + 1
+    else:
+        total = total + 1
+        if ( t['translatedText'] == entry.msgstr ):
+            correct = correct + 1
+        else:
+            diff = difflib.ndiff([entry.msgstr], [t['translatedText']])
+            # dfh.write( u"\n".join(diff).encode('utf-8') + b"\n\n" )
+            dfh.write( u"\n".join(diff) + u"\n\n" )
 
 po.save(out_file)
 
@@ -97,4 +97,3 @@ dfh.close()
 perc = float(correct)/float(total) * 100
 print('Accuracy: ' + '%.2f' % perc + '% (' + str(correct) + '/' + str(total) + ')' )
 print('Newly Translated Strings: ' + str(untranslated) )
-

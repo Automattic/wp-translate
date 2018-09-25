@@ -1,0 +1,5039 @@
+# Translation of WordPress.com in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com\n"
+"PO-Revision-Date: 2017-07-25 04:26:36+0000\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid ""
+"This is an example of a page. Unlike posts, which are displayed on your "
+"blog’s front page in the order they’re published, pages are better suited "
+"for more timeless content that you want to be easily accessible, like your "
+"About or Contact information. Click the Edit link to make changes to this "
+"page or <a title=\"Direct link to Add New Page in your Dashboard\" "
+"href=\"%s\">add another page</a>."
+msgstr ""
+"Este es un ejemplo de página. A diferencia de las entradas, que se muestran "
+"en la página inicial de tu blog en el orden en que se publicaron, las "
+"páginas se ajustan mejor a un contenido atemporal que quiere ser más "
+"accesible, como tus datos de contacto o la información acerca de ti. Haz "
+"clic en el enlace “Editar” para realizar cambios en esta página o <a "
+"title=\"Enlace directo para añadir una página nueva en el escritorio\" "
+"href=\"%s\">añadir otra página</a>."
+
+msgid "Publishing…"
+msgstr "Publicación"
+
+msgid "Share this:"
+msgstr "Compártelo:"
+
+msgid "about"
+msgstr "acerca-de"
+
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+msgid "Upload problem: %(error)s."
+msgstr "Problema con la subida: %(error)s."
+
+msgid "Disconnect from WordPress.com"
+msgstr "Desconectar de WordPress.com"
+
+msgid "You don't have any images."
+msgstr "No tienes ninguna imagen."
+
+msgid "You don't have any videos."
+msgstr "No tienes ningún vídeo."
+
+msgid "You don't have any audio files."
+msgstr "No tienes ningún archivo de audio."
+
+msgid "You don't have any documents."
+msgstr "No tienes ningún documento."
+
+msgid "You don't have any media."
+msgstr "No tienes ningún archivo multimedia."
+
+msgid ""
+"This social account is already associated with a WordPress.com account."
+msgstr ""
+"This social account is already associated with a WordPress.com account."
+
+msgid "or use {{paypal/}}"
+msgstr "o usar {{paypal/}}"
+
+msgid ""
+"{{strong}}Connect{{/strong}} to use photos stored in your Google account "
+"directly inside the editor. {{sup}}*{{/sup}}Note that new photos may take a "
+"few minutes to appear"
+msgstr ""
+"{{strong}}Conéctate{{/strong}} para utilizar fotos almacenadas en tu cuenta "
+"de Google directamente en el editor. {{sup}}*{{/sup}}Note that new photos "
+"may take a few minutes to appear"
+
+msgid ""
+"Premium themes are versatile, feature-loaded templates that can support your"
+" needs, whether you’ve got a business website or professional portfolio. "
+"Choose the Premium or Business plan for unlimited access to hundreds of "
+"premium themes."
+msgstr ""
+"Los temas premium son plantillas versátiles y llenas de funciones para "
+"ayudarte con tus necesidades, tanto si tienes un sitio web de empresa o un "
+"portfolio profesional. Elige el plan Premium o Business para tener acceso "
+"ilimitado a cientos de temas premium."
+
+msgid ""
+"Business plans now offer access to thousands of WordPress plugins and "
+"themes!"
+msgstr ""
+"Con los planes Business, ahora tienes acceso a miles de plugins y temas de "
+"WordPress."
+
+msgid ""
+"Find a unique style for your site: WordPress.com features hundreds of "
+"beautiful themes.<br<span class=\"lp-feature__hightlight\">Purchased a "
+"WordPress theme elsewhere? No problem: the Business plan lets you install "
+"any theme you’d like.</span>"
+msgstr ""
+"Encuentra un estilo único para tu sitio: WordPress.com dispone de cientos de"
+" temas sensacionales.<br<span class=\"lp-feature__hightlight\">¿Has comprado"
+" un tema de WordPress en otro lugar? No te preocupes: con el plan Business "
+"puedes instalar el tema que quieras.</span>"
+
+msgid ""
+"If you're an existing Jetpack Professional customer, you have immediate "
+"access to these themes. Visit wordpress.com/themes to see what's available."
+msgstr ""
+"Si ya eres cliente de Jetpack Professional, tienes acceso inmediato a estos "
+"temas. Visita https://es.wordpress.org/themes/ para ver los que hay "
+"disponibles."
+
+msgid ""
+"If you're not yet a Jetpack Professional customer, you can benefit from a "
+"50% introductory discount throughout July and August. Just use discount code"
+" PRO at checkout."
+msgstr ""
+"Si todavía no eres cliente de Jetpack Professional, puedes beneficiarte de "
+"un descuento de bienvenida del 50 % durante los meses de julio y agosto. "
+"Solo tienes que usar el código de descuento PRO al finalizar la compra."
+
+msgid "Share your story"
+msgstr "Comparte tu historia"
+
+msgid ""
+"If you have an interesting site using Jetpack, we'd love to hear your story."
+" Follow the link below to fill in a short survey, and we'll be in touch."
+msgstr ""
+"Si usas Jetpack en tu interesante sitio, nos encantaría escuchar tu "
+"historia. Usa el enlace siguiente para rellenar una breve encuesta y nos "
+"pondremos en contacto contigo."
+
+msgid ""
+"We're looking for interesting sites making use of Jetpack plans and features"
+" to showcase on our blog and share with our readers."
+msgstr ""
+"Buscamos sitios interesantes que utilicen los planes y las funciones de "
+"Jetpack para mostrarlos en nuestro blog y compartirlos con nuestros "
+"lectores."
+
+msgid ""
+"The new feature lets you schedule specific times that your content will be "
+"automatically shared on sites like Twitter, Facebook, and LinkedIn. You can "
+"also preview your social updates before sending them, so you'll know exactly"
+" how they will look when they go out."
+msgstr ""
+"La nueva función te permite programar la hora precisa para compartir tu "
+"contenido automáticamente en sitios como Twitter, Facebook y LinkedIn. "
+"También puedes ver previamente tus actualizaciones en redes sociales antes "
+"de enviarlas. Así verás cómo quedarán exactamente cuando se publiquen."
+
+msgid ""
+"You can now schedule your social media posts in advance with Jetpack Premium"
+" and Professional."
+msgstr ""
+"Ahora puedes programar tus publicaciones en redes sociales con antelación "
+"con Jetpack Premium y Professional."
+
+msgid "Social Media Scheduling"
+msgstr "Programación en las redes sociales"
+
+msgid ""
+"If you're an existing Jetpack Professional customer, you have immediate "
+"access to these themes. Visit <a href=\"%s\">wordpress.com/themes</ato see "
+"what's available."
+msgstr ""
+"Si ya eres cliente de Jetpack Professional, tienes acceso inmediato a estos "
+"temas. Visita <a href=\"%s\">https://es.wordpress.org/themes/</apara ver los"
+" que hay disponibles."
+
+msgid ""
+"If you're not yet a Jetpack Professional customer, you can benefit from a "
+"50% introductory discount throughout July and August. Just use discount code"
+" <strong>PRO</strongat checkout. "
+msgstr ""
+"Si todavía no eres cliente de Jetpack Professional, puedes beneficiarte de "
+"un descuento de bienvenida del 50 % durante los meses de julio y agosto. "
+"Solo tienes que usar el código de descuento <strong>PRO</strongal finalizar "
+"la compra. "
+
+msgid ""
+"We're excited to announce that we are now bundling more than 200 premium "
+"WordPress themes with Jetpack Professional."
+msgstr ""
+"Estamos encantados de anunciar que vamos a incluir más de 200 temas premium "
+"de WordPress en Jetpack Profesional."
+
+msgid "Introducing Premium Themes"
+msgstr "Nuestros temas premium"
+
+msgid ""
+"Jetpack Professional now includes unlimited access to premium WordPress "
+"themes."
+msgstr ""
+"Ahora Jetpack Professional incluye acceso ilimitado a los temas premium de "
+"WordPress."
+
+msgid "New in Jetpack: Unlimited Premium Themes and More"
+msgstr "Novedades en Jetpack: temas premium ilimitados y mucho más"
+
+msgid "Chat is temporarily closed."
+msgstr "Se ha cerrado el chat temporalmente."
+
+msgid ""
+"We're still available over email in the meantime. Chat will be back on "
+"Friday, July 21st!"
+msgstr ""
+"Mientras tanto, seguimos disponibles a través de correo electrónico. El chat"
+" volverá a estar disponible el viernes 21 de julio."
+
+msgid "Chat with us over screenshare!"
+msgstr "Comparte tu pantalla para chatear con nosotros."
+
+msgid "Click here to get one-on-one help with a Happiness Engineer."
+msgstr ""
+"Haz clic aquí para obtener ayuda individualizada de un Happiness Engineer."
+
+msgid "Enable WordAds by upgrading to Jetpack Premium"
+msgstr "Obtén la mejora Jetpack Premium para habilitar WordAds"
+
+msgid "Learn more about Ads."
+msgstr "Más información acerca de Ads."
+
+msgid ""
+"Show ads on the first article on your home page or at the end of every page "
+"and post. Place additional ads at the top of your site and to any widget "
+"area to increase your earnings."
+msgstr ""
+"Muestra anuncios en el primer artículo de tu página principal o al final de "
+"cada página y entrada. Pon más anuncios en la parte superior de tu sitio y "
+"en cualquier área de widgets para incrementar tus beneficios."
+
+msgid ""
+"By activating ads, you agree to the Automattic Ads {{link}}Terms of "
+"Service{{/link}}."
+msgstr ""
+"Al activar los anuncios, aceptas las {{link}}Condiciones del "
+"servicio{{/link}} de Automattic Ads."
+
+msgid "Enable ads and display an ad below each post"
+msgstr "Activa los anuncios y muestra uno debajo de cada entrada"
+
+msgid "Display an additional ad at the top of each page"
+msgstr "Muestra un anuncio adicional en la parte superior de cada página"
+
+msgid "View your earnings"
+msgstr "Ver tus beneficios"
+
+msgid "Failed to retrieve comment for site “%(siteName)s”"
+msgstr "No se ha podido recuperar el comentario del sitio \"%(siteName)s\""
+
+msgid ""
+"{{strong}}Almost there!{{/strong}} You can double-check your post’s settings"
+" below. When you’re happy, use the big green button to send your post out "
+"into the world!"
+msgstr ""
+"{{strong}}¡Ya casi estás! {{/strong}} Puedes revisar la configuración de tu "
+"entrada a continuación. Cuando la tengas lista, usa el botón verde grande "
+"para que todo el mundo disponga de tu entrada."
+
+msgid "Send Again"
+msgstr "Enviar Otra Vez"
+
+msgid ""
+"Your site is entirely backed up and scanned in real-time with unlimited "
+"storage and backup archive."
+msgstr ""
+"Se hace una copia de seguridad de todo tu sitio, se analiza en tiempo real y"
+" dispones de almacenamiento ilimitado y archivo de copias de seguridad."
+
+msgid "Business Class Security"
+msgstr "Seguridad de primera"
+
+msgid ""
+"200+ premium themes available for use on your site with built-in advanced "
+"customization tools."
+msgstr ""
+"Más de 200 temas premium disponibles para tu sitio, con herramientas de "
+"personalización avanzada integradas."
+
+msgid "Professional WordPress sites from start to finish."
+msgstr "Sitios Professional de WordPress de principio a fin."
+
+msgid ""
+"Jetpack Professional provides the design, tools, and support to bring your "
+"website to life.<br><br>Special 50% introductory discount with coupon code "
+"\"<strong>PRO</strong>\"."
+msgstr ""
+"Jetpack Professional pone el diseño, las herramientas y la ayuda para que tu"
+" sitio web se haga realidad.<br><br>Descuento especial de bienvenida del 50 "
+"% usando el código de cupón \"<strong>PRO</strong>\"."
+
+msgid "Comment approved and reply submitted."
+msgstr "Se ha aprobado el comentario y se ha enviado la respuesta."
+
+msgid "Reply submitted."
+msgstr "Se ha enviado la respuesta."
+
+msgid "Approve and reply to %(commentAuthor)s…"
+msgstr "Aprueba el comentario y responde a %(commentAuthor)s…"
+
+msgid "Approve and reply to comment…"
+msgstr "Aprueba el comentario y responde a él..."
+
+msgid "Reply to comment…"
+msgstr "Responde al comentario…"
+
+msgid "Concierge Setup Service"
+msgstr "Servicio de configuración personal"
+
+msgid "Automatic Threat Resolution"
+msgstr "Resolución de amenazas automática"
+
+msgid "<strong>Priority</strongSupport"
+msgstr "Servicio de ayuda <strong>prioritario</strong>"
+
+msgid "<strong>Unlimited</strongVideo Hosting"
+msgstr "Alojamiento de vídeo <strong>ilimitado</strong>"
+
+msgid "<strong>Unlimited</strongStorage and Archive"
+msgstr "Almacenamiento y archivo <strong>ilimitados</strong>"
+
+msgid "<strong>Real-time</strongBackups"
+msgstr "Copias de seguridad <strong>en tiempo real</strong>"
+
+msgid "Jetpack Professional"
+msgstr "Jetpack Professional"
+
+msgid "Design, build, grow, and secure your site from start to finish."
+msgstr "Diseña, crea, amplía y protege tu sitio de principio a fin."
+
+msgid "Professional Sites:"
+msgstr "Sitios Professional:"
+
+msgid ""
+"We give priority to our paying customers when responding to support requests"
+" which means you will get a faster resolution."
+msgstr ""
+"Nuestros clientes de pago tienen prioridad a la hora de responder a las "
+"solicitudes de ayuda, lo que significa que recibirás una solución más "
+"rápido."
+
+msgid "What is priority support?"
+msgstr "¿Qué es la ayuda prioritaria?"
+
+msgid "Professional WordPress Sites"
+msgstr "Sitios Professional de WordPress"
+
+msgid "Start with Professional"
+msgstr "Empieza a utilizar Professional"
+
+msgid ""
+"Jetpack Premium immediately puts you a step ahead of the game.<br><br>Your "
+"entire site is securely backed up, spam is automatically filtered, and all "
+"your code is scanned for malware daily.<br><br>You also get high-speed and "
+"ad-free video hosting and pre-approval to our ad program."
+msgstr ""
+"Jetpack Premium te da ventajas inmediatas.<br><br>Se hace una copia de "
+"seguridad de todo tu sitio, el spam se filtra automáticamente y se analiza "
+"todo el código diariamente en busca de malware.<br><br>También ofrece "
+"alojamiento de vídeo de alta velocidad y sin anuncios, y obtienes una "
+"aprobación previa para nuestro programa publicitario."
+
+msgid "Elevate Your Online Presence"
+msgstr "Aumenta tu presencia en línea"
+
+msgid "Upgrade to Yearly"
+msgstr "Obtén la mejora anual"
+
+msgid "Billed yearly, credit card expiring soon"
+msgstr "Facturación anual, la tarjeta de crédito está a punto de caducar"
+
+msgid "Billed yearly, renews on %s"
+msgstr "Facturación anual, se renueva el %s"
+
+msgid "Billed yearly, expires on %s"
+msgstr "Facturación anual, caduca el %s"
+
+msgid "Billed yearly, expired %(timeSinceExpiry)s"
+msgstr "Facturación anual, caducó %(timeSinceExpiry)s"
+
+msgid "Billed yearly"
+msgstr "Facturación anual"
+
+msgid "Billed monthly"
+msgstr "Facturación mensual"
+
+msgid "Upgrade to yearly billing"
+msgstr "Obtén la mejora de facturación anual"
+
+msgid "Billing period"
+msgstr "Periodo de facturación"
+
+msgid "<strong>13Gb</strongVideo Hosting"
+msgstr "<strong>13 GB</strongde alojamiento de vídeos"
+
+msgid "Automated malware scanning, secure video hosting, and more."
+msgstr ""
+"Análisis automático de malware, alojamiento de vídeos seguro y mucho más."
+
+msgid "Advanced Security:"
+msgstr "Seguridad avanzada:"
+
+msgid ""
+"After losing a whole site, I looked into backing it up. For about the price "
+"of a Big Mac, I get peace of mind every month.<br><br>I had a small issue "
+"when reinstalling WordPress and Jetpack support fixed it extremely quickly "
+"and were A1 helpful.<br><br>I sleep easy at night knowing they’ve got my "
+"back."
+msgstr ""
+"Después de perder todo mi sitio, me interesé por las copias de seguridad. "
+"Por el precio de una Big Mac al mes, no tengo que preocuparme por "
+"nada.<br><br>Tuve un pequeño problema al volver a instalar WordPress y el "
+"servicio de ayuda de Jetpack lo solucionó súper rápido y fueron muy "
+"atentos.<br><br>Duermo sin preocupaciones por las noches al saber que me "
+"cubren las espaldas."
+
+msgid ""
+"We completed a theme upgrade and Google realized something was wrong and "
+"dropped us from their rankings within 10 minutes.<br><br>We used Jetpack's "
+"site restore for the first time and it worked quickly and perfectly. What "
+"little we have invested doesn’t compare to its value tonight alone. THANK "
+"YOU VERY MUCH."
+msgstr ""
+"Completamos la mejora de un tema y Google se dio cuenta de que algo no "
+"funcionaba, por lo que nuestra clasificación en su página empeoró en 10 "
+"minutos.<br><br>Usamos la restauración de sitios de Jetpack por primera vez "
+"y funcionó rápidamente y a la perfección. No se puede comparar la poca "
+"inversión que hemos hecho con su valor solo durante esa noche. MUCHAS "
+"GRACIAS."
+
+msgid "Our users love Jetpack"
+msgstr "A nuestros usuarios les encanta Jetpack"
+
+msgid "Safeguard your online presence with Jetpack."
+msgstr "Protege tu presencia en línea con Jetpack."
+
+msgid ""
+"<span class=\"no-widows\">Security Essentials</span><span class=\"no-"
+"widows\">for WordPress Sites"
+msgstr ""
+"<span class=\"no-widows\">Funciones de seguridad básicas</span><span class"
+"=\"no-widows\">para sitios de WordPress"
+
+msgid "Your previous plan purchase has been applied as a discount."
+msgstr "Se ha aplicado tu anterior compra de plan como descuento."
+
+msgid "Publish…"
+msgstr "Publicar…"
+
+msgid "If you already have both of these, great!"
+msgstr "Si ya tienes ambas de estas, ¡bien!"
+
+msgid ""
+"Our data centers span the globe and already serve millions of WordPress "
+"sites of all shapes and sizes.<br><br>Trusting us with your site security "
+"means working with a proven infrastrucure and team."
+msgstr ""
+"Nuestros centros de datos abarcan todo el mundo y ya dan servicio a millones"
+" de sitios de WordPress de todas las formas y tamaños.<br><br>Dejar la "
+"seguridad de tu sitio en nuestras manos significa trabajar con un equipo y "
+"una infraestructura de confianza."
+
+msgid "Global Infrastructure"
+msgstr "Infraestructura global"
+
+msgid ""
+"Get faster support than free users from our WordPress security experts."
+msgstr ""
+"Obtén ayuda de los expertos en seguridad de WordPress más rápido que los "
+"usuarios que no pagan."
+
+msgid ""
+"No matter how large your site is we back up all of it at no extra cost."
+msgstr ""
+"No importa lo grande que sea tu sitio; hacemos una copia de seguridad del "
+"sitio entero sin ningún coste adicional."
+
+msgid "Back up all your site content, themes, and data on schedule every day."
+msgstr ""
+"Programa una copia de seguridad diaria de todo el contenido, temas y datos "
+"de tu sitio."
+
+msgid "Peace of Mind Comes Standard"
+msgstr "La tranquilidad ya no es un extra"
+
+msgid "Your site deserves a boost!"
+msgstr "Tu sitio se merece una mejora."
+
+msgid ""
+"This WordPress.com account is already connected to an other user on this "
+"site. Please login to an other WordPress.com account to complete the "
+"connection."
+msgstr ""
+"Esta cuenta de WordPress.com ya está conectada a otro usuario en este sitio."
+" Accede a otra cuenta de WordPress.com para completar la conexión."
+
+msgid "The sticker {{i}}%s{{/i}} has been removed."
+msgstr "El adhesivo {{i}}%s{{/i}} se ha eliminado."
+
+msgid ""
+"Your site is in Development Mode, so it can not be connected to "
+"WordPress.com."
+msgstr ""
+"Tu sitio está en modo de desarrollo, por lo que no se puede conectar con "
+"WordPress.com."
+
+msgid ""
+"Your site will no longer be available at %(mappedDomain)s. Instead, it will "
+"be at %(wordpressSiteUrl)s"
+msgstr ""
+"Tu sitio ya no estará disponible en %(mappedDomain)s; lo estará en "
+"%(wordpressSiteUrl)s"
+
+msgid ""
+"The domain %(mappedDomain)s itself is not canceled. Only the connection "
+"between WordPress.com and your domain is removed. %(mappedDomain)s is "
+"registered elsewhere and you can still use it with other sites."
+msgstr ""
+"El dominio %(mappedDomain)s no se ha cancelado. Solo se ha eliminado la "
+"conexión entre WordPress.com y tu dominio. %(mappedDomain)s se ha registrado"
+" en otro lugar y aún lo puedes utilizar con otros sitios."
+
+msgid "Payment Buttons"
+msgstr "Botones de pago"
+
+msgid "+ Add New"
+msgstr "+ Añadir nuevo"
+
+msgid "Could not unlike this comment"
+msgstr "No se ha podido quitar el Me gusta de este comentario"
+
+msgid "Conversations"
+msgstr "Conversaciones"
+
+msgid "Your restore will start in a moment."
+msgstr "La restauración empezará en breve."
+
+msgid "We're on it! Your site is being restored."
+msgstr "Estamos en ello. Tu sitio se está restaurando."
+
+msgid "Enable comment likes"
+msgstr "Habilitar los Me gusta en los comentarios"
+
+msgid "Could not like this comment"
+msgstr "No se ha podido poner un Me gusta a este comentario"
+
+msgid ""
+"Hmm, we can't update the status of your restore. Please refresh this page."
+msgstr ""
+"No podemos actualizar el estado de la restauración. Actualiza esta página."
+
+msgid ""
+"Pick one of our popular themes to get started or choose from hundreds more "
+"after you sign up."
+msgstr ""
+"Elige uno de nuestros temas populares para empezar o regístrate para elegir "
+"uno de entre otros cien más."
+
+msgid "Access photos stored in your connected Google account."
+msgstr "Accede a las fotos almacenadas en tu cuenta de Google conectada."
+
+msgid "Upgrade %1$s for %2$s per month — or just %3$s per year."
+msgstr "Obtén la mejora para %1$s por %2$s al mes o solo %3$s al año."
+
+msgid ""
+"Jetpack Premium includes all of the features you need to keep <a "
+"href=\"%1$s\" class=\"hide\">%2$s</asecure "
+msgstr ""
+"Jetpack Premium incluye todas las funciones que necesitas para que <a "
+"href=\"%1$s\" class=\"hide\">%2$s</aesté seguro "
+
+msgid ""
+"Upgrade <a href=\"%1$s\" class=\"hide\">%2$s</afor %3$s per month — or just "
+"%4$s per year."
+msgstr ""
+"Obtén la mejora para <a href=\"%1$s\" class=\"hide\">%2$s</apor %3$s al mes "
+"o solo %4$s al año."
+
+msgid "Reply to %(commentAuthor)s…"
+msgstr "Responder a %(commentAuthor)s…"
+
+msgid "WordPress Security Essentials"
+msgstr "Funciones de seguridad básicas de WordPress"
+
+msgid "Access all our premium themes with our Professional plan!"
+msgstr "Accede a todos nuestros temas premium con nuestro plan Profesional."
+
+msgid "Upgrade on:"
+msgstr "Fecha de la mejora:"
+
+msgid "Domain is pending contact information update"
+msgstr "La información de contacto del dominio está pendiente de actualizarse"
+
+msgid ""
+"Your change will be reflected shortly. Please note that if you made a change"
+" to your name, organization, or email address, you must confirm the change "
+"by clicking the confirmation link(s) in the email(s) sent to you. If you "
+"have any questions or issues, please refer to our {{supporta}}support "
+"page{{/supporta}} or {{a}}contact support{{/a}}."
+msgstr ""
+"El cambio se verá reflejado en breve. Ten en cuenta que si realizas un "
+"cambio en tu nombre, organización o dirección de correo electrónico, deberás"
+" confirmar dicho cambio haciendo clic en el enlace de confirmación que "
+"encontrarás en el correo electrónico que te hemos enviado. Si tienes "
+"preguntas o dudas, puedes consultar nuestra {{supporta}}página de "
+"ayuda{{/supporta}} o {{a}}ponerte en contacto con el equipo de ayuda{{/a}}."
+
+msgid "Slow down, you're trying to log in too fast."
+msgstr "Espera; estás intentando acceder demasiado deprisa."
+
+msgid "Apple App Store download badge"
+msgstr "Insignia de descarga del App Store de Apple"
+
+msgid "Download the WordPress Android mobile app."
+msgstr "Descarga la aplicación móvil de WordPress para Android."
+
+msgid "Google Play Store download badge"
+msgstr "Insignia de descarga de Play Store de Google"
+
+msgid "Groups of people looking at WordPress mobile apps."
+msgstr ""
+"Grupos de personas que consultan las aplicaciones móviles de WordPress."
+
+msgid "Get WordPress apps for all your screens."
+msgstr "Obtén las aplicaciones de WordPress para todos tus dispositivos."
+
+msgid "Requires Mac OS X 10.11+. "
+msgstr "Se necesita MacOS X 10.11 o versiones posteriores. "
+
+msgid "Requires a 64-bit kernel. "
+msgstr "Se necesita un kernel de 64 bits. "
+
+msgid "Requires Windows 7+. "
+msgstr "Se necesita Windows 7 o versiones posteriores. "
+
+msgid ""
+"Also available for: {{firstAvailableLink}}Windows{{/firstAvailableLink}}, "
+"{{secondAvailableLink}}Linux (.tar.gz){{/secondAvailableLink}}, "
+"{{thirdAvailableLink}}Linux (.deb){{/thirdAvailableLink}}."
+msgstr ""
+"También disponible para: "
+"{{firstAvailableLink}}Windows{{/firstAvailableLink}}, "
+"{{secondAvailableLink}}Linux (.tar.gz){{/secondAvailableLink}} y "
+"{{thirdAvailableLink}}Linux (.deb){{/thirdAvailableLink}}."
+
+msgid ""
+"Also available for: {{firstAvailableLink}}Linux "
+"(.deb){{/firstAvailableLink}}, "
+"{{secondAvailableLink}}Windows{{/secondAvailableLink}}, "
+"{{thirdAvailableLink}}Mac{{/thirdAvailableLink}}."
+msgstr ""
+"También disponible para: {{firstAvailableLink}}Linux "
+"(.deb){{/firstAvailableLink}}, "
+"{{secondAvailableLink}}Windows{{/secondAvailableLink}} y "
+"{{thirdAvailableLink}}Mac{{/thirdAvailableLink}}."
+
+msgid ""
+"Also available for: {{firstAvailableLink}}MacOS{{/firstAvailableLink}}, "
+"{{secondAvailableLink}}Linux (.tar.gz){{/secondAvailableLink}}, "
+"{{thirdAvailableLink}}Linux (.deb){{/thirdAvailableLink}}."
+msgstr ""
+"También disponible para: {{firstAvailableLink}}MacOS{{/firstAvailableLink}},"
+" {{secondAvailableLink}}Linux (.tar.gz){{/secondAvailableLink}} y "
+"{{thirdAvailableLink}}Linux (.deb){{/thirdAvailableLink}}."
+
+msgid "Desktop App for Mac"
+msgstr "Aplicación de escritorio para Mac"
+
+msgid "Desktop App for Linux"
+msgstr "Aplicación de escritorio para Linux"
+
+msgid "Desktop App for Windows"
+msgstr "Aplicación de escritorio para Windows"
+
+msgid "Add Payment Button"
+msgstr "Añadir botón de pago"
+
+msgid "Simple Payments"
+msgstr "Pagos simples"
+
+msgid "Sell anything with a simple PayPal button."
+msgstr "Vende todo lo que quieras con un sencillo botón de PayPal."
+
+msgid "Schedule!"
+msgstr "Programar"
+
+msgid "Publish!"
+msgstr "Publicar"
+
+msgid "Show publish confirmation"
+msgstr "Mostrar la confirmación de publicación"
+
+msgid ""
+"This adds a confirmation step with helpful settings and tips for double-"
+"checking your content before publishing."
+msgstr ""
+"De esta manera, se añade un paso de confirmación con opciones de "
+"configuración y consejos útiles para volver a revisar el contenido antes de "
+"publicarlo."
+
+msgid "Recent photos from Google"
+msgstr "Fotos recientes de Google"
+
+msgid "Hungarian Forints"
+msgstr "Florines húngaros"
+
+msgid "Swedish Kronor"
+msgstr "Corona sueca"
+
+msgid "Mexican Pesos"
+msgstr "Pesos mexicanos"
+
+msgid "Russian Rubles"
+msgstr "Rublos rusos"
+
+msgid "New Israeli Shekels"
+msgstr "Nuevos séqueles israelís"
+
+msgid "Unable to show your site here"
+msgstr "No se puede mostrar tu sitio aquí"
+
+msgid "To view your site, click the button below"
+msgstr "Para ver tu sitio, haz clic en el botón de abajo"
+
+msgid ""
+"To show Photos from Google, you need to connect your Google account. Do that"
+" from {{link}}your Sharing settings{{/link}}."
+msgstr ""
+"Para mostrar fotos de Google, debes conectarte a tu cuenta de Google. Puedes"
+" hacerlo en {{link}}Configuración de compartir{{/link}}."
+
+msgid "6 GB of storage space for images, documents, and audio."
+msgstr ""
+"Disfruta de 6 GB de espacio de almacenamiento para imágenes, documentos y "
+"archivos de audio."
+
+msgid "13 GB of storage space for images, documents, videos, and audio."
+msgstr ""
+"Disfruta de 13 GB de espacio de almacenamiento para imágenes, documentos y "
+"archivos de audio."
+
+msgid "Unlimited storage space for images, documents, videos, and audio."
+msgstr ""
+"Disfruta de espacio de almacenamiento ilimitado para imágenes, documentos y "
+"archivos de audio."
+
+msgid "Do you want the answer to any of these questions?"
+msgstr "¿Quieres responder alguna de estas preguntas?"
+
+msgid "Customize your site without needing to know any code."
+msgstr "Personaliza tu sitio web sin necesidad de saber nada de códigos."
+
+msgid "The single most underrated feature for new websites."
+msgstr "La única y más infravalorada función para los nuevos sitios web."
+
+msgid "Start publishing with a few short sentences."
+msgstr "Empieza a publicar contenido con algunas frases cortas."
+
+msgid "The first page every site owner should customize."
+msgstr ""
+"La primera página que todos los propietarios de sitios deberían "
+"personalizar."
+
+msgid "Instantly make your site more personal."
+msgstr "Personaliza tu sitio al instante."
+
+msgid "The first thing all site owners should do."
+msgstr "Lo primero que todos los propietarios de sitios deberían hacer."
+
+msgid ""
+"There has never been a better time to upgrade to Jetpack Professional. As an"
+" existing Jetpack user, you can be one of the first to try out the 200+ "
+"business themes that we are now bundling with Jetpack Professional."
+msgstr ""
+"Es el momento ideal para obtener la mejora Jetpack Profesional. Como usuario"
+" de Jetpack, puedes ser uno de los primeros en probar los más de 200 temas "
+"para empresas que incluimos en Jetpack Profesional."
+
+msgid ""
+"There has never been a better time to upgrade to Jetpack Professional. As an"
+" existing Jetpack Premium customer, you can be one of the first to try out "
+"the 200+ business themes that we are now bundling with Jetpack Professional."
+msgstr ""
+"Es el momento ideal para obtener la mejora Jetpack Profesional. Como cliente"
+" de Jetpack Premium, puedes ser uno de los primeros en probar los más de 200"
+" temas para empresas que incluimos en Jetpack Profesional."
+
+msgid ""
+"And for a limited time you can benefit from a 50% introductory discount off "
+"the upgrade price using discount code \"PRO\"."
+msgstr ""
+"Además, durante un tiempo limitado puedes disfrutar de un descuento inicial "
+"del 50% en el precio de la mejora usando el código de descuento \"PRO\"."
+
+msgid ""
+"There has never been a better time to upgrade to Jetpack Professional. As an"
+" existing Jetpack Personal customer, you can be one of the first to try out "
+"the 200+ business themes that we are now bundling with Jetpack Professional."
+msgstr ""
+"Es el momento ideal para obtener la mejora Jetpack Profesional. Como cliente"
+" de Jetpack Personal, puedes ser uno de los primeros en probar los más de "
+"200 temas para empresas que incluimos en Jetpack Profesional."
+
+msgid ""
+"Any themes you use on your site will also be automatically backed up and "
+"regularly scanned as part of the Jetpack Professional security services we "
+"already offer."
+msgstr ""
+"También se realizará una copia de seguridad automática de los temas que "
+"utilices en tu sitio y se escanearán regularmente como parte de los "
+"servicios de seguridad de Jetpack Profesional que ya ofrecemos."
+
+msgid ""
+"And for a limited time you can benefit from a 50% introductory discount "
+"using discount code \"PRO\"."
+msgstr ""
+"Además, durante un tiempo limitado, puedes disfrutar de un descuento inicial"
+" del 50% usando el código de descuento \"PRO\"."
+
+msgid ""
+"As an early-access subscriber we are excited to let you know that we are "
+"making available 200+ business themes to all Jetpack Professional sites at "
+"no extra cost."
+msgstr ""
+"Como suscriptor con acceso anticipado, nos complace comunicarte que vamos a "
+"poner a tu disposición más de 200 temas para empresas para todos los sitios "
+"de Jetpack Profesional sin ningún coste adicional."
+
+msgid "Advanced Social Media"
+msgstr "Opciones avanzadas de redes sociales"
+
+msgid ""
+"Schedule your social media updates in advance and promote your posts when "
+"it's best for you."
+msgstr ""
+"Programa tus actualizaciones en las redes sociales con antelación y "
+"promociona tus entradas cuando mejor te vaya."
+
+msgid ""
+"Congratulations! Your %1$s account includes a free Jetpack Premium "
+"subscription, which builds on the powerful features of Jetpack with a bundle"
+" of security, anti-spam, and growth tools for <a href=\"%2$s\">%3$s</a>."
+msgstr ""
+"¡Enhorabuena! Tu cuenta de %1$s incluye una suscripción a Jetpack Premium "
+"gratuita, que suma a las potentes funciones de Jetpack un paquete de "
+"herramientas para <a href=\"%2$s\">%3$s</aque te ayudan a crecer, a mantener"
+" la seguridad y a protegerte contra spam."
+
+msgid ""
+"Don’t wait -- <strong>get the first two months free</strongwhen you add "
+"%1$sG Suite%2$s to your site today."
+msgstr ""
+"No esperes más: <strong>consigue los dos primeros meses "
+"gratis</strongañadiendo %1$sG Suite%2$s a tu sitio hoy mismo."
+
+msgid ""
+"Use text chats, voice calls, or video calls, with built in screen sharing."
+msgstr ""
+"Usa chats de texto, llamadas de voz o videollamadas con la opción integrada "
+"de compartir pantalla."
+
+msgid ""
+"Create and edit documents at the same time as others to get your work done "
+"faster."
+msgstr ""
+"Crea y edita documentos al mismo tiempo que otros usuarios para trabajar de "
+"forma más rápida."
+
+msgid ""
+"Get 30GB of storage for all your files, and access them from your phone, "
+"tablet, or computer."
+msgstr ""
+"Obtén 30 GB de espacio de almacenamiento para todos tus archivos y accede a "
+"ellos desde el teléfono, la tableta o el ordenador."
+
+msgid "Gmail for @%s"
+msgstr "Gmail para @%s"
+
+msgid ""
+"We’ve teamed up with Google Cloud to offer you professional email and a "
+"suite of productivity tools, including:"
+msgstr ""
+"Nos hemos unido a Google Cloud para ofrecerte un servicio de correo "
+"electrónico profesional y un conjunto de herramientas de productividad como,"
+" por ejemplo:"
+
+msgid "Get My Personalized Email"
+msgstr "Mi dirección de correo electrónico personalizada"
+
+msgid ""
+"Make the right first impression and promote your website every time you send"
+" an email with an account @%s."
+msgstr ""
+"Causa una buena primera impresión y promociona tu sitio web cada vez que "
+"envíes un correo electrónico con una cuenta de @%s."
+
+msgid "Professional email and so much more"
+msgstr "Dirección de correo electrónico profesional y mucho más"
+
+msgid "Promote your brand every time you send an email."
+msgstr "Promociona tu marca cada vez que envíes un correo electrónico."
+
+msgid ""
+"Schedule a complimentary, one-on-one consultation with a Jetpack expert"
+msgstr "Programa una consulta gratuita y privada con un experto de Jetpack"
+
+msgid ""
+"<strong>Just for you:</strong<a href=\"%s\">Click here</ato schedule a "
+"complimentary, one-on-one consultation with a Jetpack expert."
+msgstr ""
+"<strong>Solo para ti:</strong<a href=\"%s\">haz clic aquí</apara programar "
+"una consulta gratuita y privada con un experto de Jetpack."
+
+msgid "An event \"%(eventName)s\" occurred at %(date)s"
+msgstr "Se ha producido un evento \"%(eventName)s\" el %(date)s"
+
+msgid ""
+"You can take a look at your backups, vitality stats, activity log, and more "
+"from the VaultPress dashboard"
+msgstr ""
+"Puedes echar un vistazo a tus copias de seguridad, a las estadísticas y al "
+"registro de actividad, y a muchos más datos desde el escritorio de "
+"VaultPress"
+
+msgid ""
+"You can take a look at your backups, vitality stats, activity log, and more "
+"from the <a href=\"https://dashboard.vaultpress.com/\">VaultPress "
+"dashboard</a>."
+msgstr ""
+"Puedes echar un vistazo a tus copias de seguridad, a las estadísticas y al "
+"registro de actividad, y a muchos más datos desde el <a "
+"href=\"https://dashboard.vaultpress.com/\">escritorio de VaultPress</a>."
+
+msgid "Install third-party themes and plugins."
+msgstr "Instala temas y plugins de terceros."
+
+msgid ""
+"Any themes you use on your site will also be automatically backed up and "
+"regularly scanned as part of the Jetpack Professional security services you "
+"are already using."
+msgstr ""
+"También se realizará una copia de seguridad automática de los temas que "
+"utilices en tu sitio, y se escanearán regularmente como parte de los "
+"servicios de seguridad de Jetpack Profesional que ya usamos."
+
+msgid ""
+"All at no extra cost and available instantly for you to use on your Jetpack "
+"Professional sites."
+msgstr ""
+"Todo sin ningún coste adicional y con disponibilidad inmediata para que lo "
+"puedas usar en tus sitios de Jetpack Profesional."
+
+msgid ""
+"We have just made available over 200 high quality, professional business "
+"themes to all our Jetpack Professional customers."
+msgstr ""
+"Hemos puesto a tu disposición más de 200 temas profesionales y de gran "
+"calidad para empresas, que ofrecemos a todos nuestros clientes de Jetpack "
+"Profesional."
+
+msgid "Introducing Unlimited Themes"
+msgstr "Presentación de los temas ilimitados"
+
+msgid "Go to %s"
+msgstr "Ir a %s"
+
+msgid "Your receipt for %s."
+msgstr "Tu recibo de %s."
+
+msgid "Monthly billing"
+msgstr "Facturación mensual"
+
+msgid "Yearly billing"
+msgstr "Facturación anual"
+
+msgid "Add from Google"
+msgstr "Añadir desde Google"
+
+msgid "Choose the option that best describes your Canadian presence:"
+msgstr "Elige la opción que mejor describa tu presencia en Canadá:"
+
+msgid ""
+"Your Google email address is already in use WordPress.com. Log in to your "
+"account using your email address or username, and your password. To create a"
+" new WordPress.com account, use a different Google account."
+msgstr ""
+"Tu dirección de correo electrónico de Google ya se usa en WordPress.com. "
+"Accede a tu cuenta con tu contraseña y la dirección de correo electrónico o "
+"el nombre de usuario. Para crear otra cuenta de WordPress.com, usa una "
+"cuenta de Google distinta."
+
+msgid "Post Publicized"
+msgstr "Se ha difundido la entrada"
+
+msgid "Your post %1$s has just been shared on \"%2$s\" %3$s account."
+msgstr "Se acaba de compartir tu entrada %1$s en la cuenta \"%2$s\" de %3$s."
+
+msgid "Scheduled %s update"
+msgstr "Se ha programado la actualización de %s"
+
+msgid "We just shared your post %1$s on %2$s."
+msgstr "Acabamos de compartir tu entrada %1$s en %2$s."
+
+msgid ""
+"It looks like you were <i>this</iclose to investing in an upgrade for your "
+"WordPress.com site, %s. What a great decision you were about to make!"
+msgstr ""
+"Parece que estuviste <i>muy</icerca de invertir en una mejora para %s, tu "
+"sitio de WordPress.com; habría sido una gran decisión."
+
+msgid "Copy to media library"
+msgstr "Copiar a la biblioteca multimedia"
+
+msgid "Could not add a reply to “%(postTitle)s”"
+msgstr "No se ha podido responder a \"%(postTitle)s\""
+
+msgid "Could not add a reply to this post"
+msgstr "No se ha podido responder a esta entrada"
+
+msgid "Uh oh. That method isn't supported."
+msgstr "¡Vaya! Este método no es compatible."
+
+msgid ""
+"Check with the service provider that sent you here for more information."
+msgstr ""
+"Para obtener más información, contacta con el proveedor de servicios que te "
+"dirigió hasta aquí."
+
+msgid ""
+"Out of all of the hosts in the world we've chosen to recommend Bluehost as "
+"the one we think is best. If you sign up with one of our recommended "
+"partners we have a commercial affiliate relationship with them."
+msgstr ""
+"Hemos decidido recomendar Bluehost, entre todos los proveedores de hosting "
+"existentes, porque creemos que es el mejor. Si te registras en uno de "
+"nuestros socios recomendados, tenemos una afiliación comercial con ellos."
+
+msgid ""
+"Choose from hundreds of beautiful designs and customize them for your "
+"business site, blog, or portfolio. <strong>Purchased a WordPress theme "
+"elsewhere? No problem: the WordPress.com Business plan lets you install any "
+"theme you’d like.</strong>"
+msgstr ""
+"Elige entre cientos de diseños atractivos y personalízalos para el sitio de "
+"tu empresa o para tu blog o portfolio. <strong>¿Has comprado un tema de "
+"WordPress en otro sitio? No te preocupes: con el plan WordPress.com Business"
+" puedes instalar el tema que quieras.</strong>"
+
+msgid "Your Ideas. Your Brand. Your Domain."
+msgstr "Tus ideas, tu marca, tu dominio."
+
+msgid "Find the domain that defines you."
+msgstr "Encuentra el dominio que te define."
+
+msgid "Rewind is currently only available for Pressable sites"
+msgstr ""
+"Actualmente, la opción para retroceder solo está disponible en sitios de "
+"Pressable"
+
+msgid "Delete this comment permanently?"
+msgstr "¿Quieres eliminar este comentario permanentemente?"
+
+msgid ""
+"Did you know you can decide exactly when Publicize shares your post? You "
+"can! Click the calendar icon next to \"Share post\" to schedule your social "
+"shares."
+msgstr ""
+"¿Sabías que puedes decidir el momento exacto para compartir tu entrada con "
+"Difundir? Así es. Haz clic en el icono de calendario al lado de \"Compartir "
+"entrada\" para programar las entradas que quieres compartir en las redes "
+"sociales."
+
+msgid ""
+"Check out the %sTraffic section%s of your Settings page where you can verify"
+" your site with several search engines and social networks, and see your "
+"sitemap (the map Google looks for when indexing your site). Verifying your "
+"site with these services is not necessary, but in doing so you may get "
+"access to more advanced search engine tools, such as Google Search Console."
+msgstr ""
+"Consulta la %ssección Tráfico%s de tu página de Configuración, en la que "
+"puedes verificar tu sitio con varios buscadores y redes sociales, así como "
+"ver tu mapa del sitio (el que Google busca para indexar tu sitio). No es "
+"necesario verificar tu sitio con estos servicios, pero si lo haces puedes "
+"obtener acceso a herramientas de buscadores más avanzadas, como Google "
+"Search Console."
+
+msgid "Rewind to this point"
+msgstr "Retroceder hasta este punto"
+
+msgid "… and %(moreEvents)d more post"
+msgid_plural "… and %(moreEvents)d more posts"
+msgstr[0] "… y %(moreEvents)d entrada más"
+msgstr[1] "… y %(moreEvents)d entradas más"
+
+msgid "Easy monetization options"
+msgstr "Opciones de monetización sencillas"
+
+msgid "Unlimited premium themes."
+msgstr "Temas premium ilimitados."
+
+msgid "Upgrade to a Premium Plan!"
+msgstr "Mejora tu plan a Premium."
+
+msgid ""
+"Almost done! We need some extra details to register your %(tld)s domain."
+msgstr ""
+"Ya casi has terminado. Necesitamos algunos detalles más para registrar tu "
+"dominio %(tld)s."
+
+msgid "Do you have an appropriate plan?"
+msgstr "¿Tienes el plan adecuado?"
+
+msgid "Activate Rewind"
+msgstr "Activar la opción para retroceder"
+
+msgid "You're now following %(siteTitle)s"
+msgstr "Ahora estás siguiendo %(siteTitle)s"
+
+msgid "You're no longer following %(siteTitle)s"
+msgstr "Ya no sigues %(siteTitle)s"
+
+msgid "Activity for {{period/}}"
+msgstr "Actividad durante: {{period/}}"
+
+msgid "Don't forget to enter a password."
+msgstr "Acuérdate de introducir una contraseña."
+
+msgid "Enter a working email address, so you can receive our messages."
+msgstr ""
+"Introduce una dirección de correo electrónico activa para recibir nuestros "
+"mensajes."
+
+msgid "Email me a login link."
+msgstr "Quiero recibir un correo electrónico con el enlace de acceso."
+
+msgid "Don't forget to enter your password."
+msgstr "Acuérdate de introducir tu contraseña."
+
+msgid "Edit Thumbnail"
+msgstr "Editar la miniatura"
+
+msgid ""
+"{{strong}}Published privately.{{/strong}} Only admins and editors can view."
+msgstr ""
+"{{strong}}Se ha publicado en privado.{{/strong}} Solo la pueden ver los "
+"administradores y editores."
+
+msgid "{{strong}}One moment please…{{/strong}} loading your new post."
+msgstr ""
+"{{strong}}Un momento, por favor…{{/strong}} estamos subiendo tu nueva "
+"entrada."
+
+msgid "on %(postTitle)s"
+msgstr "en %(postTitle)s"
+
+msgid ""
+"We aren't able to set up the service with the information given. Please "
+"check with your service provider to make sure they provided all the correct "
+"data."
+msgstr ""
+"No podemos configurar el servicio con la información proporcionada. Contacta"
+" con el proveedor de servicios para comprobar que te hayan proporcionado "
+"todos los datos correctos."
+
+msgid "Hurray! Your new service is now all set up."
+msgstr "¡Hurra! Ahora el servicio nuevo ya está configurado del todo."
+
+msgid ""
+"We weren't able to add the DNS records needed for this service. Please try "
+"again."
+msgstr ""
+"No hemos podido añadir los registros de DNS necesarios para este servicio. "
+"Inténtalo de nuevo."
+
+msgid "Authorize DNS Changes for %(domain)s"
+msgstr "Autoriza los cambios de DNS en %(domain)s"
+
+msgid "We're going to remove or replace these records:"
+msgstr "Estos son los registros que eliminaremos o sustituiremos:"
+
+msgid ""
+"The services that these records were used for may no longer work if they are"
+" removed. If you are trying to switch from one service provider to another "
+"this is probably what you want to do."
+msgstr ""
+"Es posible que los servicios en que se usaron estos registros dejen de "
+"funcionar si los eliminamos. Si lo que quieres es cambiar de un proveedor de"
+" servicios a otro, seguramente esto es lo que quieras que pase."
+
+msgid "We're going add these records:"
+msgstr "Estos son los registros que añadiremos:"
+
+msgid "Hide Changes."
+msgstr "Ocultar los cambios"
+
+msgid "View Changes."
+msgstr "Ver los cambios"
+
+msgid ""
+"To set up this service, we're going to make some changes to the the DNS "
+"records for your domain."
+msgstr ""
+"Para configurar este servicio, haremos algunos cambios en los registros de "
+"DNS de tu dominio."
+
+msgid ""
+"When you're ready to proceed, click %(confirm)s. If this isn't what you "
+"meant to do, click %(cancel)s and we won't make any changes."
+msgstr ""
+"Cuando estés a punto para continuar, haz clic en %(confirm)s. Si no quieres "
+"que pase esto, haz clic en %(cancel)s y no haremos ningún cambio."
+
+msgid ""
+"Howdy! It looks like you want to make your domain work with "
+"{{strong}}Google's G Suite email service{{/strong}}."
+msgstr ""
+"¡Hola! Parece que quieres que tu dominio funcione con el {{strong}}servicio "
+"de correo electrónico G Suite de Google{{/strong}}."
+
+msgid ""
+"Howdy! It looks like you want to set up your domain to work with the "
+"{{strong}}Microsoft Office 365 service{{/strong}}."
+msgstr ""
+"¡Hola! Parece que quieres configurar tu dominio para que funcione con el "
+"{{strong}}servicio de Microsoft Office 365{{/strong}}."
+
+msgid ""
+"Howdy! It looks like you want to set up {{strong}}Zoho Mail "
+"service{{/strong}} to work with your domain."
+msgstr ""
+"¡Hola! Parece que quieres configurar el {{strong}}servicio Zoho "
+"Mail{{/strong}} para que funcione con tu dominio."
+
+msgid ""
+"There seems to be a problem with the information we received about the "
+"service you're trying to set up. Contact your service providers support and "
+"let them know about this error message."
+msgstr ""
+"Parece que hay un problema con la información que hemos recibido sobre el "
+"servicio que quieres configurar. Contacta con el equipo de ayuda de tu "
+"proveedor de servicios y explícales este mensaje de error."
+
+msgid "Connect to %s to see the preview"
+msgstr "Conéctate a %s para obtener la vista previa"
+
+msgid "Store (BETA)"
+msgstr "Tienda (BETA)"
+
+msgid "Real-time Backups"
+msgstr "Copias de seguridad en tiempo real"
+
+msgid "Site migration functionality"
+msgstr "Función de migración del sitio"
+
+msgid "Site Restores & Migrations"
+msgstr "Restauraciones y migraciones del sitio"
+
+msgid ""
+"We automatically scan your entire site every day for security threats and "
+"vulnerabilities. We'll thoroughly check for any suspicious activity or code,"
+" provide you with instant notifications and details when we find an issue, "
+"and help you resolve any harmful threats.\n"
+msgstr ""
+"Analizamos automáticamente todo el sitio a diario en busca de amenazas y "
+"vulnerabilidades que afecten a la seguridad. Comprobaremos cuidadosamente si"
+" hay actividad o código sospechoso, te enviaremos notificaciones y datos al "
+"instante cuando detectemos un problema, y te ayudaremos a solucionar "
+"cualquier amenaza dañina.\n"
+
+msgid ""
+"Jetpack provides instant, hassle-free access to 165 beautiful themes that "
+"can be previewed, installed, and activated with just a single click. "
+"Additional theme customization tools allow you to make your site look "
+"exactly the way you want."
+msgstr ""
+"Jetpack proporciona acceso instantáneo y sencillo a 165 temas sensacionales "
+"que se pueden previsualizar, instalar y activar con tan solo un clic. Con "
+"las herramientas adicionales de personalización de temas puedes conseguir el"
+" aspecto que deseas para tu sitio."
+
+msgid "Video hosting (Unlimited)"
+msgstr "Alojamiento de vídeo (ilimitado)"
+
+msgid "SEO tools"
+msgstr "Herramientas SEO"
+
+msgid "One-click malware fixer"
+msgstr "Herramienta para eliminar malware mediante un clic"
+
+msgid "Video Hosting (Unlimited)"
+msgstr "Alojamiento de vídeo (ilimitado)"
+
+msgid ""
+"Rank better in popular search engines, such as Google and Bing, and get your"
+" site the traffic it deserves. See live previews of your site exactly as it "
+"appears in search engines, customize meta descriptions for posts and pages, "
+"and optimize your content so that it's found easier."
+msgstr ""
+"Mejora tu clasificación en los buscadores populares, como Google y Bing, y "
+"consigue que tu sitio reciba el tráfico que se merece. Consulta vistas "
+"previas reales de tu sitio para ver su apariencia exacta en los buscadores, "
+"personalizar las descripciones meta de publicaciones y páginas, y optimizar "
+"tu contenido para que los usuarios puedan encontrarlo más fácilmente."
+
+msgid "Malware Scanning & Removal"
+msgstr "Análisis y eliminación de malware"
+
+msgid "Video hosting (13GB)"
+msgstr "Alojamiento de vídeo (13 GB)"
+
+msgid "Revenue generation"
+msgstr "Generación de ingresos"
+
+msgid "We've also checked the other services included with your plan:"
+msgstr ""
+"También hemos comprobado los demás servicios que se incluyen en tu plan:"
+
+msgid ""
+"Engage your readers with ad-free, high-speed, and unbranded video content. "
+"Fully optimized for WordPress and featuring direct integration with your "
+"post editor and media library. Detailed stats help you track views and "
+"plays."
+msgstr ""
+"Interactúa con tus lectores con contenido de vídeo sin anuncios, de alta "
+"velocidad y sin marcas. Completamente optimizado para WordPress y con "
+"integración directa en tu editor de entradas y la biblioteca multimedia. Las"
+" estadísticas detalladas te ayudan a hacer el seguimiento de las "
+"visualizaciones y reproducciones."
+
+msgid ""
+"Painlessly monetize your site. Deliver relevant, high-quality promotional "
+"content to your readers using our custom advertising program that's "
+"optimized for WordPress sites and themes."
+msgstr ""
+"Monetiza tu sitio de forma sencilla. Ofrece contenido promocional relevante "
+"y de gran calidad a tus lectores utilizando nuestro programa de publicidad "
+"personalizada que se ha optimizado para los sitios y temas de WordPress."
+
+msgid ""
+"We automatically scan your entire site every day for security threats and "
+"vulnerabilities. We'll thoroughly check for any suspicious activity or code,"
+" provide you with instant notifications and details when we find an issue, "
+"and help you resolve any harmful threats."
+msgstr ""
+"Analizamos automáticamente todo el sitio a diario en busca de amenazas y "
+"vulnerabilidades que afecten a la seguridad. Comprobaremos cuidadosamente si"
+" hay actividad o código sospechoso, te enviaremos notificaciones y datos al "
+"instante cuando detectemos un problema, y te ayudaremos a solucionar "
+"cualquier amenaza dañina."
+
+msgid "Site migration tools"
+msgstr "Herramientas de migración de sitios"
+
+msgid "Spam defense"
+msgstr "Defensa contra spam"
+
+msgid "Backup restore tools"
+msgstr "Herramientas de restauración de copias de seguridad"
+
+msgid "30-day backup archive"
+msgstr "Archivo de copias de seguridad de 30 días"
+
+msgid "active"
+msgstr "activo"
+
+msgid ""
+"We've checked your site, and %s is working smoothly. Here's a complimentary "
+"breakdown of how your site is being secured:"
+msgstr ""
+"Hemos comprobado tu sitio y %s funciona correctamente. A continuación se "
+"incluye un desglose de regalo sobre cómo protegemos tu sitio:"
+
+msgid "Good news!"
+msgstr "¡Buenas noticias!"
+
+msgid ""
+"Easily move your site to a different host, duplicate it for testing "
+"purposes, or restore a previous backup to any location. You'll also get "
+"priority migration support from our team of WordPress experts if you run "
+"into any problems."
+msgstr ""
+"Traslada fácilmente tu sitio a otro proveedor de hosting, crea un duplicado "
+"para hacer pruebas o restaura una copia de seguridad anterior en cualquier "
+"ubicación. Además, nuestro equipo de expertos de WordPress te ofrecerá ayuda"
+" prioritaria para realizar la migración si tienes dificultades."
+
+msgid "Site Restores & Migration"
+msgstr "Restauraciones y migración del sitio"
+
+msgid ""
+"Instant, hassle-free access to 165 beautiful themes that can be previewed, "
+"installed, and activated with just a single click. Additional theme "
+"customization tools allow you to make your site look exactly the way you "
+"want."
+msgstr ""
+"Acceso instantáneo y sencillo a 165 temas sensacionales que se pueden "
+"previsualizar, instalar y activar con tan solo un clic. Con las herramientas"
+" adicionales de personalización de temas puedes conseguir el aspecto que "
+"deseas para tu sitio."
+
+msgid "Professional Themes"
+msgstr "Temas profesionales"
+
+msgid ""
+"Now that you're up and running with %s, let's make sure you're up to speed "
+"on the other important services included with your plan."
+msgstr ""
+"Ahora que ya te has puesto en marcha con %s, asegúrate de seguir el ritmo "
+"del resto de servicios importantes que se incluyen en tu plan."
+
+msgid "Get to know your plan."
+msgstr "Conoce tu plan."
+
+msgid "Learn more about your plan"
+msgstr "Más información sobre tu plan"
+
+msgid ""
+"With expedited support from our team of WordPress experts, We can help you "
+"resolve any security problems or concerns, and we can walk you through all "
+"of the Jetpack features to help you succeed with your site."
+msgstr ""
+"Nuestro equipo de expertos de WordPress puede ayudarte a solucionar "
+"problemas o dudas sobre seguridad, y guiarte por todas las funciones de "
+"Jetpack para que tu sitio triunfe."
+
+msgid ""
+"We offer the industry-leading anti-spam solution for WordPress. Jetpack is "
+"built to thwart the latest tactics from  spammers — and we stop them before "
+"they get a chance to ruin your site and search engine rankings."
+msgstr ""
+"Te ofrecemos la solución contra spam para WordPress que es líder en el "
+"sector. Jetpack se ha creado para boicotear las últimas tácticas de los "
+"creadores de spam y para impedir que puedan arruinar tu sitio y las "
+"clasificaciones de los buscadores."
+
+msgid ""
+"Jetpack offers automatic backups of your entire site and all of its content,"
+" with unlimited storage. Your content is safely stored on our secure "
+"network. It's all optimized for WordPress and always available to get you "
+"back up and running as quickly as possible."
+msgstr ""
+"Jetpack crea copias de seguridad automáticas de todo tu sitio y su "
+"contenido, y viene con almacenamiento ilimitado. Tu contenido se almacena de"
+" forma segura en nuestra red. Todo está optimizado para WordPress y puedes "
+"disponer de ello siempre que quieras para ponerte en marcha lo antes "
+"posible."
+
+msgid "Daily Backups"
+msgstr "Copias de seguridad diarias"
+
+msgid ""
+"Your site is in good hands! Here are the important security services "
+"included with your plan:"
+msgstr ""
+"Tu sitio está en buenas manos. Estos son los servicios de seguridad "
+"importantes que se incluyen en tu plan:"
+
+msgid "Upgrade to a Business Plan to unlock the power of our SEO tools!"
+msgstr ""
+"Obtén la mejora del plan Business para disfrutar del poder de nuestras "
+"herramientas SEO."
+
+msgid ""
+"Preview your site's content as it will appear on Facebook, Twitter, and the "
+"WordPress.com Reader."
+msgstr ""
+"Obtén una vista previa del contenido de tu sitio tal como se mostrará en "
+"Facebook, en Twitter y en el lector de WordPress.com."
+
+msgid ""
+"Control how page titles will appear on Google search results and social "
+"networks."
+msgstr ""
+"Controla el aspecto que tendrán los títulos de página en los resultados de "
+"búsqueda de Google."
+
+msgid ""
+"Customize your front page meta data to change how your site appears to "
+"search engines."
+msgstr ""
+"Personaliza los metadatos de la página principal para cambiar el aspecto de "
+"tu sitio en los buscadores."
+
+msgid ""
+"Check out %1$sBuild a Business Website%2$s &mdash; our free ten-day, self-"
+"guided course covering the basics you need to build a business website at "
+"your own pace, or one of our other site and blogging courses at %3$sBlogging"
+" University%4$s. If you have any questions while you’re working on your "
+"site, we’d love to help!"
+msgstr ""
+"Consulta nuestro curso gratuito y autodidacta %1$sBuild a Business "
+"Website%2$s (Crear un sitio para empresas), que dura diez días y trata los "
+"aspectos básicos necesarios para crear un sitio web empresarial a tu propio "
+"ritmo. También puedes consultar uno de nuestros otros cursos sobre sitios y "
+"blogs en la %3$sBlogging University%4$s. Si tienes alguna pregunta mientras "
+"creas tu sitio, nos encantaría ayudarte."
+
+msgid ""
+"Now that you’ve learned more about how your site can be found by search "
+"engines, there are some other ways you can attract visitors to your site "
+"with our tips about %1$sGetting More Views and Traffic%2$s."
+msgstr ""
+"Ahora que ya tienes más detalles sobre cómo detectan tu sitio los "
+"buscadores, descubre otros modos para atraer a visitantes a tu sitio con "
+"nuestros consejos para obtener más visualizaciones y tráfico en %1$sGetting "
+"More Views and Traffic%2$s."
+
+msgid "Get More Traffic"
+msgstr "Conseguir más tráfico"
+
+msgid ""
+"You can try an unlimited number of themes, until you find the perfect fit "
+"for your site, so experiment away! Need some inspiration? Check out %1$sfour"
+" homepages, four different ways%2$s."
+msgstr ""
+"Puedes probar un número ilimitado de temas hasta que encuentres el más "
+"adecuado para tu sitio. Empieza a experimentar ya mismo. ¿Necesitas ideas? "
+"Mira estas %1$sfour homepages, four different ways%2$s, una entrada de blog "
+"sobre cuatro páginas de inicio con sus cuatro estilos propios."
+
+msgid ""
+"When you select a theme, ask yourself: how do you want your site to be "
+"perceived? What words would you use to describe it? Would it be professional"
+" yet friendly, or sophisticated and exclusive? Perhaps something else "
+"entirely? Brainstorm a few words and then enter those descriptors into the "
+"search box at the %1$sTheme Showcase%2$s. For example, here’s a list of "
+"themes returned by the term, \"%3$sprofessional%4$s\"."
+msgstr ""
+"Cuando elijas un tema, pregúntate lo siguiente: ¿cómo quieres que los "
+"usuarios perciban tu sitio? ¿con qué palabras lo describirías? ¿quieres que "
+"sea profesional pero cercano, o sofisticado y exclusivo? ¿o quizás quieres "
+"algo totalmente distinto? Haz una lluvia de ideas e introdúcelas en la "
+"casilla de búsqueda del %1$sExpositor de temas%2$s. Por ejemplo, a "
+"continuación tienes una lista de los temas obtenidos al introducir el "
+"término, \"%3$sprofesional%4$s\"."
+
+msgid ""
+"On WordPress.com, your theme determines the overall design and appearance of"
+" your site, including things like page layout, widget locations, and default"
+" font and color choices. Your website's look and feel is a big part of your "
+"site's success, and we've got some resources to help you get it looking just"
+" right."
+msgstr ""
+"En WordPress.com, tu tema determina el diseño y la apariencia general de tu "
+"sitio, es decir, cosas como el diseño de la página, la ubicación de los "
+"widgets y las fuentes y los colores por defecto. El aspecto de tu sitio web "
+"constituye una parte importante de su éxito y disponemos de algunos recursos"
+" para que consigas el aspecto ideal."
+
+msgid ""
+"Not sure where to begin? Check out your favorite three websites like yours. "
+"Which pages do they have? List them. How do they organize their pages into "
+"menus to form site navigation? Looking for further inspiration? Check out "
+"%sMeasure Twice, Cut Once%s, a Daily Post article that covers site pages and"
+" content planning."
+msgstr ""
+"¿No sabes bien por dónde empezar? Consulta tus tres sitios web favoritos y "
+"compáralos con el tuyo. ¿Qué páginas tienen? Ponlas en una lista. ¿Qué menús"
+" usan en sus páginas para organizarlas y navegar por el sitio? ¿Necesitas "
+"más inspiración? Consulta %sMeasure Twice, Cut Once%s, un artículo de Daily "
+"Post que trata sobre las páginas de sitios y la organización de contenido."
+
+msgid ""
+"Starting out, you might think that your site's design is the primary "
+"consideration when building a successful website. In reality, your site's "
+"content &mdash; the information and photos on your pages &mdash; does all "
+"the talking for you when you can't be there to speak with your vistors in "
+"person."
+msgstr ""
+"Al principio, es probable que pienses que el diseño de tu sitio web es lo "
+"más importante a tener en cuenta a la hora de crearlo para obtener buenos "
+"resultados. Aunque, en realidad, es el contenido de tu sitio (la información"
+" y las fotos de tus páginas) el que habla por ti cuando no puedes hablar con"
+" tus visitantes en persona."
+
+msgid ""
+"Welcome to WordPress.com! We want to share some resources to help you build "
+"the perfect site."
+msgstr ""
+"Te damos la bienvenida a WordPress.com Queremos compartir algunos recursos "
+"para ayudarte a crear el sitio perfecto."
+
+msgid "Hello! Let's create your new site."
+msgstr "¡Hola! Vamos a crear tu nuevo sitio."
+
+msgid ""
+"Get a better idea of how your Jetpack Professional subscription is working "
+"hard to keep your site and content safe."
+msgstr ""
+"Hazte una idea más aproximada de cómo la suscripción a Jetpack Profesional "
+"hace todo lo posible para mantener tu sitio y contenido seguros."
+
+msgid ""
+"Jetpack Professional has secured your site. Here is how it's keeping you "
+"safe."
+msgstr ""
+"Jetpack Profesional ya protege tu sitio. A continuación, te mostramos cómo "
+"lo hace."
+
+msgid ""
+"If you're not yet using these valuable services included with Jetpack "
+"Professional, you're missing out!"
+msgstr ""
+"Si todavía no usas estos servicios valiosos incluidos en Jetpack "
+"Profesional, ¿a qué esperas?"
+
+msgid "Don't forget about these important Jetpack Professional services."
+msgstr "No olvides usar estos servicios importantes de Jetpack Profesional."
+
+msgid ""
+"Your site is now in good hands. Let us show you how to get the most from "
+"your Jetpack Professional subscription."
+msgstr ""
+"Tu sitio está en buenas manos. Vamos a mostrarte cómo aprovechar al máximo "
+"tu suscripción a Jetpack Profesional."
+
+msgid "Welcome to Jetpack Professional. Here is what you need to know."
+msgstr ""
+"Te damos la bienvenida a Jetpack Profesional. Esto es lo que necesitas "
+"saber."
+
+msgid ""
+"Get a better idea of how your Jetpack Premium subscription is working hard "
+"to keep your site and content safe."
+msgstr ""
+"Hazte una idea más aproximada de cómo la suscripción a Jetpack Premium hace "
+"todo lo posible para mantener tu sitio y contenido seguros."
+
+msgid ""
+"Jetpack Premium has secured your site. Here is how it's keeping you safe."
+msgstr ""
+"Jetpack Premium ya protege tu sitio. A continuación, te mostramos cómo lo "
+"hace."
+
+msgid "Don't forget about these important Jetpack Premium services."
+msgstr "No olvides usar estos servicios importantes de Jetpack Premium."
+
+msgid ""
+"Your site is now in good hands. Let us show you how to get the most from "
+"your Jetpack Premium subscription."
+msgstr ""
+"Tu sitio está en buenas manos. Vamos a mostrarte cómo aprovechar al máximo "
+"tu suscripción a Jetpack Premium."
+
+msgid "Welcome to Jetpack Premium. Here is what you need to know."
+msgstr ""
+"Te damos la bienvenida a Jetpack Premium. Esto es lo que necesitas saber."
+
+msgid ""
+"Get a better idea of how your Jetpack Personal subscription is working hard "
+"to keep your site and content safe."
+msgstr ""
+"Hazte una idea más aproximada de cómo la suscripción a Jetpack Personal hace"
+" todo lo posible para mantener tu sitio y contenido seguros."
+
+msgid ""
+"Jetpack Personal has secured your site. Here is how it's keeping you safe."
+msgstr ""
+"Jetpack Personal ya protege tu sitio. A continuación, te mostramos cómo lo "
+"hace."
+
+msgid ""
+"If you're not yet using these valuable services included with Jetpack "
+"Personal, you're missing out!"
+msgstr ""
+"Si todavía no usas estos servicios valiosos incluidos en Jetpack Personal, "
+"¿a qué esperas?"
+
+msgid "Don't forget about these important Jetpack Personal services."
+msgstr "No olvides usar estos servicios importantes de Jetpack Personal."
+
+msgid ""
+"Your site is now in good hands. Let us show you how to get the most from "
+"your Jetpack Personal subscription."
+msgstr ""
+"Tu sitio está en buenas manos. Vamos a mostrarte cómo aprovechar al máximo "
+"tu suscripción a Jetpack Personal."
+
+msgid "Welcome to Jetpack Personal. Here is what you need to know."
+msgstr ""
+"Te damos la bienvenida a Jetpack Personal. Esto es lo que necesitas saber."
+
+msgid "We are unable to edit this video."
+msgstr "No podemos editar este vídeo."
+
+msgid "Select a frame to use as the thumbnail image or upload your own."
+msgstr ""
+"Elige un marco para usar como imagen en miniatura o sube uno de los tuyos."
+
+msgid "Looking for WordPress Hosting?"
+msgstr ""
+
+msgid "Looking for Hosting?"
+msgstr ""
+
+msgid ""
+"To get instant access to these features and more (for just %s per month, "
+"billed yearly), click the button below."
+msgstr ""
+"Para obtener acceso al instante a estas y a otras funciones (por tan solo %s"
+" al mes y con facturación anual), haz clic en el botón siguiente."
+
+msgid ""
+"That’s why we want to celebrate your site’s one-month birthday by offering "
+"you an opportunity to upgrade to our WordPress.com Personal plan so you can "
+"claim a unique web address (we call it a custom domain name) for your site."
+msgstr ""
+"Por eso queremos celebrar el primer mes de tu sitio y ofrecerte la "
+"oportunidad de obtener la mejora de nuestro plan WordPress.com Personal para"
+" que puedas obtener una dirección web única para tu sitio (o un nombre de "
+"dominio personalizado, como nosotros la llamamos)."
+
+msgid ""
+"I'm Anne from WordPress.com, and I wanted to congratulate you on your first "
+"month building your site %s with us. It’s our goal to continue helping you "
+"grow your audience and spread your message."
+msgstr ""
+"Mi nombre es Anne, de WordPress.com, y deseo felicitarte por tu primer mes "
+"creando tu sitio, %s, con nosotros. Nuestro objetivo es continuar ayudándote"
+" a aumentar tu público y a transmitir tu mensaje."
+
+msgid ""
+"At WordPress.com, we provide several tools that will help you customize your"
+" site, improve your search engine ranking, and attract more visitors."
+msgstr ""
+"En WordPress.com, te ofrecemos varias herramientas que te ayudarán a "
+"personalizar tu sitio, a mejorar tu clasificación en los buscadores y a "
+"atraer a más visitantes."
+
+msgid ""
+"One month ago today, you made a great decision to create your site on "
+"WordPress.com. It looks like %s is off to a great start -- high-five!"
+msgstr ""
+"El mes pasado, a día de hoy, tomaste la fabulosa decisión de crear tu sitio "
+"en WordPress.com. Parece que %s ha tenido un fantástico comienzo: "
+"¡enhorabuena!"
+
+msgid "Happy one-month birthday to %s!"
+msgstr "¡Felicidades por tu primer mes, %s!"
+
+msgid ""
+"Congratulations and welcome to WordPress.com! You've officially completed "
+"the first step in creating a successful site by signing up for %s."
+msgstr ""
+"Te damos la bienvenida a WordPress.com. ¡Felicidades! Al registrarte a %s "
+"has completado oficialmente el primer paso necesario para crear un sitio "
+"excelente."
+
+msgid "Order alphabetically"
+msgstr "Ordenar alfabéticamente"
+
+msgid "Order chronologically"
+msgstr "Ordenar cronológicamente"
+
+msgid "Edit plugin settings"
+msgstr "Editar la configuración del plugin"
+
+msgid "We couldn't load your notification settings, please try again."
+msgstr ""
+"No hemos podido cargar la configuración de las notificaciones. Inténtalo de "
+"nuevo."
+
+msgid "Rewind error: %s"
+msgstr "Error al retroceder: %s"
+
+msgid "Search & Social"
+msgstr "Búsqueda y Social"
+
+msgid "Start My Subscription"
+msgstr "Empezar mi suscripción"
+
+msgid ""
+"So if you want to start generating ad revenue from your site, click the "
+"button below to start your %s subscription."
+msgstr ""
+"Si quieres empezar a generar ingresos por los anuncios de tu sitio, haz clic"
+" en el siguiente botón para empezar tu suscripción a %s."
+
+msgid ""
+"A small business idea is often built with little steps made one by one, "
+"WordPress makes is easy to do so."
+msgstr ""
+"La idea de un negocio pequeño suele hacerse realidad realizando un pequeño "
+"paso detrás de otro. WordPress te ayuda a conseguirlo."
+
+msgid ""
+"With the professional looking website, I was even able to sell my board "
+"games and gain exposure to resellers. You can now find my games in brick and"
+" mortar shops around Australia. WordPress allowed me to add pages to my "
+"website when I needed them."
+msgstr ""
+"Con el sitio web de aspecto profesional, incluso pude vender mis juegos de "
+"mesa y publicitarme ante los distribuidores. Ahora puedes encontrar mis "
+"juegos en tiendas físicas por toda Australia. WordPress me permitió añadir "
+"páginas a mi sitio web cuando las necesité."
+
+msgid ""
+"Having my own blog gave me a platform to show my work. Once I started "
+"getting some attention, I paid for the Premium Plan, which meant I could be "
+"more creative with how my blog looked. I have been really happy with the "
+"result and since I have updated my blog I have had lots more attention. I "
+"now have about 6000 followers, all over the world."
+msgstr ""
+"Tener mi propio blog me dio una plataforma en la que mostrar mi trabajo. "
+"Cuando la gente se empezó a fijar en mí, pagué el plan Premium para "
+"conseguir que mi blog fuera más creativo. Estoy muy contento con el "
+"resultado y desde que obtuve la mejora para el blog, he recibido muchas más "
+"visitas. Ahora tengo unos 6000 seguidores de todo el mundo."
+
+msgid ""
+"Perfect for entrepreneurs and freelancers who are looking for a little extra"
+" cash on the side"
+msgstr ""
+"Es perfecto para emprendedores y autónomos que quieren ganar un poco dinero "
+"adicional"
+
+msgid ""
+"13 GB of storage space for photos, videos, and audio files that will help "
+"you spread your message"
+msgstr ""
+"13 GB de espacio de almacenamiento para fotos, vídeos y archivos de audio "
+"que te ayudarán a transmitir tu mensaje"
+
+msgid "The ability to monetize your website with ads"
+msgstr "La posibilidad de monetizar tu sitio web con anuncios"
+
+msgid ""
+"Remember, when you sign up for %s, you’ll be well on your way to creating an"
+" awesome website that attracts lots of visitors and makes you money."
+msgstr ""
+"Recuerda, cuando te inscribas en %s estarás más cerca de crear un sitio web "
+"fantástico para atraer muchos visitantes y ganar dinero."
+
+msgid "Complete My Upgrade"
+msgstr "Completar mi mejora"
+
+msgid "To finish upgrading your site to %s, click the button below."
+msgstr ""
+"Para acabar de obtener la mejora %s para tu sitio, haz clic en el botón "
+"siguiente."
+
+msgid "Perfect for bloggers who want to grow their audience"
+msgstr "Ideal para blogueros que quieren aumentar su público"
+
+msgid ""
+"6 GB of storage space for images, documents, and audio so you can spread "
+"your message in different formats"
+msgstr ""
+"Disfruta de 6 GB de espacio de almacenamiento para imágenes, documentos y "
+"archivos de audio, para que puedas transmitir tu mensaje en diferentes "
+"formatos"
+
+msgid "A custom domain name that will help you get more visitors to your site"
+msgstr ""
+"Un nombre de dominio personalizado que te ayudará a conseguir más visitantes"
+" para tu sitio"
+
+msgid ""
+"Then, you’ll be well on your way to creating the site you’ve always wanted "
+"and that attracts lots of visitors every day."
+msgstr ""
+"Así, estarás más cerca de crear el sitio que siempre has querido y de atraer"
+" muchos visitantes cada día."
+
+msgid "All you have to do is finish putting in your information."
+msgstr "Solo tienes que acabar de introducir tu información."
+
+msgid ""
+"It looks like you were <i>this</iclose to upgrading your site to %s. What a "
+"great decision you were about to make!"
+msgstr ""
+"Parece que estuviste <i>muy</icerca de obtener la mejora %s para tu sitio; "
+"habría sido una gran decisión."
+
+msgid "Activate My Subscription"
+msgstr "Activar mi suscripción"
+
+msgid ""
+"So if you want to start attracting more visitors to your site, click the "
+"link below to activate your %s subscription."
+msgstr ""
+"Si quieres empezar a atraer más visitantes a tu sitio, haz clic en el "
+"siguiente enlace para activar tu suscripción a %s."
+
+msgid ""
+"A small business idea is often built with little steps made one by one, "
+"WordPress.com makes is easy to do so."
+msgstr ""
+"La idea de un negocio pequeño suele hacerse realidad realizando un pequeño "
+"paso detrás de otro. WordPress.com te ayuda a conseguirlo."
+
+msgid ""
+"With the professional looking website, I was even able to sell my board "
+"games and gain exposure to resellers. You can now find my games in brick and"
+" mortar shops around Australia. WordPress.com allowed me to add pages to my "
+"website when I needed them."
+msgstr ""
+"Con el sitio web de aspecto profesional, incluso pude vender mis juegos de "
+"mesa y publicitarme ante los distribuidores. Ahora puedes encontrar mis "
+"juegos en tiendas físicas por toda Australia. WordPress.com me permitió "
+"añadir páginas a mi sitio web cuando las necesité."
+
+msgid ""
+"WordPress.com was a great choice of platform to start a blog. The platform "
+"grew with my ideas and I was able to build a website around my blog in just "
+"a few clicks."
+msgstr ""
+"WordPress.com fue la mejor elección de plataforma para empezar mi blog. La "
+"plataforma creció con mis ideas y pude crear un sitio web a partir de mi "
+"blog con tan solo unos clics."
+
+msgid ""
+"WordPress.com is very user-friendly. It’s pretty intuitive, and it creates "
+"beautiful websites."
+msgstr ""
+"WordPress.com es muy fácil de usar. Es intuitivo y te permite crear sitios "
+"web atractivos."
+
+msgid "Just check out what some of our users have to say:"
+msgstr "Echa un vistazo a lo que dicen algunos de nuestros usuarios:"
+
+msgid ""
+"All the tools that come with WordPress.com Personal and Premium, including a"
+" custom domain name and the ability to monetize your site with ads"
+msgstr ""
+"Todas las herramientas que vienen con WordPress.com Personal y Premium, como"
+" el nombre de dominio personalizado y la posibilidad de monetizar tu sitio "
+"con anuncios"
+
+msgid ""
+"Install third-party plugins and themes so you can get the exact look and "
+"functionality you want"
+msgstr ""
+"Instalación de plugins y temas de terceros para obtener el aspecto y las "
+"funcionalidades que quieres"
+
+msgid ""
+"Advanced SEO tools that help you beat your competition on the search engines"
+msgstr ""
+"Herramientas de SEO avanzadas para superar a tu competencia en los "
+"buscadores."
+
+msgid "That’s because you’ll get:"
+msgstr "Porque obtendrás:"
+
+msgid ""
+"Remember, when you sign up for %s, you’ll be well on your way to ranking "
+"higher in search engines, attracting more visitors, and making more money."
+msgstr ""
+"Recuerda, cuando te inscribas en %s estarás más cerca de obtener una mejor "
+"clasificación en los buscadores, de atraer a más visitantes y de ganar más "
+"dinero."
+
+msgid ""
+"Looks like you were <i>this close</ito taking your site to the next level "
+"with the advanced SEO tools in %s. What a great decision you were about to "
+"make!"
+msgstr ""
+"Parece que estuviste <i>muy</icerca de llevar tu sitio al siguiente nivel "
+"con las herramientas de SEO avanzadas en %s; habría sido una gran decisión."
+
+msgid "You already have this plan from this partner."
+msgstr "Ya tienes este plan de este socio."
+
+msgid "Choose the software powering %s%% of the internet."
+msgstr ""
+"Quédate con el software responsable del %s%% del contenido de Internet."
+
+msgid ""
+"%s plans now offer access to thousands of WordPress plugins and themes!"
+msgstr ""
+"Los planes %s ahora dan acceso a miles de plugins y temas de WordPress."
+
+msgid "Display {{field /}} %s per page"
+msgstr "Mostrar {{field /}} %s por página"
+
+msgid "Submitting for Review..."
+msgstr "Enviando a revisión..."
+
+msgid "Publishing..."
+msgstr "Publicando..."
+
+msgid "All selected comments approved."
+msgstr "Se han aprobado todos los comentarios seleccionados."
+
+msgid "All selected comments unapproved."
+msgstr "No se han aprobado los comentarios seleccionados."
+
+msgid "All selected comments marked as spam."
+msgstr "Se han marcado como spam todos los comentarios seleccionados."
+
+msgid "All selected comments moved to trash."
+msgstr "Se han movido a la papelera todos los comentarios seleccionados."
+
+msgid "All selected comments deleted permanently."
+msgstr "Se han eliminado permanentemente todos los comentarios seleccionados."
+
+msgid "Show tag counts"
+msgstr "Mostrar contador de etiquetas"
+
+msgid "URL to the %s video source file"
+msgstr "URL al archivo original del vídeo %s"
+
+msgid ""
+"Sorry, we can&#8217;t display the video file type selected. Please select a "
+"supported video file (%1$s) or stream (YouTube or Vimeo) instead."
+msgstr ""
+"La siento, no podemos reproducir el tipo de archivo de vídeo seleccionado. "
+"Por favor, elige un tipo de archivo compatible (%1$s) o incrustado (YouTube "
+"o Vimeo) en su lugar."
+
+msgid "Video Widget"
+msgstr "Widget de vídeo"
+
+msgid "Video Widget (%d)"
+msgid_plural "Video Widget (%d)"
+msgstr[0] "Widget de vídeo (%d)"
+msgstr[1] "Widgets de vídeo (%d)"
+
+msgid ""
+"We can&#8217;t find that video. Check your <a href=\"%s\">media "
+"library</aand make sure it wasn&#8217;t deleted."
+msgstr ""
+"No podemos encontrar ese vídeo. Revisa tu <a href=\"%s\">biblioteca de "
+"medios</ay asegúrate que no fue borrado."
+
+msgctxt ""
+"label for button in the video widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Video"
+msgstr "Editar vídeo"
+
+msgctxt ""
+"label for button in the video widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Video"
+msgstr "Reemplazar vídeo"
+
+msgctxt "label for button in the video widget"
+msgid "Add Video"
+msgstr "Añade un vídeo"
+
+msgid ""
+"Displays a video from the media library or from YouTube, Vimeo, or another "
+"provider."
+msgstr ""
+"Muestra un vídeo de la biblioteca de medios o de YouTube, Vimeo u otro "
+"proveedor."
+
+msgid "Title for the widget"
+msgstr "Título para el widget"
+
+msgid "URL to the media file"
+msgstr "URL al archivo de medios"
+
+msgid "Attachment post ID"
+msgstr "ID del adjunto de la entrada"
+
+msgid ""
+"Looks like this isn&#8217;t the correct kind of file. Please link to an "
+"appropriate file instead."
+msgstr ""
+"Parece que este no es un tipo de archivo correcto. Por favor, enlaza a un "
+"tipo de archivo válido."
+
+msgid "Media Widget"
+msgstr "Widget de medios"
+
+msgid "Media Widget (%d)"
+msgid_plural "Media Widget (%d)"
+msgstr[0] "Widget de medios (%d)"
+msgstr[1] "Widgets de medios (%d)"
+
+msgid ""
+"We can&#8217;t find that file. Check your <a href=\"%s\">media library</aand"
+" make sure it wasn&#8217;t deleted."
+msgstr ""
+"No podemos encontrar ese archivo. Revisa tu <a href=\"%s\">biblioteca de "
+"medios</ay asegúrate que no fue borrado."
+
+msgid "Add to Widget"
+msgstr "Añadir al widget"
+
+msgctxt ""
+"label for button in the media widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Media"
+msgstr "Editar medios"
+
+msgctxt ""
+"label for button in the media widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Media"
+msgstr "Reemplazar medios"
+
+msgctxt "label for button in the media widget"
+msgid "Add Media"
+msgstr "Añadir archivo multimedia"
+
+msgid "No media selected"
+msgstr "No se ha seleccionado ningún archivo de medios"
+
+msgid "A media item."
+msgstr "Un medio."
+
+msgid "Current image: %s"
+msgstr "Imagen actual: %s"
+
+msgid "Image Widget"
+msgstr "Widget de imagen"
+
+msgid "Image Widget (%d)"
+msgid_plural "Image Widget (%d)"
+msgstr[0] "Widget de imagen (%d)"
+msgstr[1] "Widget de imágenes (%d)"
+
+msgid ""
+"We can&#8217;t find that image. Check your <a href=\"%s\">media "
+"library</aand make sure it wasn&#8217;t deleted."
+msgstr ""
+"No podemos encontrar esa imagen. Revisa la <a href=\"%s\">biblioteca de "
+"medios</ay asegúrate que no fue borrado."
+
+msgctxt ""
+"label for button in the image widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Image"
+msgstr "Editar imagen"
+
+msgctxt ""
+"label for button in the image widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Image"
+msgstr "Reemplazar imagen"
+
+msgctxt "label for button in the image widget"
+msgid "Add Image"
+msgstr "Añade una imagen"
+
+msgid "Displays an image."
+msgstr "Mostrar una imagen."
+
+msgid "Unable to preview media due to an unknown error."
+msgstr ""
+"No ha sido posible previsualizar el archivo de medios debido a un error "
+"desconocido."
+
+msgid "URL to the %s audio source file"
+msgstr "URL al archivo original del audio %s"
+
+msgid ""
+"Looks like this isn&#8217;t the correct kind of file. Please link to an "
+"audio file instead."
+msgstr ""
+"No parece ser un tipo de archivo correcto. Por favor, enlaza a un archivo de"
+" audio."
+
+msgid "Audio Widget"
+msgstr "Widget de audio"
+
+msgid "Audio Widget (%d)"
+msgid_plural "Audio Widget (%d)"
+msgstr[0] "Widget de audio (%d)"
+msgstr[1] "Widgets de audio (%d)"
+
+msgid ""
+"We can&#8217;t find that audio file. Check your <a href=\"%s\">media "
+"library</aand make sure it wasn&#8217;t deleted."
+msgstr ""
+"No podemos encontrar ese archivo de audio. Revisa tu <a "
+"href=\"%s\">biblioteca de medios</ay asegúrate que no fue borrado."
+
+msgctxt ""
+"label for button in the audio widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Edit Audio"
+msgstr "Editar audio"
+
+msgctxt ""
+"label for button in the audio widget; should preferably not be longer than "
+"~13 characters long"
+msgid "Replace Audio"
+msgstr "Reemplazar audio"
+
+msgctxt "label for button in the audio widget"
+msgid "Add Audio"
+msgstr "Añade un audio"
+
+msgid "No audio selected"
+msgstr "Ningún audio seleccionado"
+
+msgid "Displays an audio player."
+msgstr "Muestra un reproductor de audio."
+
+msgctxt "theme"
+msgid "Deleted!"
+msgstr "¡Eliminado!"
+
+msgctxt "plugin"
+msgid "Deleted!"
+msgstr "¡Eliminado!"
+
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "Instalar %s ahora"
+
+msgctxt "plugin"
+msgid "%s update failed"
+msgstr "La actualización de %s falló"
+
+msgctxt "plugin"
+msgid "%s updated!"
+msgstr "¡%s actualizado!"
+
+msgctxt "plugin"
+msgid "Updating %s..."
+msgstr "Actualizando %s..."
+
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr "Actualizar %s ahora"
+
+msgctxt "theme"
+msgid "Updated!"
+msgstr "¡Actualizado!"
+
+msgctxt "plugin"
+msgid "Updated!"
+msgstr "¡Actualizado!"
+
+msgctxt "no captions/subtitles"
+msgid "None"
+msgstr "Ninguno"
+
+msgid "%1$s must be less than or equal to %2$d"
+msgstr "%1$s debe ser menor o igual a %2$d"
+
+msgid "%1$s must be less than %2$d"
+msgstr "%1$s debe ser menor que %2$d"
+
+msgid "%1$s must be greater than or equal to %2$d"
+msgstr "%1$s debe ser mayor o igual a %2$d"
+
+msgid "%1$s must be greater than %2$d"
+msgstr "%1$s debe ser mayor que %2$d"
+
+msgid "Limit result set to users with one or more specific slugs."
+msgstr "Limitar el resultado a usuarios con uno o más slugs específicos."
+
+msgid "Limit result set to terms with one or more specific slugs."
+msgstr "Limitar el resultado a términos con uno o más slugs específicos."
+
+msgid "All features, supported by the post type."
+msgstr "Todas las características, compatibles con el tipo de contenido."
+
+msgid ""
+"The page number requested is larger than the number of pages available."
+msgstr ""
+"El número de página solicitada es mayor que el número de páginas "
+"disponibles."
+
+msgid ""
+"The password for the parent post of the comment (if the post is password "
+"protected)."
+msgstr ""
+"La contraseña de la entrada superior del comentario (si la entrada está "
+"protegida por contraseña)."
+
+msgctxt "page"
+msgid "Remove featured image"
+msgstr "Borrar imagen destacada"
+
+msgctxt "post"
+msgid "Remove featured image"
+msgstr "Borrar imagen destacada"
+
+msgid "%1$s is deprecated. The callback from %2$s is used instead."
+msgstr "%1$s está obsoleto. Se debe utilizar en su lugar la función %2$s."
+
+msgid "Suggested image dimensions: %1$s by %2$s pixels."
+msgstr "Dimensiones de imagen sugeridas: %1$s por %2$s píxeles."
+
+msgid "(no author)"
+msgstr "(sin autor)"
+
+msgid ""
+"There is an extra %1$s, indicating an end to a comment. Be sure that there "
+"is an opening %2$s for every closing %1$s."
+msgstr ""
+"Hay un %1$s adicional, que indica el cierre de un comentario. Asegúrate de "
+"que haya un %2$s de apertura para cada %1$s de cierre."
+
+msgid "There is %1$s unclosed code comment. Close each comment with %2$s."
+msgid_plural ""
+"There are %1$s unclosed code comments. Close each comment with %2$s."
+msgstr[0] ""
+"Hay %1$s comentario con código sin cerrar. Cierra cada comentario con %2$s."
+msgstr[1] ""
+"Hay %1$s comentarios con código sin cerrar. Cierra cada comentario con %2$s."
+
+msgid ""
+"Your double quotes %1$s are uneven. Make sure there is a closing %1$s for "
+"every opening %1$s."
+msgstr ""
+"Las dobles comillas %1$s no son iguales. Asegúrate de que haya unas %1$s de "
+"cierre por cada %1$s de apertura."
+
+msgid ""
+"Your parentheses %1$s are imbalanced. Make sure there is a closing %2$s for "
+"every opening %3$s."
+msgstr ""
+"El número de paréntesis %1$s es impar. Asegúrate de que haya un %2$s de "
+"cierre por cada %3$s de apertura."
+
+msgid ""
+"Your brackets %1$s are imbalanced. Make sure there is a closing %2$s for "
+"every opening %3$s."
+msgstr ""
+"El número de corchetes %1$s es impar. Asegúrate de que haya un %2$s de "
+"cierre por cada %3$s de apertura."
+
+msgid ""
+"Your curly brackets %1$s are imbalanced. Make sure there is a closing %2$s "
+"for every opening %3$s."
+msgstr ""
+"El número de llaves %1$s es impar. Asegúrate de que haya una %2$s de cierre "
+"por cada %3$s de apertura."
+
+msgid "Sorry, comments are not allowed for this item."
+msgstr "Lo siento, los comentarios no están disponibles para este elemento"
+
+msgid "Sorry, you are not allowed to make proxied oEmbed requests."
+msgstr ""
+"Lo siento, no tienes permisos para hacer peticiones de oEmbed con proxi."
+
+msgid ""
+"Whether to perform an oEmbed discovery request for non-whitelisted "
+"providers."
+msgstr ""
+"Si se realizará una petición de descubrimiento de oEmbed a proveedores que "
+"no estén en lista blanca."
+
+msgid "The maximum height of the embed frame in pixels."
+msgstr "La altura máxima del marco de incrustación en píxeles."
+
+msgid "The maximum width of the embed frame in pixels."
+msgstr "El ancho máximo del marco de incrustación en píxeles."
+
+msgid "The oEmbed format to use."
+msgstr "El formato oEmbed a utilizar."
+
+msgid "The URL of the resource for which to fetch oEmbed data."
+msgstr "La URL del recurso del que recuperar los datos oEmbed."
+
+msgid ""
+"You can navigate to other pages on your site while using the Customizer to "
+"view and edit the widgets displayed on those pages."
+msgstr ""
+"Puedes navegar a otras páginas de tu sitio mientras estás usando el "
+"Personalizador para ver y modificar los widgets mostrados en esas páginas."
+
+msgid ""
+"Your theme has %s widget area, but this particular page doesn&#8217;t "
+"display it."
+msgid_plural ""
+"Your theme has %s widget areas, but this particular page doesn&#8217;t "
+"display them."
+msgstr[0] ""
+"Tu tema tiene %s área de widgets, pero esta página en concreto no la "
+"muestra."
+msgstr[1] ""
+"Tu tema tiene %s áreas de widgets, pero esta página en concreto no las "
+"muestra."
+
+msgid ""
+"Your theme has 1 widget area, but this particular page doesn&#8217;t display"
+" it."
+msgstr ""
+"Tu tema tiene 1 área de widgets, pero esta página en concreto no las "
+"muestra."
+
+msgid ""
+"Your theme has %s other widget area, but this particular page doesn&#8217;t "
+"display it."
+msgid_plural ""
+"Your theme has %s other widget areas, but this particular page doesn&#8217;t"
+" display them."
+msgstr[0] ""
+"Tu tema tiene %s área de widget más, pero esta página en concreto no la "
+"muestra."
+msgstr[1] ""
+"Tu tema tiene %s áreas de widget más, pero esta página en concreto no las "
+"muestra."
+
+msgid ""
+"Your theme has 1 other widget area, but this particular page doesn&#8217;t "
+"display it."
+msgstr ""
+"Tu tema tiene 1 área de widget más, pero esta página en concreto no la "
+"muestra."
+
+msgid "Show details."
+msgstr "Mostrar detalles."
+
+msgid ""
+"Assign a parent term to create a hierarchy. The term Jazz, for example, "
+"would be the parent of Bebop and Big Band."
+msgstr ""
+"Asigna un término superior para crear una jerarquía. El término jazz, por "
+"ejemplo, sería el superior de bebop y big band."
+
+msgid ""
+"We sent your question to our {{strong}}Expert Users{{/strong}}. You will "
+"hear back via email as soon as an Expert has responded (usually within an "
+"hour). For now you can close this window or continue using WordPress.com."
+msgstr ""
+"Hemos enviado tu pregunta a nuestros {{strong}}usuarios expertos{{/strong}}."
+" Te enviaremos un correo electrónico en cuanto un experto haya respondido "
+"(normalmente en una hora). Por ahora puedes cerrar esta ventana o seguir "
+"usando WordPress.com."
+
+msgid ""
+"Verity - Portfolio Slash Blog WordPress Theme is a minimalistic modern theme"
+" for bloggers and creative professionals, who are looking for a simple-yet-"
+"stylish online presence. We have sacrificed over-the-top design elements so "
+"that your website looks sleek and straightforward, allowing visitors to "
+"concentrate on the content you are offering and the value they can get from "
+"it. It comes with necessary tools and features, like Featured Content and "
+"displaying multiple portfolios, to empower webmasters of any skill level to "
+"create quality websites in a short amount of time, without having to write a"
+" line of code at any point."
+msgstr ""
+
+msgid ""
+"Howdy! Here’s the link you requested from the WordPress mobile app. Open it "
+"using the device on which the app is installed. It will allow you to log in "
+"to your account with just one tap. Enjoy!"
+msgstr ""
+"¡Hola! Aquí tienes el enlace que solicitaste desde la aplicación móvil de "
+"WordPress. Ábrelo desde el dispositivo en el que tienes la aplicación "
+"instalada. Con él podrás acceder a tu cuenta con un solo toque. ¡Disfrútalo!"
+
+msgid ""
+"%(selectedDomainName)s has been transferred to site: %(targetSiteName)s"
+msgstr "Se ha transferido %(selectedDomainName)s al sitio: %(targetSiteName)s"
+
+msgid ""
+"Please choose a site with a paid plan you're an administrator on to transfer"
+" {{strong}}%(domainName)s{{/strong}} to:"
+msgstr ""
+"Escoge un sitio con un plan de pago y del que seas administrador para "
+"transferir {{strong}}%(domainName)s{{/strong}} a:"
+
+msgid ""
+"Please choose a site you're an administrator on to transfer "
+"{{strong}}%(domainName)s{{/strong}} to:"
+msgstr ""
+"Escoge un sitio del que seas administrador para transferir "
+"{{strong}}%(domainName)s{{/strong}} a:"
+
+msgid "Transfer Domain To Another Site"
+msgstr "Transfiere el dominio a otro sitio"
+
+msgid ""
+"Do you want to transfer {{strong}}%(domainName)s{{/strong}} to site "
+"{{strong}}%(targetSiteName)s{{/strong}}?"
+msgstr ""
+"¿Quieres transferir {{strong}}%(domainName)s{{/strong}} al sitio "
+"{{strong}}%(targetSiteName)s{{/strong}}?"
+
+msgid "Transfer to another WordPress.com site"
+msgstr "Trasfiere a otro sitio de WordPress.com"
+
+msgid "Problem deactivating rewind: %(message)s"
+msgstr ""
+"Se ha producido un problema al desactivar la opción para retroceder: "
+"%(message)s"
+
+msgid "Problem activating rewind: %(message)s"
+msgstr ""
+"Se ha producido un problema al activar la opción para retroceder: "
+"%(message)s"
+
+msgid "Restore Site"
+msgstr "Restaurar sitio"
+
+msgid "To proceed please confirm this restore on your site %(siteTitle)s"
+msgstr "Para continuar, confirma la restauración en tu sitio %(siteTitle)s"
+
+msgid "Restoring to {{b}}%(time)s{{/b}}"
+msgstr "Restaurando a la versión de las {{b}}%(time)s{{/b}}"
+
+msgid ""
+"This will remove all content and options created or changed since then."
+msgstr ""
+"Esta acción eliminará todo el contenido y las opciones que has creado o "
+"cambiado desde entonces."
+
+msgid "Read more about site restores"
+msgstr "Más información sobre la restauración de sitios"
+
+msgid "Your site has been successfully restored"
+msgstr "Tu sitio se ha restaurado correctamente"
+
+msgid "We successfully restored your site back to %s!"
+msgstr "Hemos restaurado tu sitio a la versión de las %s correctamente."
+
+msgid "Currently restoring your site"
+msgstr "Estamos restaurando tu sitio"
+
+msgid ""
+"We're in the process of restoring your site back to %s. You'll be notified "
+"once it's complete."
+msgstr ""
+"Estamos restaurando tu sitio a la versión de las %s. Te avisaremos cuando "
+"esté listo."
+
+msgid "Problem restoring your site"
+msgstr "Se ha producido un problema al restaurar tu sitio"
+
+msgid "We came across a problem while trying to restore your site."
+msgstr "Hemos encontrado un problema al intentar restaurar tu sitio."
+
+msgid ""
+"{{strong}}Best for Small Business:{{/strong}} Power your business website "
+"with custom plugins and themes, unlimited premium and business theme "
+"templates, Google Analytics support, unlimited storage, and the ability to "
+"remove WordPress.com branding."
+msgstr ""
+"{{strong}}Ideal para pequeñas empresas:{{/strong}} mejora el sitio web de tu"
+" empresa con temas y plugins personalizados, plantillas de temas premium y "
+"para empresas ilimitados, ayuda de Google Analytics, almacenamiento "
+"ilimitado y la posibilidad de eliminar la marca WordPress.com."
+
+msgid "Can I install plugins?"
+msgstr "¿Puedo instalar plugins?"
+
+msgid ""
+"Yes! With the WordPress.com Business plan you can search for and install "
+"external plugins. All plans already come with a custom set of plugins "
+"tailored just for them. {{a}}Check out all included plugins{{/a}}."
+msgstr ""
+"Sí, con el plan WordPress.com Business puedes buscar e instalar plugins "
+"externos. Todos los planes vienen con un conjunto de plugins personalizado "
+"pensado para cada plan. {{a}}Consulta todos los plugins que incluyen{{/a}}."
+
+msgid "Can I upload my own theme?"
+msgstr "¿Puedo subir mi propio tema?"
+
+msgid ""
+"Yes! With the WordPress.com Business plan you can upload any theme you'd "
+"like. All plans give you access to our {{a}}directory of free and premium "
+"themes{{/a}}. These are among the highest-quality WordPress themes, hand-"
+"picked and reviewed by our team."
+msgstr ""
+"Sí, con el plan WordPress.com Business puedes subir el tema que quieras. "
+"Todos los planes te permiten acceder a nuestro {{a}}directorio de temas "
+"gratuitos y premium{{/a}}. Estos son los temas con más calidad de "
+"WordPress.com, elegidos y revisados cuidadosamente por nuestro equipo."
+
+msgid ""
+"Plans add extra features to your site, but they do not affect the content of"
+" your site or your site's followers."
+msgstr ""
+"Los planes añaden funciones adicionales a tu sitio, pero no afectan al "
+"contenido ni a los seguidores."
+
+msgid "Upload Themes"
+msgstr "Subir temas"
+
+msgid ""
+"Create a professional business website that works for you with WordPress.com"
+msgstr ""
+"Crea un sitio web de empresa profesional adaptado a tus necesidades con "
+"WordPress.com"
+
+msgid "Best Plan"
+msgstr "El mejor plan"
+
+msgid ""
+"To take advantage of the limited-time discount you heard about on the "
+"Bloguettes webinar, use the promo code %s for a 10%% discount on any "
+"purchase, or %s for a 25%% discount on our Business Plan, when you check "
+"out."
+msgstr ""
+"Para aprovechar el descuento limitado del que has oído hablar en el "
+"seminario web de Bloguettes, al finalizar la compra usa el código "
+"promocional %s para obtener un 10 % de descuento en cualquier compra o el "
+"código %s para obtener un 25 % de descuento en nuestro plan Business."
+
+msgid "Questions about your new website? We’ve got answers."
+msgstr "¿Tienes preguntas sobre tu nuevo sitio web? Tenemos las respuestas."
+
+msgid ""
+"Launch your business' online presence with a feature-packed WordPress.com "
+"website."
+msgstr ""
+"Catapulta la presencia en línea de tu negocio con un sitio web de "
+"WordPress.com lleno de funciones."
+
+msgid "Let's get down to business"
+msgstr "Pongámonos manos a la obra"
+
+msgid "Watch Kay's story"
+msgstr "Mira la historia de Kay"
+
+msgid ""
+"WordPress teamed with Rebrand Cities to help launch their effort to get 100 "
+"small businesses online with websites. Real people, real websites, real "
+"growth. Watch their story, then start your own."
+msgstr ""
+"WordPress colaboró con Rebrand Cities para conseguir que 100 pequeñas "
+"empresas tengan presencia en línea con sus sitios web. Todo es real: la "
+"gente real, los sitios web y el crecimiento de las empresas. Mira sus "
+"historias y empieza a crear la tuya."
+
+msgid "Reshaping Detroit, with love"
+msgstr "Remodelando Detroit con amor"
+
+msgid "Start Your Website"
+msgstr "Empieza a crear tu sitio web"
+
+msgid ""
+"Retail, corporate, hospitality, restaurants, creative services—there's a "
+"WordPress site for every business. Elegant themes and feature-rich tools "
+"help you make a website that fits what you do."
+msgstr ""
+"Tiendas, corporaciones, hotelería, restaurantes, servicios creativos... hay "
+"un sitio de WordPress para cada negocio. Los temas elegantes y las múltiples"
+" funciones de las herramientas te ayudan a crear un sitio web que encaja con"
+" lo que haces."
+
+msgid "Built for the business you're in"
+msgstr "Pensado para tu negocio"
+
+msgid ""
+"Live chat, email, support pages, forums, guided courses, expert advice—we’re"
+" in the business of helping your business succeed online."
+msgstr ""
+"Chat en directo, correo electrónico, páginas de ayuda, foros, cursos "
+"guiados, consejos de expertos: tenemos todo lo necesario para a que tu "
+"negocio triunfe en línea."
+
+msgid ""
+"From phones to laptops, our websites look good on every device. Download the"
+" app for iOS, Android, and Mac desktop and manage and update your website "
+"anywhere, any time."
+msgstr ""
+"Nuestros sitios web se ven bien en todos los dispositivos, desde teléfonos a"
+" portátiles. Descarga la aplicación para iOS, Android y Mac para poder "
+"gestionar y actualizar tu sitio web en cualquier momento, estés donde estés."
+
+msgid ""
+"Know what your visitors are viewing, where they’re coming from and how they "
+"found you. Useful charts and stats help you keep your finger on the pulse."
+msgstr ""
+"Averigua lo que ven tus visitantes, de dónde son y cómo te han encontrado. "
+"Gráficos y estadísticas útiles para mantenerte al día."
+
+msgid "Powerful insights"
+msgstr "Detalles útiles"
+
+msgid ""
+"Choose from hundreds of modern, sophisticated themes that look great on any "
+"size screen. Get a professional-looking design without hiring a professional"
+" designer."
+msgstr ""
+"Elige entre cientos de temas modernos y sofisticados que se ven genial en "
+"cualquier pantalla. Consigue un diseño de aspecto profesional sin tener que "
+"contratar un diseñador profesional."
+
+msgid "Professional design"
+msgstr "Diseño profesional"
+
+msgid ""
+"Stake your claim and register your domain name right on WordPress.com. "
+"Choose from .com, .org, .net, .info, .biz, and more. Get the name that’s "
+"right for you."
+msgstr ""
+"Reclama lo que es tuyo y registra tu nombre de dominio en WordPress.com. "
+"Elige entre .com, .org, .net, .info, .biz y muchos más. Consigue el nombre "
+"perfecto para ti."
+
+msgid "Your place on the internet"
+msgstr "Tu espacio en Internet"
+
+msgid ""
+"A simple, intuitive platform, plus all-in-one domain registration, website "
+"design, and hosting, means you can stay focused on your business."
+msgstr ""
+"Gracias a la combinación de una plataforma simple y un único lugar con "
+"registro del dominio, diseño de sitios web y hosting, puedes centrarte en tu"
+" negocio."
+
+msgid "Why you'll love WordPress.com"
+msgstr "Motivos para enamorarte de WordPress.com"
+
+msgid "Get the tools you need with WordPress.com."
+msgstr "Consigue las herramientas que necesitas con WordPress.com."
+
+msgid ""
+"Not a social media profile. More than a page with a logo. This is your "
+"business, online."
+msgstr ""
+"No es un perfil de redes sociales y es más que una página con un logotipo. "
+"Es el lugar en línea para tu negocio."
+
+msgid "Get a website that works."
+msgstr "Consigue un sitio web que funcione bien."
+
+msgid "Watch our journey in Detroit"
+msgstr "Mira nuestro viaje por Detroit"
+
+msgid "Professional email and so much more."
+msgstr "Correo electrónico profesional y mucho más."
+
+msgid ""
+"We've partnered with Google to offer you email, storage, docs, calendars, "
+"and more integrated with your site."
+msgstr ""
+"Nos hemos asociado con Google para integrar en tu sitio las opciones de "
+"correo electrónico, almacenamiento, documentos, calendarios y muchas más."
+
+msgid "%(price)s billed yearly (2 months free!)"
+msgstr "%(price)s con facturación anual (2 meses gratis)"
+
+msgid "Gmail for @%(domain)s"
+msgstr "Gmail para @%(domain)s"
+
+msgid "Professional ad-free email that works with most email clients."
+msgstr ""
+"Correo electrónico profesional sin anuncios que funciona en la mayoría de "
+"clientes de correo electrónico."
+
+msgid "Keep all your files secure"
+msgstr "Mantén todos tus archivos a salvo"
+
+msgid "Get 30GB of storage for all your files synced across devices."
+msgstr ""
+"Consigue 30 GB de almacenamiento para todos tus archivos que tengas "
+"sincronizados entre dispositivos."
+
+msgid "Docs, spreadsheets and forms"
+msgstr "Documentos, hojas de cálculo y formularios"
+
+msgid "Create and edit documents to get your work done faster."
+msgstr "Crea y edita documentos para hacer más rápido tu trabajo."
+
+msgid "Connect with your team"
+msgstr "Conéctate con tu equipo"
+
+msgid ""
+"Use text chats, voice calls, or video calls, with built in screen sharing"
+msgstr ""
+"Usa chats de texto, llamadas de voz o videollamadas con la opción integrada "
+"de compartir pantalla."
+
+msgid ""
+"{{strong}}No setup or software required.{{/strong}} {{a}}Learn more about "
+"integrating G Suite with your site.{{/a}}"
+msgstr ""
+"{{strong}}No debes configurar nada ni tener software específico.{{/strong}} "
+"{{a}}Obtén más información sobre cómo integrar G Suite en tu sitio.{{/a}}"
+
+msgid ""
+"We've partnered with Google to offer you email, storage, docs, calendars and"
+" more, integrated with your site."
+msgstr ""
+"Nos hemos asociado con Google para integrar en tu sitio las opciones de "
+"correo electrónico, almacenamiento, documentos, calendarios y muchas más."
+
+msgid "%(monthlyPrice)s per user / month"
+msgstr "%(monthlyPrice)s por usuario al mes"
+
+msgid "%(annualPrice)s Billed yearly — get 2 months free!"
+msgstr "%(annualPrice)s con facturación anual: ¡consigue 2 meses gratis!"
+
+msgid "Docs, spreadsheets, and more"
+msgstr "Documentos, hojas de cálculo y más"
+
+msgid "Add Professional email from Google to %(domain)s"
+msgstr "Añade un correo electrónico profesional de Google a %(domain)s"
+
+msgid "Yes, Add Email \\u00BB"
+msgstr "Sí, añadir correo electrónico \\u00BB"
+
+msgid "Create Your Site"
+msgstr "Crea tu sitio"
+
+msgid "Features you’ll need"
+msgstr "Funciones que necesitarás"
+
+msgid "Your passion. Our tools. A global community waiting to&nbsp;find you."
+msgstr ""
+"Tu pasión y nuestras herramientas: una comunidad global que quiere "
+"conocerte."
+
+msgid "Share What You Love"
+msgstr "Comparte lo que más te gusta"
+
+msgid "This site does not have any professional features."
+msgstr "Este sitio no tiene funciones profesionales."
+
+msgid "Enter the code from the text message we sent you."
+msgstr "Introduce el código del mensaje de texto que te hemos enviado."
+
+msgid "Please enter a verification code."
+msgstr "Introduce un código de verificación."
+
+msgid ""
+"You can only request a code via the WordPress mobile app once every two "
+"minutes. Please wait and try again."
+msgstr ""
+"Solo puedes solicitar un código cada dos minutos a través de la aplicación "
+"móvil de WordPress. Espera e inténtalo de nuevo."
+
+msgid "Message sent to phone number ending in %(phoneNumber)s"
+msgstr ""
+"Se ha enviado el mensaje al número de teléfono que acaba en %(phoneNumber)s"
+
+msgid "&#8220;%1$s&#8221; is not a valid %2$s for .ca domains."
+msgstr "El nombre \"%1$s\" no es válido para el campo %2$s de los dominios .ca."
+
+msgid "Welcome, %s users!"
+msgstr "Bienvenidos, usuarios de %s."
+
+msgid "Jetpack %(version)s is required. {{link}}Update now{{/link}}"
+msgstr ""
+"Es necesario tener Jetpack %(version)s. {{link}}Actualizar ahora{{/link}}"
+
+msgid "City updated. Listing events near %s."
+msgstr "Ciudad actualizada. Listado de eventos cercanos a %s."
+
+msgid "Attend an upcoming event near you."
+msgstr "Asiste a un próximo evento cerca de ti"
+
+msgid "Enter your closest city to find nearby events."
+msgstr "Escribe la ciudad más próxima para encontrar eventos cercanos."
+
+msgid ""
+"There aren&#8217;t any events scheduled near you at the moment. Would you "
+"like to <a href=\"%s\">organize one</a>?"
+msgstr ""
+"No hay ningún evento programado cerca de ti en este momento. Te gustaría <a "
+"href=\"%s\">organizar uno</a>?"
+
+msgid ""
+"There aren&#8217;t any events scheduled near %1$s at the moment. Would you "
+"like to <a href=\"%2$s\">organize one</a>?"
+msgstr ""
+"No hay eventos programados cerca de %1$s ahora mismo. ¿Te gustaría <a "
+"href=\"%2$s\">organizar uno</a>?"
+
+msgid ""
+"We couldn&#8217;t locate %s. Please try another nearby city. For example: "
+"Kansas City; Springfield; Portland."
+msgstr ""
+"No podemos localizar la localidad de %s. Por favor, intenta introducir otra "
+"localidad cercana. Por ejemplo: Madrid; Valencia; Sevilla."
+
+msgid "Attend an upcoming event near %s."
+msgstr "Asiste al próximo evento cerca de %s."
+
+msgid "Cincinnati"
+msgstr "Sevilla"
+
+msgid "Edit city"
+msgstr "Editar ciudad"
+
+msgid "An error occurred. Please try again."
+msgstr "Ha ocurrido un error. Por favor, inténtalo de nuevo."
+
+msgid "(opens in a new window)"
+msgstr "(se abre en una ventana nueva)"
+
+msgid "WordPress Events and News"
+msgstr "Eventos y noticias de WordPress"
+
+msgid "l, M j, Y"
+msgstr "I, j M, Y"
+
+msgid "Invalid API response code (%d)"
+msgstr "Código de respuesta de API no válido (%d)"
+
+msgid ""
+"When you first signed up for a WordPress.com account we sent you an email. "
+"Please open it and click on the blue button to verify your email address."
+msgstr ""
+"En el momento de registrarte para obtener una cuenta de WordPress.com, te "
+"enviamos un correo electrónico. Ábrelo y haz clic en el botón azul para "
+"verificar tu dirección de correo electrónico."
+
+msgid ""
+"Verifying your email allows us to assist you if you ever lose access to your"
+" account in the future."
+msgstr ""
+"Si verificas tu correo electrónico, podremos ayudarte si alguna vez dejas de"
+" tener acceso a tu cuenta en el futuro."
+
+msgid ""
+"Sorry, %s files are not supported — please make sure your image is in JPG, "
+"GIF, or PNG format."
+msgstr ""
+"Lo siento, hay %s archivos que no son compatibles; asegúrate de que la "
+"imagen esté en formato JPG, GIF o PNG."
+
+msgid ""
+"Sorry, images of that filetype are not supported — please make sure your "
+"image is in JPG, GIF, or PNG format."
+msgstr ""
+"Lo siento, las imágenes de ese tipo de archivo no son compatibles; asegúrate"
+" de que estén en formato JPG, GIF o PNG."
+
+msgid "Verify your email"
+msgstr "Verifica tu dirección de correo electrónico"
+
+msgid ""
+"{{p}}The avatar you use on WordPress.com comes from "
+"{{ExternalLink}}Gravatar{{/ExternalLink}}, a universal avatar service (it "
+"stands or \"Global Avatar,\" get it?).{{/p}}{{p}}Your image may also appear "
+"on other sites using Gravatar whenever you're logged in with your email "
+"address %(email)s.{{/p}}"
+msgstr ""
+"{{p}}El avatar que utilizas en WordPress.com proviene de "
+"{{ExternalLink}}Gravatar{{/ExternalLink}}, un servicio de avatares universal"
+" (su nombre quiere decir \"Avatar global\", ¿lo ves?).{{/p}}{{p}}Es posible "
+"que tu imagen también aparezca en otros sitios que utilicen Gravatar cuando "
+"estés conectado con tu dirección de correo electrónico %(email)s.{{/p}}"
+
+msgid "Hmm, your new Gravatar was not saved. Please try uploading again."
+msgstr "Mmm, no se ha guardado tu nuevo Gravatar. Intenta subirlo de nuevo."
+
+msgid "You successfully uploaded a new Gravatar — looking sharp!"
+msgstr ""
+"Has subido un Gravatar nuevo correctamente: tienes un aspecto fantástico."
+
+msgid "Your queue is clear."
+msgstr "Tu cola está vacía."
+
+msgid "No new comments yet."
+msgstr "No hay comentarios nuevos todavía."
+
+msgid "No approved comments."
+msgstr "No hay comentarios aprobados."
+
+msgid "No spam comments."
+msgstr "No hay comentarios de spam."
+
+msgid "No deleted comments."
+msgstr "No hay comentarios eliminados."
+
+msgid "Import content from another WordPress or Medium site."
+msgstr "Importa contenido de otro sitio de WordPress o Medium."
+
+msgid "Export content from your site. You own your data."
+msgstr "Exporta contenido de tu sitio. Eres propietario de tus datos."
+
+msgid "Change My Photo"
+msgstr "Cambia tu foto"
+
+msgid "Comment approved."
+msgstr "Se ha aprobado el comentario."
+
+msgid "Comment unapproved."
+msgstr "No se ha aprobado el comentario."
+
+msgid "Comment marked as spam."
+msgstr "Se ha marcado el comentario como spam."
+
+msgid "Comment moved to trash."
+msgstr "Se ha movido el comentario a la papelera."
+
+msgid "Comment deleted permanently."
+msgstr "Se ha eliminado el comentario permanentemente."
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid ".FR Registration"
+msgstr "Registro en .FR"
+
+msgid "Who's this domain for?"
+msgstr "¿Para quién es este dominio?"
+
+msgid "An individual"
+msgstr "Para una persona"
+
+msgid "A company or organization"
+msgstr "Para una empresa u organización"
+
+msgid "Country of Birth"
+msgstr "País de nacimiento"
+
+msgid "City of Birth"
+msgstr "Ciudad de nacimiento"
+
+msgid "EU Trademark Number"
+msgstr "Número de marca registrada de la UE"
+
+msgid "Could not retrieve comments for “%(postTitle)s”"
+msgstr "No se han podido recuperar los comentarios sobre \"%(postTitle)s\""
+
+msgid "Could not retrieve comments for requested post"
+msgstr ""
+"No se han podido recuperar los comentarios sobre la entrada solicitada"
+
+msgid "Rewind to this day"
+msgstr "Retroceder hasta este día"
+
+msgid "%d Event"
+msgid_plural "%d Events"
+msgstr[0] "%d evento"
+msgstr[1] "%d eventos"
+
+msgid "Delete scheduled share"
+msgstr "Eliminar el uso compartido programado"
+
+msgid "Do you want to delete the scheduled share?"
+msgstr "¿Quieres eliminar el uso compartido programado?"
+
+msgctxt "Short for blue in RGB"
+msgid "B"
+msgstr "B"
+
+msgctxt "Short for green in RGB"
+msgid "G"
+msgstr "G"
+
+msgctxt "Short for red in RGB"
+msgid "R"
+msgstr "R"
+
+msgid "Insert/edit media"
+msgstr "Insertar/editar medios"
+
+msgid "Insert/edit code sample"
+msgstr "Insertar/editar código de ejemplo"
+
+msgid "Date/time"
+msgstr "Fecha/hora"
+
+msgctxt "Id for link anchor (TinyMCE)"
+msgid "Id"
+msgstr "Id"
+
+msgid ""
+"Id should start with a letter, followed only by letters, numbers, dashes, "
+"dots, colons or underscores."
+msgstr ""
+"El id debe empezar con una letra, seguida solo por letras, números, barras, "
+"puntos, guiones y guiones bajos."
+
+msgid "Your session has expired, please go back to the login screen."
+msgstr "Tu sesión ha caducado. Vuelve a la pantalla de acceso."
+
+msgid ""
+"You can only request a code via text message once per minute. Please wait "
+"and try again."
+msgstr ""
+"Solo puedes solicitar un código por SMS por minuto. Espera e inténtalo de "
+"nuevo."
+
+msgid "Your Antispam key is valid."
+msgstr "Tu clave de Antispam no es válida."
+
+msgid "Your site is protected from spam."
+msgstr "Tu sitio está protegido contra spam."
+
+msgid "There's a problem with your Antispam API key."
+msgstr "Se ha producido un problema con tu clave de la API Antispam."
+
+msgid "Your site needs an Antispam key."
+msgstr "Tu sitio necesita una clave de Antispam."
+
+msgid "Learn more about spam filtering."
+msgstr "Obtén más información acerca del filtro contra spam."
+
+msgid "Your API Key"
+msgstr "Tu clave de API"
+
+msgid ""
+"If you don't already have an API key, then {{link}}get your API key "
+"here{{/link}}, and you'll be guided through the process of getting one in a "
+"new window."
+msgstr ""
+"Si aún no tienes una clave de API, {{link}}consigue una{{/link}} (sigue las "
+"instrucciones para completar el proceso en una ventana nueva)."
+
+msgid "Spam filtering"
+msgstr "Filtro de spam"
+
+msgid "Schedule post"
+msgstr "Programar una entrada"
+
+msgid "We are writing your shares to the calendar…"
+msgstr "Estamos añadiendo tus usos compartidos en el calendario…"
+
+msgid "Scheduling share failed. Please don't be mad."
+msgstr ""
+"No se ha podido programar el uso compartido. No te enfades con nosotros."
+
+msgid ""
+"Displays a list and calendar of upcoming events from Eventbrite &mdash; the "
+"world's largest self-serve event ticketing and event registration platform."
+msgstr ""
+"Muestra una lista y un calendario con los próximos eventos de Eventbrite, la"
+" mayor plataforma de autoservicio del mundo para inscribirse en eventos y "
+"comprar entradas."
+
+msgid "Your SEO settings are managed by the following plugin: %(pluginName)s"
+msgstr ""
+"Tu configuración de SEO está gestionada por el plugin siguiente: "
+"%(pluginName)s"
+
+msgid "View Plugin"
+msgstr "Ver el plugin"
+
+msgid "Version %(newPluginVersion)s is available"
+msgstr "La versión %(newPluginVersion)s está disponible"
+
+msgid "Please enable \"third-party cookies\" to connect your Google account."
+msgstr "Activa \"cookies de terceros\" para conectarte con tu cuenta de Google."
+
+msgid "We couldn't load your devices, please try again."
+msgstr "No hemos podido cargar tus dispositivos; inténtalo de nuevo."
+
+msgid "Existing WordPress.com site"
+msgstr "Sitio de WordPress.com existente"
+
+msgid ""
+"Use with a site you already started. Free domain included with all plans."
+msgstr ""
+"Utilízalo con un sitio que ya hayas empezado a crear. Todos los planes "
+"incluyen un dominio gratuito."
+
+msgid "Choose your site?"
+msgstr "Elige tu sitio"
+
+msgid "<strong>Manage</strongDNS records using the Domain Connect API."
+msgstr ""
+"<strong>Gestiona</strongregistros DNS utilizando la API de Domain Connect."
+
+msgid "Domain Connect"
+msgstr "Domain Connect"
+
+msgid "Failed to retrieve comments for site “%(siteName)s”"
+msgstr "No se han podido recuperar los comentarios del sitio \"%(siteName)s\""
+
+msgid "Failed to retrieve comments for your site"
+msgstr "No se han podido recuperar los comentarios de tu sitio"
+
+msgid "Our %s discount has been extended!"
+msgstr "Se ha ampliado nuestro descuento %s."
+
+msgid "Powered by VaultPress"
+msgstr "Con tecnología de VaultPress"
+
+msgid "Powered by Akismet"
+msgstr "Con tecnología de Akismet"
+
+msgid "Spam Defense"
+msgstr "Defensa contra spam"
+
+msgid ""
+"Leftover credit from your previous plan has been applied as a discount."
+msgstr ""
+"El crédito sobrante de tu plan anterior se ha aplicado en forma de "
+"descuento."
+
+msgid ""
+"To claim your discount now and jumpstart your site, click the button below "
+"and enter the code BIZA25 at checkout."
+msgstr ""
+"Para solicitar tu descuento ahora y poner tu sitio en marcha, haz clic en el"
+" botón siguiente e introduce el código BIZA25 al finalizar la compra."
+
+msgid ""
+"Normally, it costs $299 a year, but we’re happy to offer you a "
+"<strong>25&#37; discount</strongon a one-year subscription today, bringing "
+"the total cost down to $224.25."
+msgstr ""
+"Normalmente cuesta 299 $ al año, pero estamos encantados de ofrecerte hoy un"
+" <strong>25% de descuento</strongen la suscripción anual, lo que reduce el "
+"coste total hasta los 224,25 $."
+
+msgid "These features are now available in the WordPress.com Business plan."
+msgstr ""
+"Estas funciones están ahora disponibles en el plan WordPress.com Business."
+
+msgid "Claim my 25% discount"
+msgstr "Solicitar mi 25% de descuento"
+
+msgid ""
+"To claim your discount now and jumpstart your site, click the button below "
+"and enter the code BIZWB25 at checkout."
+msgstr ""
+"Para solicitar tu descuento ahora y poner tu sitio en marcha, haz clic en el"
+" botón siguiente e introduce el código BIZWB25 al finalizar la compra."
+
+msgid ""
+"That’s just $.60 a day you’d be investing into the growth of your website!"
+msgstr ""
+"Son tan solo 0,60 $ al día que inviertes en el crecimiento de tu sitio web."
+
+msgid ""
+"These features are available to sites on the WordPress.com Business plan — "
+"normally, it costs $299 a year, but since you’ve purchased a WordPress.com "
+"plan for your site %s in the past, we’d like to offer you a <strong>25&#37; "
+"discount</strongon a one-year subscription, bringing the total cost down to "
+"$224.25."
+msgstr ""
+"Estas funciones están disponibles en los sitios del plan WordPress.com "
+"Business, que normalmente cuesta 299 $ al año. Pero como compraste un plan "
+"de WordPress.com para tu sitio de %s, nos gustaría ofrecerte un <strong>25% "
+"de descuento</strongen la suscripción anual, lo que reduce el coste total "
+"hasta los 224,25 $."
+
+msgid ""
+"Connect to use photos stored in your Google account directly inside the "
+"editor"
+msgstr ""
+"Conéctate para utilizar fotos almacenadas en tu cuenta de Google "
+"directamente en el editor"
+
+msgid "The plugin is not installed or active"
+msgstr "El plugin no se ha instalado o activado"
+
+msgid "Change your site address."
+msgstr "Cambia la dirección de tu sitio."
+
+msgid "Automatically make your site look like your theme's demo."
+msgstr ""
+"Arregla tu sitio automáticamente para que sea como la versión de "
+"demostración de tu tema."
+
+msgid "Theme setup"
+msgstr "Configuración del tema"
+
+msgid "Delete your content"
+msgstr "Elimina tu contenido"
+
+msgid "Delete your site permanently"
+msgstr "Elimina tu sitio permanentemente"
+
+msgid "Site Tools"
+msgstr "Herramientas del sitio"
+
+msgid ""
+"Keep your site's address and current theme, but remove all posts, pages, and"
+" media so you can start fresh."
+msgstr ""
+"Conserva la dirección y el tema actual de tu sitio, pero elimina todas las "
+"entradas, páginas y elementos multimedia para poder empezar de cero."
+
+msgid ""
+"Delete all your posts, pages, media and data, and give up your site's "
+"address."
+msgstr ""
+"Elimina todas tus entradas, páginas, elementos multimedia y datos y olvídate"
+" de la dirección de tu sitio"
+
+msgid ""
+"If you registered this domain through another registrar, you can <a "
+"href=\"%1$s\" target=\"_blank\">add the mapping</ato one of your blogs."
+msgstr ""
+
+msgid ""
+"It looks like this domain <strong>may be available</strongfor registration. "
+"You can <a href=\"%1$s\" target=\"_blank\">register it and add the "
+"mapping</ato one of your blogs."
+msgstr ""
+
+msgid "Google+ "
+msgstr "Google+ "
+
+msgid ""
+"We help site owners reach more than 409 million visitors each month, so "
+"whether “going big” means connecting with a few hundred engaged readers or "
+"reaching 23 million of them, we want your %s to be a successful one."
+msgstr ""
+"Ayudamos a los propietarios de sitios a alcanzar más de 409 millones de "
+"visitantes al mes, y no nos importa si tu gran sueño es tener cientos o "
+"millones de lectores interesados: queremos que tu %s sea excelente."
+
+msgid ""
+"Did you know sites with a paid WordPress.com plan had <strong>34% more "
+"monthly page views</strongthan sites without one? Now, you can join the "
+"hundreds of thousands of site owners growing their audience each and every "
+"day."
+msgstr ""
+"¿Sabías que los sitios que disponen de un plan de pago de WordPress.com "
+"tienen un <strong>34% más de visitas mensuales</strongque los sitios que no "
+"lo tienen? Ahora puedes unirte a los cientos de miles de propietarios de "
+"sitios que ven como su público aumenta a diario."
+
+msgid ""
+"Congratulations! You’ve officially completed the first step in creating a "
+"successful %1$s by signing up for %2$s."
+msgstr ""
+"Enhorabuena Ya has completado oficialmente el primer paso necesario para "
+"crear un %1$s al registrarte en %2$s."
+
+msgid "User blocked invites"
+msgstr "Invitaciones bloqueadas por el usuario"
+
+msgid "Already a member"
+msgstr "Ya eres miembro"
+
+msgid "Already following"
+msgstr "Ya lo sigues"
+
+msgid "We weren't able to add DNS records for this service. Please try again."
+msgstr ""
+"No hemos podido añadir registros DNS para este servicio. Inténtalo de nuevo."
+
+msgid "Hooray! We've successfully added DNS records for this service."
+msgstr "¡Hurra! Hemos añadido registros DNS para este servicio."
+
+msgid "Search for a site above or explore Discover."
+msgstr "Busca un sitio arriba o prueba Descubrir."
+
+msgid ""
+"We value community feedback and would again love your input to guide the "
+"future of Jetpack."
+msgstr ""
+"Valoramos los comentarios de la comunidad y nos encantaría recibir tus "
+"opiniones, que nos servirán de guía para el futuro de Jetpack."
+
+msgid ""
+"Tell us how to improve Jetpack, and take 20% off all plans until June 18."
+msgstr ""
+"Indícanos cómo mejorar Jetpack y consigue un 20% de descuento en todos los "
+"planes hasta el 18 de junio."
+
+msgid ""
+"SEO settings aren't recognized by search engines while your site is Private."
+msgstr ""
+"Los motores de búsqueda no reconocen la configuración de SEO si tu sitio "
+"está como Privado."
+
+msgid ""
+"SEO settings aren't recognized by search engines while your site is Hidden."
+msgstr ""
+"Los motores de búsquedas no reconocen la configuración de SEO si tu sitio "
+"está como Oculto."
+
+msgid "Speed up images and photos"
+msgstr "Acelera las imágenes y las fotos"
+
+msgid "Please enter a username or email address."
+msgstr "Introduce un nombre de usuario o una dirección de correo electrónico."
+
+msgid "Oops, that's not the right password. Please try again!"
+msgstr "Parece que esta contraseña no es correcta. Inténtalo de nuevo."
+
+msgid ""
+"Hmm, that's not a valid verification code. Please double-check your app and "
+"try again."
+msgstr ""
+"Este código de verificación no es válido. Revisa tu aplicación e inténtalo "
+"de nuevo."
+
+msgid "Oops, looks like that's not the right address. Please try again!"
+msgstr "Parece que esta dirección no es correcta. Inténtalo de nuevo."
+
+msgid ""
+"We don't seem to have an account with that name. Double-check the spelling "
+"and try again!"
+msgstr ""
+"Parece que no tenemos ninguna cuenta con ese nombre. Revisa la ortografía e "
+"inténtalo de nuevo."
+
+msgid ""
+"Hmm, we can't find a WordPress.com account with this username and password "
+"combo. Please double check your information and try again."
+msgstr ""
+"No podemos encontrar una cuenta de WordPress.com con esa combinación de "
+"nombre de usuario y contraseña. Revisa la información e inténtalo de nuevo."
+
+msgid ""
+"This account hasn't been activated yet — check your email for a message from"
+" WordPress.com and click the activation link. You'll be able to log in after"
+" that."
+msgstr ""
+"Esta cuenta todavía no se ha activado. Busca el correo electrónico de "
+"WordPress.com que te enviamos y haz clic en el enlace de activación. Con "
+"esto ya podrás acceder."
+
+msgid "Sending you a text message…"
+msgstr "Te estamos enviando un mensaje de texto..."
+
+msgid "Site Stats module is disabled"
+msgstr "El módulo Estadísticas del sitio está desactivado"
+
+msgid ""
+"Enable this to see detailed information about your traffic, likes, comments,"
+" and subscribers."
+msgstr ""
+"Actívalo para ver información detallada sobre tu tráfico, los Me gusta, los "
+"comentarios y los suscriptores."
+
+msgid "Enabled! You're collecting valuable data and insights."
+msgstr "Se ha activado. Ahora recopilas datos y detalles importantes."
+
+msgid "Your Authenticator app"
+msgstr "Tu aplicación de Autenticación"
+
+msgid "We don't support internationalized domains yet."
+msgstr "Todavía no admitimos los dominios internacionalizados."
+
+msgid "Or log in with your existing social profile:"
+msgstr "O accede con tu perfil de redes sociales:"
+
+msgid "This service is not supported."
+msgstr "This service is not supported."
+
+msgid "The plan for this site was not provisioned by Jetpack Start."
+msgstr ""
+
+msgid "Drop to upload profile photo"
+msgstr "Suéltala para subir la foto de perfil"
+
+msgid "Learn more about Featured Images"
+msgstr "Más información sobre Imágenes destacadas"
+
+msgid "View likes on <post id=%d site=%d href=\"%s\">your post</post>."
+msgstr "Mira los Me gusta de <post id=%d site=%d href=\"%s\">tu entrada</post>."
+
+msgid "Learn more about Privacy Protection."
+msgstr "Más información sobre Privacy Protection."
+
+msgid ""
+"We're proud to say that Jetpack improvements are largely driven by feedback "
+"from our wonderful user community. "
+msgstr ""
+"Estamos orgullosos de afirmar que las mejoras introducidas en Jetpack se "
+"deben en gran medida a los comentarios recibidos por nuestra maravillosa "
+"comunidad de usuarios. "
+
+msgid ""
+"Log in with your %s account to find amazing content from publishers around "
+"the world.</p>"
+msgstr ""
+"Accede a tu cuenta de %s para descubrir contenido increíble de editores de "
+"todo el mundo.</p>"
+
+msgid ""
+"Welcome to WordPress.com, the most dynamic community of bloggers, website "
+"creators, and intrepid readers on the web."
+msgstr ""
+"Te damos la bienvenida a WordPress.com, la comunidad de blogueros, creadores"
+" de sitios web y lectores intrépidos más dinámica de la Web."
+
+msgid "updated %s"
+msgstr "se ha actualizado %s"
+
+msgid ""
+"We're happy to announce that we've extended the sale until June 18. Use "
+"coupon code %1$s to receive 20%% off all Jetpack plans, which start at %2$s "
+"per year — or just %3$s with the discount."
+msgstr ""
+"Estamos encantados de anunciar que hemos ampliado el período de venta hasta "
+"el 18 de junio. Utiliza el código del cupón %1$s para recibir un 20%% de "
+"descuento en todos los planes de Jetpack, que tienen un precio mínimo de "
+"%2$s al año (o de tan solo %3$s con el descuento)."
+
+msgid ""
+"Every site needs a backup plan. Get yours today with a 20%% discount off all"
+" plans using the <strong>%s</strongcoupon code."
+msgstr ""
+"Todos los sitios necesitan un plan B. Consigue el tuyo hoy mismo con un "
+"descuento de un 20%% en todos los planes utilizando el código del cupón "
+"<strong>%s</strong>."
+
+msgid ""
+"If this sounds scary, don't worry! Keeping a few simple things in mind will "
+"save you time and aggravation."
+msgstr ""
+"Aunque asuste, no te preocupes. Con recordar solo unos cuantos aspectos "
+"sencillos, podrás ahorrar tiempo y molestias."
+
+msgid ""
+"We're happy to announce that we've extended the sale until June 18. Use "
+"coupon code <strong>%1$s</strongto receive 20%% off all Jetpack plans, which"
+" start at %2$s per year — or just %3$s with the discount."
+msgstr ""
+"Estamos encantados de anunciar que hemos ampliado el período de venta hasta "
+"el 18 de junio. Utiliza el código del cupón <strong>%1$s</strongpara recibir"
+" un 20%% de descuento en todos los planes de Jetpack, que tienen un precio "
+"mínimo de %2$s al año (o de tan solo %3$s con el descuento)."
+
+msgid ""
+"<strong>P.S.</strongIf you’d like help with these new features, you can read"
+" more about %1$suploading a theme%2$s or %3$sinstalling a plugin%2$s, or "
+"start a live chat with one of our Happiness Engineers."
+msgstr ""
+"<strong>P. D.</strongSi necesitas ayuda con estas nuevas funciones, puedes "
+"leer más información sobre cómo %1$ssubir un tema%2$s o %3$sinstalar un "
+"plugin%2$s, o iniciar un chat en directo con uno de nuestros Happiness "
+"Engineers."
+
+msgid "Upload a Custom Theme"
+msgstr "Subir un tema personalizado"
+
+msgid "Install a Plugin"
+msgstr "Instalar un plugin"
+
+msgid ""
+"Since your site is on the WordPress.com Business plan, you have instant "
+"access to these new features &mdash; click the buttons below to take them "
+"for a test drive."
+msgstr ""
+"Como tu sitio forma parte del plan WordPress.com Business, tienes acceso al "
+"instante a estas nuevas funciones. Haz clic en los botones a continuación "
+"para probarlas."
+
+msgid "and many more!"
+msgstr "¡...y muchas más!"
+
+msgid ""
+"Looking to launch an email newsletter, try out popular search engine "
+"optimization tools, or build an online store? Check, check, and check. You "
+"now have access to thousands of third-party plugins like:"
+msgstr ""
+"¿Quieres publicar un boletín de noticias por correo electrónico, probar "
+"herramientas populares de optimización para buscadores o crear una tienda en"
+" línea? Hecho, hecho y hecho. Ya tienes acceso a miles de plugins de "
+"terceros como:"
+
+msgid "Already have a WordPress theme? No problem."
+msgstr "¿Ya tienes un tema de WordPress? Ningún problema."
+
+msgid ""
+"Keep on enjoying the features, security, and support of WordPress.com, but "
+"add more freedom and possibility! (Do we seem excited? It’s because we are!)"
+msgstr ""
+"Sigue disfrutando de las funciones, la seguridad y la ayuda de "
+"WordPress.com, pero con más libertad y posibilidades. (¿Parecemos "
+"emocionados? Es que lo estamos.)"
+
+msgid ""
+"You can now choose from a whole universe of themes and plugins and easily "
+"add them to your existing WordPress.com site."
+msgstr ""
+"Puedes elegir entre un universo de temas y plugins y añadirlos fácilmente a "
+"tu sitio de WordPress.com existente."
+
+msgid ""
+"Over the years, many of you have told us that in order to build the site of "
+"your dreams, you need the ability to install themes and plugins. Well, as of"
+" today, you can!"
+msgstr ""
+"A lo largo de los años, muchos de vosotros nos habéis dicho que para crear "
+"el sitio de vuestros sueños necesitabais poder instalar temas y plugins. "
+"Pues bien, a día de hoy ya podéis hacerlo."
+
+msgid "A whole universe of themes and plugins awaits."
+msgstr "Te espera todo un universo de temas y plugins."
+
+msgid "The Wait is Over! Upload any Plugin or Theme"
+msgstr "¡Se acabó la espera! Sube cualquier plugin o tema"
+
+msgid "Zoho Mail CNAME zb code"
+msgstr "Código Zoho Mail CNAME zb"
+
+msgid "Set up %(providerName)s"
+msgstr "Configurar %(providerName)s"
+
+msgid "We've failed to validate using the given link."
+msgstr "No lo hemos podido validar con este enlace."
+
+msgid "Please try to request a new one or try the other methods."
+msgstr "Prueba a solicitar uno nuevo o inténtalo con otro método."
+
+msgid "We've run into an unexpected error. We're sorry! "
+msgstr "Se ha producido un error inesperado. Lo sentimos. "
+
+msgid ""
+"Contact WordPress.com Support and one of our Happiness Engineers will get "
+"you back on track."
+msgstr ""
+"Ponte en contacto con el equipo de ayuda de WordPress.com y uno de nuestros "
+"Happiness Engineers te ayudará."
+
+msgid "You replied to this comment"
+msgstr "Has respondido a este comentario"
+
+msgid "Unblock user"
+msgstr "Desbloquear el usuario"
+
+msgid "Block user"
+msgstr "Bloquear el usuario"
+
+msgid ""
+"It's probably not something you often think about, but migrating a WordPress"
+" site is a common challenge for site owners."
+msgstr ""
+"Probablemente no sea algo en lo que pienses habitualmente, pero para los "
+"propietarios, migrar un sitio de WordPress suele ser un desafío."
+
+msgid "If so, don't fret."
+msgstr "Si este es tu caso, no te preocupes."
+
+msgid ""
+"To continue this trend, we'd like to ask for your help by answering a few "
+"simple questions — we’ll use your answers to guide future development."
+msgstr ""
+"Para continuar con esta costumbre, nos gustaría pedirte ayuda y que "
+"respondas a un par de preguntas sencillas (utilizaremos tus respuestas a "
+"modo de guía para nuestros futuros avances)."
+
+msgid ""
+"Let us walk you through the process and show you how Jetpack can make it "
+"even easier."
+msgstr ""
+"Permítenos guiarte a través del proceso y mostrarte cómo Jetpack hacer las "
+"cosas aún más fáciles."
+
+msgid "How-to: painless site migration using Jetpack"
+msgstr "Guía básica: migración de sitios sin esfuerzo mediante Jetpack"
+
+msgid ""
+"Did you miss out on our promotion during National Small Business Week "
+"earlier this month?"
+msgstr ""
+"¿Te perdiste nuestra promoción durante la National Small Business Week "
+"(semana nacional estadounidense de las pequeñas empresas) de este mes?"
+
+msgid "Complete the survey"
+msgstr "Haz la encuesta"
+
+msgid ""
+"We're proud to say that Jetpack improvements are largely driven by feedback "
+"from our wonderful user community."
+msgstr ""
+"Estamos orgullosos de afirmar que las mejoras introducidas en Jetpack se "
+"deben en gran medida a los comentarios recibidos por nuestra maravillosa "
+"comunidad de usuarios."
+
+msgid "We need your input"
+msgstr "Necesitamos tus comentarios"
+
+msgid "I can't access my phone"
+msgstr "No puedo acceder a mi teléfono"
+
+msgid ""
+"If you can't access your phone enter one of the 10 backup codes that were "
+"provided when you set up two-step authentication to continue."
+msgstr ""
+"Si no puedes acceder a tu teléfono y quieres continuar, introduce uno de los"
+" 10 códigos de seguridad que te proporcionamos cuando configuraste la "
+"autenticación en dos pasos."
+
+msgid "Backup code"
+msgstr "Código de fondo"
+
+msgid ""
+"If you lose your device, accidentally remove the authenticator app, or are "
+"otherwise locked out of your account, the only way to get back in to your "
+"account is by using a backup code."
+msgstr ""
+"Si pierdes tu dispositivo, eliminas la aplicación de Autenticación o no "
+"puedes acceder a tu cuenta, la única forma de acceder de nuevo es con un "
+"código de fondo."
+
+msgid ""
+"Have a theme or plugin you need to install to build the site you want? Now "
+"you can! Learn more about {{pluginLink}}installing plugins{{/pluginLink}} "
+"and {{themeLink}}uploading themes{{/themeLink}} today."
+msgstr ""
+"¿Tienes que instalar un tema o un plugin para crear el sitio que quieres? "
+"Ahora es posible. Obtén más información sobre cómo {{pluginLink}}instalar "
+"plugins{{/pluginLink}} y {{themeLink}}subir temas{{/themeLink}}."
+
+msgid ""
+"Sorry, you can't use this password either because it's not strong enough or "
+"you have used that as one of your previous passwords."
+msgstr ""
+"Lo siento, no puedes usar esta contraseña porque no es lo suficientemente "
+"segura o porque ya la has usado como contraseña antes."
+
+msgid "Sorry, no followed sites match {{italic}}%s.{{/italic}}"
+msgstr ""
+"Lo siento, ninguno de los sitios que sigues coinciden con "
+"{{italic}}%s.{{/italic}}"
+
+msgid "Sorry, no sites match {{italic}}%s.{{/italic}}"
+msgstr "Lo siento, ningún sitio coincide con {{italic}}%s.{{/italic}}"
+
+msgid "Schedule your social messages in advance."
+msgstr "Programa tus mensajes sociales por adelantado."
+
+msgid "Remove all advertising from your site."
+msgstr "Elimina toda la publicidad de tu sitio."
+
+msgid "Enjoy live chat support."
+msgstr "Disfruta de la ayuda en directo por chat."
+
+msgid ""
+"We sent a push notification to your {{strong}}WordPress mobile "
+"app{{/strong}}. Once you get it and swipe or tap to confirm, this page will "
+"update."
+msgstr ""
+"Hemos enviado una notificación push a tu {{strong}}aplicación móvil de "
+"WordPress{{/strong}}. Cuando llegue, desliza o toca la notificación para "
+"confirmar y se actualizará esta página."
+
+msgid "Enter the code generated by your Authenticator mobile application."
+msgstr ""
+"Escribe el código que ha generado tu aplicación móvil de Autenticación."
+
+msgid "Code via text message"
+msgstr "Código por mensaje de texto"
+
+msgid "I'll Keep It"
+msgstr "Quiero conservarla"
+
+msgid ""
+"Did you know that you can now use third-party plugins and themes on the "
+"WordPress.com Business plan? Claim a 25% discount when you upgrade your site"
+" today - {{b}}enter the code BIZC25 at checkout{{/b}}."
+msgstr ""
+"¿Sabías que ahora puedes utilizar plugins y temas de terceros en el plan "
+"WordPress.com Business? Solicita un 25 % de descuento hoy cuando obtengas la"
+" mejora para tu sitio: {{b}}introduce el código BIZC25 al pagar la "
+"compra{{/b}}."
+
+msgid "New! Install Custom Plugins and Themes"
+msgstr "Novedad Instala plugins y temas personalizados"
+
+msgid ""
+"Are you sure you want to cancel your subscription and lose access to these "
+"new features?"
+msgstr ""
+"¿Seguro que quieres cancelar tu suscripción? No podrás acceder a estas "
+"nuevas funciones."
+
+msgid ""
+"<strong>P.S.</strongIf you’re looking to grow your audience and further "
+"customize your site, upgrading to WordPress.com Personal is the best next "
+"step (and you’ll only need to invest $3 a month). Click the button above and"
+" we’ll see you inside!"
+msgstr ""
+"<strong>P. D.</strong>: Si deseas aumentar tu público y personalizar todavía"
+" más tu sitio, el siguiente paso recomendable es obtener la mejora "
+"WordPress.com Personal (solo tienes que invertir 3 $ al mes). Haz clic en el"
+" botón anterior y nos vemos allí."
+
+msgid "We hope to hear from you soon,"
+msgstr "Esperamos recibir noticias tuyas próximamente,"
+
+msgid ""
+"To get instant access to these features and more (for just $3 per month%sor "
+"$35.88 for one year), click the button below."
+msgstr ""
+"Para obtener acceso al instante a estas y a otras funciones (por tan solo 3 "
+"$ al mes%so 35,88 $ al año), haz clic en el botón siguiente."
+
+msgid "Removal of WordPress.com ads on your site."
+msgstr "Se eliminan los anuncios de WordPress.com de tu sitio."
+
+msgid "Access to email and live chat support."
+msgstr "Se ofrece ayuda por correo electrónico y en directo por chat."
+
+msgid ""
+"A custom domain name to help more visitors find and remember your site."
+msgstr ""
+"Tienes un nombre de dominio personalizado que más visitantes encuentren tu "
+"sitio y se acuerden de él."
+
+msgid ""
+"With WordPress.com Personal, you can expect access to valuable features "
+"like:"
+msgstr ""
+"Con WordPress.com Personal, podrás acceder a funciones valiosas como las "
+"siguientes:"
+
+msgid ""
+"That’s why we want to celebrate your one-month anniversary by offering you "
+"an opportunity to upgrade to our WordPress.com Personal plan so you can "
+"claim a unique web address (we call it a custom domain name) for your site."
+msgstr ""
+"Por eso queremos celebrar tu primer mes y ofrecerte la oportunidad de "
+"obtener la mejora de nuestro plan WordPress.com Personal para que puedas "
+"obtener una dirección web única para tu sitio (o un nombre de dominio "
+"personalizado, como nosotros la llamamos)."
+
+msgid ""
+"I'm Anne from WordPress.com, and I wanted to congratulate you on your first "
+"month building your website with us. It’s our goal to continue helping you "
+"grow your audience and spread your message."
+msgstr ""
+"Mi nombre es Anne, de WordPress.com, y deseo felicitarte por tu primer mes "
+"creando tu sitio web con nosotros. Nuestro objetivo es continuar ayudándote "
+"a aumentar tu público y a transmitir tu mensaje."
+
+msgid "Hope to see you inside!"
+msgstr "Espero verte dentro."
+
+msgid ""
+"Click the button above that best suits you, and start building the site "
+"you’ve always wanted."
+msgstr ""
+"Haz clic en el botón anterior que mejor se adapte a tus necesidades y "
+"empieza a crear el sitio que siempre has querido."
+
+msgid "Buy for one year for $35.88"
+msgstr "Compra un plan para todo un año por 35,88 $"
+
+msgid "Email and live chat support to get your site working just as you want."
+msgstr ""
+"Obtén ayuda por correo electrónico y en directo por chat para que tu sitio "
+"funcione como quieras."
+
+msgid "6 GB of storage space for photos, videos, and audio files."
+msgstr ""
+"Disfruta de 6 GB de espacio de almacenamiento de archivos de fotos, vídeos y"
+" audio."
+
+msgid ""
+"A free custom web address (we call it a domain name) to personalize your "
+"site."
+msgstr ""
+"Consigue una dirección web personalizada gratuita (o nombre de dominio, como"
+" nosotros la llamamos) para personalizar tu sitio."
+
+msgid ""
+"%sAre you a blogger?%s Check out WordPress.com Personal, which will give you"
+" the following tools you need to grow your audience:"
+msgstr ""
+"%s¿Te gusta bloguear?%s Consulta el plan WordPress.com Personal, que te "
+"ofrece las siguientes herramientas para ayudarte a aumentar tu público:"
+
+msgid "Buy for one year for $99"
+msgstr "Compra un plan para todo un año por 99 $"
+
+msgid "13 GB of storage space for photos, videos, and audio files."
+msgstr ""
+"Disfruta de 13 GB de espacio de almacenamiento de archivos de fotos, vídeos "
+"y audio."
+
+msgid "The ability to make more money from your site with ads."
+msgstr ""
+"Aprovecha la oportunidad de obtener más ingresos con tu sitio gracias a los "
+"anuncios."
+
+msgid ""
+"%sAre you an entrepreneur or freelancer?%s Choose WordPress.com Premium, "
+"which includes:"
+msgstr ""
+"%s¿Eres un emprendedor o un autónomo?%s Elige WordPress.com Premium, que "
+"incluye:"
+
+msgid "Buy for one year for $299"
+msgstr "Compra un plan para todo un año por 299 $"
+
+msgid "Unlimited storage space for photos, videos, and audio files."
+msgstr ""
+"disfruta de espacio de almacenamiento ilimitado para los archivos de fotos, "
+"vídeos y audio."
+
+msgid "Advanced SEO tools to rank higher in search engines."
+msgstr ""
+"Herramientas de SEO avanzadas para obtener una mejor clasificación en los "
+"buscadores."
+
+msgid ""
+"%sAre you a small business owner?%s WordPress.com Business is for you. Get "
+"access to valuable features that include:"
+msgstr ""
+"%s¿Eres propietario de una pequeña empresa?%s WordPress.com Business es el "
+"plan adecuado para ti. Obtén acceso a funciones valiosas entre las que se "
+"incluyen:"
+
+msgid ""
+"Depending on the type of website you’re building, we’ve got the perfect plan"
+" for you."
+msgstr ""
+"Tenemos el plan perfecto para ti según el tipo de sitio web que estés "
+"creando."
+
+msgid ""
+"At WordPress.com, we provide several tools that will help you customize your"
+" site, improve your search engine ranking, and attract more visitors to your"
+" site."
+msgstr ""
+"En WordPress.com, te ofrecemos varias herramientas que te ayudarán a "
+"personalizar tu sitio, a mejorar tu clasificación en los buscadores y a "
+"atraer a más visitantes a tu sitio."
+
+msgid ""
+"My name’s Anne and on behalf of everyone here at WordPress.com, I’d like to "
+"say, “Happy One-Month Anniversary!”"
+msgstr ""
+"Mi nombre es Anne y, en nombre de todos los componentes de WordPress.com, me"
+" gustaría decir, “¡Felicidades por tu primer mes!”."
+
+msgid "Add instant credibility and personality to your site."
+msgstr "Añade credibilidad y personalidad instantáneas a tu sitio."
+
+msgid "A custom domain name for $3 a month"
+msgstr "Consigue un nombre de dominio personalizado por 3 $ al mes"
+
+msgid "Open up for tools to help you spread your message."
+msgstr "Confía en las herramientas para transmitir tu mensaje fácilmente."
+
+msgid "Search or enter URL to follow…"
+msgstr "Busca o introduce una URL para seguir…"
+
+msgid "Learn more about VideoPress."
+msgstr "Más información acerca de VideoPress."
+
+msgid "Enable fast, ad-free video hosting"
+msgstr "Consigue un alojamiento de vídeos rápido y sin anuncios"
+
+msgid "Host fast, high-quality, ad-free video."
+msgstr "Alojamiento de vídeos de alta calidad y rápido, sin anuncios."
+
+msgid "You are no longer a user on %(site)s and cannot manage this purchase."
+msgstr "Ya no eres usuario de %(site)s y no puedes gestionar esta compra."
+
+msgid "%(site)s has been disconnected from WordPress.com."
+msgstr "Se ha desconectado %(site)s de WordPress.com."
+
+msgid "Not in use."
+msgstr "No se está usando."
+
+msgid "\"%(pageTitle)s\" is the front page."
+msgstr "\"%(pageTitle)s\" es la página inicial."
+
+msgid "Front page is showing your latest posts."
+msgstr "La página inicial está mostrando tus entradas más recientes."
+
+msgid "\"%(pageTitle)s\" page is showing your latest posts."
+msgstr "La página \"%(pageTitle)s\" está mostrando tus entradas más recientes."
+
+msgid ""
+"Replaces your site's free address with the domain %(domain)s, making it "
+"easier to remember and easier to share."
+msgstr ""
+"Sustituye la dirección gratuita de tu sitio por el dominio %(domain)s, con "
+"lo que es más sencilla de recordar y compartir."
+
+msgid "Logging In…"
+msgstr "Iniciando sesión..."
+
+msgid ""
+"Ready for more? Search our %1$sextensive support knowledge base%2$s, watch a"
+" %3$sshort tutorial video%4$s about the most popular features, or just hit "
+"reply and tell us how we can help!"
+msgstr ""
+"¿Quieres más? Busca en nuestra %1$sextenso centro de ayuda%2$s, mira un "
+"%3$sbreve vídeo tutorial%4$s acerca de las funciones más populares o "
+"simplemente pulsa la opción de responder e indícanos cómo podemos ayudarte."
+
+msgid ""
+"Want to bookmark these instructions for later or watch a how-to video? "
+"%1$sClick here%2$s for the full tutorial."
+msgstr ""
+"¿Quieres marcar estas instrucciones como favoritas para consultarlas más "
+"adelante o mirar un vídeo con instrucciones? %1$sHaz clic aquí%2$s para "
+"consultar el tutorial completo."
+
+msgid ""
+"Every widget has options to customize -- test them out! You can always add "
+"or remove them, so have some fun exploring. Once you’re happy with your new "
+"widgets, hit Save & Publish to add them to your site."
+msgstr ""
+"Todos los widgets disponen de opciones de personalización: pruébalas. "
+"Siempre podrás añadirlas o eliminarlas, así que explora un poco y "
+"diviértete. En cuanto tengas tus widgets nuevos a punto, pulsa Guardar y "
+"publicar para añadirlos a tu sitio."
+
+msgid "Click on + Add a Widget. Scroll through the list and pick one."
+msgstr "Haz clic en + Añadir un widget. Desplázate por la lista y elige uno."
+
+msgid ""
+"Click on the Widgets tab and select the area where you want the widget to "
+"go, like the Sidebar (left or right column) or Footer (bottom) of your site."
+msgstr ""
+"Haz clic en la pestaña Widgets y elige la zona en la que deseas colocar el "
+"widget. Por ejemplo, en la barra lateral (la columna izquierda o derecha) o "
+"en el pie de página (parte inferior) de tu sitio."
+
+msgid "%1$sOpen the Customizer%2$s"
+msgstr "%1$sAbrir el personalizador%2$s"
+
+msgid "To add a widget,"
+msgstr "Para añadir un widget,"
+
+msgid ""
+"One of my favorite parts of WordPress.com is the widgets -- little extras "
+"you can add to %1$s to include more content and functionality, like photo "
+"galleries or social media buttons. Adding widgets is a great way to "
+"instantly customize your site (and you don’t need to know any code)!"
+msgstr ""
+"Una de mis partes favoritas de WordPress.com son los widgets, que son como "
+"pequeños extras que puedes añadir a %1$s para incluir más contenido y "
+"funciones, como las galerías de fotos o los botones de redes sociales. Los "
+"widgets son una manera excelente de personalizar tu sitio al instante (y no "
+"necesitas saber usar ningún código)."
+
+msgid ""
+"You’re off to a great start. I can’t wait to see what you publish next."
+msgstr ""
+"Has empezado con buen pie. Tengo muchas ganas de ver tu próxima publicación."
+
+msgid "Start publishing now"
+msgstr "Empieza a publicar ya"
+
+msgid "Press Update to make it live."
+msgstr "Pulsa Actualizar para publicarlo."
+
+msgid ""
+"Click on your About page to edit it, and write a few lines about yourself or"
+" your website. Even two or three sentences is great!"
+msgstr ""
+"Haz clic en la página Acerca de para editarlo y escribe unas cuantas líneas "
+"sobre ti o tu sitio web. Con dos o tres frases sería magnífico."
+
+msgid "Head to %1$sMy Site Pages%2$s to see your pages."
+msgstr "Dirígete a %1$sMi sitio Páginas%2$s para ver tus páginas."
+
+msgid ""
+"You can start publishing with just a few sentences, and a few steps. I "
+"always start with an “About” page, which is one of the first things your "
+"visitors will look for."
+msgstr ""
+"Puedes comenzar a publicar unas cuantas frases en solo unos cuantos pasos. "
+"Yo siempre empiezo con la página “Acerca de”, que es una de las primeras "
+"cosas que buscan los visitantes."
+
+msgid ""
+"Publishing the first few words can be the biggest obstacle -- putting "
+"yourself out there is a big step! Luckily, while finding the words might be "
+"hard, creating and editing a page isn't."
+msgstr ""
+"Publicar las primeras palabras puede convertirse en el obstáculo más "
+"importante; mostrarte al mundo es un gran paso. Por suerte, aunque puede "
+"resultar difícil encontrar las palabras, crear y editar una página no lo es."
+
+msgid ""
+"Want to bookmark these instructions for later or watch a how-to video? "
+"%1$sClick here%2$s for the full tutorial, and look out for a few more tips "
+"from other WordPress.com staffers in your inbox. And have fun!"
+msgstr ""
+"¿Quieres marcar estas instrucciones como favoritas para consultarlas más "
+"adelante o mirar un vídeo con instrucciones? %1$sHaz clic aquí%2$s para "
+"consultar el tutorial completo y buscar más consejos de otros empleados de "
+"WordPress.com en tu bandeja de entrada. ¡Que te diviertas!"
+
+msgid "Personalize my Site Title"
+msgstr "Personalización del título de mi sitio"
+
+msgid ""
+"No worries if you change your mind later; you can edit your Site Title "
+"whenever you want."
+msgstr ""
+"No te preocupes si cambias de opinión más tarde; puedes editar el título de "
+"tu sitio siempre que lo desees."
+
+msgid "Click the blue Save & Publish button to make it official!"
+msgstr ""
+"Haz clic en el botón Guardar y publicar de color azul para hacerlo oficial."
+
+msgid ""
+"Next, click on the Site Identity tab and type in your Site Title. This could"
+" be your name, your business name -- anything you want."
+msgstr ""
+"A continuación, haz clic en la pestaña Identidad del sitio y escribe el "
+"título que quieras. Puedes ponerle tu nombre, el de tu empresa o lo que "
+"desees."
+
+msgid ""
+"%1$sLaunch the Customizer%2$s. You’ll head here whenever you want to make "
+"design changes."
+msgstr ""
+"%1$sIniciar el personalizador%2$s. Accede a esta sección siempre que quieras"
+" hacer cambios en el diseño."
+
+msgid ""
+"The first thing I always do to start personalizing a new website is to give "
+"it a name (or as we call it, a Site Title):"
+msgstr ""
+"Lo primero que hago siempre para empezar a personalizar un sitio web nuevo "
+"es ponerle un nombre (o tal y como lo llamamos nosotros, un título del "
+"sitio):"
+
+msgid ""
+"Congratulations on creating %1$s, your very own piece of the web and the "
+"beginning of your online journey. We’re excited you’re here, and wanted to "
+"share a few tips to make sure you start on the right foot."
+msgstr ""
+"Felicidades por crear %1$s, tu pequeño rincón en la web y el principio de tu"
+" aventura en línea. Nos alegramos de tenerte aquí y queremos compartir "
+"varios consejos contigo para asegurarnos de que empieces con buen pie."
+
+msgid "your site"
+msgstr "tu sitio"
+
+msgid "Hi %1$s,"
+msgstr "Hola, %1$s:"
+
+msgid ""
+"Jetpack Premium includes the Akismet and VaultPress plugins, which have been"
+" installed and configured automatically for you."
+msgstr ""
+"Jetpack Premium incluye los plugins Akismet y VaultPress, que se han "
+"instalado y configurado automáticamente."
+
+msgid "New site"
+msgstr "Nuevo sitio"
+
+msgid ""
+"Choose a theme, customize, and launch your site. Free domain included with "
+"all plans."
+msgstr ""
+"Elige un tema, personalízalo y crea tu sitio. Todos los planes incluyen un "
+"dominio gratuito."
+
+msgid "Just buy a domain"
+msgstr "Solo tienes que comprar un dominio"
+
+msgid "Show a \"coming soon\" notice on your domain. Add a site later."
+msgstr ""
+"Muestra el aviso \"próximamente\" en tu dominio. Añade un sitio más tarde."
+
+msgid "Please check back shortly."
+msgstr "Vuelve a comprobarlo en unos minutos."
+
+msgid "We are currently undergoing maintenance."
+msgstr "Actualmente se están realizando tareas de mantenimiento."
+
+msgid ""
+"{{strong}}%s{{/strong}} is currently under maintenance. Try one of these "
+"suggestions instead."
+msgstr ""
+"Actualmente se está realizando el mantenimiento de {{strong}}%s{{/strong}}, "
+"pero puedes probar con una de estas sugerencias."
+
+msgid ""
+"We don't offer domains with the {{strong}}%s{{/strong}} ending. Try one of "
+"these suggestions instead."
+msgstr ""
+"No ofrecemos dominios que acaben en {{strong}}%s{{/strong}}, pero puedes "
+"probar con una de estas sugerencias."
+
+msgid "Protect your site from data loss."
+msgstr "Protege tu sitio de la pérdida de datos."
+
+msgid "Check out the %sTraffic section%s of your Settings page where you can:"
+msgstr ""
+"Consulta la %ssección Tráfico%s de tu página de Configuración, en la que "
+"puedes:"
+
+msgid "On blog pages, the number of posts to show per page."
+msgstr ""
+"En las páginas de blog, es el número de entradas que se muestran por página."
+
+msgid "Site owner access required"
+msgstr "Se necesita el acceso del propietario del sitio"
+
+msgid "Only site owners are allowed to use this feature."
+msgstr "Solo los propietarios de sitios pueden usar esta función."
+
+msgid "Looking forward to speaking with you!"
+msgstr "Estamos deseando hablar contigo."
+
+msgid "You can sign up for a 30-minute session by clicking below:"
+msgstr "Haz clic a continuación para inscribirte a una sesión de 30 minutos:"
+
+msgid ""
+"My team and I can help you with anything you need for your site: design "
+"customization, Search Engine Optimization, monetizing your site, and more."
+msgstr ""
+"Mi equipo y yo podemos ayudarte con todo lo que necesites para tu sitio: "
+"personalización del diseño, optimización para buscadores y monetización del "
+"sitio, entre otros aspectos."
+
+msgid ""
+"Did you know we offer free personalized sessions exclusively to our Business"
+" users?"
+msgstr ""
+"¿Sabías que ofrecemos sesiones personalizadas gratuitas exclusivamente para "
+"nuestros usuarios Business?"
+
+msgid ""
+"I noticed your site %s has a WordPress.com Business subscription — the most "
+"feature-packed plan on WordPress.com."
+msgstr ""
+"He detectado que tu sitio %s dispone de una suscripción a WordPress.com "
+"Business, el plan con más funciones de WordPress.com."
+
+msgid ""
+"P.S. Ready to renew your subscription right now? <a href=\"%s\">Click "
+"here</ato make sure you have access to the customization, SEO, and analytics"
+" tools you need to grow your site."
+msgstr ""
+"P. D. ¿Estás preparado para renovar tu suscripción ahora mismo? <a "
+"href=\"%s\">Haz clic aquí</apara asegurarte de que puedes acceder a las "
+"herramientas de personalización, SEO y análisis que necesitas para que tu "
+"sitio crezca."
+
+msgid "Schedule my personal orientation"
+msgstr "Programación de mi orientación personal"
+
+msgid ""
+"Letting an upgrade expire could cause changes to the way your site looks or "
+"a loss of custom domains. Sign up for a 30-minute session with our team "
+"instead."
+msgstr ""
+"Si dejas que caduque una mejora, es posible que el aspecto de tu sitio "
+"cambie o que pierdas los dominios personalizados. Para evitarlo, inscríbete "
+"para asistir a una sesión de 30 minutos con nuestro equipo."
+
+msgid ""
+"We offer personalized sessions to help you with design customization, Search"
+" Engine Optimization, or monetizing your site."
+msgstr ""
+"Ofrecemos sesiones adaptadas individualmente para ayudarte con la "
+"personalización del diseño, la optimización para buscadores o la "
+"monetización del sitio."
+
+msgid ""
+"I noticed your site %s has a WordPress.com Business subscription that’s "
+"expiring soon. Is there anything I can help you with?"
+msgstr ""
+"He detectado que tu sitio %s dispone de una suscripción a WordPress.com "
+"Business que caduca próximamente. ¿Puedo ayudarte en algo?"
+
+msgid "Hello!"
+msgstr "¡Hola!"
+
+msgid "Checking in before your plan expires"
+msgstr "Regístrate antes de que caduque tu plan"
+
+msgid "Can I help you with your website?"
+msgstr "¿Puedo ayudarte con tu sitio web?"
+
+msgid "Schedule your personal orientation session"
+msgstr "Programa tu sesión de orientación personal"
+
+msgid ""
+"You can only request a recovery code via text message once per minute. "
+"Please wait and try again."
+msgstr ""
+"Solamente puedes solicitar un código de recuperación por minuto a través de "
+"SMS. Espera e inténtalo de nuevo."
+
+msgid "Following %s"
+msgstr "Sigues a %s"
+
+msgid "Account URL"
+msgstr "URL de la cuenta"
+
+msgid "Backups & Security, Powered by VaultPress"
+msgstr "Copias de seguridad y protección, con tecnología de VaultPress"
+
+msgid "Spam Defense, Powered by Akismet"
+msgstr "Defensa contra spam, con tecnología de Akismet"
+
+msgid ""
+"In case you ever need to manually reactivate your services, please refer to "
+"the following registration keys:"
+msgstr ""
+"En caso de que alguna vez necesites reactivar tus servicios manualmente, "
+"consulta las siguientes claves de registro:"
+
+msgid ""
+"Jetpack Premium includes the Akismet and VaultPress plugins, which should "
+"have been installed and configured automatically for you."
+msgstr ""
+"Jetpack Premium incluye los plugins Akismet y VaultPress, que deberían "
+"haberse instalado y configurado automáticamente."
+
+msgid ""
+"Congratulations! Your %1$s account includes a free Jetpack Premium "
+"subscription, which builds on the powerful features of Jetpack with a bundle"
+" of security, anti-spam, and growth tools for %2$s."
+msgstr ""
+"¡Enhorabuena! Tu cuenta de %1$s incluye una suscripción a Jetpack Premium "
+"gratuita, que suma a las potentes funciones de Jetpack un paquete de "
+"herramientas para %2$s que te ayudan a crecer, a mantener la seguridad y a "
+"protegerte contra spam."
+
+msgid ""
+"Congratulations! You're now ready to enjoy the many great features of "
+"Jetpack Premium."
+msgstr ""
+"Enhorabuena Ahora ya estás a punto para disfrutar de las numerosas y "
+"magníficas funciones de Jetpack Premium."
+
+msgid "Welcome to Jetpack Premium. Brought to you by %s."
+msgstr "Te damos la bienvenida a Jetpack Premium. Ofrecido por %s."
+
+msgid "View available icons"
+msgstr "Ver todos los iconos disponibles"
+
+msgid ""
+"Once you're done working together, we'd appreciate it if you sent us your "
+"rating of the experience &mdash; your feedback helps us improve our support."
+msgstr ""
+"Cuando termines de colaborar, te agradeceríamos que puntuaras la "
+"experiencia. Tus comentarios nos ayudan a mejorar la ayuda técnica."
+
+msgid "Please rate your support experience."
+msgstr "Por favor, puntúa tu experiencia con el servicio de ayuda."
+
+msgid "Add an icon"
+msgstr "Añadir un icono"
+
+msgid "Add social-media icons to your site."
+msgstr "Añade iconos de redes sociales a tu sitio."
+
+msgid "Choose how you want to use your domain."
+msgstr "Elige cómo quieres usar tu dominio."
+
+msgid "Your domain (%s) is included with this plan."
+msgstr "Tu dominio (%s) esta incluido con este plan."
+
+msgid "EventBrite: Event Calendar/Listing"
+msgstr "Eventbrite: Calendario o listado de eventos"
+
+msgid "%(siteDomain)s is being deleted."
+msgstr "Se está eliminando %(siteDomain)s."
+
+msgid "%(siteDomain)s has been deleted."
+msgstr "Se ha eliminado %(siteDomain)s."
+
+msgid "Inviting users requires Jetpack 5.0 or higher"
+msgstr ""
+"Es necesario disponer de la versión 5.0 de Jetpack como mínimo para invitar "
+"a usuarios"
+
+msgid "Inviting users requires WordPress.com sign in"
+msgstr "Es necesario iniciar sesión en WordPress.com para invitar a usuarios"
+
+msgid "Sorry, there was a problem following %(url)s. Please try again."
+msgstr ""
+"Lo siento, se ha producido un problema al seguir %(url)s. Inténtalo de "
+"nuevo."
+
+msgid ""
+"Sorry, there was a problem unfollowing that %(siteTitle)s. Please try again."
+msgstr ""
+"Lo siento, se ha producido un problema al dejar de seguir %(siteTitle)s. "
+"Inténtalo de nuevo."
+
+msgid "The user was created, but could not be connected to WordPress.com "
+msgstr ""
+"Se ha creado el usuario, pero no se ha podido conectar a WordPress.com "
+
+msgid "We were unable to create a user on the remote site"
+msgstr "No hemos podido crear un usuario en el sitio remoto"
+
+msgid "Thank you for using WordPress.com!"
+msgstr "Gracias por usar WordPress.com."
+
+msgid ""
+"Click the button below to update that information (it takes less than a "
+"minute!), and you’ll be all set to continue delivering your message to the "
+"world."
+msgstr ""
+"Haz clic en el botón siguiente para actualizar esa información (se tarda "
+"menos de un minuto) y estarás preparado para continuar explicando tus "
+"historias al mundo."
+
+msgid "According to our records, you’ve got %d days to complete this process."
+msgstr ""
+"Según nuestros registros, te quedan %d días para completar este proceso."
+
+msgid ""
+"I wanted to give you a quick heads up so you can change your information and"
+" continue running your website without a hitch. That way, your fans won’t "
+"miss a beat!"
+msgstr ""
+"Quería hacerte un breve recordatorio para que cambies tus datos y así puedas"
+" continuar utilizando tu sitio web sin problema alguno. De este modo, tus "
+"fans no se perderán nada."
+
+msgid ""
+"This is Anne from WordPress.com and I was just notified that your "
+"subscription renewal for %s didn’t go through. This is most likely because "
+"the card we have on file is expired."
+msgstr ""
+"Soy Anne, de WordPress.com, y acabo de saber que la renovación de tu "
+"suscripción a %s no se ha completado. Lo más probable es que esto se deba a "
+"que la tarjeta que tenemos registrada está caducada."
+
+msgid "%s domains now available with all plans!"
+msgstr "Los dominios %s ahora están disponibles con todos los planes."
+
+msgid "Start with %(plan)s"
+msgstr "Comenzar con %(plan)s"
+
+msgid "Sort by date followed"
+msgstr "Ordenar por fecha en que se empezó a seguir"
+
+msgid "Sort by site name"
+msgstr "Ordenar por nombre del sitio"
+
+msgid "Next theme"
+msgstr "Siguiente tema"
+
+msgid "Improve the loading speed of your site on phones and tablets"
+msgstr "Mejora la velocidad de subida de tu sitio en teléfonos y tabletas"
+
+msgid ""
+"Your WordPress.com site supports the use of {{a}}Accelerated Mobile "
+"Pages{{/a}}, a Google-led initiative that dramatically speeds up loading "
+"times on mobile devices."
+msgstr ""
+"Tu sitio de WordPress.com admite el uso de {{a}}Accelerated Mobile "
+"Pages{{/a}}, una iniciativa liderada por Google que reduce drásticamente los"
+" tiempos de subida en dispositivos móviles."
+
+msgid "Incompatible plugin: This plugin is not supported on WordPress.com."
+msgstr "El plugin no es compatible: no se acepta en WordPress.com."
+
+msgid "Manage Plan"
+msgstr "Gestionar el plan"
+
+msgid "Upgrade your site and save."
+msgstr "Mejora tu sitio y guarda."
+
+msgid "Welcome to the editor! Add a title here."
+msgstr "Te damos la bienvenida al editor. Añade un título aquí."
+
+msgid "Write your post in the content area."
+msgstr "Escribe tu entrada en el área de contenido."
+
+msgid "Click the {{icon/}} to add images."
+msgstr "Haz clic en {{icon/}} para añadir imágenes."
+
+msgid "Add tags, categories, and a featured image from the sidebar."
+msgstr ""
+"Añade etiquetas, categorías y una imagen destacada de la barra lateral."
+
+msgid "Click the {{icon/}} to show or hide these settings."
+msgstr "Haz clic en {{icon/}} para mostrar u ocultar esta configuración."
+
+msgid ""
+"Your changes are saved automatically. Click {{strong}}Publish{{/strong}} to "
+"share your work with the world!"
+msgstr ""
+"Tus cambios se guardarán automáticamente. Haz clic en "
+"{{strong}}Publicar{{/strong}} para compartir tus proyectos con el mundo."
+
+msgid "Got it, I'm ready to write!"
+msgstr "De acuerdo, estoy a punto para escribir."
+
+msgid "Learn more about publishing content."
+msgstr "Obtén más información acerca de cómo publicar contenido."
+
+msgid ""
+"As a %(productName)s user, you have instant access to our team of Happiness "
+"Engineers who can answer your questions and get your site up and running "
+"just as you like! Click the button below to start a chat now."
+msgstr ""
+"Como usuario de %(productName)s, dispones de acceso instantáneo a nuestro "
+"equipo de Happiness Engineers, que pueden responder a tus preguntas y "
+"configurar y poner en funcionamiento tu sitio tal como quieras. Haz clic en "
+"el botón siguiente para iniciar un chat ahora."
+
+msgid "Or continue to your account using:"
+msgstr "También puedes acceder a tu cuenta con:"
+
+msgid ""
+"We've failed to validate with the given code. Please double check if the "
+"code is correct."
+msgstr ""
+"No hemos podido hacer la validación con el código facilitado. Vuelve a "
+"comprobar si el código es correcto."
+
+msgid "Succeeded"
+msgstr "Se ha restablecido"
+
+msgid "Welcome to %s! You now have special access to a bunch of new features."
+msgstr ""
+"Te damos la bienvenida a %s Ahora dispones de acceso especial a una serie de"
+" nuevas funciones."
+
+msgid "Load more posts using the default theme behavior"
+msgstr "Carga más entradas según el comportamiento del tema por defecto"
+
+msgid "Load more posts in page with a button"
+msgstr "Carga más entradas en la página con un botón"
+
+msgid "Load more posts as the reader scrolls down"
+msgstr "Carga más entradas a medida que el lector se desliza verticalmente"
+
+msgid "Learn more about Sitemaps."
+msgstr "Más información acerca de los mapas de sitio"
+
+msgid ""
+"Your site is not currently accessible to search engines. You must set your "
+"{{a}}privacy settings{{/a}} to \"public\"."
+msgstr ""
+"Tu sitio no es visible para los motores de búsqueda en este momento. Debes "
+"establecer la {{a}}configuración de privacidad{{/a}} en \"Público\"."
+
+msgid "Generating sitemap…"
+msgstr "Creando mapa del sitio…"
+
+msgid "Generate XML sitemaps"
+msgstr "Crear mapas del sitio XML"
+
+msgid "Forgot Username"
+msgstr "He olvidado el nombre de usuario"
+
+msgid "SMS Message"
+msgstr "Mensaje SMS"
+
+msgid ""
+"If you have already bought an e-mail service for the domain, you can set it "
+"up with us easily:"
+msgstr ""
+"Si ya has comprado un servicio de correo electrónico para el dominio, podrás"
+" configurarlo con nosotros fácilmente:"
+
+msgid ""
+"By connecting your site to WordPress.com, <a href='%s'>your site's "
+"content</awill be shared with us and protected by <a href='%s'>our own "
+"privacy policy</a>."
+msgstr ""
+"Al conectar tu sitio a WordPress.com, tendremos acceso al <a "
+"href='%s'>contenido de tu sitio</ay lo protegeremos con <a href='%s'>nuestra"
+" propia política de privacidad</a>."
+
+msgid "Hide order summary"
+msgstr "Ocultar el resumen del pedido"
+
+msgid "Show order summary"
+msgstr "Mostrar el resumen del pedido"
+
+msgid "This theme is retired"
+msgstr "Se ha retirado este tema"
+
+msgid ""
+"We invite you to try out a newer theme; start by browsing our WordPress "
+"theme directory."
+msgstr ""
+"Te invitamos a probar un tema más nuevo: comienza buscando en nuestro "
+"directorio de temas de WordPress."
+
+msgid ""
+"There was a problem installing the plugin. Please try again in a few "
+"minutes."
+msgstr ""
+"Se ha producido un problema al instalar el plugin. Inténtalo de nuevo dentro"
+" de unos minutos."
+
+msgid "Select Language"
+msgstr "Elegir el idioma"
+
+msgid "Search languages…"
+msgstr "Buscar idiomas…"
+
+msgid "%1$s Receipt #%2$d"
+msgstr "Recibo número %2$d de %1$s"
+
+msgid "Learn more about Monitor."
+msgstr "Más información acerca de Monitor"
+
+msgid "Monitor your site's uptime"
+msgstr "Supervisa el tiempo de actividad de tu sitio"
+
+msgid "Learn more about the WordPress.com Toolbar."
+msgstr "Más información acerca de la barra de herramientas de WordPress.com"
+
+msgid "Enable the WordPress.com toolbar"
+msgstr "Activa la barra de herramientas de WordPress.com"
+
+msgid ""
+"The WordPress.com toolbar replaces the default admin bar and offers quick "
+"links to the Reader, all your sites, your WordPress.com profile, and "
+"notifications. Centralize your WordPress experience with a single global "
+"toolbar."
+msgstr ""
+"La barra de herramientas de WordPress.com reemplaza la barra de "
+"administración por defecto y proporciona enlaces rápidos al Lector, a todos "
+"tus sitios, a tu perfil de WordPress.com y a las notificaciones. Centraliza "
+"tu experiencia de WordPress con una única barra de herramientas global."
+
+msgid "WordPress.com toolbar"
+msgstr "Barra de herramientas de WordPress.com"
+
+msgid "Connected to your Instagram account."
+msgstr "Se ha conectado a tu cuenta de Instagram."
+
+msgid "Connect to use the Instagram widget."
+msgstr "Conecta una cuenta para usar el widget de Instagram."
+
+msgid "Add a New Site"
+msgstr "Añadir un sitio nuevo"
+
+msgid ""
+"Create a new site on WordPress.com or add your existing self-hosted "
+"WordPress site with Jetpack."
+msgstr ""
+"Crea un sitio en WordPress.com o añade el sitio autoalojado de WordPress que"
+" tengas mediante Jetpack."
+
+msgid "Create a new shiny WordPress.com site"
+msgstr "Crea un magnífico sitio de WordPress.com"
+
+msgid ""
+"Start telling your story in just 2 minutes. Pick a visual theme and a domain"
+" — we’ll take care of the entire setup. If you need help we’ve got you "
+"covered with 24/7 support."
+msgstr ""
+"Empieza a contar tus historias en solo 2 minutos. Elige un tema visual y un "
+"dominio y nosotros nos encargaremos de configurarlo todo. Si necesitas "
+"ayuda, estamos aquí las 24 horas del día, todos los días de la semana."
+
+msgid "Add an existing WordPress site with Jetpack"
+msgstr "Añade un sitio de WordPress existente mediante Jetpack"
+
+msgid ""
+"We’ll be using the Jetpack plugin to connect your site to WordPress.com."
+msgstr ""
+"Usaremos el plugin de Jetpack para conectar tu sitio con WordPress.com."
+
+msgid "Create a new shiny WordPress.com site:"
+msgstr "Crea un magnífico sitio de WordPress.com:"
+
+msgid "Add an existing WordPress site with Jetpack:"
+msgstr "Añade un sitio de WordPress existente mediante Jetpack:"
+
+msgid "Enable pop-up business cards over commenters’ Gravatars"
+msgstr ""
+"Activa las tarjetas de visita emergentes en los gravatares de los usuarios "
+"que comentan publicaciones"
+
+msgid "Welcome to Jetpack Premium."
+msgstr "Te damos la bienvenida a Jetpack Premium."
+
+msgid "Continue with %(service)s"
+msgstr "Continuar con %(service)s"
+
+msgid ""
+"Upload problem: Theme may not be valid. Check that your zip file contains "
+"only the theme you are trying to upload."
+msgstr ""
+"Problema con la subida: Es posible que el tema no sea válido. Comprueba que "
+"el archivo zip contenga solo el tema que quieras subir."
+
+msgid "Zip file is too large. Please upload a file under 50 MB."
+msgstr "Zip file is too large. Please upload a file under 50 MB."
+
+msgid "Access all our premium themes with our Premium and Business plans!"
+msgstr ""
+"Accede a todos nuestros temas premium con nuestros planes Premium y "
+"Business."
+
+msgid ""
+"Get advanced customization, more storage space, and video support along with"
+" all your new themes."
+msgstr ""
+"Con todos nuestros nuevos temas disfrutarás de opciones de personalización "
+"avanzadas, más espacio de almacenamiento y vídeos de ayuda."
+
+msgid ""
+"From quickly updating our page to implementing our online store, our "
+"WordPress.com site has become the online center for everything we do. We "
+"know our page is successful when guests tell us that our page is easy to use"
+" and our content is engaging."
+msgstr ""
+"Nuestro sitio de WordPress.com se ha convertido en el centro en línea de "
+"todo lo que hacemos: desde actualizar nuestra página rápidamente hasta "
+"implementar nuestra tienda en línea. Sabemos que nuestra página funciona "
+"bien porque los visitantes nos dicen que es fácil de usar y que el contenido"
+" es interesante."
+
+msgid ""
+"Success for me means when I manage to inspire people, when someone on the "
+"other end of the world embraces today a bit more, because he/she looked at "
+"my blog. WordPress.com allowed me to give my creativity a platform. It has "
+"enabled an amazing democratization of entrepreneurship, where an individual,"
+" independent from status and institution, has the power to reach out to "
+"millions of readers if he/she creates great content."
+msgstr ""
+"Para mí el éxito es conseguir inspirar a la gente, es decir, que alguien de "
+"la otra parte del mundo esté más al día de la actualidad después de visitar "
+"mi blog. Con WordPress.com, mi creatividad ha encontrado una plataforma "
+"donde desarrollarse. Ha permitido democratizar el espíritu emprendedor en "
+"gran medida, ya que cualquier persona, independientemente de su estado o de "
+"la institución a la que pertenezca, puede llegar a millones de lectores si "
+"crea contenido de calidad."
+
+msgid ""
+"<strong>P.S.</strongIf you’re wondering what a WordPress.com upgrade can do "
+"for you, just check out what some of our users have to say:"
+msgstr ""
+"<strong>P. D.</strongSi te estás preguntando qué te puede aportar una mejora"
+" de WordPress.com, solo tienes que consultar los comentarios de algunos de "
+"nuestros usuarios:"
+
+msgid "Click Here to Finish Upgrading Your Site"
+msgstr "Haz clic aquí para acabar de mejorar tu sitio"
+
+msgid ""
+"Feel free to click the link below to finish your upgrade and to build the "
+"site you’ve always wanted."
+msgstr ""
+"No dudes en hacer clic en el enlace siguiente para finalizar la mejora y "
+"crear el sitio que siempre has deseado."
+
+msgid "If so, no worries. We just wanted to shoot you a quick reminder."
+msgstr ""
+"Si es así, no te preocupes. Solo queríamos hacerte un breve recordatorio."
+
+msgid "Did you forget to finish putting in your information?"
+msgstr "¿Has olvidado acabar de introducir tu información?"
+
+msgid ""
+"It looks like you were <i>this</iclose to investing in an upgrade for your "
+"WordPress.com site. What a great decision you were about to make!"
+msgstr ""
+"Parece que estuviste <i>muy</icerca de invertir en una mejora para tu sitio "
+"de WordPress.com; habría sido una gran decisión."
+
+msgid "Complete your information to finish your upgrade."
+msgstr "Proporciona toda tu información para acabar el proceso de mejora."
+
+msgid "Oops, did you forget this important step?"
+msgstr "¿Te has olvidado de este importante paso?"
+
+msgid "Upload problem: Theme zip must be under 10MB."
+msgstr ""
+"Problema con la subida: El archivo zip del tema debe tener menos de 10 MB."
+
+msgid "Sorry, we had a problem updating that subscription. Please try again."
+msgstr ""
+"Lo siento, hemos tenido un problema al actualizar esa suscripción. Inténtalo"
+" de nuevo."
+
+msgid "Sorry, we had a problem subscribing. Please try again."
+msgstr ""
+"Lo siento, hemos tenido un problema con la suscripción. Inténtalo de nuevo."
+
+msgid "Sorry, we had a problem unsubscribing. Please try again."
+msgstr ""
+"Lo siento, hemos tenido un problema al cancelar la suscripción. Inténtalo de"
+" nuevo."
+
+msgid "%(num)s Followed Sites"
+msgstr "Sigues %(num)s sitios"
+
+msgid "Search Followed Sites…"
+msgstr "Busca sitios que sigues…"
+
+msgid "by {{author/}}"
+msgstr "por {{author/}}"
+
+msgid "Find your domain"
+msgstr "Busca tu dominio"
+
+msgid ""
+"Find the domain name that defines you and your next big idea. Grab a domain "
+"now even if it's not quite time to start a site. Your domain will be ready "
+"when you are."
+msgstr ""
+"Busca el nombre de dominio ideal para ti y tus grandes proyectos. Consigue "
+"un dominio ahora aunque aún no sea el momento de empezar a crear un sitio. "
+"Tendrás el dominio listo cuando lo necesites."
+
+msgid "Start with a domain"
+msgstr "Empieza por el dominio"
+
+msgid "Domain renews on"
+msgstr "El dominio se renueva el"
+
+msgid "Subscription renews on"
+msgstr "La suscripción se renueva el"
+
+msgid "No exact matches exist for %s."
+msgstr "No se ha encontrado ninguna coincidencia exacta para %s."
+
+msgid ""
+"We are unable to install the Akismet and VaultPress plugins that power the "
+"spam protection, backup, and security features of your Jetpack plan due to "
+"your site's current file permissions settings. You must either install them "
+"manually or change your file permissions."
+msgstr ""
+"No podemos instalar los plugins Akismet y VaultPress, que proporcionan las "
+"funciones de protección contra spam, copias de seguridad y otras funciones "
+"de seguridad de tu plan de Jetpack, a causa de la configuración actual de "
+"los permisos de archivo de tu sitio. Instala los plugins manualmente o "
+"cambia los permisos de archivo."
+
+msgid ""
+"We are unable to install the Akismet and VaultPress plugins that power the "
+"spam protection, backup, and security features of your Jetpack plan because "
+"your site has an older version of Jetpack. Please upgrade Jetpack and try "
+"again."
+msgstr ""
+"No podemos instalar los plugins Akismet y VaultPress, que proporcionan las "
+"funciones de protección contra spam, copias de seguridad y otras funciones "
+"de seguridad de tu plan de Jetpack, porque tu sitio tiene una versión de "
+"Jetpack antigua. Actualiza Jetpack e inténtalo de nuevo."
+
+msgid ""
+"We are unable to install the Akismet and VaultPress plugins that power the "
+"spam protection, backup, and security features of your Jetpack plan because "
+"your site is part of a multi-site network, but is not the main network site."
+msgstr ""
+"No podemos instalar los plugins Akismet y VaultPress, que proporcionan las "
+"funciones de protección contra spam, copias de seguridad y otras funciones "
+"de seguridad de tu plan de Jetpack, porque tu sitio forma parte de una red "
+"multisitio en la que no es el sitio de red principal."
+
+msgid ""
+"We are unable to install the Akismet and VaultPress plugins that power the "
+"spam protection, backup, and security features of your Jetpack plan because "
+"your site is part of a multi-network."
+msgstr ""
+"No podemos instalar los plugins Akismet y VaultPress, que proporcionan las "
+"funciones de protección contra spam, copias de seguridad y otras funciones "
+"de seguridad de tu plan de Jetpack, porque tu sitio forma parte de una "
+"instalación en varias redes."
+
+msgid ""
+"We are unable to automatically configure the Akismet plugin which powers the"
+" spam protection feature of your Jetpack plan. Please continue with manual "
+"setup or contact support by clicking one of the buttons below."
+msgstr ""
+"No podemos configurar automáticamente el plugin Akismet, que proporciona la "
+"función de protección contra spam de tu plan de Jetpack. Configúralo "
+"manualmente o contacta con el equipo de ayuda haciendo clic en uno de los "
+"botones siguientes."
+
+msgid ""
+"We are unable to automatically configure the VaultPress plugin which powers "
+"the security and backup features of your Jetpack plan. Please continue with "
+"manual setup or contact support by clicking one of the buttons below."
+msgstr ""
+"No podemos configurar automáticamente el plugin VaultPress, que proporciona "
+"las funciones de protección y copias de seguridad de tu plan de Jetpack. "
+"Configúralo manualmente o contacta con el equipo de ayuda haciendo clic en "
+"uno de los botones siguientes."
+
+msgid ""
+"We are unable to automatically configure the Akismet and VaultPress plugins "
+"that power the spam protection, backup, and security features of your "
+"Jetpack plan. Please continue with manual setup or contact support by "
+"clicking one of the buttons below."
+msgstr ""
+"No podemos configurar automáticamente los plugins Akismet y VaultPress, que "
+"proporcionan las funciones de protección contra spam, copias de seguridad y "
+"otras funciones de seguridad de tu plan de Jetpack. Configúralos manualmente"
+" o contacta con el equipo de ayuda haciendo clic en uno de los botones "
+"siguientes."
+
+msgid "We had trouble setting up your plan"
+msgstr "Hemos tenido problemas al configurar tu plan"
+
+msgid "Learn more about manual set up"
+msgstr "Más información acerca de la configuración manual"
+
+msgid "You are powered up, it's time to see your site."
+msgstr ""
+"Con todas las funciones en marcha, vamos a echar un vistazo a tu sitio."
+
+msgid ""
+"Now that we've taken care of the plan, it's time to power up your site."
+msgstr ""
+"Ahora que el plan ya está controlado, es hora de poner todas las funciones "
+"en tu sitio."
+
+msgid "Take the next step"
+msgstr "Dar el siguiente paso"
+
+msgid ""
+"Ready to grow your audience and spread your message? Click the button below "
+"to see which WordPress.com plan is right for you."
+msgstr ""
+"¿Estás listo para aumentar tu público y difundir tu mensaje? Haz clic en el "
+"botón siguiente para ver qué plan de WordPress.com es el adecuado para ti."
+
+msgid ""
+"Whether you’re a small business, an entrepreneur, a freelancer, or "
+"connecting with your personal community of family and friends, we have a "
+"WordPress.com plan to reach your goals."
+msgstr ""
+"Tanto si tienes una empresa pequeña, eres un emprendedor o un autónomo o "
+"deseas conectar con tu comunidad personal de familiares y amigos, disponemos"
+" de un plan de WordPress.com para que puedas alcanzar tus objetivos."
+
+msgid ""
+"We help site owners reach more than 409 million visitors each month, so "
+"whether &ldquo;going big&rdquo; means connecting with a few hundred engaged "
+"readers or reaching 23 million of them, we want your site to be a successful"
+" one."
+msgstr ""
+"Ayudamos a los propietarios de sitios a alcanzar más de 409 millones de "
+"visitantes cada mes, y no nos importa si tu gran sueño es tener cientos o "
+"millones de lectores interesados: queremos que tu sitio sea excelente."
+
+msgid ""
+"Congratulations and welcome to WordPress.com! You've officially completed "
+"the first step in creating a successful site by signing up."
+msgstr ""
+"Te damos la bienvenida a WordPress.com. ¡Felicidades! Al registrarte has "
+"completado oficialmente el primer paso necesario para crear un sitio "
+"excelente."
+
+msgid "Here's one we can share."
+msgstr "Ahora te contamos uno."
+
+msgid "What's the secret to getting more pageviews?"
+msgstr "¿Cuál es el secreto para aumentar el número de páginas vistas?"
+
+msgid "Email me"
+msgstr "Envíame un correo electrónico"
+
+msgid "Whoops, something went wrong. %(message)s Please try again."
+msgstr "Vaya, algo salió mal. %(message)s Por favor, inténtalo de nuevo."
+
+msgid "Sorry, there was a problem creating your export file."
+msgstr "Lo siento, se produjo un problema al crear el archivo de exportación."
+
+msgid ""
+"For extra security, the link can only be used one time and expires in one "
+"hour."
+msgstr ""
+"Para mayor seguridad, el enlace sólo se puede utilizar una vez y expira en "
+"una hora."
+
+msgid "Hello! Here's the link you requested from WordPress.com."
+msgstr "¡Hola! Este es el enlace que has solicitado a WordPress.com."
+
+msgid ""
+"{{em}}%(name)s{{/em}} has been received. You'll get an email when your "
+"import is complete."
+msgstr ""
+"Hemos recibido {{em}}%(name)s{{/em}}. Te enviaremos un correo electrónico "
+"cuando se acabe la importación."
+
+msgid ""
+"{{strong}}Welcome!{{/strong}} Reader is a custom magazine. {{link}}Follow "
+"your favorite sites{{/link}} and their latest posts will appear here. "
+"{{span}}Read, like, and comment in a distraction-free environment.{{/span}}"
+msgstr ""
+"{{strong}}Te damos la bienvenida{{/strong}} al Lector, tu revista "
+"personalizada. {{link}}Sigue tus sitios favoritos{{/link}} para ver sus "
+"últimas entradas aquí. {{span}}Lee las entradas, pon un Me gusta o "
+"coméntalas en un entorno sin distracciones.{{/span}}"
+
+msgid "Start with %s"
+msgstr "Comenzar con %s"
+
+msgid "Make your site public or hidden to resolve."
+msgstr "Haz que tu sitio sea público u oculto para resolverlo."
+
+msgid "Start a site now to unlock everything WordPress.com can offer."
+msgstr ""
+"Crea un sitio ahora mismo y descubre todo lo que WordPress.com puede "
+"ofrecerte."
+
+msgid ""
+"Twenty Seventeen brings your site to life with header video and immersive "
+"featured images. With a focus on business sites, it features multiple "
+"sections on the front page as well as widgets, navigation and social menus, "
+"a logo, and more. Personalize its asymmetrical grid with a custom color "
+"scheme and showcase your multimedia content with post formats. Our default "
+"theme for 2017 works great in many languages, for any abilities, and on any "
+"device."
+msgstr ""
+"Twenty Seventeen da vida a tu sitio con vídeos en la cabecera e imágenes "
+"destacadas envolventes. Enfocado a sitios de negocios, muestra muchas "
+"secciones en la página de inicio además de widgets, menús sociales y de "
+"navegación, un logo, ... y muchas cosas más. Personaliza su cuadrícula "
+"asimétrica con paletas de color personalizadas y muestra tu contenido "
+"multimedia con formatos de entrada. Nuestro tema por defecto para 2017 va "
+"muy bien para muchos idiomas, funciones y en cualquier dispositivo. "
+
+msgid ""
+"There are no posts to display. <a href=\"%s\" target=\"_blank\">Want more "
+"traffic?</a>"
+msgstr ""
+"No hay entradas para mostrar. <a href=\"%s\" target=\"_blank\">¿Quieres "
+"aumentar tu tráfico?</a>"
+
+msgid "Types of pages to display:"
+msgstr "Tipos de páginas que deben mostrarse:"
+
+msgid "Join our affiliate program now"
+msgstr "Participa en nuestro programa de afiliación ahora"
+
+msgid ""
+"Earn top commissions by promoting the Jetpack products WordPress "
+"professionals love."
+msgstr ""
+"Consigue buenas comisiones promocionando los productos de Jetpack que los "
+"profesionales de WordPress desean."
+
+msgid "Partner with us."
+msgstr "Asóciate con nosotros."
+
+msgid ""
+"Independent Publisher 2 is a clean and polished theme with a light color "
+"scheme, bold typography, and full-width images."
+msgstr ""
+
+msgid "Edit the design of your Accelerated Mobile Pages"
+msgstr "Editar el diseño de Accelerated Mobile Pages"
+
+msgid "Activate the AMP plugin"
+msgstr "Activar el plugin AMP"
+
+msgid "Install the AMP plugin"
+msgstr "Instalar el plugin AMP"
+
+msgid "Accelerated Mobile Pages (AMP)"
+msgstr "Accelerated Mobile Pages (AMP)"
+
+msgid ""
+"AMP enables the creation of websites and ads that load near instantly, "
+"giving site visitors a smooth, more engaging experience on mobile and "
+"desktop."
+msgstr ""
+"AMP te permite crear sitios web y anuncios que se cargan casi al instante, "
+"con lo que los visitantes del sitio disfrutan de una experiencia cómoda y "
+"más interesante en dispositivos móviles y ordenadores."
+
+msgid "Welcome"
+msgstr "Bienvenue"

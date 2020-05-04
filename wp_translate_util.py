@@ -2,7 +2,7 @@
 
 from __future__ import print_function
 import numpy as np
-import polib as polib
+import polib
 
 # from seq2seq.models import SimpleSeq2Seq
 # from seq2seq.models import Seq2Seq
@@ -238,7 +238,7 @@ def load_translated_po_data(f):
     po = polib.pofile(f)
     data = []
     for entry in po.translated_entries():
-        if "" == entry.msgstr:
+        if entry.msgstr == "" or entry.msgid == entry.msgstr:
             continue
         # TODO: we should split long text into sentences or some other blocks somehow
         if len(entry.msgid) > 500:

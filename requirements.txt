@@ -16,7 +16,7 @@ pathlib2==2.3.0
 Pillow==8.1.1
 polib
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.1
 requests-toolbelt==0.8.0
 scandir==1.5

@@ -26,4 +26,4 @@ six==1.10.0
 tabulate==0.7.7
 tensorflow==1.2.1
 tensorflow-gpu==1.2.1
-urllib3==1.21.1
+urllib3==1.26.5

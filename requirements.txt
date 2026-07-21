@@ -13,7 +13,7 @@ marshmallow==4.3.0
 numpy==2.3.5
 olefile==0.44
 pathlib2==2.3.0
-Pillow==12.2.0
+Pillow==12.3.0
 polib
 pytz==2017.2
 PyYAML==6.0.3

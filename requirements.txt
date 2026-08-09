@@ -8,7 +8,7 @@ clint==0.5.1
 floyd-cli==0.9.7
 h5py==3.14.0
 idna==3.15
-Keras==3.14.1
+Keras==3.15.0
 marshmallow==4.3.0
 numpy==2.3.5
 olefile==0.44
